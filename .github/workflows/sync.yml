@@ -1,0 +1,57 @@
+name: Sync
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v5
+      with:
+        fetch-depth: 0
+
+    - uses: actions/setup-node@v6
+      with:
+        node-version: 24
+
+    - uses: pnpm/action-setup@v3
+      with:
+        version: 11
+
+    - name: Sync
+      env:
+        DEVICE: ${{ secrets.DEVICE }}
+        EMAIL_EN: ${{ secrets.EMAIL_EN }}
+        EMAIL_JP: ${{ secrets.EMAIL_JP }}
+        EMAIL_KR: ${{ secrets.EMAIL_KR }}
+        EMAIL_TW: ${{ secrets.EMAIL_TW }}
+        TOKEN_EN: ${{ secrets.TOKEN_EN }}
+        TOKEN_JP: ${{ secrets.TOKEN_JP }}
+        TOKEN_KR: ${{ secrets.TOKEN_KR }}
+        TOKEN_TW: ${{ secrets.TOKEN_TW }}
+        UID_EN: ${{ secrets.UID_EN }}
+        UID_JP: ${{ secrets.UID_JP }}
+        UID_KR: ${{ secrets.UID_KR }}
+        UID_TW: ${{ secrets.UID_TW }}
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        pnpm install
+        node index.js
+        git add .
+        if ! git diff --cached --quiet; then
+          git commit -m "sync"
+          git push
+        else
+          echo "No changes to commit"
+        fi
+
