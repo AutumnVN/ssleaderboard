@@ -1,13 +1,13 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1783168273",
+            "LastRefreshTime": "1783168873",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "HeadIcon": 15602,
                 "Score": 330262,
-                "Rank": 440,
+                "Rank": 441,
                 "TitlePrefix": 17,
                 "TitleSuffix": 18,
                 "Teams": [
@@ -32599,7 +32599,7 @@
                     ]
                 }
             ],
-            "Total": 8678,
+            "Total": 8686,
             "UsageByFloor": {
                 "20": [
                     {
@@ -49355,7 +49355,7 @@
             }
         },
         "jp": {
-            "LastRefreshTime": "1783167780",
+            "LastRefreshTime": "1783168380",
             "Rank": [
                 {
                     "Id": "300994285",
@@ -76475,11 +76475,340 @@
                     ]
                 },
                 {
+                    "Id": "301887842",
+                    "NickName": "スノコ",
+                    "HeadIcon": 130008,
+                    "Score": 869622,
+                    "Rank": 85,
+                    "TitlePrefix": 3,
+                    "TitleSuffix": 2,
+                    "Teams": [
+                        {
+                            "BuildScore": 9405,
+                            "Chars": [
+                                {
+                                    "Id": 114,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 158,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 126,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 682930,
+                            "LevelId": 20,
+                            "Discs": [
+                                214029,
+                                214048,
+                                214001,
+                                214040,
+                                214013,
+                                214041
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 511403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511443,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511412,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 511413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511409,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511410,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 515822,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515821,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515825,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 515843,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515833,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515831,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512622,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512621,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512641,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512628,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 512631,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512625,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512629,
+                                    "Level": 3
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90019,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 16
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 12
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 28
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 25
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 27
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 15
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4029102,
+                                4029201,
+                                4048102,
+                                4048201,
+                                4001102,
+                                4001201
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAcgAAAJ4AAAB+MAZB7AbGABgMBswFGDGA"
+                        },
+                        {
+                            "BuildScore": 9660,
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 125,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 186692,
+                            "LevelId": 21,
+                            "Discs": [
+                                214005,
+                                214021,
+                                214047,
+                                214031,
+                                214041,
+                                214040
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514401,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514402,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514406,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514407,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514405,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513031,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512524,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512522,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512525,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512533,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512531,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512530,
+                                    "Level": 4
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 11
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 35
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 21
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 11
+                                },
+                                {
+                                    "Tid": 90019,
+                                    "Qty": 7
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 34
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 38
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 7
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 32
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4005102,
+                                4005201,
+                                4021101,
+                                4021201,
+                                4047102,
+                                4047202
+                            ],
+                            "RecordRank": "33",
+                            "BuildCode": "AAAAkAAAAIIAAAB9zbADDADNgBgMAFwAmAwA"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 112145,
+                            "AffinityLV": 42
+                        },
+                        {},
+                        {}
+                    ]
+                },
+                {
                     "Id": "301122253",
                     "NickName": "Mija",
                     "HeadIcon": 15603,
                     "Score": 850533,
-                    "Rank": 85,
+                    "Rank": 86,
                     "TitlePrefix": 25,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -76800,7 +77129,7 @@
                     "NickName": "お菓子屋",
                     "HeadIcon": 130009,
                     "Score": 849931,
-                    "Rank": 86,
+                    "Rank": 87,
                     "TitlePrefix": 1,
                     "TitleSuffix": 30,
                     "Teams": [
@@ -77132,335 +77461,6 @@
                             "Id": 112135,
                             "AffinityLV": 29
                         }
-                    ]
-                },
-                {
-                    "Id": "301887842",
-                    "NickName": "スノコ",
-                    "HeadIcon": 130008,
-                    "Score": 847854,
-                    "Rank": 87,
-                    "TitlePrefix": 3,
-                    "TitleSuffix": 2,
-                    "Teams": [
-                        {
-                            "BuildScore": 9405,
-                            "Chars": [
-                                {
-                                    "Id": 114,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 158,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 126,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 682930,
-                            "LevelId": 20,
-                            "Discs": [
-                                214029,
-                                214048,
-                                214001,
-                                214040,
-                                214013,
-                                214041
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 511403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511443,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511412,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 511413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511409,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511410,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 515822,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515821,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515825,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 515843,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515833,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515831,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512622,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512621,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512641,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512628,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 512631,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512625,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512629,
-                                    "Level": 3
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90019,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 12
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 28
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 25
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 27
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 15
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4029102,
-                                4029201,
-                                4048102,
-                                4048201,
-                                4001102,
-                                4001201
-                            ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAcgAAAJ4AAAB+MAZB7AbGABgMBswFGDGA"
-                        },
-                        {
-                            "BuildScore": 9660,
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 125,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 164924,
-                            "LevelId": 21,
-                            "Discs": [
-                                214005,
-                                214021,
-                                214047,
-                                214031,
-                                214041,
-                                214040
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514401,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514402,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514406,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514407,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514405,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513031,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512524,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512522,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512525,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512533,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512531,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512530,
-                                    "Level": 4
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 11
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 35
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 21
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 11
-                                },
-                                {
-                                    "Tid": 90019,
-                                    "Qty": 7
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 34
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 38
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 7
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 32
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4005102,
-                                4005201,
-                                4021101,
-                                4021201,
-                                4047102,
-                                4047202
-                            ],
-                            "RecordRank": "33",
-                            "BuildCode": "AAAAkAAAAIIAAAB9zbADDADNgBgMAFwAmAwA"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 112145,
-                            "AffinityLV": 42
-                        },
-                        {},
-                        {}
                     ]
                 },
                 {
@@ -81773,7 +81773,7 @@
                     ]
                 }
             ],
-            "Total": 9168,
+            "Total": 9188,
             "UsageByFloor": {
                 "20": [
                     {
@@ -82012,13 +82012,13 @@
                                 "rank": 83
                             },
                             {
-                                "id": "301169792",
-                                "name": "お菓子屋",
-                                "rank": 86
-                            },
-                            {
                                 "id": "301887842",
                                 "name": "スノコ",
+                                "rank": 85
+                            },
+                            {
+                                "id": "301169792",
+                                "name": "お菓子屋",
                                 "rank": 87
                             },
                             {
@@ -82285,13 +82285,13 @@
                                 "rank": 83
                             },
                             {
-                                "id": "301169792",
-                                "name": "お菓子屋",
-                                "rank": 86
-                            },
-                            {
                                 "id": "301887842",
                                 "name": "スノコ",
+                                "rank": 85
+                            },
+                            {
+                                "id": "301169792",
+                                "name": "お菓子屋",
                                 "rank": 87
                             },
                             {
@@ -82503,13 +82503,13 @@
                                 "rank": 80
                             },
                             {
-                                "id": "301169792",
-                                "name": "お菓子屋",
-                                "rank": 86
-                            },
-                            {
                                 "id": "301887842",
                                 "name": "スノコ",
+                                "rank": 85
+                            },
+                            {
+                                "id": "301169792",
+                                "name": "お菓子屋",
                                 "rank": 87
                             },
                             {
@@ -82668,7 +82668,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85
+                                "rank": 86
                             },
                             {
                                 "id": "300410354",
@@ -82821,7 +82821,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85
+                                "rank": 86
                             },
                             {
                                 "id": "300410354",
@@ -82969,7 +82969,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85
+                                "rank": 86
                             },
                             {
                                 "id": "300410354",
@@ -83813,7 +83813,7 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ",
-                                "rank": 87
+                                "rank": 85
                             },
                             {
                                 "id": "300643232",
@@ -83981,7 +83981,7 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ",
-                                "rank": 87
+                                "rank": 85
                             },
                             {
                                 "id": "300645946",
@@ -84139,7 +84139,7 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ",
-                                "rank": 87
+                                "rank": 85
                             },
                             {
                                 "id": "300645946",
@@ -84252,7 +84252,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋",
-                                "rank": 86
+                                "rank": 87
                             }
                         ],
                         "rank": 5
@@ -84355,7 +84355,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋",
-                                "rank": 86
+                                "rank": 87
                             }
                         ],
                         "rank": 5
@@ -84438,7 +84438,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋",
-                                "rank": 86
+                                "rank": 87
                             }
                         ],
                         "rank": 7
@@ -84645,7 +84645,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85
+                                "rank": 86
                             },
                             {
                                 "id": "301456191",
@@ -84827,7 +84827,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85
+                                "rank": 86
                             },
                             {
                                 "id": "301456191",
@@ -84898,7 +84898,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85
+                                "rank": 86
                             },
                             {
                                 "id": "301456191",
@@ -85287,13 +85287,13 @@
                                 "rank": 83
                             },
                             {
-                                "id": "301169792",
-                                "name": "お菓子屋",
-                                "rank": 86
-                            },
-                            {
                                 "id": "301887842",
                                 "name": "スノコ",
+                                "rank": 85
+                            },
+                            {
+                                "id": "301169792",
+                                "name": "お菓子屋",
                                 "rank": 87
                             },
                             {
@@ -85605,13 +85605,13 @@
                                 "rank": 83
                             },
                             {
-                                "id": "301169792",
-                                "name": "お菓子屋",
-                                "rank": 86
-                            },
-                            {
                                 "id": "301887842",
                                 "name": "スノコ",
+                                "rank": 85
+                            },
+                            {
+                                "id": "301169792",
+                                "name": "お菓子屋",
                                 "rank": 87
                             },
                             {
@@ -85880,12 +85880,12 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85
+                                "rank": 86
                             },
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋",
-                                "rank": 86
+                                "rank": 87
                             },
                             {
                                 "id": "300410354",
@@ -86123,12 +86123,12 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85
+                                "rank": 86
                             },
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋",
-                                "rank": 86
+                                "rank": 87
                             },
                             {
                                 "id": "300410354",
@@ -86329,13 +86329,13 @@
                                 "rank": 80
                             },
                             {
-                                "id": "301169792",
-                                "name": "お菓子屋",
-                                "rank": 86
-                            },
-                            {
                                 "id": "301887842",
                                 "name": "スノコ",
+                                "rank": 85
+                            },
+                            {
+                                "id": "301169792",
+                                "name": "お菓子屋",
                                 "rank": 87
                             },
                             {
@@ -86747,7 +86747,7 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ",
-                                "rank": 87
+                                "rank": 85
                             },
                             {
                                 "id": "300476227",
@@ -86920,7 +86920,7 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ",
-                                "rank": 87
+                                "rank": 85
                             },
                             {
                                 "id": "300645946",
@@ -87098,7 +87098,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85
+                                "rank": 86
                             },
                             {
                                 "id": "300410354",
@@ -87256,7 +87256,7 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ",
-                                "rank": 87
+                                "rank": 85
                             },
                             {
                                 "id": "300645946",
@@ -87487,7 +87487,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85
+                                "rank": 86
                             },
                             {
                                 "id": "304212226",
@@ -87595,7 +87595,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋",
-                                "rank": 86
+                                "rank": 87
                             }
                         ],
                         "rank": 13
@@ -87668,7 +87668,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85
+                                "rank": 86
                             },
                             {
                                 "id": "304212226",
@@ -87746,7 +87746,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85
+                                "rank": 86
                             },
                             {
                                 "id": "301456191",
@@ -88254,7 +88254,7 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ",
-                                "rank": 87,
+                                "rank": 85,
                                 "teamScore": 682930
                             },
                             {
@@ -88284,7 +88284,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋",
-                                "rank": 86,
+                                "rank": 87,
                                 "teamScore": 627177
                             },
                             {
@@ -88448,7 +88448,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85,
+                                "rank": 86,
                                 "teamScore": 683323
                             },
                             {
@@ -89176,7 +89176,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋",
-                                "rank": 86,
+                                "rank": 87,
                                 "teamScore": 222754
                             }
                         ],
@@ -89472,8 +89472,8 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ",
-                                "rank": 87,
-                                "teamScore": 164924
+                                "rank": 85,
+                                "teamScore": 186692
                             }
                         ],
                         "topUser": {
@@ -89654,7 +89654,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85,
+                                "rank": 86,
                                 "teamScore": 167210
                             }
                         ],
@@ -89964,7 +89964,7 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ",
-                                "rank": 87,
+                                "rank": 85,
                                 "teamScore": 682930
                             },
                             {
@@ -89994,7 +89994,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋",
-                                "rank": 86,
+                                "rank": 87,
                                 "teamScore": 627177
                             },
                             {
@@ -90158,7 +90158,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85,
+                                "rank": 86,
                                 "teamScore": 683323
                             },
                             {
@@ -90674,7 +90674,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋",
-                                "rank": 86,
+                                "rank": 87,
                                 "teamScore": 222754
                             }
                         ],
@@ -90852,7 +90852,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85,
+                                "rank": 86,
                                 "teamScore": 167210
                             }
                         ],
@@ -90982,8 +90982,8 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ",
-                                "rank": 87,
-                                "teamScore": 164924
+                                "rank": 85,
+                                "teamScore": 186692
                             }
                         ],
                         "topUser": {
@@ -91554,7 +91554,7 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ",
-                                "rank": 87,
+                                "rank": 85,
                                 "teamScore": 682930
                             },
                             {
@@ -91584,7 +91584,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋",
-                                "rank": 86,
+                                "rank": 87,
                                 "teamScore": 627177
                             },
                             {
@@ -92260,7 +92260,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85,
+                                "rank": 86,
                                 "teamScore": 683323
                             },
                             {
@@ -93399,7 +93399,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋",
-                                "rank": 86,
+                                "rank": 87,
                                 "teamScore": 222754
                             }
                         ],
@@ -94228,8 +94228,8 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ",
-                                "rank": 87,
-                                "teamScore": 164924
+                                "rank": 85,
+                                "teamScore": 186692
                             }
                         ],
                         "topUser": {
@@ -94961,7 +94961,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85,
+                                "rank": 86,
                                 "teamScore": 167210
                             }
                         ],
@@ -95755,7 +95755,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋",
-                                "rank": 86,
+                                "rank": 87,
                                 "teamScore": 222754
                             }
                         ],
@@ -96017,7 +96017,7 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ",
-                                "rank": 87,
+                                "rank": 85,
                                 "teamScore": 682930
                             },
                             {
@@ -96047,7 +96047,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋",
-                                "rank": 86,
+                                "rank": 87,
                                 "teamScore": 627177
                             },
                             {
@@ -96615,7 +96615,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85,
+                                "rank": 86,
                                 "teamScore": 167210
                             }
                         ],
@@ -97087,7 +97087,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija",
-                                "rank": 85,
+                                "rank": 86,
                                 "teamScore": 683323
                             },
                             {
@@ -97906,8 +97906,8 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ",
-                                "rank": 87,
-                                "teamScore": 164924
+                                "rank": 85,
+                                "teamScore": 186692
                             }
                         ],
                         "topUser": {
@@ -99347,7 +99347,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1783167743",
+            "LastRefreshTime": "1783168344",
             "Rank": [
                 {
                     "Id": "502462985",
@@ -104420,7 +104420,7 @@
                 {
                     "Id": "500759735",
                     "NickName": "시티",
-                    "HeadIcon": 130008,
+                    "HeadIcon": 10304,
                     "Score": 1038761,
                     "Rank": 16,
                     "TitlePrefix": 25,
@@ -132908,7 +132908,7 @@
                     ]
                 }
             ],
-            "Total": 2521,
+            "Total": 2523,
             "UsageByFloor": {
                 "20": [
                     {
@@ -148798,7 +148798,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1783167684",
+            "LastRefreshTime": "1783168885",
             "Rank": [
                 {
                     "Id": "900343000",
@@ -182184,7 +182184,7 @@
                     ]
                 }
             ],
-            "Total": 2638,
+            "Total": 2649,
             "UsageByFloor": {
                 "20": [
                     {
@@ -284450,7 +284450,7 @@
                 {
                     "Id": "500759735",
                     "NickName": "시티 (KR)",
-                    "HeadIcon": 130008,
+                    "HeadIcon": 10304,
                     "Score": 1038761,
                     "Rank": 113,
                     "TitlePrefix": 25,
@@ -312689,11 +312689,340 @@
                     ]
                 },
                 {
+                    "Id": "301887842",
+                    "NickName": "スノコ (JP)",
+                    "HeadIcon": 130008,
+                    "Score": 869622,
+                    "Rank": 197,
+                    "TitlePrefix": 3,
+                    "TitleSuffix": 2,
+                    "Teams": [
+                        {
+                            "BuildScore": 9405,
+                            "Chars": [
+                                {
+                                    "Id": 114,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 158,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 126,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 682930,
+                            "LevelId": 20,
+                            "Discs": [
+                                214029,
+                                214048,
+                                214001,
+                                214040,
+                                214013,
+                                214041
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 511403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511443,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511412,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 511413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511409,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511410,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 515822,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515821,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515825,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 515843,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515833,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515831,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512622,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512621,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512641,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512628,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 512631,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512625,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512629,
+                                    "Level": 3
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90019,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 16
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 12
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 28
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 25
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 27
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 15
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4029102,
+                                4029201,
+                                4048102,
+                                4048201,
+                                4001102,
+                                4001201
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAcgAAAJ4AAAB+MAZB7AbGABgMBswFGDGA"
+                        },
+                        {
+                            "BuildScore": 9660,
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 125,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 186692,
+                            "LevelId": 21,
+                            "Discs": [
+                                214005,
+                                214021,
+                                214047,
+                                214031,
+                                214041,
+                                214040
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514401,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514402,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514406,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514407,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514405,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513031,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512524,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512522,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512525,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512533,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512531,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512530,
+                                    "Level": 4
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 11
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 35
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 21
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 11
+                                },
+                                {
+                                    "Tid": 90019,
+                                    "Qty": 7
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 34
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 38
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 7
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 32
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4005102,
+                                4005201,
+                                4021101,
+                                4021201,
+                                4047102,
+                                4047202
+                            ],
+                            "RecordRank": "33",
+                            "BuildCode": "AAAAkAAAAIIAAAB9zbADDADNgBgMAFwAmAwA"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 112145,
+                            "AffinityLV": 42
+                        },
+                        {},
+                        {}
+                    ]
+                },
+                {
                     "Id": "701904533",
                     "NickName": "Ahmadjak (EN)",
                     "HeadIcon": 12301,
                     "Score": 868376,
-                    "Rank": 197,
+                    "Rank": 198,
                     "TitlePrefix": 23,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -313035,7 +313364,7 @@
                     "NickName": "생교행 (KR)",
                     "HeadIcon": 130008,
                     "Score": 868176,
-                    "Rank": 198,
+                    "Rank": 199,
                     "TitlePrefix": 1,
                     "TitleSuffix": 30,
                     "Teams": [
@@ -313385,7 +313714,7 @@
                     "NickName": "我妻鹿乃 (CN)",
                     "HeadIcon": 11903,
                     "Score": 865397,
-                    "Rank": 199,
+                    "Rank": 200,
                     "TitlePrefix": 1,
                     "TitleSuffix": 8,
                     "Teams": [
@@ -313726,7 +314055,7 @@
                     "NickName": "고지 (KR)",
                     "HeadIcon": 130007,
                     "Score": 865269,
-                    "Rank": 200,
+                    "Rank": 201,
                     "TitlePrefix": 7,
                     "TitleSuffix": 32,
                     "Teams": [
@@ -314062,7 +314391,7 @@
                     "NickName": "哈基咪南北绿豆 (CN)",
                     "HeadIcon": 13001,
                     "Score": 861424,
-                    "Rank": 201,
+                    "Rank": 202,
                     "TitlePrefix": 31,
                     "TitleSuffix": 32,
                     "Teams": [
@@ -314396,7 +314725,7 @@
                     "NickName": "리르 (KR)",
                     "HeadIcon": 13403,
                     "Score": 856383,
-                    "Rank": 202,
+                    "Rank": 203,
                     "TitlePrefix": 25,
                     "TitleSuffix": 4,
                     "Teams": [
@@ -314729,7 +315058,7 @@
                     "NickName": "Designs (EN)",
                     "HeadIcon": 15603,
                     "Score": 853414,
-                    "Rank": 203,
+                    "Rank": 204,
                     "TitlePrefix": 23,
                     "TitleSuffix": 24,
                     "Teams": [
@@ -315080,7 +315409,7 @@
                     "NickName": "루나 (KR)",
                     "HeadIcon": 10304,
                     "Score": 851133,
-                    "Rank": 204,
+                    "Rank": 205,
                     "TitlePrefix": 7,
                     "TitleSuffix": 8,
                     "Teams": [
@@ -315424,7 +315753,7 @@
                     "NickName": "隐杏珠 (CN)",
                     "HeadIcon": 11502,
                     "Score": 850549,
-                    "Rank": 205,
+                    "Rank": 206,
                     "TitlePrefix": 1,
                     "TitleSuffix": 4,
                     "Teams": [
@@ -315778,7 +316107,7 @@
                     "NickName": "Mija (JP)",
                     "HeadIcon": 15603,
                     "Score": 850533,
-                    "Rank": 206,
+                    "Rank": 207,
                     "TitlePrefix": 25,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -316099,7 +316428,7 @@
                     "NickName": "お菓子屋 (JP)",
                     "HeadIcon": 130009,
                     "Score": 849931,
-                    "Rank": 207,
+                    "Rank": 208,
                     "TitlePrefix": 1,
                     "TitleSuffix": 30,
                     "Teams": [
@@ -316438,7 +316767,7 @@
                     "NickName": "不吃花菜OVO (CN)",
                     "HeadIcon": 130009,
                     "Score": 849782,
-                    "Rank": 208,
+                    "Rank": 209,
                     "TitlePrefix": 31,
                     "TitleSuffix": 32,
                     "Teams": [
@@ -316783,7 +317112,7 @@
                     "NickName": "風恋 (CN)",
                     "HeadIcon": 130008,
                     "Score": 848111,
-                    "Rank": 209,
+                    "Rank": 210,
                     "TitlePrefix": 29,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -317113,335 +317442,6 @@
                         {
                             "Id": 117021
                         }
-                    ]
-                },
-                {
-                    "Id": "301887842",
-                    "NickName": "スノコ (JP)",
-                    "HeadIcon": 130008,
-                    "Score": 847854,
-                    "Rank": 210,
-                    "TitlePrefix": 3,
-                    "TitleSuffix": 2,
-                    "Teams": [
-                        {
-                            "BuildScore": 9405,
-                            "Chars": [
-                                {
-                                    "Id": 114,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 158,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 126,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 682930,
-                            "LevelId": 20,
-                            "Discs": [
-                                214029,
-                                214048,
-                                214001,
-                                214040,
-                                214013,
-                                214041
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 511403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511443,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511412,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 511413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511409,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511410,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 515822,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515821,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515825,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 515843,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515833,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515831,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512622,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512621,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512641,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512628,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 512631,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512625,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512629,
-                                    "Level": 3
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90019,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 12
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 28
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 25
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 27
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 15
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4029102,
-                                4029201,
-                                4048102,
-                                4048201,
-                                4001102,
-                                4001201
-                            ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAcgAAAJ4AAAB+MAZB7AbGABgMBswFGDGA"
-                        },
-                        {
-                            "BuildScore": 9660,
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 125,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 164924,
-                            "LevelId": 21,
-                            "Discs": [
-                                214005,
-                                214021,
-                                214047,
-                                214031,
-                                214041,
-                                214040
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514401,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514402,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514406,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514407,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514405,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513031,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512524,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512522,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512525,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512533,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512531,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512530,
-                                    "Level": 4
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 11
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 35
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 21
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 11
-                                },
-                                {
-                                    "Tid": 90019,
-                                    "Qty": 7
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 34
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 38
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 7
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 32
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4005102,
-                                4005201,
-                                4021101,
-                                4021201,
-                                4047102,
-                                4047202
-                            ],
-                            "RecordRank": "33",
-                            "BuildCode": "AAAAkAAAAIIAAAB9zbADDADNgBgMAFwAmAwA"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 112145,
-                            "AffinityLV": 42
-                        },
-                        {},
-                        {}
                     ]
                 },
                 {
@@ -413465,8 +413465,8 @@
                     ]
                 }
             ],
-            "Total": 32902,
-            "LastRefreshTime": "1783168273",
+            "Total": 32943,
+            "LastRefreshTime": "1783168885",
             "UsageByFloor": {
                 "20": [
                     {
@@ -414010,63 +414010,63 @@
                                 "rank": 195
                             },
                             {
+                                "id": "301887842",
+                                "name": "スノコ (JP)",
+                                "rank": 197
+                            },
+                            {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197
+                                "rank": 198
                             },
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198
+                                "rank": 199
                             },
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199
+                                "rank": 200
                             },
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200
+                                "rank": 201
                             },
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201
+                                "rank": 202
                             },
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203
+                                "rank": 204
                             },
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204
+                                "rank": 205
                             },
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205
+                                "rank": 206
                             },
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207
+                                "rank": 208
                             },
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208
+                                "rank": 209
                             },
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209
-                            },
-                            {
-                                "id": "301887842",
-                                "name": "スノコ (JP)",
                                 "rank": 210
                             },
                             {
@@ -415583,63 +415583,63 @@
                                 "rank": 195
                             },
                             {
+                                "id": "301887842",
+                                "name": "スノコ (JP)",
+                                "rank": 197
+                            },
+                            {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197
+                                "rank": 198
                             },
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198
+                                "rank": 199
                             },
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199
+                                "rank": 200
                             },
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200
+                                "rank": 201
                             },
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201
+                                "rank": 202
                             },
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203
+                                "rank": 204
                             },
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204
+                                "rank": 205
                             },
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205
+                                "rank": 206
                             },
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207
+                                "rank": 208
                             },
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208
+                                "rank": 209
                             },
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209
-                            },
-                            {
-                                "id": "301887842",
-                                "name": "スノコ (JP)",
                                 "rank": 210
                             },
                             {
@@ -417036,58 +417036,58 @@
                                 "rank": 195
                             },
                             {
+                                "id": "301887842",
+                                "name": "スノコ (JP)",
+                                "rank": 197
+                            },
+                            {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197
+                                "rank": 198
                             },
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198
+                                "rank": 199
                             },
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199
+                                "rank": 200
                             },
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200
+                                "rank": 201
                             },
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201
+                                "rank": 202
                             },
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203
+                                "rank": 204
                             },
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204
+                                "rank": 205
                             },
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207
+                                "rank": 208
                             },
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208
+                                "rank": 209
                             },
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209
-                            },
-                            {
-                                "id": "301887842",
-                                "name": "スノコ (JP)",
                                 "rank": 210
                             },
                             {
@@ -418206,12 +418206,12 @@
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202
+                                "rank": 203
                             },
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206
+                                "rank": 207
                             },
                             {
                                 "id": "300410354",
@@ -418829,12 +418829,12 @@
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202
+                                "rank": 203
                             },
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206
+                                "rank": 207
                             },
                             {
                                 "id": "300410354",
@@ -419437,12 +419437,12 @@
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202
+                                "rank": 203
                             },
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206
+                                "rank": 207
                             },
                             {
                                 "id": "300410354",
@@ -419860,7 +419860,7 @@
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205
+                                "rank": 206
                             },
                             {
                                 "id": "500650418",
@@ -421544,27 +421544,27 @@
                             {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197
+                                "rank": 198
                             },
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199
+                                "rank": 200
                             },
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201
+                                "rank": 202
                             },
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203
+                                "rank": 204
                             },
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204
+                                "rank": 205
                             },
                             {
                                 "id": "500650418",
@@ -422670,34 +422670,34 @@
                                 "rank": 196
                             },
                             {
+                                "id": "301887842",
+                                "name": "スノコ (JP)",
+                                "rank": 197
+                            },
+                            {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198
+                                "rank": 199
                             },
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199
+                                "rank": 200
                             },
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201
+                                "rank": 202
                             },
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203
+                                "rank": 204
                             },
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204
-                            },
-                            {
-                                "id": "301887842",
-                                "name": "スノコ (JP)",
-                                "rank": 210
+                                "rank": 205
                             },
                             {
                                 "id": "500650418",
@@ -423773,39 +423773,39 @@
                                 "rank": 196
                             },
                             {
+                                "id": "301887842",
+                                "name": "スノコ (JP)",
+                                "rank": 197
+                            },
+                            {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197
+                                "rank": 198
                             },
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198
+                                "rank": 199
                             },
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199
+                                "rank": 200
                             },
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201
+                                "rank": 202
                             },
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203
+                                "rank": 204
                             },
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204
-                            },
-                            {
-                                "id": "301887842",
-                                "name": "スノコ (JP)",
-                                "rank": 210
+                                "rank": 205
                             },
                             {
                                 "id": "500650418",
@@ -424758,22 +424758,22 @@
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200
+                                "rank": 201
                             },
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207
+                                "rank": 208
                             },
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208
+                                "rank": 209
                             },
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209
+                                "rank": 210
                             },
                             {
                                 "id": "100521881",
@@ -425401,22 +425401,22 @@
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200
+                                "rank": 201
                             },
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207
+                                "rank": 208
                             },
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208
+                                "rank": 209
                             },
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209
+                                "rank": 210
                             },
                             {
                                 "id": "100521881",
@@ -426004,22 +426004,22 @@
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200
+                                "rank": 201
                             },
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207
+                                "rank": 208
                             },
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208
+                                "rank": 209
                             },
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209
+                                "rank": 210
                             },
                             {
                                 "id": "100521881",
@@ -426500,19 +426500,19 @@
                                 "rank": 193
                             },
                             {
+                                "id": "301887842",
+                                "name": "スノコ (JP)",
+                                "rank": 197
+                            },
+                            {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197
+                                "rank": 198
                             },
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198
-                            },
-                            {
-                                "id": "301887842",
-                                "name": "スノコ (JP)",
-                                "rank": 210
+                                "rank": 199
                             },
                             {
                                 "id": "300645946",
@@ -426815,7 +426815,7 @@
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202
+                                "rank": 203
                             },
                             {
                                 "id": "300410354",
@@ -427108,7 +427108,7 @@
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202
+                                "rank": 203
                             },
                             {
                                 "id": "300410354",
@@ -427386,7 +427386,7 @@
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202
+                                "rank": 203
                             },
                             {
                                 "id": "300410354",
@@ -427958,12 +427958,12 @@
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205
+                                "rank": 206
                             },
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206
+                                "rank": 207
                             },
                             {
                                 "id": "100776319",
@@ -428184,12 +428184,12 @@
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205
+                                "rank": 206
                             },
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206
+                                "rank": 207
                             },
                             {
                                 "id": "100776319",
@@ -428378,12 +428378,12 @@
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205
+                                "rank": 206
                             },
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206
+                                "rank": 207
                             },
                             {
                                 "id": "301456191",
@@ -429210,68 +429210,68 @@
                                 "rank": 195
                             },
                             {
+                                "id": "301887842",
+                                "name": "スノコ (JP)",
+                                "rank": 197
+                            },
+                            {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197
+                                "rank": 198
                             },
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198
+                                "rank": 199
                             },
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199
+                                "rank": 200
                             },
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200
+                                "rank": 201
                             },
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201
+                                "rank": 202
                             },
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202
+                                "rank": 203
                             },
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203
+                                "rank": 204
                             },
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204
+                                "rank": 205
                             },
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205
+                                "rank": 206
                             },
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207
+                                "rank": 208
                             },
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208
+                                "rank": 209
                             },
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209
-                            },
-                            {
-                                "id": "301887842",
-                                "name": "スノコ (JP)",
                                 "rank": 210
                             },
                             {
@@ -431068,68 +431068,68 @@
                                 "rank": 195
                             },
                             {
+                                "id": "301887842",
+                                "name": "スノコ (JP)",
+                                "rank": 197
+                            },
+                            {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197
+                                "rank": 198
                             },
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198
+                                "rank": 199
                             },
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199
+                                "rank": 200
                             },
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200
+                                "rank": 201
                             },
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201
+                                "rank": 202
                             },
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202
+                                "rank": 203
                             },
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203
+                                "rank": 204
                             },
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204
+                                "rank": 205
                             },
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205
+                                "rank": 206
                             },
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207
+                                "rank": 208
                             },
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208
+                                "rank": 209
                             },
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209
-                            },
-                            {
-                                "id": "301887842",
-                                "name": "スノコ (JP)",
                                 "rank": 210
                             },
                             {
@@ -432691,58 +432691,58 @@
                                 "rank": 195
                             },
                             {
+                                "id": "301887842",
+                                "name": "スノコ (JP)",
+                                "rank": 197
+                            },
+                            {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197
+                                "rank": 198
                             },
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198
+                                "rank": 199
                             },
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199
+                                "rank": 200
                             },
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200
+                                "rank": 201
                             },
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201
+                                "rank": 202
                             },
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203
+                                "rank": 204
                             },
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204
+                                "rank": 205
                             },
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207
+                                "rank": 208
                             },
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208
+                                "rank": 209
                             },
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209
-                            },
-                            {
-                                "id": "301887842",
-                                "name": "スノコ (JP)",
                                 "rank": 210
                             },
                             {
@@ -434131,32 +434131,32 @@
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200
+                                "rank": 201
                             },
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202
+                                "rank": 203
                             },
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206
+                                "rank": 207
                             },
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207
+                                "rank": 208
                             },
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208
+                                "rank": 209
                             },
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209
+                                "rank": 210
                             },
                             {
                                 "id": "300410354",
@@ -435394,32 +435394,32 @@
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200
+                                "rank": 201
                             },
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202
+                                "rank": 203
                             },
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206
+                                "rank": 207
                             },
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207
+                                "rank": 208
                             },
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208
+                                "rank": 209
                             },
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209
+                                "rank": 210
                             },
                             {
                                 "id": "300410354",
@@ -436497,27 +436497,27 @@
                             {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197
+                                "rank": 198
                             },
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199
+                                "rank": 200
                             },
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201
+                                "rank": 202
                             },
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203
+                                "rank": 204
                             },
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204
+                                "rank": 205
                             },
                             {
                                 "id": "500650418",
@@ -437623,34 +437623,34 @@
                                 "rank": 196
                             },
                             {
+                                "id": "301887842",
+                                "name": "スノコ (JP)",
+                                "rank": 197
+                            },
+                            {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198
+                                "rank": 199
                             },
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199
+                                "rank": 200
                             },
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201
+                                "rank": 202
                             },
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203
+                                "rank": 204
                             },
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204
-                            },
-                            {
-                                "id": "301887842",
-                                "name": "スノコ (JP)",
-                                "rank": 210
+                                "rank": 205
                             },
                             {
                                 "id": "500650418",
@@ -438731,39 +438731,39 @@
                                 "rank": 196
                             },
                             {
+                                "id": "301887842",
+                                "name": "スノコ (JP)",
+                                "rank": 197
+                            },
+                            {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197
+                                "rank": 198
                             },
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198
+                                "rank": 199
                             },
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199
+                                "rank": 200
                             },
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201
+                                "rank": 202
                             },
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203
+                                "rank": 204
                             },
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204
-                            },
-                            {
-                                "id": "301887842",
-                                "name": "スノコ (JP)",
-                                "rank": 210
+                                "rank": 205
                             },
                             {
                                 "id": "500650418",
@@ -439781,12 +439781,12 @@
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202
+                                "rank": 203
                             },
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206
+                                "rank": 207
                             },
                             {
                                 "id": "300410354",
@@ -440444,22 +440444,22 @@
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200
+                                "rank": 201
                             },
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207
+                                "rank": 208
                             },
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208
+                                "rank": 209
                             },
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209
+                                "rank": 210
                             },
                             {
                                 "id": "100521881",
@@ -440997,12 +440997,12 @@
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202
+                                "rank": 203
                             },
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205
+                                "rank": 206
                             },
                             {
                                 "id": "300410354",
@@ -441460,12 +441460,12 @@
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205
+                                "rank": 206
                             },
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206
+                                "rank": 207
                             },
                             {
                                 "id": "101440223",
@@ -441851,19 +441851,19 @@
                                 "rank": 193
                             },
                             {
+                                "id": "301887842",
+                                "name": "スノコ (JP)",
+                                "rank": 197
+                            },
+                            {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197
+                                "rank": 198
                             },
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198
-                            },
-                            {
-                                "id": "301887842",
-                                "name": "スノコ (JP)",
-                                "rank": 210
+                                "rank": 199
                             },
                             {
                                 "id": "300645946",
@@ -442176,12 +442176,12 @@
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205
+                                "rank": 206
                             },
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206
+                                "rank": 207
                             },
                             {
                                 "id": "101440223",
@@ -442424,12 +442424,12 @@
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205
+                                "rank": 206
                             },
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206
+                                "rank": 207
                             },
                             {
                                 "id": "700520665",
@@ -443807,7 +443807,7 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ (JP)",
-                                "rank": 210,
+                                "rank": 197,
                                 "teamScore": 682930
                             },
                             {
@@ -443831,7 +443831,7 @@
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199,
+                                "rank": 200,
                                 "teamScore": 666616
                             },
                             {
@@ -443903,7 +443903,7 @@
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203,
+                                "rank": 204,
                                 "teamScore": 636125
                             },
                             {
@@ -443933,7 +443933,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207,
+                                "rank": 208,
                                 "teamScore": 627177
                             },
                             {
@@ -444023,7 +444023,7 @@
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204,
+                                "rank": 205,
                                 "teamScore": 574282
                             },
                             {
@@ -444071,7 +444071,7 @@
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198,
+                                "rank": 199,
                                 "teamScore": 562730
                             },
                             {
@@ -444113,7 +444113,7 @@
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208,
+                                "rank": 209,
                                 "teamScore": 550446
                             },
                             {
@@ -444245,7 +444245,7 @@
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209,
+                                "rank": 210,
                                 "teamScore": 509226
                             },
                             {
@@ -444341,7 +444341,7 @@
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201,
+                                "rank": 202,
                                 "teamScore": 490406
                             },
                             {
@@ -444377,7 +444377,7 @@
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200,
+                                "rank": 201,
                                 "teamScore": 478308
                             },
                             {
@@ -444707,7 +444707,7 @@
                             {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197,
+                                "rank": 198,
                                 "teamScore": 381359
                             },
                             {
@@ -445147,7 +445147,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206,
+                                "rank": 207,
                                 "teamScore": 683323
                             },
                             {
@@ -445621,7 +445621,7 @@
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202,
+                                "rank": 203,
                                 "teamScore": 322455
                             },
                             {
@@ -445749,7 +445749,7 @@
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205,
+                                "rank": 206,
                                 "teamScore": 669555
                             },
                             {
@@ -446963,7 +446963,7 @@
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201,
+                                "rank": 202,
                                 "teamScore": 371018
                             },
                             {
@@ -447239,7 +447239,7 @@
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204,
+                                "rank": 205,
                                 "teamScore": 276851
                             },
                             {
@@ -447455,7 +447455,7 @@
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203,
+                                "rank": 204,
                                 "teamScore": 217289
                             },
                             {
@@ -447533,7 +447533,7 @@
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199,
+                                "rank": 200,
                                 "teamScore": 198781
                             },
                             {
@@ -448051,7 +448051,7 @@
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200,
+                                "rank": 201,
                                 "teamScore": 386961
                             },
                             {
@@ -448105,7 +448105,7 @@
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209,
+                                "rank": 210,
                                 "teamScore": 338885
                             },
                             {
@@ -448171,7 +448171,7 @@
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208,
+                                "rank": 209,
                                 "teamScore": 299336
                             },
                             {
@@ -448303,7 +448303,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207,
+                                "rank": 208,
                                 "teamScore": 222754
                             },
                             {
@@ -448485,7 +448485,7 @@
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202,
+                                "rank": 203,
                                 "teamScore": 533928
                             },
                             {
@@ -448987,7 +448987,7 @@
                             {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197,
+                                "rank": 198,
                                 "teamScore": 487017
                             },
                             {
@@ -449479,7 +449479,7 @@
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198,
+                                "rank": 199,
                                 "teamScore": 305446
                             },
                             {
@@ -449507,16 +449507,16 @@
                                 "teamScore": 227073
                             },
                             {
+                                "id": "301887842",
+                                "name": "スノコ (JP)",
+                                "rank": 197,
+                                "teamScore": 186692
+                            },
+                            {
                                 "id": "702238858",
                                 "name": "VN_Ikero (EN)",
                                 "rank": 427,
                                 "teamScore": 171093
-                            },
-                            {
-                                "id": "301887842",
-                                "name": "スノコ (JP)",
-                                "rank": 210,
-                                "teamScore": 164924
                             }
                         ],
                         "topUser": {
@@ -449713,13 +449713,13 @@
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205,
+                                "rank": 206,
                                 "teamScore": 180994
                             },
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206,
+                                "rank": 207,
                                 "teamScore": 167210
                             }
                         ],
@@ -450467,7 +450467,7 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ (JP)",
-                                "rank": 210,
+                                "rank": 197,
                                 "teamScore": 682930
                             },
                             {
@@ -450491,7 +450491,7 @@
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199,
+                                "rank": 200,
                                 "teamScore": 666616
                             },
                             {
@@ -450563,7 +450563,7 @@
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203,
+                                "rank": 204,
                                 "teamScore": 636125
                             },
                             {
@@ -450593,7 +450593,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207,
+                                "rank": 208,
                                 "teamScore": 627177
                             },
                             {
@@ -450683,7 +450683,7 @@
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204,
+                                "rank": 205,
                                 "teamScore": 574282
                             },
                             {
@@ -450731,7 +450731,7 @@
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198,
+                                "rank": 199,
                                 "teamScore": 562730
                             },
                             {
@@ -450773,7 +450773,7 @@
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208,
+                                "rank": 209,
                                 "teamScore": 550446
                             },
                             {
@@ -450905,7 +450905,7 @@
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209,
+                                "rank": 210,
                                 "teamScore": 509226
                             },
                             {
@@ -451001,7 +451001,7 @@
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201,
+                                "rank": 202,
                                 "teamScore": 490406
                             },
                             {
@@ -451037,7 +451037,7 @@
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200,
+                                "rank": 201,
                                 "teamScore": 478308
                             },
                             {
@@ -451367,7 +451367,7 @@
                             {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197,
+                                "rank": 198,
                                 "teamScore": 381359
                             },
                             {
@@ -451909,7 +451909,7 @@
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201,
+                                "rank": 202,
                                 "teamScore": 371018
                             },
                             {
@@ -452185,7 +452185,7 @@
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204,
+                                "rank": 205,
                                 "teamScore": 276851
                             },
                             {
@@ -452401,7 +452401,7 @@
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203,
+                                "rank": 204,
                                 "teamScore": 217289
                             },
                             {
@@ -452479,7 +452479,7 @@
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199,
+                                "rank": 200,
                                 "teamScore": 198781
                             },
                             {
@@ -452925,7 +452925,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206,
+                                "rank": 207,
                                 "teamScore": 683323
                             },
                             {
@@ -453405,7 +453405,7 @@
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202,
+                                "rank": 203,
                                 "teamScore": 322455
                             },
                             {
@@ -453821,7 +453821,7 @@
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200,
+                                "rank": 201,
                                 "teamScore": 386961
                             },
                             {
@@ -453875,7 +453875,7 @@
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209,
+                                "rank": 210,
                                 "teamScore": 338885
                             },
                             {
@@ -453941,7 +453941,7 @@
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208,
+                                "rank": 209,
                                 "teamScore": 299336
                             },
                             {
@@ -454073,7 +454073,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207,
+                                "rank": 208,
                                 "teamScore": 222754
                             },
                             {
@@ -454315,7 +454315,7 @@
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205,
+                                "rank": 206,
                                 "teamScore": 669555
                             },
                             {
@@ -454393,7 +454393,7 @@
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202,
+                                "rank": 203,
                                 "teamScore": 533928
                             },
                             {
@@ -455025,13 +455025,13 @@
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205,
+                                "rank": 206,
                                 "teamScore": 180994
                             },
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206,
+                                "rank": 207,
                                 "teamScore": 167210
                             }
                         ],
@@ -455451,7 +455451,7 @@
                             {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197,
+                                "rank": 198,
                                 "teamScore": 487017
                             },
                             {
@@ -455797,7 +455797,7 @@
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198,
+                                "rank": 199,
                                 "teamScore": 305446
                             },
                             {
@@ -455825,16 +455825,16 @@
                                 "teamScore": 227073
                             },
                             {
+                                "id": "301887842",
+                                "name": "スノコ (JP)",
+                                "rank": 197,
+                                "teamScore": 186692
+                            },
+                            {
                                 "id": "702238858",
                                 "name": "VN_Ikero (EN)",
                                 "rank": 427,
                                 "teamScore": 171093
-                            },
-                            {
-                                "id": "301887842",
-                                "name": "スノコ (JP)",
-                                "rank": 210,
-                                "teamScore": 164924
                             }
                         ],
                         "topUser": {
@@ -456967,7 +456967,7 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ (JP)",
-                                "rank": 210,
+                                "rank": 197,
                                 "teamScore": 682930
                             },
                             {
@@ -456991,7 +456991,7 @@
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199,
+                                "rank": 200,
                                 "teamScore": 666616
                             },
                             {
@@ -457063,7 +457063,7 @@
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203,
+                                "rank": 204,
                                 "teamScore": 636125
                             },
                             {
@@ -457093,7 +457093,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207,
+                                "rank": 208,
                                 "teamScore": 627177
                             },
                             {
@@ -457183,7 +457183,7 @@
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204,
+                                "rank": 205,
                                 "teamScore": 574282
                             },
                             {
@@ -457231,7 +457231,7 @@
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198,
+                                "rank": 199,
                                 "teamScore": 562730
                             },
                             {
@@ -457273,7 +457273,7 @@
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208,
+                                "rank": 209,
                                 "teamScore": 550446
                             },
                             {
@@ -457405,7 +457405,7 @@
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209,
+                                "rank": 210,
                                 "teamScore": 509226
                             },
                             {
@@ -457501,7 +457501,7 @@
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201,
+                                "rank": 202,
                                 "teamScore": 490406
                             },
                             {
@@ -457537,7 +457537,7 @@
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200,
+                                "rank": 201,
                                 "teamScore": 478308
                             },
                             {
@@ -457867,7 +457867,7 @@
                             {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197,
+                                "rank": 198,
                                 "teamScore": 381359
                             },
                             {
@@ -458405,7 +458405,7 @@
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205,
+                                "rank": 206,
                                 "teamScore": 669555
                             },
                             {
@@ -459525,7 +459525,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206,
+                                "rank": 207,
                                 "teamScore": 683323
                             },
                             {
@@ -459999,7 +459999,7 @@
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202,
+                                "rank": 203,
                                 "teamScore": 322455
                             },
                             {
@@ -461878,7 +461878,7 @@
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200,
+                                "rank": 201,
                                 "teamScore": 386961
                             },
                             {
@@ -461932,7 +461932,7 @@
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209,
+                                "rank": 210,
                                 "teamScore": 338885
                             },
                             {
@@ -461998,7 +461998,7 @@
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208,
+                                "rank": 209,
                                 "teamScore": 299336
                             },
                             {
@@ -462130,7 +462130,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207,
+                                "rank": 208,
                                 "teamScore": 222754
                             },
                             {
@@ -462645,7 +462645,7 @@
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201,
+                                "rank": 202,
                                 "teamScore": 371018
                             },
                             {
@@ -462921,7 +462921,7 @@
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204,
+                                "rank": 205,
                                 "teamScore": 276851
                             },
                             {
@@ -463137,7 +463137,7 @@
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203,
+                                "rank": 204,
                                 "teamScore": 217289
                             },
                             {
@@ -463215,7 +463215,7 @@
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199,
+                                "rank": 200,
                                 "teamScore": 198781
                             },
                             {
@@ -464095,7 +464095,7 @@
                             {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197,
+                                "rank": 198,
                                 "teamScore": 487017
                             },
                             {
@@ -464423,7 +464423,7 @@
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198,
+                                "rank": 199,
                                 "teamScore": 305446
                             },
                             {
@@ -464451,16 +464451,16 @@
                                 "teamScore": 227073
                             },
                             {
+                                "id": "301887842",
+                                "name": "スノコ (JP)",
+                                "rank": 197,
+                                "teamScore": 186692
+                            },
+                            {
                                 "id": "702238858",
                                 "name": "VN_Ikero (EN)",
                                 "rank": 427,
                                 "teamScore": 171093
-                            },
-                            {
-                                "id": "301887842",
-                                "name": "スノコ (JP)",
-                                "rank": 210,
-                                "teamScore": 164924
                             }
                         ],
                         "topUser": {
@@ -464586,8 +464586,8 @@
                                 "d214041": 2,
                                 "d214051": 1,
                                 "d214006": 1,
-                                "d214017": 1,
-                                "d214040": 1
+                                "d214040": 1,
+                                "d214017": 1
                             },
                             "main": {
                                 "d214005": 16,
@@ -464606,8 +464606,8 @@
                                 "d214041": 2,
                                 "d214051": 1,
                                 "d214006": 1,
-                                "d214017": 1,
-                                "d214040": 1
+                                "d214040": 1,
+                                "d214017": 1
                             }
                         }
                     },
@@ -464655,7 +464655,7 @@
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202,
+                                "rank": 203,
                                 "teamScore": 533928
                             },
                             {
@@ -466370,13 +466370,13 @@
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205,
+                                "rank": 206,
                                 "teamScore": 180994
                             },
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206,
+                                "rank": 207,
                                 "teamScore": 167210
                             }
                         ],
@@ -467658,7 +467658,7 @@
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200,
+                                "rank": 201,
                                 "teamScore": 386961
                             },
                             {
@@ -467712,7 +467712,7 @@
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209,
+                                "rank": 210,
                                 "teamScore": 338885
                             },
                             {
@@ -467778,7 +467778,7 @@
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208,
+                                "rank": 209,
                                 "teamScore": 299336
                             },
                             {
@@ -467910,7 +467910,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207,
+                                "rank": 208,
                                 "teamScore": 222754
                             },
                             {
@@ -468593,7 +468593,7 @@
                             {
                                 "id": "301887842",
                                 "name": "スノコ (JP)",
-                                "rank": 210,
+                                "rank": 197,
                                 "teamScore": 682930
                             },
                             {
@@ -468617,7 +468617,7 @@
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199,
+                                "rank": 200,
                                 "teamScore": 666616
                             },
                             {
@@ -468689,7 +468689,7 @@
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203,
+                                "rank": 204,
                                 "teamScore": 636125
                             },
                             {
@@ -468719,7 +468719,7 @@
                             {
                                 "id": "301169792",
                                 "name": "お菓子屋 (JP)",
-                                "rank": 207,
+                                "rank": 208,
                                 "teamScore": 627177
                             },
                             {
@@ -468809,7 +468809,7 @@
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204,
+                                "rank": 205,
                                 "teamScore": 574282
                             },
                             {
@@ -468857,7 +468857,7 @@
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198,
+                                "rank": 199,
                                 "teamScore": 562730
                             },
                             {
@@ -468899,7 +468899,7 @@
                             {
                                 "id": "101173671",
                                 "name": "不吃花菜OVO (CN)",
-                                "rank": 208,
+                                "rank": 209,
                                 "teamScore": 550446
                             },
                             {
@@ -469031,7 +469031,7 @@
                             {
                                 "id": "100831524",
                                 "name": "風恋 (CN)",
-                                "rank": 209,
+                                "rank": 210,
                                 "teamScore": 509226
                             },
                             {
@@ -469127,7 +469127,7 @@
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201,
+                                "rank": 202,
                                 "teamScore": 490406
                             },
                             {
@@ -469163,7 +469163,7 @@
                             {
                                 "id": "500345703",
                                 "name": "고지 (KR)",
-                                "rank": 200,
+                                "rank": 201,
                                 "teamScore": 478308
                             },
                             {
@@ -469493,7 +469493,7 @@
                             {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197,
+                                "rank": 198,
                                 "teamScore": 381359
                             },
                             {
@@ -470097,7 +470097,7 @@
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205,
+                                "rank": 206,
                                 "teamScore": 669555
                             },
                             {
@@ -470175,7 +470175,7 @@
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202,
+                                "rank": 203,
                                 "teamScore": 533928
                             },
                             {
@@ -470971,13 +470971,13 @@
                             {
                                 "id": "100603279",
                                 "name": "隐杏珠 (CN)",
-                                "rank": 205,
+                                "rank": 206,
                                 "teamScore": 180994
                             },
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206,
+                                "rank": 207,
                                 "teamScore": 167210
                             }
                         ],
@@ -471354,7 +471354,7 @@
                             {
                                 "id": "100496004",
                                 "name": "哈基咪南北绿豆 (CN)",
-                                "rank": 201,
+                                "rank": 202,
                                 "teamScore": 371018
                             },
                             {
@@ -471630,7 +471630,7 @@
                             {
                                 "id": "500342878",
                                 "name": "루나 (KR)",
-                                "rank": 204,
+                                "rank": 205,
                                 "teamScore": 276851
                             },
                             {
@@ -471846,7 +471846,7 @@
                             {
                                 "id": "700344026",
                                 "name": "Designs (EN)",
-                                "rank": 203,
+                                "rank": 204,
                                 "teamScore": 217289
                             },
                             {
@@ -471924,7 +471924,7 @@
                             {
                                 "id": "100994090",
                                 "name": "我妻鹿乃 (CN)",
-                                "rank": 199,
+                                "rank": 200,
                                 "teamScore": 198781
                             },
                             {
@@ -472896,7 +472896,7 @@
                             {
                                 "id": "301122253",
                                 "name": "Mija (JP)",
-                                "rank": 206,
+                                "rank": 207,
                                 "teamScore": 683323
                             },
                             {
@@ -473376,7 +473376,7 @@
                             {
                                 "id": "509293124",
                                 "name": "리르 (KR)",
-                                "rank": 202,
+                                "rank": 203,
                                 "teamScore": 322455
                             },
                             {
@@ -474303,7 +474303,7 @@
                             {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 197,
+                                "rank": 198,
                                 "teamScore": 487017
                             },
                             {
@@ -474637,7 +474637,7 @@
                             {
                                 "id": "500424501",
                                 "name": "생교행 (KR)",
-                                "rank": 198,
+                                "rank": 199,
                                 "teamScore": 305446
                             },
                             {
@@ -474665,16 +474665,16 @@
                                 "teamScore": 227073
                             },
                             {
+                                "id": "301887842",
+                                "name": "スノコ (JP)",
+                                "rank": 197,
+                                "teamScore": 186692
+                            },
+                            {
                                 "id": "702238858",
                                 "name": "VN_Ikero (EN)",
                                 "rank": 427,
                                 "teamScore": 171093
-                            },
-                            {
-                                "id": "301887842",
-                                "name": "スノコ (JP)",
-                                "rank": 210,
-                                "teamScore": 164924
                             }
                         ],
                         "topUser": {
@@ -474801,8 +474801,8 @@
                                 "d214041": 2,
                                 "d214051": 1,
                                 "d214006": 1,
-                                "d214017": 1,
-                                "d214040": 1
+                                "d214040": 1,
+                                "d214017": 1
                             },
                             "main": {
                                 "d214005": 17,
@@ -474821,8 +474821,8 @@
                                 "d214041": 2,
                                 "d214051": 1,
                                 "d214006": 1,
-                                "d214017": 1,
-                                "d214040": 1
+                                "d214040": 1,
+                                "d214017": 1
                             }
                         }
                     },
