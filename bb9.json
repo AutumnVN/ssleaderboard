@@ -1,7 +1,7 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1784104492",
+            "LastRefreshTime": "1784105092",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
@@ -19315,7 +19315,7 @@
                     "Id": "700412551",
                     "NickName": "Viola",
                     "HeadIcon": 130008,
-                    "Score": 792202,
+                    "Score": 813208,
                     "Rank": 59,
                     "TitlePrefix": 35,
                     "TitleSuffix": 2,
@@ -19482,7 +19482,7 @@
                             "BuildCode": "AAAAcgAAAJ4AAAB+MAYB7AXGgBgMBmwwGFEA"
                         },
                         {
-                            "BuildScore": 8550,
+                            "BuildScore": 9405,
                             "Chars": [
                                 {
                                     "Id": 127,
@@ -19497,7 +19497,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 232803,
+                            "LevelScore": 253809,
                             "LevelId": 21,
                             "Discs": [
                                 214005,
@@ -19509,15 +19509,23 @@
                             ],
                             "Potentials": [
                                 {
-                                    "PotentialId": 512702,
-                                    "Level": 1
-                                },
-                                {
                                     "PotentialId": 512704,
                                     "Level": 1
                                 },
                                 {
+                                    "PotentialId": 512702,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512707,
+                                    "Level": 6
+                                },
+                                {
                                     "PotentialId": 512706,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512708,
                                     "Level": 6
                                 },
                                 {
@@ -19533,18 +19541,6 @@
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 512707,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512709,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512708,
-                                    "Level": 2
-                                },
-                                {
                                     "PotentialId": 513021,
                                     "Level": 1
                                 },
@@ -19553,7 +19549,7 @@
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 513029,
+                                    "PotentialId": 513025,
                                     "Level": 6
                                 },
                                 {
@@ -19565,11 +19561,11 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 513025,
-                                    "Level": 6
+                                    "PotentialId": 513030,
+                                    "Level": 3
                                 },
                                 {
-                                    "PotentialId": 513030,
+                                    "PotentialId": 513029,
                                     "Level": 2
                                 },
                                 {
@@ -19585,65 +19581,66 @@
                                     "Level": 6
                                 },
                                 {
+                                    "PotentialId": 512541,
+                                    "Level": 5
+                                },
+                                {
                                     "PotentialId": 512531,
                                     "Level": 6
                                 },
                                 {
                                     "PotentialId": 512526,
-                                    "Level": 4
+                                    "Level": 3
                                 },
                                 {
                                     "PotentialId": 512530,
                                     "Level": 2
-                                },
-                                {
-                                    "PotentialId": 512541,
-                                    "Level": 3
                                 }
                             ],
                             "Notes": [
                                 {
                                     "Tid": 90018,
-                                    "Qty": 23
+                                    "Qty": 47
                                 },
                                 {
                                     "Tid": 90013,
-                                    "Qty": 13
+                                    "Qty": 17
                                 },
                                 {
                                     "Tid": 90012,
-                                    "Qty": 9
+                                    "Qty": 17
                                 },
                                 {
                                     "Tid": 90016,
-                                    "Qty": 30
+                                    "Qty": 48
                                 },
                                 {
                                     "Tid": 90011,
-                                    "Qty": 30
+                                    "Qty": 17
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 9
                                 },
                                 {
                                     "Tid": 90017,
                                     "Qty": 26
                                 },
                                 {
-                                    "Tid": 90014,
-                                    "Qty": 1
-                                },
-                                {
                                     "Tid": 90015,
-                                    "Qty": 18
+                                    "Qty": 6
                                 }
                             ],
                             "ActiveSecondaryIds": [
-                                4005101,
+                                4005102,
                                 4005201,
                                 4026101,
+                                4026201,
                                 4021102,
                                 4021201
                             ],
-                            "RecordRank": "29",
-                            "BuildCode": "AAAAfwAAAIIAAAB9XbIjEADNgEBsAK0AWADA"
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAfwAAAIIAAAB9XbYjAADNgGAsAKzAWAFA"
                         }
                     ],
                     "Honors": [
@@ -33343,7 +33340,7 @@
                     ]
                 }
             ],
-            "Total": 14676,
+            "Total": 14678,
             "UsageByFloor": {
                 "20": [
                     {
@@ -40813,7 +40810,7 @@
                                 "id": "700412551",
                                 "name": "Viola",
                                 "rank": 59,
-                                "teamScore": 232803
+                                "teamScore": 253809
                             },
                             {
                                 "id": "700754461",
@@ -42413,7 +42410,7 @@
                                 "id": "700412551",
                                 "name": "Viola",
                                 "rank": 59,
-                                "teamScore": 232803
+                                "teamScore": 253809
                             },
                             {
                                 "id": "700754461",
@@ -44999,7 +44996,7 @@
                                 "id": "700412551",
                                 "name": "Viola",
                                 "rank": 59,
-                                "teamScore": 232803
+                                "teamScore": 253809
                             },
                             {
                                 "id": "700754461",
@@ -45049,8 +45046,8 @@
                                 "p512705": 12,
                                 "p512521": 12,
                                 "p512710": 11,
-                                "p512709": 11,
                                 "p512541": 11,
+                                "p512709": 10,
                                 "p512526": 7,
                                 "p512529": 5,
                                 "p513027": 2,
@@ -45065,15 +45062,15 @@
                                 "p512525": 13,
                                 "p513033": 13,
                                 "p513025": 13,
-                                "p513029": 13,
                                 "p512713": 12,
                                 "p513026": 12,
+                                "p513029": 12,
+                                "p512708": 11,
                                 "p512707": 11,
                                 "p512705": 11,
                                 "p512531": 11,
-                                "p512708": 10,
-                                "p512526": 4,
-                                "p512541": 4,
+                                "p512541": 5,
+                                "p512526": 3,
                                 "p512529": 1,
                                 "p512530": 1
                             },
@@ -45087,13 +45084,12 @@
                                 "p512521": 12,
                                 "p512530": 12,
                                 "p512710": 11,
-                                "p512709": 11,
-                                "p512541": 7,
+                                "p512709": 10,
+                                "p512541": 6,
+                                "p512526": 4,
                                 "p512529": 4,
-                                "p512526": 3,
                                 "p513027": 2,
                                 "p512531": 2,
-                                "p512708": 2,
                                 "p512742": 1,
                                 "p513026": 1,
                                 "p512703": 1,
@@ -45101,7 +45097,9 @@
                                 "p512522": 1,
                                 "p512713": 1,
                                 "p512543": 1,
+                                "p513029": 1,
                                 "p512705": 1,
+                                "p512708": 1,
                                 "p512527": 1
                             }
                         },
@@ -48610,7 +48608,7 @@
                                 "id": "700412551",
                                 "name": "Viola",
                                 "rank": 59,
-                                "teamScore": 232803
+                                "teamScore": 253809
                             },
                             {
                                 "id": "700754461",
@@ -48660,8 +48658,8 @@
                                 "p512705": 12,
                                 "p512521": 12,
                                 "p512710": 11,
-                                "p512709": 11,
                                 "p512541": 11,
+                                "p512709": 10,
                                 "p512526": 7,
                                 "p512529": 5,
                                 "p513027": 2,
@@ -48676,15 +48674,15 @@
                                 "p512525": 13,
                                 "p513033": 13,
                                 "p513025": 13,
-                                "p513029": 13,
                                 "p512713": 12,
                                 "p513026": 12,
+                                "p513029": 12,
+                                "p512708": 11,
                                 "p512707": 11,
                                 "p512705": 11,
                                 "p512531": 11,
-                                "p512708": 10,
-                                "p512526": 4,
-                                "p512541": 4,
+                                "p512541": 5,
+                                "p512526": 3,
                                 "p512529": 1,
                                 "p512530": 1
                             },
@@ -48698,13 +48696,12 @@
                                 "p512521": 12,
                                 "p512530": 12,
                                 "p512710": 11,
-                                "p512709": 11,
-                                "p512541": 7,
+                                "p512709": 10,
+                                "p512541": 6,
+                                "p512526": 4,
                                 "p512529": 4,
-                                "p512526": 3,
                                 "p513027": 2,
                                 "p512531": 2,
-                                "p512708": 2,
                                 "p512742": 1,
                                 "p513026": 1,
                                 "p512703": 1,
@@ -48712,7 +48709,9 @@
                                 "p512522": 1,
                                 "p512713": 1,
                                 "p512543": 1,
+                                "p513029": 1,
                                 "p512705": 1,
+                                "p512708": 1,
                                 "p512527": 1
                             }
                         },
@@ -50608,7 +50607,7 @@
             }
         },
         "jp": {
-            "LastRefreshTime": "1784104348",
+            "LastRefreshTime": "1784104949",
             "Rank": [
                 {
                     "Id": "300994285",
@@ -83356,7 +83355,7 @@
                     ]
                 }
             ],
-            "Total": 17001,
+            "Total": 17004,
             "UsageByFloor": {
                 "20": [
                     {
@@ -100421,7 +100420,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1784104760",
+            "LastRefreshTime": "1784105360",
             "Rank": [
                 {
                     "Id": "502462985",
@@ -117368,7 +117367,7 @@
                     "Honors": [
                         {
                             "Id": 112125,
-                            "AffinityLV": 49
+                            "AffinityLV": 50
                         },
                         {
                             "Id": 112127,
@@ -134225,7 +134224,7 @@
                     ]
                 }
             ],
-            "Total": 4545,
+            "Total": 4547,
             "UsageByFloor": {
                 "20": [
                     {
@@ -150421,7 +150420,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1784104542",
+            "LastRefreshTime": "1784105142",
             "Rank": [
                 {
                     "Id": "900343000",
@@ -346587,7 +346586,7 @@
                     "Honors": [
                         {
                             "Id": 112125,
-                            "AffinityLV": 49
+                            "AffinityLV": 50
                         },
                         {
                             "Id": 112127,
@@ -375540,11 +375539,358 @@
                     ]
                 },
                 {
+                    "Id": "700412551",
+                    "NickName": "Viola (EN)",
+                    "HeadIcon": 130008,
+                    "Score": 813208,
+                    "Rank": 380,
+                    "TitlePrefix": 35,
+                    "TitleSuffix": 2,
+                    "Teams": [
+                        {
+                            "BuildScore": 9330,
+                            "Chars": [
+                                {
+                                    "Id": 114,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 158,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 126,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 559399,
+                            "LevelId": 20,
+                            "Discs": [
+                                214029,
+                                214048,
+                                214027,
+                                214041,
+                                214040,
+                                214005
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 511404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511409,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511412,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 511443,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 515821,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515822,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515831,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515833,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515825,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 515843,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515826,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 512622,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512623,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512627,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512631,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512625,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512629,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 512641,
+                                    "Level": 4
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 32
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 18
+                                },
+                                {
+                                    "Tid": 90019,
+                                    "Qty": 34
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 5
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 7
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 29
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 21
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 25
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 3
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4029102,
+                                4029201,
+                                4048102,
+                                4048201,
+                                4027102,
+                                4027201
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAcgAAAJ4AAAB+MAYB7AXGgBgMBmwwGFEA"
+                        },
+                        {
+                            "BuildScore": 9405,
+                            "Chars": [
+                                {
+                                    "Id": 127,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 125,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 253809,
+                            "LevelId": 21,
+                            "Discs": [
+                                214005,
+                                214026,
+                                214021,
+                                214047,
+                                214031,
+                                214041
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 512704,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512702,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512707,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512706,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512708,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512713,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512705,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512710,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513030,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 513029,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 512523,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512521,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512525,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512541,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 512531,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512526,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 512530,
+                                    "Level": 2
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 47
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 17
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 17
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 48
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 17
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 9
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 6
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4005102,
+                                4005201,
+                                4026101,
+                                4026201,
+                                4021102,
+                                4021201
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAfwAAAIIAAAB9XbYjAADNgGAsAKzAWAFA"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 112135,
+                            "AffinityLV": 56
+                        },
+                        {
+                            "Id": 112156,
+                            "AffinityLV": 38
+                        },
+                        {
+                            "Id": 119901,
+                            "AffinityLV": 18
+                        }
+                    ]
+                },
+                {
                     "Id": "901119480",
                     "NickName": "KIRIN (TW)",
                     "HeadIcon": 130005,
                     "Score": 812086,
-                    "Rank": 380,
+                    "Rank": 381,
                     "TitlePrefix": 35,
                     "TitleSuffix": 16,
                     "Teams": [
@@ -375893,7 +376239,7 @@
                     "NickName": "EDGE (KR)",
                     "HeadIcon": 13403,
                     "Score": 809354,
-                    "Rank": 381,
+                    "Rank": 382,
                     "TitlePrefix": 23,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -376209,7 +376555,7 @@
                     "NickName": "명함시아 (KR)",
                     "HeadIcon": 14002,
                     "Score": 806063,
-                    "Rank": 382,
+                    "Rank": 383,
                     "TitlePrefix": 7,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -376533,7 +376879,7 @@
                     "NickName": "주단태 (KR)",
                     "HeadIcon": 13303,
                     "Score": 802121,
-                    "Rank": 383,
+                    "Rank": 384,
                     "TitlePrefix": 11,
                     "TitleSuffix": 36,
                     "Teams": [
@@ -376878,7 +377224,7 @@
                     "NickName": "나현 (KR)",
                     "HeadIcon": 12303,
                     "Score": 801702,
-                    "Rank": 384,
+                    "Rank": 385,
                     "TitlePrefix": 35,
                     "TitleSuffix": 36,
                     "Teams": [
@@ -377227,7 +377573,7 @@
                     "NickName": "아이돌 (KR)",
                     "HeadIcon": 11303,
                     "Score": 800267,
-                    "Rank": 385,
+                    "Rank": 386,
                     "TitlePrefix": 31,
                     "TitleSuffix": 8,
                     "Teams": [
@@ -377560,7 +377906,7 @@
                     "NickName": "在危險日中出來 (TW)",
                     "HeadIcon": 130005,
                     "Score": 798794,
-                    "Rank": 386,
+                    "Rank": 387,
                     "TitlePrefix": 21,
                     "TitleSuffix": 30,
                     "Teams": [
@@ -377900,7 +378246,7 @@
                     "NickName": "神奇水仙花 (TW)",
                     "HeadIcon": 11802,
                     "Score": 796778,
-                    "Rank": 387,
+                    "Rank": 388,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -378209,7 +378555,7 @@
                     "NickName": "새벽 (KR)",
                     "HeadIcon": 130008,
                     "Score": 796722,
-                    "Rank": 388,
+                    "Rank": 389,
                     "TitlePrefix": 11,
                     "TitleSuffix": 4,
                     "Teams": [
@@ -378542,7 +378888,7 @@
                     "NickName": "sukeb (KR)",
                     "HeadIcon": 130007,
                     "Score": 796701,
-                    "Rank": 389,
+                    "Rank": 390,
                     "TitlePrefix": 33,
                     "TitleSuffix": 32,
                     "Teams": [
@@ -378873,7 +379219,7 @@
                     "NickName": "星流 (TW)",
                     "HeadIcon": 13002,
                     "Score": 794864,
-                    "Rank": 390,
+                    "Rank": 391,
                     "TitlePrefix": 29,
                     "TitleSuffix": 30,
                     "Teams": [
@@ -379205,7 +379551,7 @@
                     "NickName": "마앟앟 (KR)",
                     "HeadIcon": 101,
                     "Score": 794395,
-                    "Rank": 391,
+                    "Rank": 392,
                     "TitlePrefix": 3,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -379531,356 +379877,6 @@
                         {
                             "Id": 112155,
                             "AffinityLV": 31
-                        },
-                        {
-                            "Id": 119901,
-                            "AffinityLV": 18
-                        }
-                    ]
-                },
-                {
-                    "Id": "700412551",
-                    "NickName": "Viola (EN)",
-                    "HeadIcon": 130008,
-                    "Score": 792202,
-                    "Rank": 392,
-                    "TitlePrefix": 35,
-                    "TitleSuffix": 2,
-                    "Teams": [
-                        {
-                            "BuildScore": 9330,
-                            "Chars": [
-                                {
-                                    "Id": 114,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 158,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 126,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 559399,
-                            "LevelId": 20,
-                            "Discs": [
-                                214029,
-                                214048,
-                                214027,
-                                214041,
-                                214040,
-                                214005
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 511404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511409,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511412,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 511443,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 515821,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515822,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515831,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515833,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515825,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 515843,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515826,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 512622,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512623,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512627,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512631,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512625,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512629,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 512641,
-                                    "Level": 4
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 32
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 18
-                                },
-                                {
-                                    "Tid": 90019,
-                                    "Qty": 34
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 5
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 7
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 29
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 21
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 25
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 3
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4029102,
-                                4029201,
-                                4048102,
-                                4048201,
-                                4027102,
-                                4027201
-                            ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAcgAAAJ4AAAB+MAYB7AXGgBgMBmwwGFEA"
-                        },
-                        {
-                            "BuildScore": 8550,
-                            "Chars": [
-                                {
-                                    "Id": 127,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 125,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 232803,
-                            "LevelId": 21,
-                            "Discs": [
-                                214005,
-                                214026,
-                                214021,
-                                214047,
-                                214031,
-                                214041
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 512702,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512704,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512706,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512713,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512705,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512710,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512707,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512709,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512708,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513030,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 512523,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512521,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512525,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512531,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512526,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 512530,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 512541,
-                                    "Level": 3
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 23
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 13
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 9
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 1
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 18
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4005101,
-                                4005201,
-                                4026101,
-                                4021102,
-                                4021201
-                            ],
-                            "RecordRank": "29",
-                            "BuildCode": "AAAAfwAAAIIAAAB9XbIjEADNgEBsAK0AWADA"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 112135,
-                            "AffinityLV": 56
-                        },
-                        {
-                            "Id": 112156,
-                            "AffinityLV": 38
                         },
                         {
                             "Id": 119901,
@@ -416241,8 +416237,8 @@
                     ]
                 }
             ],
-            "Total": 58727,
-            "LastRefreshTime": "1784104760",
+            "Total": 58734,
+            "LastRefreshTime": "1784105360",
             "UsageByFloor": {
                 "20": [
                     {
@@ -417736,48 +417732,48 @@
                                 "rank": 379
                             },
                             {
+                                "id": "700412551",
+                                "name": "Viola (EN)",
+                                "rank": 380
+                            },
+                            {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380
+                                "rank": 381
                             },
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381
+                                "rank": 382
                             },
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383
+                                "rank": 384
                             },
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384
+                                "rank": 385
                             },
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387
+                                "rank": 388
                             },
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388
+                                "rank": 389
                             },
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390
+                                "rank": 391
                             },
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391
-                            },
-                            {
-                                "id": "700412551",
-                                "name": "Viola (EN)",
                                 "rank": 392
                             },
                             {
@@ -419699,48 +419695,48 @@
                                 "rank": 379
                             },
                             {
+                                "id": "700412551",
+                                "name": "Viola (EN)",
+                                "rank": 380
+                            },
+                            {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380
+                                "rank": 381
                             },
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381
+                                "rank": 382
                             },
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383
+                                "rank": 384
                             },
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384
+                                "rank": 385
                             },
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387
+                                "rank": 388
                             },
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388
+                                "rank": 389
                             },
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390
+                                "rank": 391
                             },
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391
-                            },
-                            {
-                                "id": "700412551",
-                                "name": "Viola (EN)",
                                 "rank": 392
                             },
                             {
@@ -421552,44 +421548,44 @@
                                 "rank": 379
                             },
                             {
+                                "id": "700412551",
+                                "name": "Viola (EN)",
+                                "rank": 380
+                            },
+                            {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380
+                                "rank": 381
                             },
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381
+                                "rank": 382
                             },
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383
+                                "rank": 384
                             },
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384
+                                "rank": 385
                             },
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387
+                                "rank": 388
                             },
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388
+                                "rank": 389
                             },
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390
-                            },
-                            {
-                                "id": "700412551",
-                                "name": "Viola (EN)",
-                                "rank": 392
+                                "rank": 391
                             },
                             {
                                 "id": "909248420",
@@ -422292,12 +422288,12 @@
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385
+                                "rank": 386
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389
+                                "rank": 390
                             },
                             {
                                 "id": "900401240",
@@ -422635,12 +422631,12 @@
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385
+                                "rank": 386
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389
+                                "rank": 390
                             },
                             {
                                 "id": "900401240",
@@ -422958,12 +422954,12 @@
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385
+                                "rank": 386
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389
+                                "rank": 390
                             },
                             {
                                 "id": "900401240",
@@ -423196,7 +423192,7 @@
                             {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382
+                                "rank": 383
                             },
                             {
                                 "id": "701323465",
@@ -423354,7 +423350,7 @@
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391
+                                "rank": 392
                             },
                             {
                                 "id": "700699110",
@@ -423497,7 +423493,7 @@
                             {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382
+                                "rank": 383
                             },
                             {
                                 "id": "701323465",
@@ -423590,7 +423586,7 @@
                             {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382
+                                "rank": 383
                             },
                             {
                                 "id": "701323465",
@@ -423686,7 +423682,7 @@
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386
+                                "rank": 387
                             }
                         ],
                         "rank": 12
@@ -423719,7 +423715,7 @@
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386
+                                "rank": 387
                             }
                         ],
                         "rank": 12
@@ -423752,7 +423748,7 @@
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386
+                                "rank": 387
                             }
                         ],
                         "rank": 12
@@ -424767,34 +424763,34 @@
                                 "rank": 377
                             },
                             {
+                                "id": "700412551",
+                                "name": "Viola (EN)",
+                                "rank": 380
+                            },
+                            {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382
+                                "rank": 383
                             },
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383
+                                "rank": 384
                             },
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386
+                                "rank": 387
                             },
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388
+                                "rank": 389
                             },
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390
-                            },
-                            {
-                                "id": "700412551",
-                                "name": "Viola (EN)",
-                                "rank": 392
+                                "rank": 391
                             },
                             {
                                 "id": "500461054",
@@ -425875,29 +425871,29 @@
                                 "rank": 377
                             },
                             {
+                                "id": "700412551",
+                                "name": "Viola (EN)",
+                                "rank": 380
+                            },
+                            {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383
+                                "rank": 384
                             },
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386
+                                "rank": 387
                             },
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388
+                                "rank": 389
                             },
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390
-                            },
-                            {
-                                "id": "700412551",
-                                "name": "Viola (EN)",
-                                "rank": 392
+                                "rank": 391
                             },
                             {
                                 "id": "500402196",
@@ -426970,27 +426966,27 @@
                             {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382
+                                "rank": 383
                             },
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383
+                                "rank": 384
                             },
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386
+                                "rank": 387
                             },
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388
+                                "rank": 389
                             },
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390
+                                "rank": 391
                             },
                             {
                                 "id": "500461054",
@@ -427858,22 +427854,22 @@
                             {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380
+                                "rank": 381
                             },
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381
+                                "rank": 382
                             },
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387
+                                "rank": 388
                             },
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391
+                                "rank": 392
                             },
                             {
                                 "id": "909248420",
@@ -428631,17 +428627,17 @@
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381
+                                "rank": 382
                             },
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387
+                                "rank": 388
                             },
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391
+                                "rank": 392
                             },
                             {
                                 "id": "909248420",
@@ -429269,22 +429265,22 @@
                             {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380
+                                "rank": 381
                             },
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381
+                                "rank": 382
                             },
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387
+                                "rank": 388
                             },
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391
+                                "rank": 392
                             },
                             {
                                 "id": "909248420",
@@ -429755,14 +429751,14 @@
                                 "rank": 371
                             },
                             {
-                                "id": "504824800",
-                                "name": "명함시아 (KR)",
-                                "rank": 382
-                            },
-                            {
                                 "id": "700412551",
                                 "name": "Viola (EN)",
-                                "rank": 392
+                                "rank": 380
+                            },
+                            {
+                                "id": "504824800",
+                                "name": "명함시아 (KR)",
+                                "rank": 383
                             },
                             {
                                 "id": "500461054",
@@ -430148,12 +430144,12 @@
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385
+                                "rank": 386
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389
+                                "rank": 390
                             },
                             {
                                 "id": "704610392",
@@ -430326,12 +430322,12 @@
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385
+                                "rank": 386
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389
+                                "rank": 390
                             },
                             {
                                 "id": "704610392",
@@ -430489,12 +430485,12 @@
                             {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380
+                                "rank": 381
                             },
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384
+                                "rank": 385
                             },
                             {
                                 "id": "900401240",
@@ -430662,7 +430658,7 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389
+                                "rank": 390
                             },
                             {
                                 "id": "700504351",
@@ -430790,7 +430786,7 @@
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384
+                                "rank": 385
                             },
                             {
                                 "id": "900401240",
@@ -431074,7 +431070,7 @@
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384
+                                "rank": 385
                             },
                             {
                                 "id": "700699110",
@@ -431238,7 +431234,7 @@
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385
+                                "rank": 386
                             },
                             {
                                 "id": "704610392",
@@ -433054,58 +433050,58 @@
                                 "rank": 379
                             },
                             {
+                                "id": "700412551",
+                                "name": "Viola (EN)",
+                                "rank": 380
+                            },
+                            {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380
+                                "rank": 381
                             },
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381
+                                "rank": 382
                             },
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383
+                                "rank": 384
                             },
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384
+                                "rank": 385
                             },
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385
+                                "rank": 386
                             },
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387
+                                "rank": 388
                             },
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388
+                                "rank": 389
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389
+                                "rank": 390
                             },
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390
+                                "rank": 391
                             },
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391
-                            },
-                            {
-                                "id": "700412551",
-                                "name": "Viola (EN)",
                                 "rank": 392
                             },
                             {
@@ -435187,58 +435183,58 @@
                                 "rank": 379
                             },
                             {
+                                "id": "700412551",
+                                "name": "Viola (EN)",
+                                "rank": 380
+                            },
+                            {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380
+                                "rank": 381
                             },
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381
+                                "rank": 382
                             },
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383
+                                "rank": 384
                             },
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384
+                                "rank": 385
                             },
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385
+                                "rank": 386
                             },
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387
+                                "rank": 388
                             },
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388
+                                "rank": 389
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389
+                                "rank": 390
                             },
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390
+                                "rank": 391
                             },
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391
-                            },
-                            {
-                                "id": "700412551",
-                                "name": "Viola (EN)",
                                 "rank": 392
                             },
                             {
@@ -437095,49 +437091,49 @@
                                 "rank": 379
                             },
                             {
+                                "id": "700412551",
+                                "name": "Viola (EN)",
+                                "rank": 380
+                            },
+                            {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380
+                                "rank": 381
                             },
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381
+                                "rank": 382
                             },
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383
+                                "rank": 384
                             },
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384
+                                "rank": 385
                             },
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385
+                                "rank": 386
                             },
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387
+                                "rank": 388
                             },
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388
+                                "rank": 389
                             },
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390
-                            },
-                            {
-                                "id": "700412551",
-                                "name": "Viola (EN)",
-                                "rank": 392
+                                "rank": 391
                             },
                             {
                                 "id": "909248420",
@@ -438443,34 +438439,34 @@
                                 "rank": 377
                             },
                             {
+                                "id": "700412551",
+                                "name": "Viola (EN)",
+                                "rank": 380
+                            },
+                            {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382
+                                "rank": 383
                             },
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383
+                                "rank": 384
                             },
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386
+                                "rank": 387
                             },
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388
+                                "rank": 389
                             },
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390
-                            },
-                            {
-                                "id": "700412551",
-                                "name": "Viola (EN)",
-                                "rank": 392
+                                "rank": 391
                             },
                             {
                                 "id": "500461054",
@@ -439598,32 +439594,32 @@
                             {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380
+                                "rank": 381
                             },
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381
+                                "rank": 382
                             },
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385
+                                "rank": 386
                             },
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387
+                                "rank": 388
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389
+                                "rank": 390
                             },
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391
+                                "rank": 392
                             },
                             {
                                 "id": "909248420",
@@ -440704,29 +440700,29 @@
                                 "rank": 377
                             },
                             {
+                                "id": "700412551",
+                                "name": "Viola (EN)",
+                                "rank": 380
+                            },
+                            {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383
+                                "rank": 384
                             },
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386
+                                "rank": 387
                             },
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388
+                                "rank": 389
                             },
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390
-                            },
-                            {
-                                "id": "700412551",
-                                "name": "Viola (EN)",
-                                "rank": 392
+                                "rank": 391
                             },
                             {
                                 "id": "500402196",
@@ -441804,27 +441800,27 @@
                             {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382
+                                "rank": 383
                             },
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383
+                                "rank": 384
                             },
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386
+                                "rank": 387
                             },
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388
+                                "rank": 389
                             },
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390
+                                "rank": 391
                             },
                             {
                                 "id": "500461054",
@@ -442892,27 +442888,27 @@
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381
+                                "rank": 382
                             },
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385
+                                "rank": 386
                             },
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387
+                                "rank": 388
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389
+                                "rank": 390
                             },
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391
+                                "rank": 392
                             },
                             {
                                 "id": "909248420",
@@ -443625,22 +443621,22 @@
                             {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380
+                                "rank": 381
                             },
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381
+                                "rank": 382
                             },
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387
+                                "rank": 388
                             },
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391
+                                "rank": 392
                             },
                             {
                                 "id": "909248420",
@@ -444193,12 +444189,12 @@
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385
+                                "rank": 386
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389
+                                "rank": 390
                             },
                             {
                                 "id": "900401240",
@@ -444634,14 +444630,14 @@
                                 "rank": 371
                             },
                             {
-                                "id": "504824800",
-                                "name": "명함시아 (KR)",
-                                "rank": 382
-                            },
-                            {
                                 "id": "700412551",
                                 "name": "Viola (EN)",
-                                "rank": 392
+                                "rank": 380
+                            },
+                            {
+                                "id": "504824800",
+                                "name": "명함시아 (KR)",
+                                "rank": 383
                             },
                             {
                                 "id": "500461054",
@@ -444974,17 +444970,17 @@
                             {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380
+                                "rank": 381
                             },
                             {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382
+                                "rank": 383
                             },
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384
+                                "rank": 385
                             },
                             {
                                 "id": "900401240",
@@ -445297,12 +445293,12 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389
+                                "rank": 390
                             },
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391
+                                "rank": 392
                             },
                             {
                                 "id": "700504351",
@@ -445560,12 +445556,12 @@
                             {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382
+                                "rank": 383
                             },
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384
+                                "rank": 385
                             },
                             {
                                 "id": "900401240",
@@ -445708,7 +445704,7 @@
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384
+                                "rank": 385
                             },
                             {
                                 "id": "700699110",
@@ -445841,7 +445837,7 @@
                             {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382
+                                "rank": 383
                             },
                             {
                                 "id": "900401240",
@@ -446163,7 +446159,7 @@
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386
+                                "rank": 387
                             }
                         ],
                         "rank": 20
@@ -446201,7 +446197,7 @@
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386
+                                "rank": 387
                             }
                         ],
                         "rank": 20
@@ -446234,7 +446230,7 @@
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386
+                                "rank": 387
                             }
                         ],
                         "rank": 22
@@ -447793,7 +447789,7 @@
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384,
+                                "rank": 385,
                                 "teamScore": 639466
                             },
                             {
@@ -447925,7 +447921,7 @@
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383,
+                                "rank": 384,
                                 "teamScore": 604042
                             },
                             {
@@ -447937,7 +447933,7 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390,
+                                "rank": 391,
                                 "teamScore": 601682
                             },
                             {
@@ -447949,7 +447945,7 @@
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381,
+                                "rank": 382,
                                 "teamScore": 601153
                             },
                             {
@@ -448015,7 +448011,7 @@
                             {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380,
+                                "rank": 381,
                                 "teamScore": 578760
                             },
                             {
@@ -448081,7 +448077,7 @@
                             {
                                 "id": "700412551",
                                 "name": "Viola (EN)",
-                                "rank": 392,
+                                "rank": 380,
                                 "teamScore": 559399
                             },
                             {
@@ -448441,7 +448437,7 @@
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388,
+                                "rank": 389,
                                 "teamScore": 428469
                             },
                             {
@@ -448549,7 +448545,7 @@
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387,
+                                "rank": 388,
                                 "teamScore": 354940
                             },
                             {
@@ -448863,7 +448859,7 @@
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385,
+                                "rank": 386,
                                 "teamScore": 583459
                             },
                             {
@@ -448911,7 +448907,7 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389,
+                                "rank": 390,
                                 "teamScore": 507225
                             },
                             {
@@ -449159,7 +449155,7 @@
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391,
+                                "rank": 392,
                                 "teamScore": 436588
                             },
                             {
@@ -449269,7 +449265,7 @@
                             {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382,
+                                "rank": 383,
                                 "teamScore": 647290
                             },
                             {
@@ -449485,7 +449481,7 @@
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386,
+                                "rank": 387,
                                 "teamScore": 477478
                             },
                             {
@@ -450035,7 +450031,7 @@
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388,
+                                "rank": 389,
                                 "teamScore": 368253
                             },
                             {
@@ -450143,7 +450139,7 @@
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386,
+                                "rank": 387,
                                 "teamScore": 321316
                             },
                             {
@@ -450587,7 +450583,7 @@
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383,
+                                "rank": 384,
                                 "teamScore": 198079
                             },
                             {
@@ -450623,7 +450619,7 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390,
+                                "rank": 391,
                                 "teamScore": 193182
                             },
                             {
@@ -451075,7 +451071,7 @@
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387,
+                                "rank": 388,
                                 "teamScore": 441838
                             },
                             {
@@ -451159,7 +451155,7 @@
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391,
+                                "rank": 392,
                                 "teamScore": 357807
                             },
                             {
@@ -451405,7 +451401,7 @@
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381,
+                                "rank": 382,
                                 "teamScore": 208201
                             },
                             {
@@ -451887,16 +451883,16 @@
                                 "teamScore": 282500
                             },
                             {
+                                "id": "700412551",
+                                "name": "Viola (EN)",
+                                "rank": 380,
+                                "teamScore": 253809
+                            },
+                            {
                                 "id": "500335094",
                                 "name": "Irony (KR)",
                                 "rank": 358,
                                 "teamScore": 245078
-                            },
-                            {
-                                "id": "700412551",
-                                "name": "Viola (EN)",
-                                "rank": 392,
-                                "teamScore": 232803
                             },
                             {
                                 "id": "509814379",
@@ -452071,7 +452067,7 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389,
+                                "rank": 390,
                                 "teamScore": 289476
                             },
                             {
@@ -452277,7 +452273,7 @@
                             {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382,
+                                "rank": 383,
                                 "teamScore": 158773
                             },
                             {
@@ -452509,7 +452505,7 @@
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384,
+                                "rank": 385,
                                 "teamScore": 162236
                             },
                             {
@@ -452761,7 +452757,7 @@
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385,
+                                "rank": 386,
                                 "teamScore": 216808
                             }
                         ],
@@ -452837,7 +452833,7 @@
                             {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380,
+                                "rank": 381,
                                 "teamScore": 233326
                             },
                             {
@@ -454521,7 +454517,7 @@
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384,
+                                "rank": 385,
                                 "teamScore": 639466
                             },
                             {
@@ -454653,7 +454649,7 @@
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383,
+                                "rank": 384,
                                 "teamScore": 604042
                             },
                             {
@@ -454665,7 +454661,7 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390,
+                                "rank": 391,
                                 "teamScore": 601682
                             },
                             {
@@ -454677,7 +454673,7 @@
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381,
+                                "rank": 382,
                                 "teamScore": 601153
                             },
                             {
@@ -454743,7 +454739,7 @@
                             {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380,
+                                "rank": 381,
                                 "teamScore": 578760
                             },
                             {
@@ -454809,7 +454805,7 @@
                             {
                                 "id": "700412551",
                                 "name": "Viola (EN)",
-                                "rank": 392,
+                                "rank": 380,
                                 "teamScore": 559399
                             },
                             {
@@ -455175,7 +455171,7 @@
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388,
+                                "rank": 389,
                                 "teamScore": 428469
                             },
                             {
@@ -455289,7 +455285,7 @@
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387,
+                                "rank": 388,
                                 "teamScore": 354940
                             },
                             {
@@ -455379,7 +455375,7 @@
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385,
+                                "rank": 386,
                                 "teamScore": 216808
                             }
                         ],
@@ -455663,7 +455659,7 @@
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388,
+                                "rank": 389,
                                 "teamScore": 368253
                             },
                             {
@@ -455771,7 +455767,7 @@
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386,
+                                "rank": 387,
                                 "teamScore": 321316
                             },
                             {
@@ -456215,7 +456211,7 @@
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383,
+                                "rank": 384,
                                 "teamScore": 198079
                             },
                             {
@@ -456251,7 +456247,7 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390,
+                                "rank": 391,
                                 "teamScore": 193182
                             },
                             {
@@ -456715,7 +456711,7 @@
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387,
+                                "rank": 388,
                                 "teamScore": 441838
                             },
                             {
@@ -456799,7 +456795,7 @@
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391,
+                                "rank": 392,
                                 "teamScore": 357807
                             },
                             {
@@ -457045,7 +457041,7 @@
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381,
+                                "rank": 382,
                                 "teamScore": 208201
                             },
                             {
@@ -457401,7 +457397,7 @@
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385,
+                                "rank": 386,
                                 "teamScore": 583459
                             },
                             {
@@ -457449,7 +457445,7 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389,
+                                "rank": 390,
                                 "teamScore": 507225
                             },
                             {
@@ -457949,7 +457945,7 @@
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391,
+                                "rank": 392,
                                 "teamScore": 436588
                             },
                             {
@@ -458027,7 +458023,7 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389,
+                                "rank": 390,
                                 "teamScore": 289476
                             },
                             {
@@ -458255,16 +458251,16 @@
                                 "teamScore": 282500
                             },
                             {
+                                "id": "700412551",
+                                "name": "Viola (EN)",
+                                "rank": 380,
+                                "teamScore": 253809
+                            },
+                            {
                                 "id": "500335094",
                                 "name": "Irony (KR)",
                                 "rank": 358,
                                 "teamScore": 245078
-                            },
-                            {
-                                "id": "700412551",
-                                "name": "Viola (EN)",
-                                "rank": 392,
-                                "teamScore": 232803
                             },
                             {
                                 "id": "509814379",
@@ -458451,7 +458447,7 @@
                             {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382,
+                                "rank": 383,
                                 "teamScore": 158773
                             },
                             {
@@ -458561,7 +458557,7 @@
                             {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382,
+                                "rank": 383,
                                 "teamScore": 647290
                             },
                             {
@@ -458779,7 +458775,7 @@
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384,
+                                "rank": 385,
                                 "teamScore": 162236
                             },
                             {
@@ -459159,7 +459155,7 @@
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386,
+                                "rank": 387,
                                 "teamScore": 477478
                             },
                             {
@@ -459197,7 +459193,7 @@
                             {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380,
+                                "rank": 381,
                                 "teamScore": 233326
                             },
                             {
@@ -461109,7 +461105,7 @@
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384,
+                                "rank": 385,
                                 "teamScore": 639466
                             },
                             {
@@ -461241,7 +461237,7 @@
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383,
+                                "rank": 384,
                                 "teamScore": 604042
                             },
                             {
@@ -461253,7 +461249,7 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390,
+                                "rank": 391,
                                 "teamScore": 601682
                             },
                             {
@@ -461265,7 +461261,7 @@
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381,
+                                "rank": 382,
                                 "teamScore": 601153
                             },
                             {
@@ -461331,7 +461327,7 @@
                             {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380,
+                                "rank": 381,
                                 "teamScore": 578760
                             },
                             {
@@ -461397,7 +461393,7 @@
                             {
                                 "id": "700412551",
                                 "name": "Viola (EN)",
-                                "rank": 392,
+                                "rank": 380,
                                 "teamScore": 559399
                             },
                             {
@@ -461757,7 +461753,7 @@
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388,
+                                "rank": 389,
                                 "teamScore": 428469
                             },
                             {
@@ -461865,7 +461861,7 @@
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387,
+                                "rank": 388,
                                 "teamScore": 354940
                             },
                             {
@@ -462276,7 +462272,7 @@
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391,
+                                "rank": 392,
                                 "teamScore": 436588
                             },
                             {
@@ -462534,7 +462530,7 @@
                             {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382,
+                                "rank": 383,
                                 "teamScore": 647290
                             },
                             {
@@ -463125,7 +463121,7 @@
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385,
+                                "rank": 386,
                                 "teamScore": 583459
                             },
                             {
@@ -463173,7 +463169,7 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389,
+                                "rank": 390,
                                 "teamScore": 507225
                             },
                             {
@@ -463603,7 +463599,7 @@
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386,
+                                "rank": 387,
                                 "teamScore": 477478
                             },
                             {
@@ -464907,7 +464903,7 @@
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387,
+                                "rank": 388,
                                 "teamScore": 441838
                             },
                             {
@@ -464991,7 +464987,7 @@
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391,
+                                "rank": 392,
                                 "teamScore": 357807
                             },
                             {
@@ -465237,7 +465233,7 @@
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381,
+                                "rank": 382,
                                 "teamScore": 208201
                             },
                             {
@@ -465796,7 +465792,7 @@
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388,
+                                "rank": 389,
                                 "teamScore": 368253
                             },
                             {
@@ -465904,7 +465900,7 @@
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386,
+                                "rank": 387,
                                 "teamScore": 321316
                             },
                             {
@@ -466348,7 +466344,7 @@
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383,
+                                "rank": 384,
                                 "teamScore": 198079
                             },
                             {
@@ -466384,7 +466380,7 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390,
+                                "rank": 391,
                                 "teamScore": 193182
                             },
                             {
@@ -466919,7 +466915,7 @@
                             {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382,
+                                "rank": 383,
                                 "teamScore": 158773
                             },
                             {
@@ -467262,16 +467258,16 @@
                                 "teamScore": 282500
                             },
                             {
+                                "id": "700412551",
+                                "name": "Viola (EN)",
+                                "rank": 380,
+                                "teamScore": 253809
+                            },
+                            {
                                 "id": "500335094",
                                 "name": "Irony (KR)",
                                 "rank": 358,
                                 "teamScore": 245078
-                            },
-                            {
-                                "id": "700412551",
-                                "name": "Viola (EN)",
-                                "rank": 392,
-                                "teamScore": 232803
                             },
                             {
                                 "id": "509814379",
@@ -467334,10 +467330,10 @@
                                 "p512707": 27,
                                 "p512713": 27,
                                 "p512530": 27,
-                                "p512709": 26,
                                 "p512541": 26,
                                 "p512531": 26,
                                 "p512708": 25,
+                                "p512709": 25,
                                 "p512705": 25,
                                 "p512710": 23,
                                 "p512526": 22,
@@ -467360,12 +467356,12 @@
                                 "p513026": 28,
                                 "p512707": 26,
                                 "p512713": 26,
-                                "p513029": 26,
-                                "p512708": 22,
+                                "p513029": 25,
+                                "p512708": 23,
                                 "p512531": 21,
                                 "p512705": 19,
-                                "p512541": 17,
-                                "p512526": 13,
+                                "p512541": 18,
+                                "p512526": 12,
                                 "p512741": 4,
                                 "p512529": 3,
                                 "p513030": 2,
@@ -467380,19 +467376,19 @@
                                 "p512704": 28,
                                 "p512530": 26,
                                 "p513030": 26,
-                                "p512709": 25,
+                                "p512709": 24,
                                 "p512710": 23,
                                 "p512521": 22,
-                                "p512526": 9,
+                                "p512526": 10,
                                 "p512529": 9,
-                                "p512541": 9,
+                                "p512541": 8,
                                 "p512522": 7,
                                 "p512705": 6,
                                 "p512531": 5,
-                                "p512708": 3,
+                                "p513029": 3,
                                 "p513028": 2,
                                 "p513027": 2,
-                                "p513029": 2,
+                                "p512708": 2,
                                 "p512742": 1,
                                 "p513026": 1,
                                 "p512703": 1,
@@ -467835,7 +467831,7 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389,
+                                "rank": 390,
                                 "teamScore": 289476
                             },
                             {
@@ -468097,7 +468093,7 @@
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384,
+                                "rank": 385,
                                 "teamScore": 162236
                             },
                             {
@@ -468655,7 +468651,7 @@
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385,
+                                "rank": 386,
                                 "teamScore": 216808
                             }
                         ],
@@ -468785,7 +468781,7 @@
                             {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380,
+                                "rank": 381,
                                 "teamScore": 233326
                             },
                             {
@@ -470863,7 +470859,7 @@
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387,
+                                "rank": 388,
                                 "teamScore": 441838
                             },
                             {
@@ -470947,7 +470943,7 @@
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391,
+                                "rank": 392,
                                 "teamScore": 357807
                             },
                             {
@@ -471193,7 +471189,7 @@
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381,
+                                "rank": 382,
                                 "teamScore": 208201
                             },
                             {
@@ -472820,7 +472816,7 @@
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384,
+                                "rank": 385,
                                 "teamScore": 639466
                             },
                             {
@@ -472952,7 +472948,7 @@
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383,
+                                "rank": 384,
                                 "teamScore": 604042
                             },
                             {
@@ -472964,7 +472960,7 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390,
+                                "rank": 391,
                                 "teamScore": 601682
                             },
                             {
@@ -472976,7 +472972,7 @@
                             {
                                 "id": "500354385",
                                 "name": "EDGE (KR)",
-                                "rank": 381,
+                                "rank": 382,
                                 "teamScore": 601153
                             },
                             {
@@ -473042,7 +473038,7 @@
                             {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380,
+                                "rank": 381,
                                 "teamScore": 578760
                             },
                             {
@@ -473108,7 +473104,7 @@
                             {
                                 "id": "700412551",
                                 "name": "Viola (EN)",
-                                "rank": 392,
+                                "rank": 380,
                                 "teamScore": 559399
                             },
                             {
@@ -473474,7 +473470,7 @@
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388,
+                                "rank": 389,
                                 "teamScore": 428469
                             },
                             {
@@ -473588,7 +473584,7 @@
                             {
                                 "id": "901186344",
                                 "name": "神奇水仙花 (TW)",
-                                "rank": 387,
+                                "rank": 388,
                                 "teamScore": 354940
                             },
                             {
@@ -473678,7 +473674,7 @@
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385,
+                                "rank": 386,
                                 "teamScore": 216808
                             }
                         ],
@@ -474071,7 +474067,7 @@
                             {
                                 "id": "500547246",
                                 "name": "마앟앟 (KR)",
-                                "rank": 391,
+                                "rank": 392,
                                 "teamScore": 436588
                             },
                             {
@@ -474149,7 +474145,7 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389,
+                                "rank": 390,
                                 "teamScore": 289476
                             },
                             {
@@ -474669,7 +474665,7 @@
                             {
                                 "id": "500631859",
                                 "name": "새벽 (KR)",
-                                "rank": 388,
+                                "rank": 389,
                                 "teamScore": 368253
                             },
                             {
@@ -474777,7 +474773,7 @@
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386,
+                                "rank": 387,
                                 "teamScore": 321316
                             },
                             {
@@ -475221,7 +475217,7 @@
                             {
                                 "id": "500532115",
                                 "name": "주단태 (KR)",
-                                "rank": 383,
+                                "rank": 384,
                                 "teamScore": 198079
                             },
                             {
@@ -475257,7 +475253,7 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 390,
+                                "rank": 391,
                                 "teamScore": 193182
                             },
                             {
@@ -475714,7 +475710,7 @@
                             {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382,
+                                "rank": 383,
                                 "teamScore": 647290
                             },
                             {
@@ -476073,7 +476069,7 @@
                             {
                                 "id": "501393217",
                                 "name": "나현 (KR)",
-                                "rank": 384,
+                                "rank": 385,
                                 "teamScore": 162236
                             },
                             {
@@ -476475,7 +476471,7 @@
                             {
                                 "id": "500344597",
                                 "name": "아이돌 (KR)",
-                                "rank": 385,
+                                "rank": 386,
                                 "teamScore": 583459
                             },
                             {
@@ -476523,7 +476519,7 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 389,
+                                "rank": 390,
                                 "teamScore": 507225
                             },
                             {
@@ -477332,7 +477328,7 @@
                             {
                                 "id": "504824800",
                                 "name": "명함시아 (KR)",
-                                "rank": 382,
+                                "rank": 383,
                                 "teamScore": 158773
                             },
                             {
@@ -477675,16 +477671,16 @@
                                 "teamScore": 282500
                             },
                             {
+                                "id": "700412551",
+                                "name": "Viola (EN)",
+                                "rank": 380,
+                                "teamScore": 253809
+                            },
+                            {
                                 "id": "500335094",
                                 "name": "Irony (KR)",
                                 "rank": 358,
                                 "teamScore": 245078
-                            },
-                            {
-                                "id": "700412551",
-                                "name": "Viola (EN)",
-                                "rank": 392,
-                                "teamScore": 232803
                             },
                             {
                                 "id": "509814379",
@@ -477747,10 +477743,10 @@
                                 "p512707": 27,
                                 "p512713": 27,
                                 "p512530": 27,
-                                "p512709": 26,
                                 "p512541": 26,
                                 "p512531": 26,
                                 "p512708": 25,
+                                "p512709": 25,
                                 "p512705": 25,
                                 "p512710": 23,
                                 "p512526": 22,
@@ -477773,12 +477769,12 @@
                                 "p513026": 28,
                                 "p512707": 26,
                                 "p512713": 26,
-                                "p513029": 26,
-                                "p512708": 22,
+                                "p513029": 25,
+                                "p512708": 23,
                                 "p512531": 21,
                                 "p512705": 19,
-                                "p512541": 17,
-                                "p512526": 13,
+                                "p512541": 18,
+                                "p512526": 12,
                                 "p512741": 4,
                                 "p512529": 3,
                                 "p513030": 2,
@@ -477793,19 +477789,19 @@
                                 "p512704": 28,
                                 "p512530": 26,
                                 "p513030": 26,
-                                "p512709": 25,
+                                "p512709": 24,
                                 "p512710": 23,
                                 "p512521": 22,
-                                "p512526": 9,
+                                "p512526": 10,
                                 "p512529": 9,
-                                "p512541": 9,
+                                "p512541": 8,
                                 "p512522": 7,
                                 "p512705": 6,
                                 "p512531": 5,
-                                "p512708": 3,
+                                "p513029": 3,
                                 "p513028": 2,
                                 "p513027": 2,
-                                "p513029": 2,
+                                "p512708": 2,
                                 "p512742": 1,
                                 "p513026": 1,
                                 "p512703": 1,
@@ -478152,7 +478148,7 @@
                             {
                                 "id": "900377897",
                                 "name": "在危險日中出來 (TW)",
-                                "rank": 386,
+                                "rank": 387,
                                 "teamScore": 477478
                             },
                             {
@@ -479270,7 +479266,7 @@
                             {
                                 "id": "901119480",
                                 "name": "KIRIN (TW)",
-                                "rank": 380,
+                                "rank": 381,
                                 "teamScore": 233326
                             },
                             {
