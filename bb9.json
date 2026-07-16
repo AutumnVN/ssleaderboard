@@ -1,13 +1,13 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1784235923",
+            "LastRefreshTime": "1784236523",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "HeadIcon": 15602,
                 "Score": 330262,
-                "Rank": 881,
+                "Rank": 882,
                 "TitlePrefix": 33,
                 "TitleSuffix": 36,
                 "Teams": [
@@ -3103,10 +3103,17 @@
                     ],
                     "Honors": [
                         {
-                            "Id": 111009
+                            "Id": 112145,
+                            "AffinityLV": 30
                         },
-                        {},
-                        {}
+                        {
+                            "Id": 112133,
+                            "AffinityLV": 30
+                        },
+                        {
+                            "Id": 112143,
+                            "AffinityLV": 30
+                        }
                     ]
                 },
                 {
@@ -33413,7 +33420,7 @@
                     ]
                 }
             ],
-            "Total": 15059,
+            "Total": 15061,
             "UsageByFloor": {
                 "20": [
                     {
@@ -50249,7 +50256,7 @@
             }
         },
         "jp": {
-            "LastRefreshTime": "1784235830",
+            "LastRefreshTime": "1784236430",
             "Rank": [
                 {
                     "Id": "300994285",
@@ -100056,7 +100063,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1784236221",
+            "LastRefreshTime": "1784236821",
             "Rank": [
                 {
                     "Id": "502462985",
@@ -150035,7 +150042,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1784235979",
+            "LastRefreshTime": "1784236579",
             "Rank": [
                 {
                     "Id": "900343000",
@@ -199667,7 +199674,7 @@
             }
         },
         "cn": {
-            "LastRefreshTime": "1784232204",
+            "LastRefreshTime": "1784236404",
             "Rank": [
                 {
                     "Id": "100481860",
@@ -233125,7 +233132,7 @@
                     ]
                 }
             ],
-            "Total": 18199,
+            "Total": 18207,
             "UsageByFloor": {
                 "20": [
                     {
@@ -272787,10 +272794,17 @@
                     ],
                     "Honors": [
                         {
-                            "Id": 111009
+                            "Id": 112145,
+                            "AffinityLV": 30
                         },
-                        {},
-                        {}
+                        {
+                            "Id": 112133,
+                            "AffinityLV": 30
+                        },
+                        {
+                            "Id": 112143,
+                            "AffinityLV": 30
+                        }
                     ]
                 },
                 {
@@ -415683,8 +415697,8 @@
                     ]
                 }
             ],
-            "Total": 60512,
-            "LastRefreshTime": "1784236221",
+            "Total": 60522,
+            "LastRefreshTime": "1784236821",
             "UsageByFloor": {
                 "20": [
                     {
