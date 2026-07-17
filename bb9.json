@@ -1,13 +1,13 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1784291735",
+            "LastRefreshTime": "1784292336",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "HeadIcon": 15602,
                 "Score": 330262,
-                "Rank": 894,
+                "Rank": 895,
                 "TitlePrefix": 33,
                 "TitleSuffix": 36,
                 "Teams": [
@@ -33404,7 +33404,7 @@
                     ]
                 }
             ],
-            "Total": 15188,
+            "Total": 15191,
             "UsageByFloor": {
                 "20": [
                     {
@@ -50244,7 +50244,7 @@
             }
         },
         "jp": {
-            "LastRefreshTime": "1784291665",
+            "LastRefreshTime": "1784292265",
             "Rank": [
                 {
                     "Id": "300994285",
@@ -65243,8 +65243,8 @@
                 },
                 {
                     "Id": "300363716",
-                    "NickName": "きょうきょう",
-                    "HeadIcon": 101,
+                    "NickName": "a_無課金",
+                    "HeadIcon": 15602,
                     "Score": 1241613,
                     "Rank": 47,
                     "TitlePrefix": 1,
@@ -65570,9 +65570,16 @@
                         }
                     ],
                     "Honors": [
-                        {},
-                        {},
-                        {}
+                        {
+                            "Id": 112130,
+                            "AffinityLV": 42
+                        },
+                        {
+                            "Id": 118071
+                        },
+                        {
+                            "Id": 117041
+                        }
                     ]
                 },
                 {
@@ -65917,11 +65924,352 @@
                     ]
                 },
                 {
+                    "Id": "300513145",
+                    "NickName": "しまむら",
+                    "HeadIcon": 11603,
+                    "Score": 1221552,
+                    "Rank": 49,
+                    "TitlePrefix": 25,
+                    "TitleSuffix": 2,
+                    "Teams": [
+                        {
+                            "BuildScore": 9360,
+                            "Chars": [
+                                {
+                                    "Id": 114,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 126,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 158,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 960067,
+                            "LevelId": 20,
+                            "Discs": [
+                                214048,
+                                214029,
+                                214019,
+                                214040,
+                                214041,
+                                214005
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 511403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511409,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511443,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511411,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 511412,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 511410,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 512621,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512622,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512641,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512627,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512625,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512631,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512629,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515822,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515821,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515831,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515833,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515843,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515825,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 515832,
+                                    "Level": 2
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90019,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 15
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 34
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 16
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 6
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 21
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 24
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 11
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 19
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4048101,
+                                4048201,
+                                4029102,
+                                4029201,
+                                4019101,
+                                4019201
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAcgAAAH4AAACeMAZRbAbMMBgRgMgAGQwG"
+                        },
+                        {
+                            "BuildScore": 9255,
+                            "Chars": [
+                                {
+                                    "Id": 156,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 149,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 159,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 261485,
+                            "LevelId": 21,
+                            "Discs": [
+                                214036,
+                                214023,
+                                214037,
+                                214052,
+                                214042,
+                                214033
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 515602,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515601,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515610,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515643,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515613,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515606,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515612,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515611,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514923,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514922,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514931,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514933,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514932,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514930,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 515924,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515921,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515929,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515926,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515933,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515942,
+                                    "Level": 4
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 22
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 8
+                                },
+                                {
+                                    "Tid": 90021,
+                                    "Qty": 44
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 10
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 33
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 22
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 8
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 38
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4036101,
+                                4036201,
+                                4023101,
+                                4023201,
+                                4037102,
+                                4037202
+                            ],
+                            "RecordRank": "31",
+                            "BuildCode": "AAAAnAAAAJUAAACfwYALbAZgAFsMAJGAAGwg"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 112116,
+                            "AffinityLV": 40
+                        },
+                        {},
+                        {}
+                    ]
+                },
+                {
                     "Id": "300420267",
                     "NickName": "Robin",
                     "HeadIcon": 14403,
                     "Score": 1210958,
-                    "Rank": 49,
+                    "Rank": 50,
                     "TitlePrefix": 3,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -66259,347 +66607,6 @@
                         {
                             "Id": 117041
                         }
-                    ]
-                },
-                {
-                    "Id": "300513145",
-                    "NickName": "しまむら",
-                    "HeadIcon": 11603,
-                    "Score": 1207377,
-                    "Rank": 50,
-                    "TitlePrefix": 25,
-                    "TitleSuffix": 2,
-                    "Teams": [
-                        {
-                            "BuildScore": 9360,
-                            "Chars": [
-                                {
-                                    "Id": 114,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 126,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 158,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 945892,
-                            "LevelId": 20,
-                            "Discs": [
-                                214048,
-                                214029,
-                                214019,
-                                214040,
-                                214041,
-                                214005
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 511403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511409,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511443,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511411,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 511412,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 511410,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 512621,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512622,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512641,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512627,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512625,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512631,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512629,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515822,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515821,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515831,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515833,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515843,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515825,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 515832,
-                                    "Level": 2
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90019,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 15
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 34
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 6
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 21
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 24
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 11
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 19
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4048101,
-                                4048201,
-                                4029102,
-                                4029201,
-                                4019101,
-                                4019201
-                            ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAcgAAAH4AAACeMAZRbAbMMBgRgMgAGQwG"
-                        },
-                        {
-                            "BuildScore": 9255,
-                            "Chars": [
-                                {
-                                    "Id": 156,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 149,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 159,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 261485,
-                            "LevelId": 21,
-                            "Discs": [
-                                214036,
-                                214023,
-                                214037,
-                                214052,
-                                214042,
-                                214033
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 515602,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515601,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515610,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515643,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515613,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515606,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515612,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515611,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514923,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514922,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514931,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514933,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514932,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514930,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 515924,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515921,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515929,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515926,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515933,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515942,
-                                    "Level": 4
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 22
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 8
-                                },
-                                {
-                                    "Tid": 90021,
-                                    "Qty": 44
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 10
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 33
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 22
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 8
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 38
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4036101,
-                                4036201,
-                                4023101,
-                                4023201,
-                                4037102,
-                                4037202
-                            ],
-                            "RecordRank": "31",
-                            "BuildCode": "AAAAnAAAAJUAAACfwYALbAZgAFsMAJGAAGwg"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 112116,
-                            "AffinityLV": 40
-                        },
-                        {},
-                        {}
                     ]
                 },
                 {
@@ -82967,7 +82974,7 @@
                     ]
                 }
             ],
-            "Total": 17745,
+            "Total": 17747,
             "UsageByFloor": {
                 "20": [
                     {
@@ -83162,7 +83169,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47
                             },
                             {
@@ -83171,13 +83178,13 @@
                                 "rank": 48
                             },
                             {
-                                "id": "300420267",
-                                "name": "Robin",
+                                "id": "300513145",
+                                "name": "しまむら",
                                 "rank": 49
                             },
                             {
-                                "id": "300513145",
-                                "name": "しまむら",
+                                "id": "300420267",
+                                "name": "Robin",
                                 "rank": 50
                             },
                             {
@@ -83545,7 +83552,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47
                             },
                             {
@@ -83554,13 +83561,13 @@
                                 "rank": 48
                             },
                             {
-                                "id": "300420267",
-                                "name": "Robin",
+                                "id": "300513145",
+                                "name": "しまむら",
                                 "rank": 49
                             },
                             {
-                                "id": "300513145",
-                                "name": "しまむら",
+                                "id": "300420267",
+                                "name": "Robin",
                                 "rank": 50
                             },
                             {
@@ -83922,13 +83929,13 @@
                                 "rank": 48
                             },
                             {
-                                "id": "300420267",
-                                "name": "Robin",
+                                "id": "300513145",
+                                "name": "しまむら",
                                 "rank": 49
                             },
                             {
-                                "id": "300513145",
-                                "name": "しまむら",
+                                "id": "300420267",
+                                "name": "Robin",
                                 "rank": 50
                             },
                             {
@@ -84406,7 +84413,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47
                             },
                             {
@@ -84721,13 +84728,13 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47
                             },
                             {
                                 "id": "300420267",
                                 "name": "Robin",
-                                "rank": 49
+                                "rank": 50
                             },
                             {
                                 "id": "305262404",
@@ -84940,7 +84947,7 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin",
-                                "rank": 49
+                                "rank": 50
                             },
                             {
                                 "id": "305262404",
@@ -85142,13 +85149,13 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47
                             },
                             {
                                 "id": "300420267",
                                 "name": "Robin",
-                                "rank": 49
+                                "rank": 50
                             },
                             {
                                 "id": "305262404",
@@ -85335,7 +85342,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47
                             },
                             {
@@ -85494,7 +85501,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら",
-                                "rank": 50
+                                "rank": 49
                             },
                             {
                                 "id": "300386837",
@@ -85647,7 +85654,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら",
-                                "rank": 50
+                                "rank": 49
                             },
                             {
                                 "id": "300386837",
@@ -85853,7 +85860,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら",
-                                "rank": 50
+                                "rank": 49
                             },
                             {
                                 "id": "300345134",
@@ -86413,7 +86420,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47
                             },
                             {
@@ -86422,13 +86429,13 @@
                                 "rank": 48
                             },
                             {
-                                "id": "300420267",
-                                "name": "Robin",
+                                "id": "300513145",
+                                "name": "しまむら",
                                 "rank": 49
                             },
                             {
-                                "id": "300513145",
-                                "name": "しまむら",
+                                "id": "300420267",
+                                "name": "Robin",
                                 "rank": 50
                             },
                             {
@@ -86806,7 +86813,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47
                             },
                             {
@@ -86815,13 +86822,13 @@
                                 "rank": 48
                             },
                             {
-                                "id": "300420267",
-                                "name": "Robin",
+                                "id": "300513145",
+                                "name": "しまむら",
                                 "rank": 49
                             },
                             {
-                                "id": "300513145",
-                                "name": "しまむら",
+                                "id": "300420267",
+                                "name": "Robin",
                                 "rank": 50
                             },
                             {
@@ -87193,13 +87200,13 @@
                                 "rank": 48
                             },
                             {
-                                "id": "300420267",
-                                "name": "Robin",
+                                "id": "300513145",
+                                "name": "しまむら",
                                 "rank": 49
                             },
                             {
-                                "id": "300513145",
-                                "name": "しまむら",
+                                "id": "300420267",
+                                "name": "Robin",
                                 "rank": 50
                             },
                             {
@@ -87477,13 +87484,13 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47
                             },
                             {
                                 "id": "300420267",
                                 "name": "Robin",
-                                "rank": 49
+                                "rank": 50
                             },
                             {
                                 "id": "305262404",
@@ -87696,7 +87703,7 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin",
-                                "rank": 49
+                                "rank": 50
                             },
                             {
                                 "id": "305262404",
@@ -87909,7 +87916,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら",
-                                "rank": 50
+                                "rank": 49
                             },
                             {
                                 "id": "300511011",
@@ -88122,7 +88129,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら",
-                                "rank": 50
+                                "rank": 49
                             },
                             {
                                 "id": "300511011",
@@ -88314,13 +88321,13 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47
                             },
                             {
                                 "id": "300420267",
                                 "name": "Robin",
-                                "rank": 49
+                                "rank": 50
                             },
                             {
                                 "id": "305262404",
@@ -88507,7 +88514,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47
                             },
                             {
@@ -88734,7 +88741,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら",
-                                "rank": 50
+                                "rank": 49
                             },
                             {
                                 "id": "300511011",
@@ -88992,7 +88999,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47
                             },
                             {
@@ -89538,16 +89545,16 @@
                                 "teamScore": 992821
                             },
                             {
+                                "id": "300513145",
+                                "name": "しまむら",
+                                "rank": 49,
+                                "teamScore": 960067
+                            },
+                            {
                                 "id": "302025826",
                                 "name": "ちびロボ",
                                 "rank": 71,
                                 "teamScore": 960019
-                            },
-                            {
-                                "id": "300513145",
-                                "name": "しまむら",
-                                "rank": 50,
-                                "teamScore": 945892
                             },
                             {
                                 "id": "300335640",
@@ -89678,7 +89685,7 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin",
-                                "rank": 49,
+                                "rank": 50,
                                 "teamScore": 680285
                             },
                             {
@@ -89897,7 +89904,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47,
                                 "teamScore": 709552
                             },
@@ -90344,7 +90351,7 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin",
-                                "rank": 49,
+                                "rank": 50,
                                 "teamScore": 530673
                             },
                             {
@@ -90587,7 +90594,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47,
                                 "teamScore": 532061
                             },
@@ -90712,7 +90719,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら",
-                                "rank": 50,
+                                "rank": 49,
                                 "teamScore": 261485
                             },
                             {
@@ -91200,16 +91207,16 @@
                                 "teamScore": 992821
                             },
                             {
+                                "id": "300513145",
+                                "name": "しまむら",
+                                "rank": 49,
+                                "teamScore": 960067
+                            },
+                            {
                                 "id": "302025826",
                                 "name": "ちびロボ",
                                 "rank": 71,
                                 "teamScore": 960019
-                            },
-                            {
-                                "id": "300513145",
-                                "name": "しまむら",
-                                "rank": 50,
-                                "teamScore": 945892
                             },
                             {
                                 "id": "300335640",
@@ -91340,7 +91347,7 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin",
-                                "rank": 49,
+                                "rank": 50,
                                 "teamScore": 680285
                             },
                             {
@@ -91644,7 +91651,7 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin",
-                                "rank": 49,
+                                "rank": 50,
                                 "teamScore": 530673
                             },
                             {
@@ -91930,7 +91937,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら",
-                                "rank": 50,
+                                "rank": 49,
                                 "teamScore": 261485
                             },
                             {
@@ -92003,7 +92010,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47,
                                 "teamScore": 532061
                             },
@@ -92163,7 +92170,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47,
                                 "teamScore": 709552
                             },
@@ -92762,16 +92769,16 @@
                                 "teamScore": 992821
                             },
                             {
+                                "id": "300513145",
+                                "name": "しまむら",
+                                "rank": 49,
+                                "teamScore": 960067
+                            },
+                            {
                                 "id": "302025826",
                                 "name": "ちびロボ",
                                 "rank": 71,
                                 "teamScore": 960019
-                            },
-                            {
-                                "id": "300513145",
-                                "name": "しまむら",
-                                "rank": 50,
-                                "teamScore": 945892
                             },
                             {
                                 "id": "300335640",
@@ -92902,7 +92909,7 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin",
-                                "rank": 49,
+                                "rank": 50,
                                 "teamScore": 680285
                             },
                             {
@@ -93188,7 +93195,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47,
                                 "teamScore": 709552
                             },
@@ -94551,7 +94558,7 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin",
-                                "rank": 49,
+                                "rank": 50,
                                 "teamScore": 530673
                             },
                             {
@@ -95056,7 +95063,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47,
                                 "teamScore": 532061
                             },
@@ -95833,7 +95840,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら",
-                                "rank": 50,
+                                "rank": 49,
                                 "teamScore": 261485
                             },
                             {
@@ -96914,16 +96921,16 @@
                                 "teamScore": 992821
                             },
                             {
+                                "id": "300513145",
+                                "name": "しまむら",
+                                "rank": 49,
+                                "teamScore": 960067
+                            },
+                            {
                                 "id": "302025826",
                                 "name": "ちびロボ",
                                 "rank": 71,
                                 "teamScore": 960019
-                            },
-                            {
-                                "id": "300513145",
-                                "name": "しまむら",
-                                "rank": 50,
-                                "teamScore": 945892
                             },
                             {
                                 "id": "300335640",
@@ -97054,7 +97061,7 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin",
-                                "rank": 49,
+                                "rank": 50,
                                 "teamScore": 680285
                             },
                             {
@@ -97346,7 +97353,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47,
                                 "teamScore": 709552
                             },
@@ -97517,7 +97524,7 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin",
-                                "rank": 49,
+                                "rank": 50,
                                 "teamScore": 530673
                             },
                             {
@@ -97996,7 +98003,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら",
-                                "rank": 50,
+                                "rank": 49,
                                 "teamScore": 261485
                             },
                             {
@@ -98539,7 +98546,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう",
+                                "name": "a_無課金",
                                 "rank": 47,
                                 "teamScore": 532061
                             },
@@ -149875,7 +149882,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1784291794",
+            "LastRefreshTime": "1784292394",
             "Rank": [
                 {
                     "Id": "900343000",
@@ -286420,8 +286427,8 @@
                 },
                 {
                     "Id": "300363716",
-                    "NickName": "きょうきょう (JP)",
-                    "HeadIcon": 101,
+                    "NickName": "a_無課金 (JP)",
+                    "HeadIcon": 15602,
                     "Score": 1241613,
                     "Rank": 116,
                     "TitlePrefix": 1,
@@ -286747,9 +286754,16 @@
                         }
                     ],
                     "Honors": [
-                        {},
-                        {},
-                        {}
+                        {
+                            "Id": 112130,
+                            "AffinityLV": 42
+                        },
+                        {
+                            "Id": 118071
+                        },
+                        {
+                            "Id": 117041
+                        }
                     ]
                 },
                 {
@@ -288798,11 +288812,352 @@
                     ]
                 },
                 {
+                    "Id": "300513145",
+                    "NickName": "しまむら (JP)",
+                    "HeadIcon": 11603,
+                    "Score": 1221552,
+                    "Rank": 123,
+                    "TitlePrefix": 25,
+                    "TitleSuffix": 2,
+                    "Teams": [
+                        {
+                            "BuildScore": 9360,
+                            "Chars": [
+                                {
+                                    "Id": 114,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 126,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 158,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 960067,
+                            "LevelId": 20,
+                            "Discs": [
+                                214048,
+                                214029,
+                                214019,
+                                214040,
+                                214041,
+                                214005
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 511403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511409,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511443,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511411,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 511412,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 511410,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 512621,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512622,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512641,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512627,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512625,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512631,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512629,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515822,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515821,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515831,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515833,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515843,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515825,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 515832,
+                                    "Level": 2
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90019,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 15
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 34
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 16
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 6
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 21
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 24
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 11
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 19
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4048101,
+                                4048201,
+                                4029102,
+                                4029201,
+                                4019101,
+                                4019201
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAcgAAAH4AAACeMAZRbAbMMBgRgMgAGQwG"
+                        },
+                        {
+                            "BuildScore": 9255,
+                            "Chars": [
+                                {
+                                    "Id": 156,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 149,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 159,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 261485,
+                            "LevelId": 21,
+                            "Discs": [
+                                214036,
+                                214023,
+                                214037,
+                                214052,
+                                214042,
+                                214033
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 515602,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515601,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515610,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515643,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515613,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515606,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515612,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515611,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514923,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514922,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514931,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514933,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514932,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514930,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 515924,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515921,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515929,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515926,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515933,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515942,
+                                    "Level": 4
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 22
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 8
+                                },
+                                {
+                                    "Tid": 90021,
+                                    "Qty": 44
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 10
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 33
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 22
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 8
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 38
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4036101,
+                                4036201,
+                                4023101,
+                                4023201,
+                                4037102,
+                                4037202
+                            ],
+                            "RecordRank": "31",
+                            "BuildCode": "AAAAnAAAAJUAAACfwYALbAZgAFsMAJGAAGwg"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 112116,
+                            "AffinityLV": 40
+                        },
+                        {},
+                        {}
+                    ]
+                },
+                {
                     "Id": "100551865",
                     "NickName": "CA (CN)",
                     "HeadIcon": 102,
                     "Score": 1221386,
-                    "Rank": 123,
+                    "Rank": 124,
                     "TitlePrefix": 21,
                     "TitleSuffix": 16,
                     "Teams": [
@@ -289132,7 +289487,7 @@
                     "NickName": "사쿠라바_에마 (KR)",
                     "HeadIcon": 130007,
                     "Score": 1211177,
-                    "Rank": 124,
+                    "Rank": 125,
                     "TitlePrefix": 29,
                     "TitleSuffix": 36,
                     "Teams": [
@@ -289471,7 +289826,7 @@
                     "NickName": "Robin (JP)",
                     "HeadIcon": 14403,
                     "Score": 1210958,
-                    "Rank": 125,
+                    "Rank": 126,
                     "TitlePrefix": 3,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -289809,347 +290164,6 @@
                         {
                             "Id": 117041
                         }
-                    ]
-                },
-                {
-                    "Id": "300513145",
-                    "NickName": "しまむら (JP)",
-                    "HeadIcon": 11603,
-                    "Score": 1207377,
-                    "Rank": 126,
-                    "TitlePrefix": 25,
-                    "TitleSuffix": 2,
-                    "Teams": [
-                        {
-                            "BuildScore": 9360,
-                            "Chars": [
-                                {
-                                    "Id": 114,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 126,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 158,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 945892,
-                            "LevelId": 20,
-                            "Discs": [
-                                214048,
-                                214029,
-                                214019,
-                                214040,
-                                214041,
-                                214005
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 511403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511409,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511443,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511411,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 511412,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 511410,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 512621,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512622,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512641,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512627,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512625,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512631,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512629,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515822,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515821,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515831,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515833,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515843,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515825,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 515832,
-                                    "Level": 2
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90019,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 15
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 34
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 6
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 21
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 24
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 11
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 19
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4048101,
-                                4048201,
-                                4029102,
-                                4029201,
-                                4019101,
-                                4019201
-                            ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAcgAAAH4AAACeMAZRbAbMMBgRgMgAGQwG"
-                        },
-                        {
-                            "BuildScore": 9255,
-                            "Chars": [
-                                {
-                                    "Id": 156,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 149,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 159,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 261485,
-                            "LevelId": 21,
-                            "Discs": [
-                                214036,
-                                214023,
-                                214037,
-                                214052,
-                                214042,
-                                214033
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 515602,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515601,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515610,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515643,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515613,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515606,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515612,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515611,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514923,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514922,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514931,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514933,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514932,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514930,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 515924,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515921,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515929,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515926,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515933,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515942,
-                                    "Level": 4
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 22
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 8
-                                },
-                                {
-                                    "Tid": 90021,
-                                    "Qty": 44
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 10
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 33
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 22
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 8
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 38
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4036101,
-                                4036201,
-                                4023101,
-                                4023201,
-                                4037102,
-                                4037202
-                            ],
-                            "RecordRank": "31",
-                            "BuildCode": "AAAAnAAAAJUAAACfwYALbAZgAFsMAJGAAGwg"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 112116,
-                            "AffinityLV": 40
-                        },
-                        {},
-                        {}
                     ]
                 },
                 {
@@ -415467,8 +415481,8 @@
                     ]
                 }
             ],
-            "Total": 61169,
-            "LastRefreshTime": "1784292048",
+            "Total": 61174,
+            "LastRefreshTime": "1784292394",
             "UsageByFloor": {
                 "20": [
                     {
@@ -415938,7 +415952,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116
                             },
                             {
@@ -415967,18 +415981,18 @@
                                 "rank": 122
                             },
                             {
+                                "id": "300513145",
+                                "name": "しまむら (JP)",
+                                "rank": 123
+                            },
+                            {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124
+                                "rank": 125
                             },
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125
-                            },
-                            {
-                                "id": "300513145",
-                                "name": "しまむら (JP)",
                                 "rank": 126
                             },
                             {
@@ -417951,7 +417965,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116
                             },
                             {
@@ -417980,18 +417994,18 @@
                                 "rank": 122
                             },
                             {
+                                "id": "300513145",
+                                "name": "しまむら (JP)",
+                                "rank": 123
+                            },
+                            {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124
+                                "rank": 125
                             },
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125
-                            },
-                            {
-                                "id": "300513145",
-                                "name": "しまむら (JP)",
                                 "rank": 126
                             },
                             {
@@ -419928,18 +419942,18 @@
                                 "rank": 122
                             },
                             {
+                                "id": "300513145",
+                                "name": "しまむら (JP)",
+                                "rank": 123
+                            },
+                            {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124
+                                "rank": 125
                             },
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125
-                            },
-                            {
-                                "id": "300513145",
-                                "name": "しまむら (JP)",
                                 "rank": 126
                             },
                             {
@@ -421423,7 +421437,7 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "300511011",
@@ -421746,7 +421760,7 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "300511011",
@@ -422059,7 +422073,7 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "300511011",
@@ -422514,7 +422528,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116
                             },
                             {
@@ -423356,7 +423370,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116
                             },
                             {
@@ -423367,17 +423381,17 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124
+                                "rank": 125
                             },
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125
+                                "rank": 126
                             },
                             {
                                 "id": "305262404",
@@ -424515,17 +424529,17 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124
+                                "rank": 125
                             },
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125
+                                "rank": 126
                             },
                             {
                                 "id": "305262404",
@@ -425612,7 +425626,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116
                             },
                             {
@@ -425623,17 +425637,17 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124
+                                "rank": 125
                             },
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125
+                                "rank": 126
                             },
                             {
                                 "id": "305262404",
@@ -426756,7 +426770,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら (JP)",
-                                "rank": 126
+                                "rank": 123
                             },
                             {
                                 "id": "700494617",
@@ -427564,7 +427578,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら (JP)",
-                                "rank": 126
+                                "rank": 123
                             },
                             {
                                 "id": "700494617",
@@ -428859,7 +428873,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116
                             },
                             {
@@ -429148,7 +429162,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら (JP)",
-                                "rank": 126
+                                "rank": 123
                             },
                             {
                                 "id": "501075409",
@@ -431134,7 +431148,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116
                             },
                             {
@@ -431163,18 +431177,18 @@
                                 "rank": 122
                             },
                             {
+                                "id": "300513145",
+                                "name": "しまむら (JP)",
+                                "rank": 123
+                            },
+                            {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124
+                                "rank": 125
                             },
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125
-                            },
-                            {
-                                "id": "300513145",
-                                "name": "しまむら (JP)",
                                 "rank": 126
                             },
                             {
@@ -433292,7 +433306,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116
                             },
                             {
@@ -433321,18 +433335,18 @@
                                 "rank": 122
                             },
                             {
+                                "id": "300513145",
+                                "name": "しまむら (JP)",
+                                "rank": 123
+                            },
+                            {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124
+                                "rank": 125
                             },
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125
-                            },
-                            {
-                                "id": "300513145",
-                                "name": "しまむら (JP)",
                                 "rank": 126
                             },
                             {
@@ -435379,18 +435393,18 @@
                                 "rank": 122
                             },
                             {
+                                "id": "300513145",
+                                "name": "しまむら (JP)",
+                                "rank": 123
+                            },
+                            {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124
+                                "rank": 125
                             },
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125
-                            },
-                            {
-                                "id": "300513145",
-                                "name": "しまむら (JP)",
                                 "rank": 126
                             },
                             {
@@ -437068,7 +437082,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116
                             },
                             {
@@ -437079,17 +437093,17 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124
+                                "rank": 125
                             },
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125
+                                "rank": 126
                             },
                             {
                                 "id": "305262404",
@@ -438310,14 +438324,14 @@
                                 "rank": 121
                             },
                             {
-                                "id": "100551865",
-                                "name": "CA (CN)",
+                                "id": "300513145",
+                                "name": "しまむら (JP)",
                                 "rank": 123
                             },
                             {
-                                "id": "300513145",
-                                "name": "しまむら (JP)",
-                                "rank": 126
+                                "id": "100551865",
+                                "name": "CA (CN)",
+                                "rank": 124
                             },
                             {
                                 "id": "300511011",
@@ -439370,17 +439384,17 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124
+                                "rank": 125
                             },
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125
+                                "rank": 126
                             },
                             {
                                 "id": "305262404",
@@ -440467,7 +440481,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116
                             },
                             {
@@ -440478,17 +440492,17 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124
+                                "rank": 125
                             },
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125
+                                "rank": 126
                             },
                             {
                                 "id": "305262404",
@@ -441654,14 +441668,14 @@
                                 "rank": 121
                             },
                             {
-                                "id": "100551865",
-                                "name": "CA (CN)",
+                                "id": "300513145",
+                                "name": "しまむら (JP)",
                                 "rank": 123
                             },
                             {
-                                "id": "300513145",
-                                "name": "しまむら (JP)",
-                                "rank": 126
+                                "id": "100551865",
+                                "name": "CA (CN)",
+                                "rank": 124
                             },
                             {
                                 "id": "300511011",
@@ -443180,14 +443194,14 @@
                                 "rank": 121
                             },
                             {
-                                "id": "100551865",
-                                "name": "CA (CN)",
+                                "id": "300513145",
+                                "name": "しまむら (JP)",
                                 "rank": 123
                             },
                             {
-                                "id": "300513145",
-                                "name": "しまむら (JP)",
-                                "rank": 126
+                                "id": "100551865",
+                                "name": "CA (CN)",
+                                "rank": 124
                             },
                             {
                                 "id": "300511011",
@@ -443699,7 +443713,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116
                             },
                             {
@@ -444370,7 +444384,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116
                             },
                             {
@@ -446093,6 +446107,12 @@
                                 "teamScore": 969679
                             },
                             {
+                                "id": "300513145",
+                                "name": "しまむら (JP)",
+                                "rank": 123,
+                                "teamScore": 960067
+                            },
+                            {
                                 "id": "302025826",
                                 "name": "ちびロボ (JP)",
                                 "rank": 178,
@@ -446115,12 +446135,6 @@
                                 "name": "Momoko (CN)",
                                 "rank": 134,
                                 "teamScore": 947774
-                            },
-                            {
-                                "id": "300513145",
-                                "name": "しまむら (JP)",
-                                "rank": 126,
-                                "teamScore": 945892
                             },
                             {
                                 "id": "100341572",
@@ -446737,7 +446751,7 @@
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124,
+                                "rank": 125,
                                 "teamScore": 689849
                             },
                             {
@@ -446785,7 +446799,7 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125,
+                                "rank": 126,
                                 "teamScore": 680285
                             },
                             {
@@ -448059,7 +448073,7 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": 604909
                             },
                             {
@@ -448294,7 +448308,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116,
                                 "teamScore": 709552
                             },
@@ -448983,7 +448997,7 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": 616477
                             },
                             {
@@ -449001,13 +449015,13 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125,
+                                "rank": 126,
                                 "teamScore": 530673
                             },
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124,
+                                "rank": 125,
                                 "teamScore": 521328
                             },
                             {
@@ -450781,7 +450795,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら (JP)",
-                                "rank": 126,
+                                "rank": 123,
                                 "teamScore": 261485
                             },
                             {
@@ -451180,7 +451194,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116,
                                 "teamScore": 532061
                             },
@@ -452761,6 +452775,12 @@
                                 "teamScore": 969679
                             },
                             {
+                                "id": "300513145",
+                                "name": "しまむら (JP)",
+                                "rank": 123,
+                                "teamScore": 960067
+                            },
+                            {
                                 "id": "302025826",
                                 "name": "ちびロボ (JP)",
                                 "rank": 178,
@@ -452783,12 +452803,6 @@
                                 "name": "Momoko (CN)",
                                 "rank": 134,
                                 "teamScore": 947774
-                            },
-                            {
-                                "id": "300513145",
-                                "name": "しまむら (JP)",
-                                "rank": 126,
-                                "teamScore": 945892
                             },
                             {
                                 "id": "100341572",
@@ -453405,7 +453419,7 @@
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124,
+                                "rank": 125,
                                 "teamScore": 689849
                             },
                             {
@@ -453453,7 +453467,7 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125,
+                                "rank": 126,
                                 "teamScore": 680285
                             },
                             {
@@ -454631,7 +454645,7 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": 616477
                             },
                             {
@@ -454649,13 +454663,13 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125,
+                                "rank": 126,
                                 "teamScore": 530673
                             },
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124,
+                                "rank": 125,
                                 "teamScore": 521328
                             },
                             {
@@ -456591,7 +456605,7 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": 604909
                             },
                             {
@@ -456771,7 +456785,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら (JP)",
-                                "rank": 126,
+                                "rank": 123,
                                 "teamScore": 261485
                             },
                             {
@@ -457018,7 +457032,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116,
                                 "teamScore": 709552
                             },
@@ -457490,7 +457504,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116,
                                 "teamScore": 532061
                             },
@@ -459269,6 +459283,12 @@
                                 "teamScore": 969679
                             },
                             {
+                                "id": "300513145",
+                                "name": "しまむら (JP)",
+                                "rank": 123,
+                                "teamScore": 960067
+                            },
+                            {
                                 "id": "302025826",
                                 "name": "ちびロボ (JP)",
                                 "rank": 178,
@@ -459291,12 +459311,6 @@
                                 "name": "Momoko (CN)",
                                 "rank": 134,
                                 "teamScore": 947774
-                            },
-                            {
-                                "id": "300513145",
-                                "name": "しまむら (JP)",
-                                "rank": 126,
-                                "teamScore": 945892
                             },
                             {
                                 "id": "100341572",
@@ -459913,7 +459927,7 @@
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124,
+                                "rank": 125,
                                 "teamScore": 689849
                             },
                             {
@@ -459961,7 +459975,7 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125,
+                                "rank": 126,
                                 "teamScore": 680285
                             },
                             {
@@ -461295,7 +461309,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116,
                                 "teamScore": 709552
                             },
@@ -462151,7 +462165,7 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": 604909
                             },
                             {
@@ -464542,7 +464556,7 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": 616477
                             },
                             {
@@ -464560,13 +464574,13 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125,
+                                "rank": 126,
                                 "teamScore": 530673
                             },
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124,
+                                "rank": 125,
                                 "teamScore": 521328
                             },
                             {
@@ -466159,7 +466173,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116,
                                 "teamScore": 532061
                             },
@@ -468154,7 +468168,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら (JP)",
-                                "rank": 126,
+                                "rank": 123,
                                 "teamScore": 261485
                             },
                             {
@@ -470758,6 +470772,12 @@
                                 "teamScore": 969679
                             },
                             {
+                                "id": "300513145",
+                                "name": "しまむら (JP)",
+                                "rank": 123,
+                                "teamScore": 960067
+                            },
+                            {
                                 "id": "302025826",
                                 "name": "ちびロボ (JP)",
                                 "rank": 178,
@@ -470780,12 +470800,6 @@
                                 "name": "Momoko (CN)",
                                 "rank": 134,
                                 "teamScore": 947774
-                            },
-                            {
-                                "id": "300513145",
-                                "name": "しまむら (JP)",
-                                "rank": 126,
-                                "teamScore": 945892
                             },
                             {
                                 "id": "100341572",
@@ -471402,7 +471416,7 @@
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124,
+                                "rank": 125,
                                 "teamScore": 689849
                             },
                             {
@@ -471450,7 +471464,7 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125,
+                                "rank": 126,
                                 "teamScore": 680285
                             },
                             {
@@ -472826,7 +472840,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116,
                                 "teamScore": 709552
                             },
@@ -473276,7 +473290,7 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": 616477
                             },
                             {
@@ -473294,13 +473308,13 @@
                             {
                                 "id": "300420267",
                                 "name": "Robin (JP)",
-                                "rank": 125,
+                                "rank": 126,
                                 "teamScore": 530673
                             },
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 124,
+                                "rank": 125,
                                 "teamScore": 521328
                             },
                             {
@@ -475297,7 +475311,7 @@
                             {
                                 "id": "100551865",
                                 "name": "CA (CN)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": 604909
                             },
                             {
@@ -475477,7 +475491,7 @@
                             {
                                 "id": "300513145",
                                 "name": "しまむら (JP)",
-                                "rank": 126,
+                                "rank": 123,
                                 "teamScore": 261485
                             },
                             {
@@ -476417,7 +476431,7 @@
                             },
                             {
                                 "id": "300363716",
-                                "name": "きょうきょう (JP)",
+                                "name": "a_無課金 (JP)",
                                 "rank": 116,
                                 "teamScore": 532061
                             },
