@@ -52704,7 +52704,7 @@
             }
         },
         "jp": {
-            "LastRefreshTime": "1785074232",
+            "LastRefreshTime": "1785074833",
             "Rank": [
                 {
                     "Id": "300338594",
@@ -86076,7 +86076,7 @@
                     ]
                 }
             ],
-            "Total": 24204,
+            "Total": 24215,
             "UsageByFloor": {
                 "20": [
                     {
@@ -102925,7 +102925,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1785074175",
+            "LastRefreshTime": "1785074775",
             "Rank": [
                 {
                     "Id": "502462985",
@@ -109407,7 +109407,7 @@
                     "Id": "500666969",
                     "NickName": "환상비늘",
                     "HeadIcon": 130007,
-                    "Score": 1709128,
+                    "Score": 1737014,
                     "Rank": 20,
                     "TitlePrefix": 9,
                     "TitleSuffix": 2,
@@ -109428,7 +109428,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 1543090,
+                            "LevelScore": 1570976,
                             "LevelId": 21,
                             "Discs": [
                                 214055,
@@ -111414,13 +111414,13 @@
                     "Id": "500519041",
                     "NickName": "네모메기",
                     "HeadIcon": 14401,
-                    "Score": 1616019,
+                    "Score": 1637432,
                     "Rank": 26,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Teams": [
                         {
-                            "BuildScore": 9450,
+                            "BuildScore": 9255,
                             "Chars": [
                                 {
                                     "Id": 144,
@@ -111435,7 +111435,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 882131,
+                            "LevelScore": 903544,
                             "LevelId": 21,
                             "Discs": [
                                 214026,
@@ -111447,12 +111447,20 @@
                             ],
                             "Potentials": [
                                 {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
                                     "PotentialId": 514403,
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 514404,
-                                    "Level": 1
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 6
                                 },
                                 {
                                     "PotentialId": 514410,
@@ -111463,20 +111471,8 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 514408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514405,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 4
-                                },
-                                {
                                     "PotentialId": 514409,
-                                    "Level": 3
+                                    "Level": 6
                                 },
                                 {
                                     "PotentialId": 513021,
@@ -111487,20 +111483,24 @@
                                     "Level": 1
                                 },
                                 {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
                                     "PotentialId": 513026,
                                     "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513030,
+                                    "Level": 2
                                 },
                                 {
                                     "PotentialId": 513033,
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
                                     "PotentialId": 513029,
-                                    "Level": 4
+                                    "Level": 2
                                 },
                                 {
                                     "PotentialId": 516023,
@@ -111511,7 +111511,7 @@
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 516043,
+                                    "PotentialId": 516033,
                                     "Level": 6
                                 },
                                 {
@@ -111523,58 +111523,58 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 516033,
+                                    "PotentialId": 516028,
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 516028,
-                                    "Level": 3
+                                    "PotentialId": 516043,
+                                    "Level": 2
                                 }
                             ],
                             "Notes": [
                                 {
                                     "Tid": 90012,
-                                    "Qty": 38
+                                    "Qty": 24
                                 },
                                 {
                                     "Tid": 90018,
-                                    "Qty": 51
+                                    "Qty": 37
                                 },
                                 {
                                     "Tid": 90013,
-                                    "Qty": 10
-                                },
-                                {
-                                    "Tid": 90016,
                                     "Qty": 16
                                 },
                                 {
-                                    "Tid": 90017,
-                                    "Qty": 49
+                                    "Tid": 90016,
+                                    "Qty": 14
                                 },
                                 {
-                                    "Tid": 90011,
-                                    "Qty": 19
+                                    "Tid": 90017,
+                                    "Qty": 29
                                 },
                                 {
                                     "Tid": 90015,
-                                    "Qty": 2
+                                    "Qty": 10
                                 },
                                 {
                                     "Tid": 90014,
-                                    "Qty": 1
+                                    "Qty": 3
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 28
                                 }
                             ],
                             "ActiveSecondaryIds": [
-                                4026101,
+                                4026102,
                                 4026201,
-                                4055101,
+                                4055102,
                                 4055201,
-                                4008103,
-                                4008202
+                                4008102,
+                                4008201
                             ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAkAAAAIIAAACgMgZjaADNgABMADADwGwG"
+                            "RecordRank": "31",
+                            "BuildCode": "AAAAkAAAAIIAAACgMAbDbADNgEAsADAGwGwC"
                         },
                         {
                             "BuildScore": 9420,
@@ -136818,7 +136818,7 @@
                     ]
                 }
             ],
-            "Total": 6505,
+            "Total": 6511,
             "UsageByFloor": {
                 "20": [
                     {
@@ -144084,7 +144084,7 @@
                                 "id": "500666969",
                                 "name": "환상비늘",
                                 "rank": 20,
-                                "teamScore": 1543090
+                                "teamScore": 1570976
                             },
                             {
                                 "id": "500434154",
@@ -144183,6 +144183,12 @@
                                 "teamScore": 948234
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기",
+                                "rank": 26,
+                                "teamScore": 903544
+                            },
+                            {
                                 "id": "500379967",
                                 "name": "뫼앵",
                                 "rank": 10,
@@ -144199,12 +144205,6 @@
                                 "name": "베스티나",
                                 "rank": 73,
                                 "teamScore": 899226
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기",
-                                "rank": 26,
-                                "teamScore": 882131
                             },
                             {
                                 "id": "500359056",
@@ -144846,7 +144846,7 @@
                                 "id": "500666969",
                                 "name": "환상비늘",
                                 "rank": 20,
-                                "teamScore": 1543090
+                                "teamScore": 1570976
                             },
                             {
                                 "id": "500434154",
@@ -144945,6 +144945,12 @@
                                 "teamScore": 948234
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기",
+                                "rank": 26,
+                                "teamScore": 903544
+                            },
+                            {
                                 "id": "500379967",
                                 "name": "뫼앵",
                                 "rank": 10,
@@ -144961,12 +144967,6 @@
                                 "name": "베스티나",
                                 "rank": 73,
                                 "teamScore": 899226
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기",
-                                "rank": 26,
-                                "teamScore": 882131
                             },
                             {
                                 "id": "500359056",
@@ -147875,7 +147875,7 @@
                                 "id": "500666969",
                                 "name": "환상비늘",
                                 "rank": 20,
-                                "teamScore": 1543090
+                                "teamScore": 1570976
                             },
                             {
                                 "id": "500434154",
@@ -147974,6 +147974,12 @@
                                 "teamScore": 948234
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기",
+                                "rank": 26,
+                                "teamScore": 903544
+                            },
+                            {
                                 "id": "500379967",
                                 "name": "뫼앵",
                                 "rank": 10,
@@ -147990,12 +147996,6 @@
                                 "name": "베스티나",
                                 "rank": 73,
                                 "teamScore": 899226
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기",
-                                "rank": 26,
-                                "teamScore": 882131
                             },
                             {
                                 "id": "500359056",
@@ -148374,9 +148374,9 @@
                                 "p516028": 78,
                                 "p516043": 75,
                                 "p514412": 69,
-                                "p513030": 67,
+                                "p513030": 68,
                                 "p513029": 52,
-                                "p514405": 27,
+                                "p514405": 26,
                                 "p513031": 22,
                                 "p514442": 20,
                                 "p514411": 15,
@@ -148400,11 +148400,11 @@
                                 "p513025": 74,
                                 "p516033": 71,
                                 "p516029": 66,
-                                "p516043": 63,
-                                "p516028": 61,
+                                "p516043": 62,
+                                "p516028": 62,
                                 "p514412": 38,
-                                "p514409": 35,
-                                "p513029": 33,
+                                "p514409": 36,
+                                "p513029": 32,
                                 "p514442": 7,
                                 "p513031": 7,
                                 "p514405": 2,
@@ -148418,17 +148418,17 @@
                                 "p516024": 82,
                                 "p513022": 82,
                                 "p513021": 82,
-                                "p513030": 67,
-                                "p514409": 47,
+                                "p513030": 68,
+                                "p514409": 46,
                                 "p514412": 31,
-                                "p514405": 25,
-                                "p513029": 19,
-                                "p516028": 17,
+                                "p514405": 24,
+                                "p513029": 20,
+                                "p516028": 16,
                                 "p513031": 15,
                                 "p516029": 15,
                                 "p514411": 13,
+                                "p516043": 13,
                                 "p514442": 13,
-                                "p516043": 12,
                                 "p513025": 8,
                                 "p513033": 7,
                                 "p516033": 7,
@@ -149995,7 +149995,7 @@
                                 "id": "500666969",
                                 "name": "환상비늘",
                                 "rank": 20,
-                                "teamScore": 1543090
+                                "teamScore": 1570976
                             },
                             {
                                 "id": "500434154",
@@ -150094,6 +150094,12 @@
                                 "teamScore": 948234
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기",
+                                "rank": 26,
+                                "teamScore": 903544
+                            },
+                            {
                                 "id": "500379967",
                                 "name": "뫼앵",
                                 "rank": 10,
@@ -150110,12 +150116,6 @@
                                 "name": "베스티나",
                                 "rank": 73,
                                 "teamScore": 899226
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기",
-                                "rank": 26,
-                                "teamScore": 882131
                             },
                             {
                                 "id": "500359056",
@@ -150494,9 +150494,9 @@
                                 "p516028": 78,
                                 "p516043": 75,
                                 "p514412": 69,
-                                "p513030": 67,
+                                "p513030": 68,
                                 "p513029": 52,
-                                "p514405": 27,
+                                "p514405": 26,
                                 "p513031": 22,
                                 "p514442": 20,
                                 "p514411": 15,
@@ -150520,11 +150520,11 @@
                                 "p513025": 74,
                                 "p516033": 71,
                                 "p516029": 66,
-                                "p516043": 63,
-                                "p516028": 61,
+                                "p516043": 62,
+                                "p516028": 62,
                                 "p514412": 38,
-                                "p514409": 35,
-                                "p513029": 33,
+                                "p514409": 36,
+                                "p513029": 32,
                                 "p514442": 7,
                                 "p513031": 7,
                                 "p514405": 2,
@@ -150538,17 +150538,17 @@
                                 "p516024": 82,
                                 "p513022": 82,
                                 "p513021": 82,
-                                "p513030": 67,
-                                "p514409": 47,
+                                "p513030": 68,
+                                "p514409": 46,
                                 "p514412": 31,
-                                "p514405": 25,
-                                "p513029": 19,
-                                "p516028": 17,
+                                "p514405": 24,
+                                "p513029": 20,
+                                "p516028": 16,
                                 "p513031": 15,
                                 "p516029": 15,
                                 "p514411": 13,
+                                "p516043": 13,
                                 "p514442": 13,
-                                "p516043": 12,
                                 "p513025": 8,
                                 "p513033": 7,
                                 "p516033": 7,
@@ -152169,7 +152169,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1785073989",
+            "LastRefreshTime": "1785074589",
             "Rank": [
                 {
                     "Id": "900343000",
@@ -159564,7 +159564,10 @@
                             "Id": 112158,
                             "AffinityLV": 42
                         },
-                        {}
+                        {
+                            "Id": 112144,
+                            "AffinityLV": 42
+                        }
                     ]
                 },
                 {
@@ -185811,7 +185814,7 @@
                     ]
                 }
             ],
-            "Total": 6909,
+            "Total": 6911,
             "UsageByFloor": {
                 "20": [
                     {
@@ -292418,11 +292421,332 @@
                     ]
                 },
                 {
+                    "Id": "500666969",
+                    "NickName": "환상비늘 (KR)",
+                    "HeadIcon": 130007,
+                    "Score": 1737014,
+                    "Rank": 121,
+                    "TitlePrefix": 9,
+                    "TitleSuffix": 2,
+                    "Teams": [
+                        {
+                            "BuildScore": 9840,
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 1570976,
+                            "LevelId": 21,
+                            "Discs": [
+                                214055,
+                                214008,
+                                214026,
+                                214031,
+                                214047,
+                                214056
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513029,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513030,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 5
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 43
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 41
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 23
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 13
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 30
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4055102,
+                                4055202,
+                                4008102,
+                                4008202,
+                                4026102,
+                                4026202
+                            ],
+                            "RecordRank": "33",
+                            "BuildCode": "AAAAkAAAAIIAAACgMAZDbADNgEAsADAGwGwF"
+                        },
+                        {
+                            "BuildScore": 9555,
+                            "Chars": [
+                                {
+                                    "Id": 110,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 142,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 145,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 166038,
+                            "LevelId": 20,
+                            "Discs": [
+                                214006,
+                                214004,
+                                214045,
+                                214043,
+                                214050,
+                                214011
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 511002,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511001,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511006,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511007,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511005,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511011,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 514223,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514222,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514225,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514233,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514230,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514242,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 514523,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514524,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514528,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514529,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514532,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514531,
+                                    "Level": 6
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90023,
+                                    "Qty": 32
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 16
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 31
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 33
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 10
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 32
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 3
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 28
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4006102,
+                                4006202,
+                                4004102,
+                                4004201,
+                                4045102,
+                                4045201
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAbgAAAI4AAACRzbAUAAZsAMAMIDAGG2AA"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 112144,
+                            "AffinityLV": 48
+                        },
+                        {
+                            "Id": 117001
+                        },
+                        {
+                            "Id": 118071
+                        }
+                    ]
+                },
+                {
                     "Id": "300845535",
                     "NickName": "もろこしソード (JP)",
                     "HeadIcon": 13502,
                     "Score": 1735331,
-                    "Rank": 121,
+                    "Rank": 122,
                     "TitlePrefix": 13,
                     "TitleSuffix": 8,
                     "Teams": [
@@ -292771,7 +293095,7 @@
                     "NickName": "ユウト77 (JP)",
                     "HeadIcon": 11303,
                     "Score": 1733616,
-                    "Rank": 122,
+                    "Rank": 123,
                     "TitlePrefix": 11,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -293109,7 +293433,7 @@
                     "NickName": "エール (JP)",
                     "HeadIcon": 13001,
                     "Score": 1724745,
-                    "Rank": 123,
+                    "Rank": 124,
                     "TitlePrefix": 13,
                     "TitleSuffix": 26,
                     "Teams": [
@@ -293439,327 +293763,6 @@
                         {
                             "Id": 112145,
                             "AffinityLV": 30
-                        }
-                    ]
-                },
-                {
-                    "Id": "500666969",
-                    "NickName": "환상비늘 (KR)",
-                    "HeadIcon": 130007,
-                    "Score": 1709128,
-                    "Rank": 124,
-                    "TitlePrefix": 9,
-                    "TitleSuffix": 2,
-                    "Teams": [
-                        {
-                            "BuildScore": 9840,
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 1543090,
-                            "LevelId": 21,
-                            "Discs": [
-                                214055,
-                                214008,
-                                214026,
-                                214031,
-                                214047,
-                                214056
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513029,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513030,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 5
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 43
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 41
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 23
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 13
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 30
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4055102,
-                                4055202,
-                                4008102,
-                                4008202,
-                                4026102,
-                                4026202
-                            ],
-                            "RecordRank": "33",
-                            "BuildCode": "AAAAkAAAAIIAAACgMAZDbADNgEAsADAGwGwF"
-                        },
-                        {
-                            "BuildScore": 9555,
-                            "Chars": [
-                                {
-                                    "Id": 110,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 142,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 145,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 166038,
-                            "LevelId": 20,
-                            "Discs": [
-                                214006,
-                                214004,
-                                214045,
-                                214043,
-                                214050,
-                                214011
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 511002,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511001,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511006,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511007,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511005,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511011,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 514223,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514222,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514225,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514233,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514230,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514242,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 514523,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514524,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514528,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514529,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514532,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514531,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90023,
-                                    "Qty": 32
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 31
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 33
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 10
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 32
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 3
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 28
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4006102,
-                                4006202,
-                                4004102,
-                                4004201,
-                                4045102,
-                                4045201
-                            ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAbgAAAI4AAACRzbAUAAZsAMAMIDAGG2AA"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 112144,
-                            "AffinityLV": 48
-                        },
-                        {
-                            "Id": 117001
-                        },
-                        {
-                            "Id": 118071
                         }
                     ]
                 },
@@ -300518,11 +300521,348 @@
                     ]
                 },
                 {
+                    "Id": "500519041",
+                    "NickName": "네모메기 (KR)",
+                    "HeadIcon": 14401,
+                    "Score": 1637432,
+                    "Rank": 145,
+                    "TitlePrefix": 1,
+                    "TitleSuffix": 2,
+                    "Teams": [
+                        {
+                            "BuildScore": 9255,
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 903544,
+                            "LevelId": 21,
+                            "Discs": [
+                                214026,
+                                214055,
+                                214008,
+                                214031,
+                                214056,
+                                214005
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513030,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513029,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 2
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 24
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 37
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 16
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 14
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 29
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 10
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 3
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 28
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4026102,
+                                4026201,
+                                4055102,
+                                4055201,
+                                4008102,
+                                4008201
+                            ],
+                            "RecordRank": "31",
+                            "BuildCode": "AAAAkAAAAIIAAACgMAbDbADNgEAsADAGwGwC"
+                        },
+                        {
+                            "BuildScore": 9420,
+                            "Chars": [
+                                {
+                                    "Id": 114,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 158,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 126,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 733888,
+                            "LevelId": 20,
+                            "Discs": [
+                                214048,
+                                214029,
+                                214019,
+                                214017,
+                                214040,
+                                214041
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 511403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511409,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511411,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511412,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 511410,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 515821,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515822,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515833,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515831,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515843,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515825,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 512623,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512622,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512629,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512627,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512631,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512625,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 512641,
+                                    "Level": 2
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 54
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 35
+                                },
+                                {
+                                    "Tid": 90019,
+                                    "Qty": 29
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 16
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 16
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 25
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 16
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 5
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4048101,
+                                4048201,
+                                4029102,
+                                4029201,
+                                4019102,
+                                4019201
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAcgAAAJ4AAAB+MAZZbADGABgMBmowGGCA"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 112144,
+                            "AffinityLV": 43
+                        },
+                        {
+                            "Id": 118001
+                        },
+                        {
+                            "Id": 117001
+                        }
+                    ]
+                },
+                {
                     "Id": "700498580",
                     "NickName": "caotienminh (EN)",
                     "HeadIcon": 11102,
                     "Score": 1635364,
-                    "Rank": 145,
+                    "Rank": 146,
                     "TitlePrefix": 35,
                     "TitleSuffix": 24,
                     "Teams": [
@@ -300867,7 +301207,7 @@
                     "NickName": "户山香澄 (CN)",
                     "HeadIcon": 13402,
                     "Score": 1630171,
-                    "Rank": 146,
+                    "Rank": 147,
                     "TitlePrefix": 35,
                     "TitleSuffix": 22,
                     "Teams": [
@@ -301213,7 +301553,7 @@
                     "NickName": "玖小月 (CN)",
                     "HeadIcon": 14501,
                     "Score": 1625504,
-                    "Rank": 147,
+                    "Rank": 148,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -301569,7 +301909,7 @@
                     "NickName": "norush-_- (TW)",
                     "HeadIcon": 16001,
                     "Score": 1617024,
-                    "Rank": 148,
+                    "Rank": 149,
                     "TitlePrefix": 21,
                     "TitleSuffix": 30,
                     "Teams": [
@@ -301887,343 +302227,6 @@
                         },
                         {},
                         {}
-                    ]
-                },
-                {
-                    "Id": "500519041",
-                    "NickName": "네모메기 (KR)",
-                    "HeadIcon": 14401,
-                    "Score": 1616019,
-                    "Rank": 149,
-                    "TitlePrefix": 1,
-                    "TitleSuffix": 2,
-                    "Teams": [
-                        {
-                            "BuildScore": 9450,
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 882131,
-                            "LevelId": 21,
-                            "Discs": [
-                                214026,
-                                214055,
-                                214008,
-                                214031,
-                                214056,
-                                214005
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514405,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513029,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 3
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 38
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 51
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 10
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 49
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 19
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 2
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 1
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4026101,
-                                4026201,
-                                4055101,
-                                4055201,
-                                4008103,
-                                4008202
-                            ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAkAAAAIIAAACgMgZjaADNgABMADADwGwG"
-                        },
-                        {
-                            "BuildScore": 9420,
-                            "Chars": [
-                                {
-                                    "Id": 114,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 158,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 126,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 733888,
-                            "LevelId": 20,
-                            "Discs": [
-                                214048,
-                                214029,
-                                214019,
-                                214017,
-                                214040,
-                                214041
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 511403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511409,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511411,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511412,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 511410,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 515821,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515822,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515833,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515831,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515843,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515825,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 512623,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512622,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512629,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512627,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512631,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512625,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 512641,
-                                    "Level": 2
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 54
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 35
-                                },
-                                {
-                                    "Tid": 90019,
-                                    "Qty": 29
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 25
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 5
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4048101,
-                                4048201,
-                                4029102,
-                                4029201,
-                                4019102,
-                                4019201
-                            ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAcgAAAJ4AAAB+MAZZbADGABgMBmowGGCA"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 112144,
-                            "AffinityLV": 43
-                        },
-                        {
-                            "Id": 118001
-                        },
-                        {
-                            "Id": 117001
-                        }
                     ]
                 },
                 {
@@ -355085,7 +355088,10 @@
                             "Id": 112158,
                             "AffinityLV": 42
                         },
-                        {}
+                        {
+                            "Id": 112144,
+                            "AffinityLV": 42
+                        }
                     ]
                 },
                 {
@@ -420363,8 +420369,8 @@
                     ]
                 }
             ],
-            "Total": 81025,
-            "LastRefreshTime": "1785074553",
+            "Total": 81044,
+            "LastRefreshTime": "1785074833",
             "UsageByFloor": {
                 "20": [
                     {
@@ -420875,17 +420881,17 @@
                             {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121
+                                "rank": 122
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122
+                                "rank": 123
                             },
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "303822810",
@@ -420978,18 +420984,18 @@
                                 "rank": 144
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기 (KR)",
+                                "rank": 145
+                            },
+                            {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146
+                                "rank": 147
                             },
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기 (KR)",
                                 "rank": 149
                             },
                             {
@@ -422888,17 +422894,17 @@
                             {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121
+                                "rank": 122
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122
+                                "rank": 123
                             },
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "303822810",
@@ -422991,18 +422997,18 @@
                                 "rank": 144
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기 (KR)",
+                                "rank": 145
+                            },
+                            {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146
+                                "rank": 147
                             },
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기 (KR)",
                                 "rank": 149
                             },
                             {
@@ -424861,12 +424867,12 @@
                             {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121
+                                "rank": 122
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122
+                                "rank": 123
                             },
                             {
                                 "id": "303822810",
@@ -424954,18 +424960,18 @@
                                 "rank": 144
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기 (KR)",
+                                "rank": 145
+                            },
+                            {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146
+                                "rank": 147
                             },
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기 (KR)",
                                 "rank": 149
                             },
                             {
@@ -426299,7 +426305,7 @@
                             {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145
+                                "rank": 146
                             },
                             {
                                 "id": "300446124",
@@ -426582,7 +426588,7 @@
                             {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145
+                                "rank": 146
                             },
                             {
                                 "id": "300446124",
@@ -427143,12 +427149,12 @@
                             {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145
+                                "rank": 146
                             },
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147
+                                "rank": 148
                             },
                             {
                                 "id": "100545802",
@@ -427281,7 +427287,7 @@
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "500354418",
@@ -427469,7 +427475,7 @@
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147
+                                "rank": 148
                             },
                             {
                                 "id": "100545802",
@@ -427572,7 +427578,7 @@
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147
+                                "rank": 148
                             },
                             {
                                 "id": "100545802",
@@ -427693,7 +427699,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 124
+                                "rank": 121
                             },
                             {
                                 "id": "900549180",
@@ -427779,7 +427785,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 124
+                                "rank": 121
                             },
                             {
                                 "id": "900549180",
@@ -427822,7 +427828,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 124
+                                "rank": 121
                             },
                             {
                                 "id": "900549180",
@@ -428528,23 +428534,23 @@
                                 "rank": 120
                             },
                             {
+                                "id": "500666969",
+                                "name": "환상비늘 (KR)",
+                                "rank": 121
+                            },
+                            {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121
+                                "rank": 122
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122
+                                "rank": 123
                             },
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123
-                            },
-                            {
-                                "id": "500666969",
-                                "name": "환상비늘 (KR)",
                                 "rank": 124
                             },
                             {
@@ -428643,28 +428649,28 @@
                                 "rank": 144
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기 (KR)",
+                                "rank": 145
+                            },
+                            {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145
+                                "rank": 146
                             },
                             {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146
+                                "rank": 147
                             },
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147
+                                "rank": 148
                             },
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기 (KR)",
                                 "rank": 149
                             },
                             {
@@ -430656,23 +430662,23 @@
                                 "rank": 120
                             },
                             {
+                                "id": "500666969",
+                                "name": "환상비늘 (KR)",
+                                "rank": 121
+                            },
+                            {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121
+                                "rank": 122
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122
+                                "rank": 123
                             },
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123
-                            },
-                            {
-                                "id": "500666969",
-                                "name": "환상비늘 (KR)",
                                 "rank": 124
                             },
                             {
@@ -430766,28 +430772,28 @@
                                 "rank": 144
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기 (KR)",
+                                "rank": 145
+                            },
+                            {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145
+                                "rank": 146
                             },
                             {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146
+                                "rank": 147
                             },
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147
+                                "rank": 148
                             },
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기 (KR)",
                                 "rank": 149
                             },
                             {
@@ -432724,18 +432730,18 @@
                                 "rank": 119
                             },
                             {
+                                "id": "500666969",
+                                "name": "환상비늘 (KR)",
+                                "rank": 121
+                            },
+                            {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121
+                                "rank": 122
                             },
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123
-                            },
-                            {
-                                "id": "500666969",
-                                "name": "환상비늘 (KR)",
                                 "rank": 124
                             },
                             {
@@ -432824,28 +432830,28 @@
                                 "rank": 144
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기 (KR)",
+                                "rank": 145
+                            },
+                            {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145
+                                "rank": 146
                             },
                             {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146
+                                "rank": 147
                             },
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147
+                                "rank": 148
                             },
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기 (KR)",
                                 "rank": 149
                             },
                             {
@@ -434675,7 +434681,7 @@
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122
+                                "rank": 123
                             },
                             {
                                 "id": "300446285",
@@ -436198,23 +436204,23 @@
                                 "rank": 120
                             },
                             {
+                                "id": "500666969",
+                                "name": "환상비늘 (KR)",
+                                "rank": 121
+                            },
+                            {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121
+                                "rank": 122
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122
+                                "rank": 123
                             },
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123
-                            },
-                            {
-                                "id": "500666969",
-                                "name": "환상비늘 (KR)",
                                 "rank": 124
                             },
                             {
@@ -436313,28 +436319,28 @@
                                 "rank": 144
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기 (KR)",
+                                "rank": 145
+                            },
+                            {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145
+                                "rank": 146
                             },
                             {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146
+                                "rank": 147
                             },
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147
+                                "rank": 148
                             },
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기 (KR)",
                                 "rank": 149
                             },
                             {
@@ -438336,23 +438342,23 @@
                                 "rank": 120
                             },
                             {
+                                "id": "500666969",
+                                "name": "환상비늘 (KR)",
+                                "rank": 121
+                            },
+                            {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121
+                                "rank": 122
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122
+                                "rank": 123
                             },
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123
-                            },
-                            {
-                                "id": "500666969",
-                                "name": "환상비늘 (KR)",
                                 "rank": 124
                             },
                             {
@@ -438446,28 +438452,28 @@
                                 "rank": 144
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기 (KR)",
+                                "rank": 145
+                            },
+                            {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145
+                                "rank": 146
                             },
                             {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146
+                                "rank": 147
                             },
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147
+                                "rank": 148
                             },
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기 (KR)",
                                 "rank": 149
                             },
                             {
@@ -440461,17 +440467,17 @@
                             {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121
+                                "rank": 122
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122
+                                "rank": 123
                             },
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "303822810",
@@ -440564,18 +440570,18 @@
                                 "rank": 144
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기 (KR)",
+                                "rank": 145
+                            },
+                            {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146
+                                "rank": 147
                             },
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기 (KR)",
                                 "rank": 149
                             },
                             {
@@ -442509,17 +442515,17 @@
                             {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121
+                                "rank": 122
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122
+                                "rank": 123
                             },
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "303822810",
@@ -442612,18 +442618,18 @@
                                 "rank": 144
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기 (KR)",
+                                "rank": 145
+                            },
+                            {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146
+                                "rank": 147
                             },
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기 (KR)",
                                 "rank": 149
                             },
                             {
@@ -444485,18 +444491,18 @@
                                 "rank": 119
                             },
                             {
+                                "id": "500666969",
+                                "name": "환상비늘 (KR)",
+                                "rank": 121
+                            },
+                            {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121
+                                "rank": 122
                             },
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123
-                            },
-                            {
-                                "id": "500666969",
-                                "name": "환상비늘 (KR)",
                                 "rank": 124
                             },
                             {
@@ -444585,28 +444591,28 @@
                                 "rank": 144
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기 (KR)",
+                                "rank": 145
+                            },
+                            {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145
+                                "rank": 146
                             },
                             {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146
+                                "rank": 147
                             },
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147
+                                "rank": 148
                             },
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기 (KR)",
                                 "rank": 149
                             },
                             {
@@ -446490,12 +446496,12 @@
                             {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121
+                                "rank": 122
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122
+                                "rank": 123
                             },
                             {
                                 "id": "303822810",
@@ -446583,18 +446589,18 @@
                                 "rank": 144
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기 (KR)",
+                                "rank": 145
+                            },
+                            {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146
+                                "rank": 147
                             },
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기 (KR)",
                                 "rank": 149
                             },
                             {
@@ -448013,7 +448019,7 @@
                             {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145
+                                "rank": 146
                             },
                             {
                                 "id": "501052974",
@@ -448854,7 +448860,7 @@
                             {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145
+                                "rank": 146
                             },
                             {
                                 "id": "300446124",
@@ -449202,12 +449208,12 @@
                             {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145
+                                "rank": 146
                             },
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147
+                                "rank": 148
                             },
                             {
                                 "id": "300345542",
@@ -449450,7 +449456,7 @@
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122
+                                "rank": 123
                             },
                             {
                                 "id": "300446285",
@@ -449623,7 +449629,7 @@
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "500354418",
@@ -450029,7 +450035,7 @@
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147
+                                "rank": 148
                             },
                             {
                                 "id": "300345542",
@@ -450290,7 +450296,7 @@
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147
+                                "rank": 148
                             },
                             {
                                 "id": "100545802",
@@ -450628,7 +450634,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 124
+                                "rank": 121
                             },
                             {
                                 "id": "900549180",
@@ -450671,7 +450677,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 124
+                                "rank": 121
                             },
                             {
                                 "id": "900549180",
@@ -450714,7 +450720,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 124
+                                "rank": 121
                             },
                             {
                                 "id": "900549180",
@@ -451179,7 +451185,7 @@
                             {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146,
+                                "rank": 147,
                                 "teamScore": 1283630
                             },
                             {
@@ -451467,7 +451473,7 @@
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148,
+                                "rank": 149,
                                 "teamScore": 1005918
                             },
                             {
@@ -451497,7 +451503,7 @@
                             {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121,
+                                "rank": 122,
                                 "teamScore": 976556
                             },
                             {
@@ -451701,7 +451707,7 @@
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122,
+                                "rank": 123,
                                 "teamScore": 890638
                             },
                             {
@@ -452067,7 +452073,7 @@
                             {
                                 "id": "500519041",
                                 "name": "네모메기 (KR)",
-                                "rank": 149,
+                                "rank": 145,
                                 "teamScore": 733888
                             },
                             {
@@ -453445,7 +453451,7 @@
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": 734848
                             },
                             {
@@ -453621,7 +453627,7 @@
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147,
+                                "rank": 148,
                                 "teamScore": 783357
                             },
                             {
@@ -453811,7 +453817,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 124,
+                                "rank": 121,
                                 "teamScore": 166038
                             }
                         ],
@@ -453893,7 +453899,7 @@
                             {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145,
+                                "rank": 146,
                                 "teamScore": 894392
                             },
                             {
@@ -453930,7 +453936,7 @@
                         "topUser": {
                             "id": "700498580",
                             "name": "caotienminh (EN)",
-                            "rank": 145,
+                            "rank": 146,
                             "teamScore": 894392
                         },
                         "rank": 7
@@ -454293,8 +454299,8 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 124,
-                                "teamScore": 1543090
+                                "rank": 121,
+                                "teamScore": 1570976
                             },
                             {
                                 "id": "700367958",
@@ -454713,7 +454719,7 @@
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": 989897
                             },
                             {
@@ -454819,6 +454825,12 @@
                                 "teamScore": 917727
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기 (KR)",
+                                "rank": 145,
+                                "teamScore": 903544
+                            },
+                            {
                                 "id": "500379967",
                                 "name": "뫼앵 (KR)",
                                 "rank": 54,
@@ -454847,12 +454859,6 @@
                                 "name": "あお (JP)",
                                 "rank": 80,
                                 "teamScore": 895229
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기 (KR)",
-                                "rank": 149,
-                                "teamScore": 882131
                             },
                             {
                                 "id": "300485793",
@@ -454935,7 +454941,7 @@
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147,
+                                "rank": 148,
                                 "teamScore": 842147
                             },
                             {
@@ -455061,7 +455067,7 @@
                             {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121,
+                                "rank": 122,
                                 "teamScore": 758775
                             },
                             {
@@ -455133,7 +455139,7 @@
                             {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145,
+                                "rank": 146,
                                 "teamScore": 740972
                             },
                             {
@@ -455505,7 +455511,7 @@
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148,
+                                "rank": 149,
                                 "teamScore": 611106
                             },
                             {
@@ -456327,7 +456333,7 @@
                             {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146,
+                                "rank": 147,
                                 "teamScore": 346541
                             },
                             {
@@ -456697,7 +456703,7 @@
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122,
+                                "rank": 123,
                                 "teamScore": 842978
                             },
                             {
@@ -457837,8 +457843,8 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 124,
-                                "teamScore": 1543090
+                                "rank": 121,
+                                "teamScore": 1570976
                             },
                             {
                                 "id": "700367958",
@@ -458257,7 +458263,7 @@
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": 989897
                             },
                             {
@@ -458363,6 +458369,12 @@
                                 "teamScore": 917727
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기 (KR)",
+                                "rank": 145,
+                                "teamScore": 903544
+                            },
+                            {
                                 "id": "500379967",
                                 "name": "뫼앵 (KR)",
                                 "rank": 54,
@@ -458391,12 +458403,6 @@
                                 "name": "あお (JP)",
                                 "rank": 80,
                                 "teamScore": 895229
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기 (KR)",
-                                "rank": 149,
-                                "teamScore": 882131
                             },
                             {
                                 "id": "300485793",
@@ -458479,7 +458485,7 @@
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147,
+                                "rank": 148,
                                 "teamScore": 842147
                             },
                             {
@@ -458605,7 +458611,7 @@
                             {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121,
+                                "rank": 122,
                                 "teamScore": 758775
                             },
                             {
@@ -458677,7 +458683,7 @@
                             {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145,
+                                "rank": 146,
                                 "teamScore": 740972
                             },
                             {
@@ -459049,7 +459055,7 @@
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148,
+                                "rank": 149,
                                 "teamScore": 611106
                             },
                             {
@@ -459877,7 +459883,7 @@
                             {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146,
+                                "rank": 147,
                                 "teamScore": 346541
                             },
                             {
@@ -460305,7 +460311,7 @@
                             {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146,
+                                "rank": 147,
                                 "teamScore": 1283630
                             },
                             {
@@ -460593,7 +460599,7 @@
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148,
+                                "rank": 149,
                                 "teamScore": 1005918
                             },
                             {
@@ -460623,7 +460629,7 @@
                             {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121,
+                                "rank": 122,
                                 "teamScore": 976556
                             },
                             {
@@ -460827,7 +460833,7 @@
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122,
+                                "rank": 123,
                                 "teamScore": 890638
                             },
                             {
@@ -461193,7 +461199,7 @@
                             {
                                 "id": "500519041",
                                 "name": "네모메기 (KR)",
-                                "rank": 149,
+                                "rank": 145,
                                 "teamScore": 733888
                             },
                             {
@@ -462607,7 +462613,7 @@
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": 734848
                             },
                             {
@@ -463043,7 +463049,7 @@
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122,
+                                "rank": 123,
                                 "teamScore": 842978
                             },
                             {
@@ -463159,7 +463165,7 @@
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147,
+                                "rank": 148,
                                 "teamScore": 783357
                             },
                             {
@@ -463503,7 +463509,7 @@
                             {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145,
+                                "rank": 146,
                                 "teamScore": 894392
                             },
                             {
@@ -463552,7 +463558,7 @@
                         "topUser": {
                             "id": "700498580",
                             "name": "caotienminh (EN)",
-                            "rank": 145,
+                            "rank": 146,
                             "teamScore": 894392
                         },
                         "rank": 10
@@ -463669,7 +463675,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 124,
+                                "rank": 121,
                                 "teamScore": 166038
                             }
                         ],
@@ -464715,7 +464721,7 @@
                             {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146,
+                                "rank": 147,
                                 "teamScore": 1283630
                             },
                             {
@@ -465003,7 +465009,7 @@
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148,
+                                "rank": 149,
                                 "teamScore": 1005918
                             },
                             {
@@ -465033,7 +465039,7 @@
                             {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121,
+                                "rank": 122,
                                 "teamScore": 976556
                             },
                             {
@@ -465237,7 +465243,7 @@
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122,
+                                "rank": 123,
                                 "teamScore": 890638
                             },
                             {
@@ -465603,7 +465609,7 @@
                             {
                                 "id": "500519041",
                                 "name": "네모메기 (KR)",
-                                "rank": 149,
+                                "rank": 145,
                                 "teamScore": 733888
                             },
                             {
@@ -466950,7 +466956,7 @@
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": 734848
                             },
                             {
@@ -467279,7 +467285,7 @@
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147,
+                                "rank": 148,
                                 "teamScore": 783357
                             },
                             {
@@ -468416,7 +468422,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 124,
+                                "rank": 121,
                                 "teamScore": 166038
                             }
                         ],
@@ -468547,7 +468553,7 @@
                             {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145,
+                                "rank": 146,
                                 "teamScore": 894392
                             },
                             {
@@ -468584,7 +468590,7 @@
                         "topUser": {
                             "id": "700498580",
                             "name": "caotienminh (EN)",
-                            "rank": 145,
+                            "rank": 146,
                             "teamScore": 894392
                         },
                         "rank": 10,
@@ -469510,8 +469516,8 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 124,
-                                "teamScore": 1543090
+                                "rank": 121,
+                                "teamScore": 1570976
                             },
                             {
                                 "id": "700367958",
@@ -469930,7 +469936,7 @@
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": 989897
                             },
                             {
@@ -470036,6 +470042,12 @@
                                 "teamScore": 917727
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기 (KR)",
+                                "rank": 145,
+                                "teamScore": 903544
+                            },
+                            {
                                 "id": "500379967",
                                 "name": "뫼앵 (KR)",
                                 "rank": 54,
@@ -470064,12 +470076,6 @@
                                 "name": "あお (JP)",
                                 "rank": 80,
                                 "teamScore": 895229
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기 (KR)",
-                                "rank": 149,
-                                "teamScore": 882131
                             },
                             {
                                 "id": "300485793",
@@ -470152,7 +470158,7 @@
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147,
+                                "rank": 148,
                                 "teamScore": 842147
                             },
                             {
@@ -470278,7 +470284,7 @@
                             {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121,
+                                "rank": 122,
                                 "teamScore": 758775
                             },
                             {
@@ -470350,7 +470356,7 @@
                             {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145,
+                                "rank": 146,
                                 "teamScore": 740972
                             },
                             {
@@ -470722,7 +470728,7 @@
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148,
+                                "rank": 149,
                                 "teamScore": 611106
                             },
                             {
@@ -471544,7 +471550,7 @@
                             {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146,
+                                "rank": 147,
                                 "teamScore": 346541
                             },
                             {
@@ -471672,13 +471678,13 @@
                                 "p516029": 350,
                                 "p516043": 342,
                                 "p514412": 329,
-                                "p513030": 287,
+                                "p513030": 288,
                                 "p513029": 189,
                                 "p514411": 149,
                                 "p513031": 135,
                                 "p514442": 88,
                                 "p516032": 47,
-                                "p514405": 42,
+                                "p514405": 41,
                                 "p514407": 21,
                                 "p513032": 15,
                                 "p513042": 12,
@@ -471708,12 +471714,12 @@
                                 "p513033": 349,
                                 "p516033": 332,
                                 "p513025": 332,
-                                "p516028": 298,
-                                "p516043": 285,
+                                "p516028": 299,
+                                "p516043": 284,
                                 "p516029": 279,
                                 "p514412": 191,
-                                "p514409": 147,
-                                "p513029": 114,
+                                "p514409": 148,
+                                "p513029": 113,
                                 "p513031": 47,
                                 "p514442": 31,
                                 "p516032": 13,
@@ -471733,17 +471739,17 @@
                                 "p513022": 371,
                                 "p514404": 368,
                                 "p514403": 368,
-                                "p513030": 277,
-                                "p514409": 220,
+                                "p513030": 278,
+                                "p514409": 219,
                                 "p514411": 143,
                                 "p514412": 138,
                                 "p513031": 88,
-                                "p513029": 75,
+                                "p513029": 76,
                                 "p516029": 71,
-                                "p516028": 60,
+                                "p516028": 59,
+                                "p516043": 58,
                                 "p514442": 57,
-                                "p516043": 57,
-                                "p514405": 36,
+                                "p514405": 35,
                                 "p516032": 34,
                                 "p513025": 32,
                                 "p516033": 28,
@@ -472239,7 +472245,7 @@
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122,
+                                "rank": 123,
                                 "teamScore": 842978
                             },
                             {
@@ -475647,8 +475653,8 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 124,
-                                "teamScore": 1543090
+                                "rank": 121,
+                                "teamScore": 1570976
                             },
                             {
                                 "id": "700367958",
@@ -476067,7 +476073,7 @@
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": 989897
                             },
                             {
@@ -476173,6 +476179,12 @@
                                 "teamScore": 917727
                             },
                             {
+                                "id": "500519041",
+                                "name": "네모메기 (KR)",
+                                "rank": 145,
+                                "teamScore": 903544
+                            },
+                            {
                                 "id": "500379967",
                                 "name": "뫼앵 (KR)",
                                 "rank": 54,
@@ -476201,12 +476213,6 @@
                                 "name": "あお (JP)",
                                 "rank": 80,
                                 "teamScore": 895229
-                            },
-                            {
-                                "id": "500519041",
-                                "name": "네모메기 (KR)",
-                                "rank": 149,
-                                "teamScore": 882131
                             },
                             {
                                 "id": "300485793",
@@ -476289,7 +476295,7 @@
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147,
+                                "rank": 148,
                                 "teamScore": 842147
                             },
                             {
@@ -476415,7 +476421,7 @@
                             {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121,
+                                "rank": 122,
                                 "teamScore": 758775
                             },
                             {
@@ -476487,7 +476493,7 @@
                             {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145,
+                                "rank": 146,
                                 "teamScore": 740972
                             },
                             {
@@ -476859,7 +476865,7 @@
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148,
+                                "rank": 149,
                                 "teamScore": 611106
                             },
                             {
@@ -477687,7 +477693,7 @@
                             {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146,
+                                "rank": 147,
                                 "teamScore": 346541
                             },
                             {
@@ -477815,13 +477821,13 @@
                                 "p516029": 351,
                                 "p516043": 343,
                                 "p514412": 330,
-                                "p513030": 288,
+                                "p513030": 289,
                                 "p513029": 190,
                                 "p514411": 149,
                                 "p513031": 136,
                                 "p514442": 88,
                                 "p516032": 48,
-                                "p514405": 42,
+                                "p514405": 41,
                                 "p514407": 22,
                                 "p513032": 15,
                                 "p513042": 12,
@@ -477851,12 +477857,12 @@
                                 "p513033": 350,
                                 "p516033": 333,
                                 "p513025": 333,
-                                "p516028": 298,
-                                "p516043": 286,
+                                "p516028": 299,
+                                "p516043": 285,
                                 "p516029": 280,
                                 "p514412": 191,
-                                "p514409": 147,
-                                "p513029": 115,
+                                "p514409": 148,
+                                "p513029": 114,
                                 "p513031": 47,
                                 "p514442": 31,
                                 "p516032": 13,
@@ -477876,18 +477882,18 @@
                                 "p513022": 372,
                                 "p514404": 369,
                                 "p514403": 368,
-                                "p513030": 278,
-                                "p514409": 221,
+                                "p513030": 279,
+                                "p514409": 220,
                                 "p514411": 143,
                                 "p514412": 139,
                                 "p513031": 89,
-                                "p513029": 75,
+                                "p513029": 76,
                                 "p516029": 71,
-                                "p516028": 60,
+                                "p516028": 59,
+                                "p516043": 58,
                                 "p514442": 57,
-                                "p516043": 57,
-                                "p514405": 36,
                                 "p516032": 35,
+                                "p514405": 35,
                                 "p513025": 32,
                                 "p516033": 28,
                                 "p513033": 19,
@@ -478310,7 +478316,7 @@
                             {
                                 "id": "100902418",
                                 "name": "户山香澄 (CN)",
-                                "rank": 146,
+                                "rank": 147,
                                 "teamScore": 1283630
                             },
                             {
@@ -478598,7 +478604,7 @@
                             {
                                 "id": "909116983",
                                 "name": "norush-_- (TW)",
-                                "rank": 148,
+                                "rank": 149,
                                 "teamScore": 1005918
                             },
                             {
@@ -478628,7 +478634,7 @@
                             {
                                 "id": "300845535",
                                 "name": "もろこしソード (JP)",
-                                "rank": 121,
+                                "rank": 122,
                                 "teamScore": 976556
                             },
                             {
@@ -478832,7 +478838,7 @@
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122,
+                                "rank": 123,
                                 "teamScore": 890638
                             },
                             {
@@ -479198,7 +479204,7 @@
                             {
                                 "id": "500519041",
                                 "name": "네모메기 (KR)",
-                                "rank": 149,
+                                "rank": 145,
                                 "teamScore": 733888
                             },
                             {
@@ -480795,7 +480801,7 @@
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 122,
+                                "rank": 123,
                                 "teamScore": 842978
                             },
                             {
@@ -481359,7 +481365,7 @@
                             {
                                 "id": "303181804",
                                 "name": "エール (JP)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": 734848
                             },
                             {
@@ -481937,7 +481943,7 @@
                             {
                                 "id": "100405231",
                                 "name": "玖小月 (CN)",
-                                "rank": 147,
+                                "rank": 148,
                                 "teamScore": 783357
                             },
                             {
@@ -483701,7 +483707,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 124,
+                                "rank": 121,
                                 "teamScore": 166038
                             }
                         ],
@@ -483832,7 +483838,7 @@
                             {
                                 "id": "700498580",
                                 "name": "caotienminh (EN)",
-                                "rank": 145,
+                                "rank": 146,
                                 "teamScore": 894392
                             },
                             {
@@ -483881,7 +483887,7 @@
                         "topUser": {
                             "id": "700498580",
                             "name": "caotienminh (EN)",
-                            "rank": 145,
+                            "rank": 146,
                             "teamScore": 894392
                         },
                         "rank": 19,
