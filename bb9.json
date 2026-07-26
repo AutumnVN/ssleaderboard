@@ -1,13 +1,13 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1785023541",
+            "LastRefreshTime": "1785024141",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "HeadIcon": 15602,
                 "Score": 330262,
-                "Rank": 1723,
+                "Rank": 1726,
                 "TitlePrefix": 33,
                 "TitleSuffix": 36,
                 "Teams": [
@@ -22408,7 +22408,7 @@
                     "Id": "700356221",
                     "NickName": "doom",
                     "HeadIcon": 130008,
-                    "Score": 1051627,
+                    "Score": 1055073,
                     "Rank": 66,
                     "TitlePrefix": 29,
                     "TitleSuffix": 18,
@@ -22429,7 +22429,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 707103,
+                            "LevelScore": 710549,
                             "LevelId": 21,
                             "Discs": [
                                 214055,
@@ -41274,7 +41274,7 @@
                                 "id": "700356221",
                                 "name": "doom",
                                 "rank": 66,
-                                "teamScore": 707103
+                                "teamScore": 710549
                             },
                             {
                                 "id": "701569432",
@@ -42730,7 +42730,7 @@
                                 "id": "700356221",
                                 "name": "doom",
                                 "rank": 66,
-                                "teamScore": 707103
+                                "teamScore": 710549
                             },
                             {
                                 "id": "701569432",
@@ -45821,7 +45821,7 @@
                                 "id": "700356221",
                                 "name": "doom",
                                 "rank": 66,
-                                "teamScore": 707103
+                                "teamScore": 710549
                             },
                             {
                                 "id": "701569432",
@@ -49242,7 +49242,7 @@
                                 "id": "700356221",
                                 "name": "doom",
                                 "rank": 66,
-                                "teamScore": 707103
+                                "teamScore": 710549
                             },
                             {
                                 "id": "701569432",
@@ -52479,7 +52479,7 @@
             }
         },
         "jp": {
-            "LastRefreshTime": "1785023200",
+            "LastRefreshTime": "1785023801",
             "Rank": [
                 {
                     "Id": "300338594",
@@ -85846,7 +85846,7 @@
                     ]
                 }
             ],
-            "Total": 23519,
+            "Total": 23523,
             "UsageByFloor": {
                 "20": [
                     {
@@ -102712,7 +102712,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1785023159",
+            "LastRefreshTime": "1785023759",
             "Rank": [
                 {
                     "Id": "502462985",
@@ -113235,7 +113235,10 @@
                         }
                     ],
                     "Honors": [
-                        {},
+                        {
+                            "Id": 112140,
+                            "AffinityLV": 32
+                        },
                         {
                             "Id": 117021
                         },
@@ -152123,7 +152126,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1785022986",
+            "LastRefreshTime": "1785023586",
             "Rank": [
                 {
                     "Id": "900343000",
@@ -185853,7 +185856,7 @@
                     ]
                 }
             ],
-            "Total": 6715,
+            "Total": 6716,
             "UsageByFloor": {
                 "20": [
                     {
@@ -314810,7 +314813,10 @@
                         }
                     ],
                     "Honors": [
-                        {},
+                        {
+                            "Id": 112140,
+                            "AffinityLV": 32
+                        },
                         {
                             "Id": 117021
                         },
@@ -391027,11 +391033,344 @@
                     ]
                 },
                 {
+                    "Id": "700356221",
+                    "NickName": "doom (EN)",
+                    "HeadIcon": 130008,
+                    "Score": 1055073,
+                    "Rank": 413,
+                    "TitlePrefix": 29,
+                    "TitleSuffix": 18,
+                    "Teams": [
+                        {
+                            "BuildScore": 9330,
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 710549,
+                            "LevelId": 21,
+                            "Discs": [
+                                214055,
+                                214026,
+                                214008,
+                                214047,
+                                214005,
+                                214031
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 514411,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 516032,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513031,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513030,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 513029,
+                                    "Level": 4
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 38
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 10
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 28
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 48
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 17
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 3
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 26
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4055102,
+                                4055201,
+                                4026102,
+                                4026201,
+                                4008102,
+                                4008201
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAkAAAAKAAAACCMAZnZgAwAMGsBs2AcEwA"
+                        },
+                        {
+                            "BuildScore": 8970,
+                            "Chars": [
+                                {
+                                    "Id": 156,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 149,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 159,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 344524,
+                            "LevelId": 20,
+                            "Discs": [
+                                214037,
+                                214033,
+                                214036,
+                                214044,
+                                214052,
+                                214042
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 515602,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515601,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515612,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515610,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515613,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515606,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515643,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514922,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514923,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514932,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514933,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514931,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514930,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 515924,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515921,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515933,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515942,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 515926,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515929,
+                                    "Level": 4
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 24
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 21
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 10
+                                },
+                                {
+                                    "Tid": 90021,
+                                    "Qty": 34
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 3
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4037101,
+                                4037201,
+                                4033102,
+                                4033201,
+                                4036102,
+                                4036201
+                            ],
+                            "RecordRank": "30",
+                            "BuildCode": "AAAAnAAAAJUAAACfwYADbAZgAHsMAJGAAEwo"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 112125,
+                            "AffinityLV": 49
+                        },
+                        {
+                            "Id": 118071
+                        },
+                        {
+                            "Id": 117041
+                        }
+                    ]
+                },
+                {
                     "Id": "900617915",
                     "NickName": "星流 (TW)",
                     "HeadIcon": 13002,
                     "Score": 1055019,
-                    "Rank": 413,
+                    "Rank": 414,
                     "TitlePrefix": 29,
                     "TitleSuffix": 30,
                     "Teams": [
@@ -391364,7 +391703,7 @@
                     "NickName": "GBB26 (TW)",
                     "HeadIcon": 10304,
                     "Score": 1053994,
-                    "Rank": 414,
+                    "Rank": 415,
                     "TitlePrefix": 35,
                     "TitleSuffix": 36,
                     "Teams": [
@@ -391699,7 +392038,7 @@
                     "NickName": "LYNN (TW)",
                     "HeadIcon": 13403,
                     "Score": 1053930,
-                    "Rank": 415,
+                    "Rank": 416,
                     "TitlePrefix": 13,
                     "TitleSuffix": 20,
                     "Teams": [
@@ -392048,7 +392387,7 @@
                     "NickName": "世凪 (TW)",
                     "HeadIcon": 130008,
                     "Score": 1052068,
-                    "Rank": 416,
+                    "Rank": 417,
                     "TitlePrefix": 21,
                     "TitleSuffix": 30,
                     "Teams": [
@@ -392379,339 +392718,6 @@
                         },
                         {
                             "Id": 116008
-                        }
-                    ]
-                },
-                {
-                    "Id": "700356221",
-                    "NickName": "doom (EN)",
-                    "HeadIcon": 130008,
-                    "Score": 1051627,
-                    "Rank": 417,
-                    "TitlePrefix": 29,
-                    "TitleSuffix": 18,
-                    "Teams": [
-                        {
-                            "BuildScore": 9330,
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 707103,
-                            "LevelId": 21,
-                            "Discs": [
-                                214055,
-                                214026,
-                                214008,
-                                214047,
-                                214005,
-                                214031
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 514411,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 516032,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513031,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513030,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 513029,
-                                    "Level": 4
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 38
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 10
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 28
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 48
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 17
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 3
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 26
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4055102,
-                                4055201,
-                                4026102,
-                                4026201,
-                                4008102,
-                                4008201
-                            ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAkAAAAKAAAACCMAZnZgAwAMGsBs2AcEwA"
-                        },
-                        {
-                            "BuildScore": 8970,
-                            "Chars": [
-                                {
-                                    "Id": 156,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 149,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 159,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 344524,
-                            "LevelId": 20,
-                            "Discs": [
-                                214037,
-                                214033,
-                                214036,
-                                214044,
-                                214052,
-                                214042
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 515602,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515601,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515612,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515610,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515613,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515606,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515643,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514922,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514923,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514932,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514933,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514931,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514930,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 515924,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515921,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515933,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515942,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 515926,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515929,
-                                    "Level": 4
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 24
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 21
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 10
-                                },
-                                {
-                                    "Tid": 90021,
-                                    "Qty": 34
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 3
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4037101,
-                                4037201,
-                                4033102,
-                                4033201,
-                                4036102,
-                                4036201
-                            ],
-                            "RecordRank": "30",
-                            "BuildCode": "AAAAnAAAAJUAAACfwYADbAZgAHsMAJGAAEwo"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 112125,
-                            "AffinityLV": 49
-                        },
-                        {
-                            "Id": 118071
-                        },
-                        {
-                            "Id": 117041
                         }
                     ]
                 },
@@ -420326,8 +420332,8 @@
                     ]
                 }
             ],
-            "Total": 79186,
-            "LastRefreshTime": "1785023541",
+            "Total": 79191,
+            "LastRefreshTime": "1785024141",
             "UsageByFloor": {
                 "20": [
                     {
@@ -421978,17 +421984,17 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413
+                                "rank": 414
                             },
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414
+                                "rank": 415
                             },
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415
+                                "rank": 416
                             },
                             {
                                 "id": "700450683",
@@ -423981,17 +423987,17 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413
+                                "rank": 414
                             },
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414
+                                "rank": 415
                             },
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415
+                                "rank": 416
                             },
                             {
                                 "id": "700450683",
@@ -425859,12 +425865,12 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413
+                                "rank": 414
                             },
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415
+                                "rank": 416
                             },
                             {
                                 "id": "700450683",
@@ -426440,13 +426446,13 @@
                                 "rank": 408
                             },
                             {
-                                "id": "900333293",
-                                "name": "世凪 (TW)",
-                                "rank": 416
-                            },
-                            {
                                 "id": "700356221",
                                 "name": "doom (EN)",
+                                "rank": 413
+                            },
+                            {
+                                "id": "900333293",
+                                "name": "世凪 (TW)",
                                 "rank": 417
                             },
                             {
@@ -426718,13 +426724,13 @@
                                 "rank": 408
                             },
                             {
-                                "id": "900333293",
-                                "name": "世凪 (TW)",
-                                "rank": 416
-                            },
-                            {
                                 "id": "700356221",
                                 "name": "doom (EN)",
+                                "rank": 413
+                            },
+                            {
+                                "id": "900333293",
+                                "name": "世凪 (TW)",
                                 "rank": 417
                             },
                             {
@@ -426986,13 +426992,13 @@
                                 "rank": 408
                             },
                             {
-                                "id": "900333293",
-                                "name": "世凪 (TW)",
-                                "rank": 416
-                            },
-                            {
                                 "id": "700356221",
                                 "name": "doom (EN)",
+                                "rank": 413
+                            },
+                            {
+                                "id": "900333293",
+                                "name": "世凪 (TW)",
                                 "rank": 417
                             },
                             {
@@ -427344,7 +427350,7 @@
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414
+                                "rank": 415
                             },
                             {
                                 "id": "700385252",
@@ -429676,28 +429682,28 @@
                                 "rank": 412
                             },
                             {
+                                "id": "700356221",
+                                "name": "doom (EN)",
+                                "rank": 413
+                            },
+                            {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413
+                                "rank": 414
                             },
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414
+                                "rank": 415
                             },
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415
+                                "rank": 416
                             },
                             {
                                 "id": "900333293",
                                 "name": "世凪 (TW)",
-                                "rank": 416
-                            },
-                            {
-                                "id": "700356221",
-                                "name": "doom (EN)",
                                 "rank": 417
                             },
                             {
@@ -431714,28 +431720,28 @@
                                 "rank": 412
                             },
                             {
+                                "id": "700356221",
+                                "name": "doom (EN)",
+                                "rank": 413
+                            },
+                            {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413
+                                "rank": 414
                             },
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414
+                                "rank": 415
                             },
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415
+                                "rank": 416
                             },
                             {
                                 "id": "900333293",
                                 "name": "世凪 (TW)",
-                                "rank": 416
-                            },
-                            {
-                                "id": "700356221",
-                                "name": "doom (EN)",
                                 "rank": 417
                             },
                             {
@@ -433622,28 +433628,28 @@
                                 "rank": 412
                             },
                             {
+                                "id": "700356221",
+                                "name": "doom (EN)",
+                                "rank": 413
+                            },
+                            {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413
+                                "rank": 414
                             },
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414
+                                "rank": 415
                             },
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415
+                                "rank": 416
                             },
                             {
                                 "id": "900333293",
                                 "name": "世凪 (TW)",
-                                "rank": 416
-                            },
-                            {
-                                "id": "700356221",
-                                "name": "doom (EN)",
                                 "rank": 417
                             },
                             {
@@ -437341,28 +437347,28 @@
                                 "rank": 412
                             },
                             {
+                                "id": "700356221",
+                                "name": "doom (EN)",
+                                "rank": 413
+                            },
+                            {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413
+                                "rank": 414
                             },
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414
+                                "rank": 415
                             },
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415
+                                "rank": 416
                             },
                             {
                                 "id": "900333293",
                                 "name": "世凪 (TW)",
-                                "rank": 416
-                            },
-                            {
-                                "id": "700356221",
-                                "name": "doom (EN)",
                                 "rank": 417
                             },
                             {
@@ -439386,17 +439392,17 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413
+                                "rank": 414
                             },
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414
+                                "rank": 415
                             },
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415
+                                "rank": 416
                             },
                             {
                                 "id": "700450683",
@@ -441442,28 +441448,28 @@
                                 "rank": 412
                             },
                             {
+                                "id": "700356221",
+                                "name": "doom (EN)",
+                                "rank": 413
+                            },
+                            {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413
+                                "rank": 414
                             },
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414
+                                "rank": 415
                             },
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415
+                                "rank": 416
                             },
                             {
                                 "id": "900333293",
                                 "name": "世凪 (TW)",
-                                "rank": 416
-                            },
-                            {
-                                "id": "700356221",
-                                "name": "doom (EN)",
                                 "rank": 417
                             },
                             {
@@ -443462,17 +443468,17 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413
+                                "rank": 414
                             },
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414
+                                "rank": 415
                             },
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415
+                                "rank": 416
                             },
                             {
                                 "id": "700450683",
@@ -445378,28 +445384,28 @@
                                 "rank": 412
                             },
                             {
+                                "id": "700356221",
+                                "name": "doom (EN)",
+                                "rank": 413
+                            },
+                            {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413
+                                "rank": 414
                             },
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414
+                                "rank": 415
                             },
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415
+                                "rank": 416
                             },
                             {
                                 "id": "900333293",
                                 "name": "世凪 (TW)",
-                                "rank": 416
-                            },
-                            {
-                                "id": "700356221",
-                                "name": "doom (EN)",
                                 "rank": 417
                             },
                             {
@@ -447278,12 +447284,12 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413
+                                "rank": 414
                             },
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415
+                                "rank": 416
                             },
                             {
                                 "id": "700450683",
@@ -448074,13 +448080,13 @@
                                 "rank": 408
                             },
                             {
-                                "id": "900333293",
-                                "name": "世凪 (TW)",
-                                "rank": 416
-                            },
-                            {
                                 "id": "700356221",
                                 "name": "doom (EN)",
+                                "rank": 413
+                            },
+                            {
+                                "id": "900333293",
+                                "name": "世凪 (TW)",
                                 "rank": 417
                             },
                             {
@@ -448577,13 +448583,13 @@
                                 "rank": 408
                             },
                             {
-                                "id": "900333293",
-                                "name": "世凪 (TW)",
-                                "rank": 416
-                            },
-                            {
                                 "id": "700356221",
                                 "name": "doom (EN)",
+                                "rank": 413
+                            },
+                            {
+                                "id": "900333293",
+                                "name": "世凪 (TW)",
                                 "rank": 417
                             },
                             {
@@ -448900,13 +448906,13 @@
                                 "rank": 408
                             },
                             {
-                                "id": "900333293",
-                                "name": "世凪 (TW)",
-                                "rank": 416
-                            },
-                            {
                                 "id": "700356221",
                                 "name": "doom (EN)",
+                                "rank": 413
+                            },
+                            {
+                                "id": "900333293",
+                                "name": "世凪 (TW)",
                                 "rank": 417
                             },
                             {
@@ -449834,7 +449840,7 @@
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414
+                                "rank": 415
                             },
                             {
                                 "id": "700385252",
@@ -452396,7 +452402,7 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413,
+                                "rank": 414,
                                 "teamScore": 601682
                             },
                             {
@@ -452864,7 +452870,7 @@
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415,
+                                "rank": 416,
                                 "teamScore": 372378
                             },
                             {
@@ -453286,7 +453292,7 @@
                             {
                                 "id": "900333293",
                                 "name": "世凪 (TW)",
-                                "rank": 416,
+                                "rank": 417,
                                 "teamScore": 376302
                             },
                             {
@@ -453298,7 +453304,7 @@
                             {
                                 "id": "700356221",
                                 "name": "doom (EN)",
-                                "rank": 417,
+                                "rank": 413,
                                 "teamScore": 344524
                             },
                             {
@@ -453462,7 +453468,7 @@
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414,
+                                "rank": 415,
                                 "teamScore": 337215
                             },
                             {
@@ -455024,7 +455030,7 @@
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414,
+                                "rank": 415,
                                 "teamScore": 716779
                             },
                             {
@@ -455040,16 +455046,16 @@
                                 "teamScore": 711442
                             },
                             {
+                                "id": "700356221",
+                                "name": "doom (EN)",
+                                "rank": 413,
+                                "teamScore": 710549
+                            },
+                            {
                                 "id": "500500134",
                                 "name": "레반틴 (KR)",
                                 "rank": 276,
                                 "teamScore": 710162
-                            },
-                            {
-                                "id": "700356221",
-                                "name": "doom (EN)",
-                                "rank": 417,
-                                "teamScore": 707103
                             },
                             {
                                 "id": "100348775",
@@ -455108,7 +455114,7 @@
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415,
+                                "rank": 416,
                                 "teamScore": 681552
                             },
                             {
@@ -455138,7 +455144,7 @@
                             {
                                 "id": "900333293",
                                 "name": "世凪 (TW)",
-                                "rank": 416,
+                                "rank": 417,
                                 "teamScore": 675766
                             },
                             {
@@ -455876,7 +455882,7 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413,
+                                "rank": 414,
                                 "teamScore": 453337
                             },
                             {
@@ -459258,7 +459264,7 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413,
+                                "rank": 414,
                                 "teamScore": 601682
                             },
                             {
@@ -459732,7 +459738,7 @@
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415,
+                                "rank": 416,
                                 "teamScore": 372378
                             },
                             {
@@ -460796,7 +460802,7 @@
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414,
+                                "rank": 415,
                                 "teamScore": 716779
                             },
                             {
@@ -460812,16 +460818,16 @@
                                 "teamScore": 711442
                             },
                             {
+                                "id": "700356221",
+                                "name": "doom (EN)",
+                                "rank": 413,
+                                "teamScore": 710549
+                            },
+                            {
                                 "id": "500500134",
                                 "name": "레반틴 (KR)",
                                 "rank": 276,
                                 "teamScore": 710162
-                            },
-                            {
-                                "id": "700356221",
-                                "name": "doom (EN)",
-                                "rank": 417,
-                                "teamScore": 707103
                             },
                             {
                                 "id": "100348775",
@@ -460880,7 +460886,7 @@
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415,
+                                "rank": 416,
                                 "teamScore": 681552
                             },
                             {
@@ -460910,7 +460916,7 @@
                             {
                                 "id": "900333293",
                                 "name": "世凪 (TW)",
-                                "rank": 416,
+                                "rank": 417,
                                 "teamScore": 675766
                             },
                             {
@@ -461648,7 +461654,7 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413,
+                                "rank": 414,
                                 "teamScore": 453337
                             },
                             {
@@ -462340,7 +462346,7 @@
                             {
                                 "id": "900333293",
                                 "name": "世凪 (TW)",
-                                "rank": 416,
+                                "rank": 417,
                                 "teamScore": 376302
                             },
                             {
@@ -462352,7 +462358,7 @@
                             {
                                 "id": "700356221",
                                 "name": "doom (EN)",
-                                "rank": 417,
+                                "rank": 413,
                                 "teamScore": 344524
                             },
                             {
@@ -462848,7 +462854,7 @@
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414,
+                                "rank": 415,
                                 "teamScore": 337215
                             },
                             {
@@ -465920,7 +465926,7 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413,
+                                "rank": 414,
                                 "teamScore": 601682
                             },
                             {
@@ -466388,7 +466394,7 @@
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415,
+                                "rank": 416,
                                 "teamScore": 372378
                             },
                             {
@@ -466853,7 +466859,7 @@
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414,
+                                "rank": 415,
                                 "teamScore": 337215
                             },
                             {
@@ -467816,7 +467822,7 @@
                             {
                                 "id": "900333293",
                                 "name": "世凪 (TW)",
-                                "rank": 416,
+                                "rank": 417,
                                 "teamScore": 376302
                             },
                             {
@@ -467828,7 +467834,7 @@
                             {
                                 "id": "700356221",
                                 "name": "doom (EN)",
-                                "rank": 417,
+                                "rank": 413,
                                 "teamScore": 344524
                             },
                             {
@@ -470238,7 +470244,7 @@
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414,
+                                "rank": 415,
                                 "teamScore": 716779
                             },
                             {
@@ -470254,16 +470260,16 @@
                                 "teamScore": 711442
                             },
                             {
+                                "id": "700356221",
+                                "name": "doom (EN)",
+                                "rank": 413,
+                                "teamScore": 710549
+                            },
+                            {
                                 "id": "500500134",
                                 "name": "레반틴 (KR)",
                                 "rank": 276,
                                 "teamScore": 710162
-                            },
-                            {
-                                "id": "700356221",
-                                "name": "doom (EN)",
-                                "rank": 417,
-                                "teamScore": 707103
                             },
                             {
                                 "id": "100348775",
@@ -470322,7 +470328,7 @@
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415,
+                                "rank": 416,
                                 "teamScore": 681552
                             },
                             {
@@ -470352,7 +470358,7 @@
                             {
                                 "id": "900333293",
                                 "name": "世凪 (TW)",
-                                "rank": 416,
+                                "rank": 417,
                                 "teamScore": 675766
                             },
                             {
@@ -471090,7 +471096,7 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413,
+                                "rank": 414,
                                 "teamScore": 453337
                             },
                             {
@@ -476408,7 +476414,7 @@
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414,
+                                "rank": 415,
                                 "teamScore": 716779
                             },
                             {
@@ -476424,16 +476430,16 @@
                                 "teamScore": 711442
                             },
                             {
+                                "id": "700356221",
+                                "name": "doom (EN)",
+                                "rank": 413,
+                                "teamScore": 710549
+                            },
+                            {
                                 "id": "500500134",
                                 "name": "레반틴 (KR)",
                                 "rank": 276,
                                 "teamScore": 710162
-                            },
-                            {
-                                "id": "700356221",
-                                "name": "doom (EN)",
-                                "rank": 417,
-                                "teamScore": 707103
                             },
                             {
                                 "id": "100348775",
@@ -476492,7 +476498,7 @@
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415,
+                                "rank": 416,
                                 "teamScore": 681552
                             },
                             {
@@ -476522,7 +476528,7 @@
                             {
                                 "id": "900333293",
                                 "name": "世凪 (TW)",
-                                "rank": 416,
+                                "rank": 417,
                                 "teamScore": 675766
                             },
                             {
@@ -477260,7 +477266,7 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413,
+                                "rank": 414,
                                 "teamScore": 453337
                             },
                             {
@@ -479477,7 +479483,7 @@
                             {
                                 "id": "900617915",
                                 "name": "星流 (TW)",
-                                "rank": 413,
+                                "rank": 414,
                                 "teamScore": 601682
                             },
                             {
@@ -479951,7 +479957,7 @@
                             {
                                 "id": "900518088",
                                 "name": "LYNN (TW)",
-                                "rank": 415,
+                                "rank": 416,
                                 "teamScore": 372378
                             },
                             {
@@ -481285,7 +481291,7 @@
                             {
                                 "id": "900952821",
                                 "name": "GBB26 (TW)",
-                                "rank": 414,
+                                "rank": 415,
                                 "teamScore": 337215
                             },
                             {
@@ -482586,7 +482592,7 @@
                             {
                                 "id": "900333293",
                                 "name": "世凪 (TW)",
-                                "rank": 416,
+                                "rank": 417,
                                 "teamScore": 376302
                             },
                             {
@@ -482598,7 +482604,7 @@
                             {
                                 "id": "700356221",
                                 "name": "doom (EN)",
-                                "rank": 417,
+                                "rank": 413,
                                 "teamScore": 344524
                             },
                             {
