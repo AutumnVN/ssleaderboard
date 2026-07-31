@@ -42,15 +42,27 @@ jobs:
         UID_JP: ${{ secrets.UID_JP }}
         UID_KR: ${{ secrets.UID_KR }}
         UID_TW: ${{ secrets.UID_TW }}
+        DEPLOY_HOOK_URL: ${{ secrets.DEPLOY_HOOK_URL }}
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        season_changed=false
         pnpm install
         node index.js
+        if ! git diff --quiet -- season.json; then
+          season_changed=true
+        fi
         git add .
         if ! git diff --cached --quiet; then
           git commit -m "sync"
           git push
+          if [ "$season_changed" = true ]; then
+            if [ -n "$DEPLOY_HOOK_URL" ]; then
+              curl -s -o /dev/null -w "%{http_code}" -d "" "$DEPLOY_HOOK_URL"
+            else
+              echo "No deploy hook URL configured"
+            fi
+          fi
         else
           echo "No changes to commit"
         fi
