@@ -1,13 +1,13 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1785635423",
+            "LastRefreshTime": "1785636023",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "HeadIcon": 15602,
                 "Score": 456076,
-                "Rank": 522,
+                "Rank": 524,
                 "TitlePrefix": 33,
                 "TitleSuffix": 36,
                 "Teams": [
@@ -1019,11 +1019,361 @@
                     ]
                 },
                 {
+                    "Id": "701178590",
+                    "NickName": "Tyrant",
+                    "HeadIcon": 130007,
+                    "Score": 2432344,
+                    "Rank": 3,
+                    "TitlePrefix": 35,
+                    "TitleSuffix": 36,
+                    "Teams": [
+                        {
+                            "BuildScore": 10050,
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 125,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 1922086,
+                            "LevelId": 23,
+                            "Discs": [
+                                214055,
+                                214026,
+                                214008,
+                                214005,
+                                214031,
+                                214029
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514402,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514401,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514407,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514406,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514405,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 512523,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512522,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512531,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512530,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512533,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512525,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512526,
+                                    "Level": 3
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 49
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 48
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 41
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 5
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 5
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 6
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 10
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4055102,
+                                4055202,
+                                4026102,
+                                4026202,
+                                4008103,
+                                4008202
+                            ],
+                            "RecordRank": "34",
+                            "BuildCode": "AAAAkAAAAKAAAAB9zbBDBgAwBMBkBmzAOAwA"
+                        },
+                        {
+                            "BuildScore": 9450,
+                            "Chars": [
+                                {
+                                    "Id": 110,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 142,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 145,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 510258,
+                            "LevelId": 22,
+                            "Discs": [
+                                214050,
+                                214004,
+                                214045,
+                                214043,
+                                214006,
+                                214032
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 511002,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511001,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511005,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511006,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511011,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511007,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 511041,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514223,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514222,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514233,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514231,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 514225,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514230,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514228,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 514242,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514523,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514524,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514529,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 514531,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514528,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 514532,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 514533,
+                                    "Level": 2
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90023,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 10
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 19
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 37
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 17
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 15
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 8
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4050101,
+                                4050201,
+                                4004102,
+                                4004202,
+                                4045102,
+                                4045202
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAbgAAAI4AAACRzagYAIZsA8wMCDAEGtQA"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 112144,
+                            "AffinityLV": 50
+                        },
+                        {
+                            "Id": 112110,
+                            "AffinityLV": 30
+                        },
+                        {
+                            "Id": 111001
+                        }
+                    ]
+                },
+                {
                     "Id": "700388264",
                     "NickName": "Conq",
                     "HeadIcon": 130005,
                     "Score": 2423300,
-                    "Rank": 3,
+                    "Rank": 4,
                     "TitlePrefix": 27,
                     "TitleSuffix": 22,
                     "Teams": [
@@ -1364,356 +1714,6 @@
                         {
                             "Id": 119901,
                             "AffinityLV": 18
-                        }
-                    ]
-                },
-                {
-                    "Id": "701178590",
-                    "NickName": "Tyrant",
-                    "HeadIcon": 130007,
-                    "Score": 2270027,
-                    "Rank": 4,
-                    "TitlePrefix": 35,
-                    "TitleSuffix": 36,
-                    "Teams": [
-                        {
-                            "BuildScore": 10050,
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 125,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 1922086,
-                            "LevelId": 23,
-                            "Discs": [
-                                214055,
-                                214026,
-                                214008,
-                                214005,
-                                214031,
-                                214029
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514402,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514401,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514407,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514406,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514405,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 512523,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512522,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512531,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512530,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512533,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512525,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512526,
-                                    "Level": 3
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 49
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 48
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 41
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 5
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 5
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 6
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 10
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4055102,
-                                4055202,
-                                4026102,
-                                4026202,
-                                4008103,
-                                4008202
-                            ],
-                            "RecordRank": "34",
-                            "BuildCode": "AAAAkAAAAKAAAAB9zbBDBgAwBMBkBmzAOAwA"
-                        },
-                        {
-                            "BuildScore": 9450,
-                            "Chars": [
-                                {
-                                    "Id": 110,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 142,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 145,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 347941,
-                            "LevelId": 22,
-                            "Discs": [
-                                214050,
-                                214004,
-                                214045,
-                                214043,
-                                214006,
-                                214032
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 511002,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511001,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511005,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511006,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511011,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511007,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 511041,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514223,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514222,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514233,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514231,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 514225,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514230,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514228,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 514242,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514523,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514524,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514529,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 514531,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514528,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 514532,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 514533,
-                                    "Level": 2
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90023,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 10
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 19
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 37
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 17
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 15
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 8
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4050101,
-                                4050201,
-                                4004102,
-                                4004202,
-                                4045102,
-                                4045202
-                            ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAbgAAAI4AAACRzagYAIZsA8wMCDAEGtQA"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 112144,
-                            "AffinityLV": 50
-                        },
-                        {
-                            "Id": 112110,
-                            "AffinityLV": 30
-                        },
-                        {
-                            "Id": 111001
                         }
                     ]
                 },
@@ -5819,7 +5819,7 @@
                     "Id": "701326336",
                     "NickName": "Nemesis",
                     "HeadIcon": 130005,
-                    "Score": 1318302,
+                    "Score": 1322192,
                     "Rank": 17,
                     "TitlePrefix": 25,
                     "TitleSuffix": 24,
@@ -5997,7 +5997,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 988966,
+                            "LevelScore": 992856,
                             "LevelId": 23,
                             "Discs": [
                                 214055,
@@ -33614,7 +33614,7 @@
                     ]
                 }
             ],
-            "Total": 5020,
+            "Total": 5039,
             "UsageByFloor": {
                 "22": [
                     {
@@ -33628,13 +33628,13 @@
                                 "rank": 2
                             },
                             {
-                                "id": "700388264",
-                                "name": "Conq",
+                                "id": "701178590",
+                                "name": "Tyrant",
                                 "rank": 3
                             },
                             {
-                                "id": "701178590",
-                                "name": "Tyrant",
+                                "id": "700388264",
+                                "name": "Conq",
                                 "rank": 4
                             },
                             {
@@ -33901,13 +33901,13 @@
                                 "rank": 2
                             },
                             {
-                                "id": "700388264",
-                                "name": "Conq",
+                                "id": "701178590",
+                                "name": "Tyrant",
                                 "rank": 3
                             },
                             {
-                                "id": "701178590",
-                                "name": "Tyrant",
+                                "id": "700388264",
+                                "name": "Conq",
                                 "rank": 4
                             },
                             {
@@ -34174,13 +34174,13 @@
                                 "rank": 2
                             },
                             {
-                                "id": "700388264",
-                                "name": "Conq",
+                                "id": "701178590",
+                                "name": "Tyrant",
                                 "rank": 3
                             },
                             {
-                                "id": "701178590",
-                                "name": "Tyrant",
+                                "id": "700388264",
+                                "name": "Conq",
                                 "rank": 4
                             },
                             {
@@ -35723,13 +35723,13 @@
                                 "rank": 2
                             },
                             {
-                                "id": "700388264",
-                                "name": "Conq",
+                                "id": "701178590",
+                                "name": "Tyrant",
                                 "rank": 3
                             },
                             {
-                                "id": "701178590",
-                                "name": "Tyrant",
+                                "id": "700388264",
+                                "name": "Conq",
                                 "rank": 4
                             },
                             {
@@ -35946,13 +35946,13 @@
                                 "rank": 2
                             },
                             {
-                                "id": "700388264",
-                                "name": "Conq",
+                                "id": "701178590",
+                                "name": "Tyrant",
                                 "rank": 3
                             },
                             {
-                                "id": "701178590",
-                                "name": "Tyrant",
+                                "id": "700388264",
+                                "name": "Conq",
                                 "rank": 4
                             },
                             {
@@ -36651,13 +36651,13 @@
                                 "rank": 2
                             },
                             {
-                                "id": "700388264",
-                                "name": "Conq",
+                                "id": "701178590",
+                                "name": "Tyrant",
                                 "rank": 3
                             },
                             {
-                                "id": "701178590",
-                                "name": "Tyrant",
+                                "id": "700388264",
+                                "name": "Conq",
                                 "rank": 4
                             },
                             {
@@ -36833,13 +36833,13 @@
                                 "rank": 2
                             },
                             {
-                                "id": "700388264",
-                                "name": "Conq",
+                                "id": "701178590",
+                                "name": "Tyrant",
                                 "rank": 3
                             },
                             {
-                                "id": "701178590",
-                                "name": "Tyrant",
+                                "id": "700388264",
+                                "name": "Conq",
                                 "rank": 4
                             },
                             {
@@ -37251,13 +37251,13 @@
                                 "rank": 2
                             },
                             {
-                                "id": "700388264",
-                                "name": "Conq",
+                                "id": "701178590",
+                                "name": "Tyrant",
                                 "rank": 3
                             },
                             {
-                                "id": "701178590",
-                                "name": "Tyrant",
+                                "id": "700388264",
+                                "name": "Conq",
                                 "rank": 4
                             },
                             {
@@ -37977,13 +37977,13 @@
                                 "rank": 2
                             },
                             {
-                                "id": "700388264",
-                                "name": "Conq",
+                                "id": "701178590",
+                                "name": "Tyrant",
                                 "rank": 3
                             },
                             {
-                                "id": "701178590",
-                                "name": "Tyrant",
+                                "id": "700388264",
+                                "name": "Conq",
                                 "rank": 4
                             },
                             {
@@ -38250,13 +38250,13 @@
                                 "rank": 2
                             },
                             {
-                                "id": "700388264",
-                                "name": "Conq",
+                                "id": "701178590",
+                                "name": "Tyrant",
                                 "rank": 3
                             },
                             {
-                                "id": "701178590",
-                                "name": "Tyrant",
+                                "id": "700388264",
+                                "name": "Conq",
                                 "rank": 4
                             },
                             {
@@ -39029,13 +39029,13 @@
                                 "rank": 2
                             },
                             {
-                                "id": "700388264",
-                                "name": "Conq",
+                                "id": "701178590",
+                                "name": "Tyrant",
                                 "rank": 3
                             },
                             {
-                                "id": "701178590",
-                                "name": "Tyrant",
+                                "id": "700388264",
+                                "name": "Conq",
                                 "rank": 4
                             },
                             {
@@ -39568,13 +39568,13 @@
                                 "rank": 2
                             },
                             {
-                                "id": "700388264",
-                                "name": "Conq",
+                                "id": "701178590",
+                                "name": "Tyrant",
                                 "rank": 3
                             },
                             {
-                                "id": "701178590",
-                                "name": "Tyrant",
+                                "id": "700388264",
+                                "name": "Conq",
                                 "rank": 4
                             },
                             {
@@ -39949,7 +39949,7 @@
                             {
                                 "id": "700388264",
                                 "name": "Conq",
-                                "rank": 3,
+                                "rank": 4,
                                 "teamScore": 692669
                             },
                             {
@@ -39975,6 +39975,12 @@
                                 "name": "Azif",
                                 "rank": 12,
                                 "teamScore": 520139
+                            },
+                            {
+                                "id": "701178590",
+                                "name": "Tyrant",
+                                "rank": 3,
+                                "teamScore": 510258
                             },
                             {
                                 "id": "700443862",
@@ -40065,12 +40071,6 @@
                                 "name": "Domz",
                                 "rank": 45,
                                 "teamScore": 353316
-                            },
-                            {
-                                "id": "701178590",
-                                "name": "Tyrant",
-                                "rank": 4,
-                                "teamScore": 347941
                             },
                             {
                                 "id": "700345793",
@@ -41245,7 +41245,7 @@
                             {
                                 "id": "701178590",
                                 "name": "Tyrant",
-                                "rank": 4,
+                                "rank": 3,
                                 "teamScore": 1922086
                             },
                             {
@@ -41257,7 +41257,7 @@
                             {
                                 "id": "700388264",
                                 "name": "Conq",
-                                "rank": 3,
+                                "rank": 4,
                                 "teamScore": 1730631
                             },
                             {
@@ -41282,7 +41282,7 @@
                         "topUser": {
                             "id": "701178590",
                             "name": "Tyrant",
-                            "rank": 4,
+                            "rank": 3,
                             "teamScore": 1922086
                         },
                         "rank": 3
@@ -41414,7 +41414,7 @@
                                 "id": "701326336",
                                 "name": "Nemesis",
                                 "rank": 17,
-                                "teamScore": 988966
+                                "teamScore": 992856
                             },
                             {
                                 "id": "700580662",
@@ -41949,7 +41949,7 @@
                             {
                                 "id": "700388264",
                                 "name": "Conq",
-                                "rank": 3,
+                                "rank": 4,
                                 "teamScore": 692669
                             },
                             {
@@ -41975,6 +41975,12 @@
                                 "name": "Azif",
                                 "rank": 12,
                                 "teamScore": 520139
+                            },
+                            {
+                                "id": "701178590",
+                                "name": "Tyrant",
+                                "rank": 3,
+                                "teamScore": 510258
                             },
                             {
                                 "id": "700443862",
@@ -42065,12 +42071,6 @@
                                 "name": "Domz",
                                 "rank": 45,
                                 "teamScore": 353316
-                            },
-                            {
-                                "id": "701178590",
-                                "name": "Tyrant",
-                                "rank": 4,
-                                "teamScore": 347941
                             },
                             {
                                 "id": "700345793",
@@ -42523,7 +42523,7 @@
                             {
                                 "id": "701178590",
                                 "name": "Tyrant",
-                                "rank": 4,
+                                "rank": 3,
                                 "teamScore": 1922086
                             },
                             {
@@ -42535,7 +42535,7 @@
                             {
                                 "id": "700388264",
                                 "name": "Conq",
-                                "rank": 3,
+                                "rank": 4,
                                 "teamScore": 1730631
                             },
                             {
@@ -42572,7 +42572,7 @@
                         "topUser": {
                             "id": "701178590",
                             "name": "Tyrant",
-                            "rank": 4,
+                            "rank": 3,
                             "teamScore": 1922086
                         },
                         "rank": 4
@@ -42828,7 +42828,7 @@
                                 "id": "701326336",
                                 "name": "Nemesis",
                                 "rank": 17,
-                                "teamScore": 988966
+                                "teamScore": 992856
                             },
                             {
                                 "id": "700345401",
@@ -43614,7 +43614,7 @@
                             {
                                 "id": "700388264",
                                 "name": "Conq",
-                                "rank": 3,
+                                "rank": 4,
                                 "teamScore": 692669
                             },
                             {
@@ -43640,6 +43640,12 @@
                                 "name": "Azif",
                                 "rank": 12,
                                 "teamScore": 520139
+                            },
+                            {
+                                "id": "701178590",
+                                "name": "Tyrant",
+                                "rank": 3,
+                                "teamScore": 510258
                             },
                             {
                                 "id": "700443862",
@@ -43730,12 +43736,6 @@
                                 "name": "Domz",
                                 "rank": 45,
                                 "teamScore": 353316
-                            },
-                            {
-                                "id": "701178590",
-                                "name": "Tyrant",
-                                "rank": 4,
-                                "teamScore": 347941
                             },
                             {
                                 "id": "700345793",
@@ -44934,7 +44934,7 @@
                             {
                                 "id": "701178590",
                                 "name": "Tyrant",
-                                "rank": 4,
+                                "rank": 3,
                                 "teamScore": 1922086
                             },
                             {
@@ -44946,7 +44946,7 @@
                             {
                                 "id": "700388264",
                                 "name": "Conq",
-                                "rank": 3,
+                                "rank": 4,
                                 "teamScore": 1730631
                             },
                             {
@@ -44971,7 +44971,7 @@
                         "topUser": {
                             "id": "701178590",
                             "name": "Tyrant",
-                            "rank": 4,
+                            "rank": 3,
                             "teamScore": 1922086
                         },
                         "rank": 1,
@@ -45942,7 +45942,7 @@
                                 "id": "701326336",
                                 "name": "Nemesis",
                                 "rank": 17,
-                                "teamScore": 988966
+                                "teamScore": 992856
                             },
                             {
                                 "id": "700580662",
@@ -46680,7 +46680,7 @@
                             {
                                 "id": "701178590",
                                 "name": "Tyrant",
-                                "rank": 4,
+                                "rank": 3,
                                 "teamScore": 1922086
                             },
                             {
@@ -46692,7 +46692,7 @@
                             {
                                 "id": "700388264",
                                 "name": "Conq",
-                                "rank": 3,
+                                "rank": 4,
                                 "teamScore": 1730631
                             },
                             {
@@ -46729,7 +46729,7 @@
                         "topUser": {
                             "id": "701178590",
                             "name": "Tyrant",
-                            "rank": 4,
+                            "rank": 3,
                             "teamScore": 1922086
                         },
                         "rank": 1,
@@ -47902,7 +47902,7 @@
                                 "id": "701326336",
                                 "name": "Nemesis",
                                 "rank": 17,
-                                "teamScore": 988966
+                                "teamScore": 992856
                             },
                             {
                                 "id": "700345401",
@@ -48475,7 +48475,7 @@
                             {
                                 "id": "700388264",
                                 "name": "Conq",
-                                "rank": 3,
+                                "rank": 4,
                                 "teamScore": 692669
                             },
                             {
@@ -48501,6 +48501,12 @@
                                 "name": "Azif",
                                 "rank": 12,
                                 "teamScore": 520139
+                            },
+                            {
+                                "id": "701178590",
+                                "name": "Tyrant",
+                                "rank": 3,
+                                "teamScore": 510258
                             },
                             {
                                 "id": "700443862",
@@ -48591,12 +48597,6 @@
                                 "name": "Domz",
                                 "rank": 45,
                                 "teamScore": 353316
-                            },
-                            {
-                                "id": "701178590",
-                                "name": "Tyrant",
-                                "rank": 4,
-                                "teamScore": 347941
                             },
                             {
                                 "id": "700345793",
@@ -49641,7 +49641,7 @@
             }
         },
         "jp": {
-            "LastRefreshTime": "1785635460",
+            "LastRefreshTime": "1785636060",
             "Rank": [
                 {
                     "Id": "300338594",
@@ -79488,7 +79488,7 @@
                     "Honors": [
                         {
                             "Id": 112110,
-                            "AffinityLV": 45
+                            "AffinityLV": 46
                         },
                         {
                             "Id": 118081
@@ -82903,7 +82903,7 @@
                     ]
                 }
             ],
-            "Total": 5895,
+            "Total": 5915,
             "UsageByFloor": {
                 "22": [
                     {
@@ -100706,7 +100706,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1785635428",
+            "LastRefreshTime": "1785636028",
             "Rank": [
                 {
                     "Id": "507501904",
@@ -133713,7 +133713,7 @@
                     ]
                 }
             ],
-            "Total": 1485,
+            "Total": 1493,
             "UsageByFloor": {
                 "22": [
                     {
@@ -148099,7 +148099,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1785635406",
+            "LastRefreshTime": "1785636006",
             "Rank": [
                 {
                     "Id": "900334820",
@@ -181378,7 +181378,7 @@
                     ]
                 }
             ],
-            "Total": 1815,
+            "Total": 1823,
             "UsageByFloor": {
                 "22": [
                     {
@@ -252073,11 +252073,361 @@
                     ]
                 },
                 {
+                    "Id": "701178590",
+                    "NickName": "Tyrant (EN)",
+                    "HeadIcon": 130007,
+                    "Score": 2432344,
+                    "Rank": 21,
+                    "TitlePrefix": 35,
+                    "TitleSuffix": 36,
+                    "Teams": [
+                        {
+                            "BuildScore": 10050,
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 125,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 1922086,
+                            "LevelId": 23,
+                            "Discs": [
+                                214055,
+                                214026,
+                                214008,
+                                214005,
+                                214031,
+                                214029
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514402,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514401,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514407,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514406,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514405,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 512523,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512522,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512531,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512530,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512533,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512525,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512526,
+                                    "Level": 3
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 49
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 48
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 41
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 5
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 5
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 6
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 10
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4055102,
+                                4055202,
+                                4026102,
+                                4026202,
+                                4008103,
+                                4008202
+                            ],
+                            "RecordRank": "34",
+                            "BuildCode": "AAAAkAAAAKAAAAB9zbBDBgAwBMBkBmzAOAwA"
+                        },
+                        {
+                            "BuildScore": 9450,
+                            "Chars": [
+                                {
+                                    "Id": 110,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 142,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 145,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 510258,
+                            "LevelId": 22,
+                            "Discs": [
+                                214050,
+                                214004,
+                                214045,
+                                214043,
+                                214006,
+                                214032
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 511002,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511001,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511005,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511006,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511011,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511007,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 511041,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514223,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514222,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514233,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514231,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 514225,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514230,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514228,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 514242,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514523,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514524,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514529,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 514531,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514528,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 514532,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 514533,
+                                    "Level": 2
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90023,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 10
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 19
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 37
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 17
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 15
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 8
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4050101,
+                                4050201,
+                                4004102,
+                                4004202,
+                                4045102,
+                                4045202
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAbgAAAI4AAACRzagYAIZsA8wMCDAEGtQA"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 112144,
+                            "AffinityLV": 50
+                        },
+                        {
+                            "Id": 112110,
+                            "AffinityLV": 30
+                        },
+                        {
+                            "Id": 111001
+                        }
+                    ]
+                },
+                {
                     "Id": "300971420",
                     "NickName": "なつ (JP)",
                     "HeadIcon": 101,
                     "Score": 2430156,
-                    "Rank": 21,
+                    "Rank": 22,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -252420,7 +252770,7 @@
                     "NickName": "Conq (EN)",
                     "HeadIcon": 130005,
                     "Score": 2423300,
-                    "Rank": 22,
+                    "Rank": 23,
                     "TitlePrefix": 27,
                     "TitleSuffix": 22,
                     "Teams": [
@@ -252769,7 +253119,7 @@
                     "NickName": "水泳部見学部員 (JP)",
                     "HeadIcon": 14301,
                     "Score": 2306408,
-                    "Rank": 23,
+                    "Rank": 24,
                     "TitlePrefix": 11,
                     "TitleSuffix": 30,
                     "Teams": [
@@ -253112,356 +253462,6 @@
                         {
                             "Id": 112145,
                             "AffinityLV": 37
-                        }
-                    ]
-                },
-                {
-                    "Id": "701178590",
-                    "NickName": "Tyrant (EN)",
-                    "HeadIcon": 130007,
-                    "Score": 2270027,
-                    "Rank": 24,
-                    "TitlePrefix": 35,
-                    "TitleSuffix": 36,
-                    "Teams": [
-                        {
-                            "BuildScore": 10050,
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 125,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 1922086,
-                            "LevelId": 23,
-                            "Discs": [
-                                214055,
-                                214026,
-                                214008,
-                                214005,
-                                214031,
-                                214029
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514402,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514401,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514407,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514406,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514405,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 512523,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512522,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512531,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512530,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512533,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512525,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512526,
-                                    "Level": 3
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 49
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 48
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 41
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 5
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 5
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 6
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 10
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4055102,
-                                4055202,
-                                4026102,
-                                4026202,
-                                4008103,
-                                4008202
-                            ],
-                            "RecordRank": "34",
-                            "BuildCode": "AAAAkAAAAKAAAAB9zbBDBgAwBMBkBmzAOAwA"
-                        },
-                        {
-                            "BuildScore": 9450,
-                            "Chars": [
-                                {
-                                    "Id": 110,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 142,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 145,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 347941,
-                            "LevelId": 22,
-                            "Discs": [
-                                214050,
-                                214004,
-                                214045,
-                                214043,
-                                214006,
-                                214032
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 511002,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511001,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511005,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511006,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511011,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511007,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 511041,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514223,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514222,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514233,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514231,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 514225,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514230,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514228,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 514242,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514523,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514524,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514529,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 514531,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514528,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 514532,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 514533,
-                                    "Level": 2
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90023,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 10
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 19
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 37
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 17
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 15
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 8
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4050101,
-                                4050201,
-                                4004102,
-                                4004202,
-                                4045102,
-                                4045202
-                            ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAbgAAAI4AAACRzagYAIZsA8wMCDAEGtQA"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 112144,
-                            "AffinityLV": 50
-                        },
-                        {
-                            "Id": 112110,
-                            "AffinityLV": 30
-                        },
-                        {
-                            "Id": 111001
                         }
                     ]
                 },
@@ -297277,11 +297277,354 @@
                     ]
                 },
                 {
+                    "Id": "701326336",
+                    "NickName": "Nemesis (EN)",
+                    "HeadIcon": 130005,
+                    "Score": 1322192,
+                    "Rank": 156,
+                    "TitlePrefix": 25,
+                    "TitleSuffix": 24,
+                    "Teams": [
+                        {
+                            "BuildScore": 9330,
+                            "Chars": [
+                                {
+                                    "Id": 110,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 145,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 142,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 329336,
+                            "LevelId": 22,
+                            "Discs": [
+                                214050,
+                                214045,
+                                214004,
+                                214043,
+                                214012,
+                                214006
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 511001,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511002,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511011,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511005,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511006,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511041,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 511008,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514524,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514523,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514531,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514530,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 514528,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514529,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514532,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 514222,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514223,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514225,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514242,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514230,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 514233,
+                                    "Level": 6
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90023,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 8
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 43
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 9
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 27
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 39
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 16
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 2
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4050102,
+                                4050201,
+                                4045102,
+                                4045201,
+                                4004102,
+                                4004201
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAbgAAAJEAAACOzYAYIMYwBpngAGwAoAww"
+                        },
+                        {
+                            "BuildScore": 9540,
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 127,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 992856,
+                            "LevelId": 23,
+                            "Discs": [
+                                214055,
+                                214031,
+                                214026,
+                                214047,
+                                214021,
+                                214056
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514401,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514402,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514405,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514406,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514407,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 512723,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512721,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512725,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512729,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512733,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512731,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 512726,
+                                    "Level": 1
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 38
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 18
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 31
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 11
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 12
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 29
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 23
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4055102,
+                                4055201,
+                                4031101,
+                                4031201,
+                                4026102,
+                                4026201
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAkAAAAKAAAAB/zbBDBgAwBqBmBqxADGwA"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 112116,
+                            "AffinityLV": 11
+                        },
+                        {
+                            "Id": 112147,
+                            "AffinityLV": 11
+                        },
+                        {
+                            "Id": 112107,
+                            "AffinityLV": 10
+                        }
+                    ]
+                },
+                {
                     "Id": "302138661",
                     "NickName": "小焱焱 (JP)",
                     "HeadIcon": 130007,
                     "Score": 1320971,
-                    "Rank": 156,
+                    "Rank": 157,
                     "TitlePrefix": 9,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -297615,7 +297958,7 @@
                     "NickName": "池鱼 (CN)",
                     "HeadIcon": 130003,
                     "Score": 1319788,
-                    "Rank": 157,
+                    "Rank": 158,
                     "TitlePrefix": 9,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -297950,7 +298293,7 @@
                     "NickName": "长歌 (CN)",
                     "HeadIcon": 101,
                     "Score": 1319716,
-                    "Rank": 158,
+                    "Rank": 159,
                     "TitlePrefix": 1,
                     "TitleSuffix": 4,
                     "Teams": [
@@ -298304,7 +298647,7 @@
                     "NickName": "랑기리 (KR)",
                     "HeadIcon": 10303,
                     "Score": 1319551,
-                    "Rank": 159,
+                    "Rank": 160,
                     "TitlePrefix": 35,
                     "TitleSuffix": 36,
                     "Teams": [
@@ -298639,349 +298982,6 @@
                         },
                         {
                             "Id": 117041
-                        }
-                    ]
-                },
-                {
-                    "Id": "701326336",
-                    "NickName": "Nemesis (EN)",
-                    "HeadIcon": 130005,
-                    "Score": 1318302,
-                    "Rank": 160,
-                    "TitlePrefix": 25,
-                    "TitleSuffix": 24,
-                    "Teams": [
-                        {
-                            "BuildScore": 9330,
-                            "Chars": [
-                                {
-                                    "Id": 110,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 145,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 142,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 329336,
-                            "LevelId": 22,
-                            "Discs": [
-                                214050,
-                                214045,
-                                214004,
-                                214043,
-                                214012,
-                                214006
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 511001,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511002,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511011,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511005,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511006,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511041,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 511008,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514524,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514523,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514531,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514530,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 514528,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514529,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514532,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 514222,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514223,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514225,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514242,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514230,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 514233,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90023,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 8
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 43
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 9
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 27
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 39
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 2
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4050102,
-                                4050201,
-                                4045102,
-                                4045201,
-                                4004102,
-                                4004201
-                            ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAbgAAAJEAAACOzYAYIMYwBpngAGwAoAww"
-                        },
-                        {
-                            "BuildScore": 9540,
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 127,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 988966,
-                            "LevelId": 23,
-                            "Discs": [
-                                214055,
-                                214031,
-                                214026,
-                                214047,
-                                214021,
-                                214056
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514401,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514402,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514405,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514406,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514407,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 512723,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512721,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512725,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512729,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512733,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512731,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 512726,
-                                    "Level": 1
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 38
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 18
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 31
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 11
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 12
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 29
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 23
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4055102,
-                                4055201,
-                                4031101,
-                                4031201,
-                                4026102,
-                                4026201
-                            ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAkAAAAKAAAAB/zbBDBgAwBqBmBqxADGwA"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 112116,
-                            "AffinityLV": 11
-                        },
-                        {
-                            "Id": 112147,
-                            "AffinityLV": 11
-                        },
-                        {
-                            "Id": 112107,
-                            "AffinityLV": 10
                         }
                     ]
                 },
@@ -329223,7 +329223,7 @@
                     "Honors": [
                         {
                             "Id": 112110,
-                            "AffinityLV": 45
+                            "AffinityLV": 46
                         },
                         {
                             "Id": 118081
@@ -412183,8 +412183,8 @@
                     ]
                 }
             ],
-            "Total": 20586,
-            "LastRefreshTime": "1785635460",
+            "Total": 20641,
+            "LastRefreshTime": "1785636060",
             "UsageByFloor": {
                 "22": [
                     {
@@ -412650,7 +412650,7 @@
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159
+                                "rank": 160
                             },
                             {
                                 "id": "509814379",
@@ -413978,7 +413978,7 @@
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159
+                                "rank": 160
                             },
                             {
                                 "id": "501104010",
@@ -415306,7 +415306,7 @@
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159
+                                "rank": 160
                             },
                             {
                                 "id": "509814379",
@@ -416202,23 +416202,23 @@
                                 "rank": 19
                             },
                             {
+                                "id": "701178590",
+                                "name": "Tyrant (EN)",
+                                "rank": 21
+                            },
+                            {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21
+                                "rank": 22
                             },
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22
+                                "rank": 23
                             },
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23
-                            },
-                            {
-                                "id": "701178590",
-                                "name": "Tyrant (EN)",
                                 "rank": 24
                             },
                             {
@@ -416427,19 +416427,19 @@
                                 "rank": 155
                             },
                             {
+                                "id": "701326336",
+                                "name": "Nemesis (EN)",
+                                "rank": 156
+                            },
+                            {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156
+                                "rank": 157
                             },
                             {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158
-                            },
-                            {
-                                "id": "701326336",
-                                "name": "Nemesis (EN)",
-                                "rank": 160
+                                "rank": 159
                             },
                             {
                                 "id": "501295774",
@@ -417160,23 +417160,23 @@
                                 "rank": 19
                             },
                             {
+                                "id": "701178590",
+                                "name": "Tyrant (EN)",
+                                "rank": 21
+                            },
+                            {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21
+                                "rank": 22
                             },
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22
+                                "rank": 23
                             },
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23
-                            },
-                            {
-                                "id": "701178590",
-                                "name": "Tyrant (EN)",
                                 "rank": 24
                             },
                             {
@@ -417385,19 +417385,19 @@
                                 "rank": 155
                             },
                             {
+                                "id": "701326336",
+                                "name": "Nemesis (EN)",
+                                "rank": 156
+                            },
+                            {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156
+                                "rank": 157
                             },
                             {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158
-                            },
-                            {
-                                "id": "701326336",
-                                "name": "Nemesis (EN)",
-                                "rank": 160
+                                "rank": 159
                             },
                             {
                                 "id": "501295774",
@@ -418113,23 +418113,23 @@
                                 "rank": 19
                             },
                             {
+                                "id": "701178590",
+                                "name": "Tyrant (EN)",
+                                "rank": 21
+                            },
+                            {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21
+                                "rank": 22
                             },
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22
+                                "rank": 23
                             },
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23
-                            },
-                            {
-                                "id": "701178590",
-                                "name": "Tyrant (EN)",
                                 "rank": 24
                             },
                             {
@@ -418313,19 +418313,19 @@
                                 "rank": 155
                             },
                             {
+                                "id": "701326336",
+                                "name": "Nemesis (EN)",
+                                "rank": 156
+                            },
+                            {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156
+                                "rank": 157
                             },
                             {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158
-                            },
-                            {
-                                "id": "701326336",
-                                "name": "Nemesis (EN)",
-                                "rank": 160
+                                "rank": 159
                             },
                             {
                                 "id": "501295774",
@@ -419111,7 +419111,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157
+                                "rank": 158
                             },
                             {
                                 "id": "300398161",
@@ -419237,7 +419237,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157
+                                "rank": 158
                             },
                             {
                                 "id": "300398161",
@@ -419300,7 +419300,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157
+                                "rank": 158
                             },
                             {
                                 "id": "300398161",
@@ -419699,7 +419699,7 @@
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23
+                                "rank": 24
                             },
                             {
                                 "id": "300569734",
@@ -420094,12 +420094,12 @@
                             {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158
+                                "rank": 159
                             },
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159
+                                "rank": 160
                             },
                             {
                                 "id": "509814379",
@@ -421132,7 +421132,7 @@
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23
+                                "rank": 24
                             },
                             {
                                 "id": "300569734",
@@ -421522,12 +421522,12 @@
                             {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158
+                                "rank": 159
                             },
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159
+                                "rank": 160
                             },
                             {
                                 "id": "509814379",
@@ -422550,7 +422550,7 @@
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23
+                                "rank": 24
                             },
                             {
                                 "id": "300569734",
@@ -422905,12 +422905,12 @@
                             {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158
+                                "rank": 159
                             },
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159
+                                "rank": 160
                             },
                             {
                                 "id": "509814379",
@@ -423841,19 +423841,19 @@
                                 "rank": 19
                             },
                             {
+                                "id": "701178590",
+                                "name": "Tyrant (EN)",
+                                "rank": 21
+                            },
+                            {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21
+                                "rank": 22
                             },
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22
-                            },
-                            {
-                                "id": "701178590",
-                                "name": "Tyrant (EN)",
-                                "rank": 24
+                                "rank": 23
                             },
                             {
                                 "id": "500666969",
@@ -424051,14 +424051,14 @@
                                 "rank": 155
                             },
                             {
-                                "id": "302138661",
-                                "name": "小焱焱 (JP)",
+                                "id": "701326336",
+                                "name": "Nemesis (EN)",
                                 "rank": 156
                             },
                             {
-                                "id": "701326336",
-                                "name": "Nemesis (EN)",
-                                "rank": 160
+                                "id": "302138661",
+                                "name": "小焱焱 (JP)",
+                                "rank": 157
                             },
                             {
                                 "id": "501295774",
@@ -424694,19 +424694,19 @@
                                 "rank": 19
                             },
                             {
+                                "id": "701178590",
+                                "name": "Tyrant (EN)",
+                                "rank": 21
+                            },
+                            {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21
+                                "rank": 22
                             },
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22
-                            },
-                            {
-                                "id": "701178590",
-                                "name": "Tyrant (EN)",
-                                "rank": 24
+                                "rank": 23
                             },
                             {
                                 "id": "500666969",
@@ -424899,14 +424899,14 @@
                                 "rank": 155
                             },
                             {
-                                "id": "302138661",
-                                "name": "小焱焱 (JP)",
+                                "id": "701326336",
+                                "name": "Nemesis (EN)",
                                 "rank": 156
                             },
                             {
-                                "id": "701326336",
-                                "name": "Nemesis (EN)",
-                                "rank": 160
+                                "id": "302138661",
+                                "name": "小焱焱 (JP)",
+                                "rank": 157
                             },
                             {
                                 "id": "501295774",
@@ -425539,7 +425539,7 @@
                             {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21
+                                "rank": 22
                             },
                             {
                                 "id": "500666969",
@@ -425679,7 +425679,7 @@
                             {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156
+                                "rank": 157
                             },
                             {
                                 "id": "501295774",
@@ -426282,7 +426282,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157
+                                "rank": 158
                             },
                             {
                                 "id": "300398161",
@@ -426465,7 +426465,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157
+                                "rank": 158
                             },
                             {
                                 "id": "300398161",
@@ -426613,7 +426613,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157
+                                "rank": 158
                             },
                             {
                                 "id": "500380157",
@@ -426882,14 +426882,14 @@
                                 "rank": 14
                             },
                             {
-                                "id": "700388264",
-                                "name": "Conq (EN)",
-                                "rank": 22
-                            },
-                            {
                                 "id": "701178590",
                                 "name": "Tyrant (EN)",
-                                "rank": 24
+                                "rank": 21
+                            },
+                            {
+                                "id": "700388264",
+                                "name": "Conq (EN)",
+                                "rank": 23
                             },
                             {
                                 "id": "300799973",
@@ -427070,7 +427070,7 @@
                             {
                                 "id": "701326336",
                                 "name": "Nemesis (EN)",
-                                "rank": 160
+                                "rank": 156
                             },
                             {
                                 "id": "100893306",
@@ -427331,19 +427331,19 @@
                                 "rank": 20
                             },
                             {
+                                "id": "701178590",
+                                "name": "Tyrant (EN)",
+                                "rank": 21
+                            },
+                            {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21
+                                "rank": 22
                             },
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22
-                            },
-                            {
-                                "id": "701178590",
-                                "name": "Tyrant (EN)",
-                                "rank": 24
+                                "rank": 23
                             },
                             {
                                 "id": "300569734",
@@ -427941,18 +427941,18 @@
                                 "rank": 155
                             },
                             {
+                                "id": "701326336",
+                                "name": "Nemesis (EN)",
+                                "rank": 156
+                            },
+                            {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156
+                                "rank": 157
                             },
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159
-                            },
-                            {
-                                "id": "701326336",
-                                "name": "Nemesis (EN)",
                                 "rank": 160
                             },
                             {
@@ -429539,19 +429539,19 @@
                                 "rank": 20
                             },
                             {
+                                "id": "701178590",
+                                "name": "Tyrant (EN)",
+                                "rank": 21
+                            },
+                            {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21
+                                "rank": 22
                             },
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22
-                            },
-                            {
-                                "id": "701178590",
-                                "name": "Tyrant (EN)",
-                                "rank": 24
+                                "rank": 23
                             },
                             {
                                 "id": "300569734",
@@ -430119,18 +430119,18 @@
                                 "rank": 155
                             },
                             {
+                                "id": "701326336",
+                                "name": "Nemesis (EN)",
+                                "rank": 156
+                            },
+                            {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156
+                                "rank": 157
                             },
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159
-                            },
-                            {
-                                "id": "701326336",
-                                "name": "Nemesis (EN)",
                                 "rank": 160
                             },
                             {
@@ -431694,7 +431694,7 @@
                             {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21
+                                "rank": 22
                             },
                             {
                                 "id": "300569734",
@@ -432219,12 +432219,12 @@
                             {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156
+                                "rank": 157
                             },
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159
+                                "rank": 160
                             },
                             {
                                 "id": "509814379",
@@ -433667,7 +433667,7 @@
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23
+                                "rank": 24
                             },
                             {
                                 "id": "300569734",
@@ -434082,17 +434082,17 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157
+                                "rank": 158
                             },
                             {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158
+                                "rank": 159
                             },
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159
+                                "rank": 160
                             },
                             {
                                 "id": "509814379",
@@ -435155,7 +435155,7 @@
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23
+                                "rank": 24
                             },
                             {
                                 "id": "300569734",
@@ -435565,17 +435565,17 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157
+                                "rank": 158
                             },
                             {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158
+                                "rank": 159
                             },
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159
+                                "rank": 160
                             },
                             {
                                 "id": "509814379",
@@ -436618,7 +436618,7 @@
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23
+                                "rank": 24
                             },
                             {
                                 "id": "300569734",
@@ -436973,12 +436973,12 @@
                             {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158
+                                "rank": 159
                             },
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159
+                                "rank": 160
                             },
                             {
                                 "id": "509814379",
@@ -437904,23 +437904,23 @@
                                 "rank": 19
                             },
                             {
+                                "id": "701178590",
+                                "name": "Tyrant (EN)",
+                                "rank": 21
+                            },
+                            {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21
+                                "rank": 22
                             },
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22
+                                "rank": 23
                             },
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23
-                            },
-                            {
-                                "id": "701178590",
-                                "name": "Tyrant (EN)",
                                 "rank": 24
                             },
                             {
@@ -438129,19 +438129,19 @@
                                 "rank": 155
                             },
                             {
+                                "id": "701326336",
+                                "name": "Nemesis (EN)",
+                                "rank": 156
+                            },
+                            {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156
+                                "rank": 157
                             },
                             {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158
-                            },
-                            {
-                                "id": "701326336",
-                                "name": "Nemesis (EN)",
-                                "rank": 160
+                                "rank": 159
                             },
                             {
                                 "id": "501295774",
@@ -438862,23 +438862,23 @@
                                 "rank": 19
                             },
                             {
+                                "id": "701178590",
+                                "name": "Tyrant (EN)",
+                                "rank": 21
+                            },
+                            {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21
+                                "rank": 22
                             },
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22
+                                "rank": 23
                             },
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23
-                            },
-                            {
-                                "id": "701178590",
-                                "name": "Tyrant (EN)",
                                 "rank": 24
                             },
                             {
@@ -439087,19 +439087,19 @@
                                 "rank": 155
                             },
                             {
+                                "id": "701326336",
+                                "name": "Nemesis (EN)",
+                                "rank": 156
+                            },
+                            {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156
+                                "rank": 157
                             },
                             {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158
-                            },
-                            {
-                                "id": "701326336",
-                                "name": "Nemesis (EN)",
-                                "rank": 160
+                                "rank": 159
                             },
                             {
                                 "id": "501295774",
@@ -439815,23 +439815,23 @@
                                 "rank": 19
                             },
                             {
+                                "id": "701178590",
+                                "name": "Tyrant (EN)",
+                                "rank": 21
+                            },
+                            {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21
+                                "rank": 22
                             },
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22
+                                "rank": 23
                             },
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23
-                            },
-                            {
-                                "id": "701178590",
-                                "name": "Tyrant (EN)",
                                 "rank": 24
                             },
                             {
@@ -440015,19 +440015,19 @@
                                 "rank": 155
                             },
                             {
+                                "id": "701326336",
+                                "name": "Nemesis (EN)",
+                                "rank": 156
+                            },
+                            {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156
+                                "rank": 157
                             },
                             {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158
-                            },
-                            {
-                                "id": "701326336",
-                                "name": "Nemesis (EN)",
-                                "rank": 160
+                                "rank": 159
                             },
                             {
                                 "id": "501295774",
@@ -440750,7 +440750,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157
+                                "rank": 158
                             },
                             {
                                 "id": "700570098",
@@ -440948,7 +440948,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157
+                                "rank": 158
                             },
                             {
                                 "id": "700632942",
@@ -441136,7 +441136,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157
+                                "rank": 158
                             },
                             {
                                 "id": "300398161",
@@ -441447,7 +441447,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157
+                                "rank": 158
                             },
                             {
                                 "id": "700632942",
@@ -441583,14 +441583,14 @@
                                 "rank": 16
                             },
                             {
-                                "id": "700388264",
-                                "name": "Conq (EN)",
-                                "rank": 22
-                            },
-                            {
                                 "id": "701178590",
                                 "name": "Tyrant (EN)",
-                                "rank": 24
+                                "rank": 21
+                            },
+                            {
+                                "id": "700388264",
+                                "name": "Conq (EN)",
+                                "rank": 23
                             },
                             {
                                 "id": "300799973",
@@ -441758,7 +441758,7 @@
                             {
                                 "id": "701326336",
                                 "name": "Nemesis (EN)",
-                                "rank": 160
+                                "rank": 156
                             },
                             {
                                 "id": "509814379",
@@ -442713,7 +442713,7 @@
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159,
+                                "rank": 160,
                                 "teamScore": 700838
                             },
                             {
@@ -443735,13 +443735,13 @@
                             {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21,
+                                "rank": 22,
                                 "teamScore": 822151
                             },
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23,
+                                "rank": 24,
                                 "teamScore": 792201
                             },
                             {
@@ -443783,7 +443783,7 @@
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22,
+                                "rank": 23,
                                 "teamScore": 692669
                             },
                             {
@@ -443913,9 +443913,15 @@
                                 "teamScore": 510579
                             },
                             {
+                                "id": "701178590",
+                                "name": "Tyrant (EN)",
+                                "rank": 21,
+                                "teamScore": 510258
+                            },
+                            {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158,
+                                "rank": 159,
                                 "teamScore": 502876
                             },
                             {
@@ -444017,7 +444023,7 @@
                             {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156,
+                                "rank": 157,
                                 "teamScore": 435025
                             },
                             {
@@ -444225,12 +444231,6 @@
                                 "teamScore": 349266
                             },
                             {
-                                "id": "701178590",
-                                "name": "Tyrant (EN)",
-                                "rank": 24,
-                                "teamScore": 347941
-                            },
-                            {
                                 "id": "700345793",
                                 "name": "Llamas (EN)",
                                 "rank": 382,
@@ -444281,7 +444281,7 @@
                             {
                                 "id": "701326336",
                                 "name": "Nemesis (EN)",
-                                "rank": 160,
+                                "rank": 156,
                                 "teamScore": 329336
                             },
                             {
@@ -444855,7 +444855,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157,
+                                "rank": 158,
                                 "teamScore": 667937
                             },
                             {
@@ -445567,7 +445567,7 @@
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23,
+                                "rank": 24,
                                 "teamScore": 1514207
                             },
                             {
@@ -445777,7 +445777,7 @@
                             {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158,
+                                "rank": 159,
                                 "teamScore": 816840
                             },
                             {
@@ -446233,7 +446233,7 @@
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159,
+                                "rank": 160,
                                 "teamScore": 618713
                             },
                             {
@@ -447129,7 +447129,7 @@
                             {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21,
+                                "rank": 22,
                                 "teamScore": 1608005
                             },
                             {
@@ -447393,7 +447393,7 @@
                             {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156,
+                                "rank": 157,
                                 "teamScore": 885946
                             },
                             {
@@ -448135,7 +448135,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157,
+                                "rank": 158,
                                 "teamScore": 651851
                             },
                             {
@@ -448293,7 +448293,7 @@
                             {
                                 "id": "701178590",
                                 "name": "Tyrant (EN)",
-                                "rank": 24,
+                                "rank": 21,
                                 "teamScore": 1922086
                             },
                             {
@@ -448305,7 +448305,7 @@
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22,
+                                "rank": 23,
                                 "teamScore": 1730631
                             },
                             {
@@ -448433,8 +448433,8 @@
                             {
                                 "id": "701326336",
                                 "name": "Nemesis (EN)",
-                                "rank": 160,
-                                "teamScore": 988966
+                                "rank": 156,
+                                "teamScore": 992856
                             },
                             {
                                 "id": "302262593",
@@ -448933,7 +448933,7 @@
                             {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21,
+                                "rank": 22,
                                 "teamScore": 1608005
                             },
                             {
@@ -449443,7 +449443,7 @@
                             {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156,
+                                "rank": 157,
                                 "teamScore": 885946
                             },
                             {
@@ -449875,7 +449875,7 @@
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159,
+                                "rank": 160,
                                 "teamScore": 700838
                             },
                             {
@@ -451191,7 +451191,7 @@
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23,
+                                "rank": 24,
                                 "teamScore": 1514207
                             },
                             {
@@ -451401,7 +451401,7 @@
                             {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158,
+                                "rank": 159,
                                 "teamScore": 816840
                             },
                             {
@@ -451857,7 +451857,7 @@
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159,
+                                "rank": 160,
                                 "teamScore": 618713
                             },
                             {
@@ -452777,13 +452777,13 @@
                             {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21,
+                                "rank": 22,
                                 "teamScore": 822151
                             },
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23,
+                                "rank": 24,
                                 "teamScore": 792201
                             },
                             {
@@ -452825,7 +452825,7 @@
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22,
+                                "rank": 23,
                                 "teamScore": 692669
                             },
                             {
@@ -452955,9 +452955,15 @@
                                 "teamScore": 510579
                             },
                             {
+                                "id": "701178590",
+                                "name": "Tyrant (EN)",
+                                "rank": 21,
+                                "teamScore": 510258
+                            },
+                            {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158,
+                                "rank": 159,
                                 "teamScore": 502876
                             },
                             {
@@ -453059,7 +453065,7 @@
                             {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156,
+                                "rank": 157,
                                 "teamScore": 435025
                             },
                             {
@@ -453267,12 +453273,6 @@
                                 "teamScore": 349266
                             },
                             {
-                                "id": "701178590",
-                                "name": "Tyrant (EN)",
-                                "rank": 24,
-                                "teamScore": 347941
-                            },
-                            {
                                 "id": "700345793",
                                 "name": "Llamas (EN)",
                                 "rank": 382,
@@ -453323,7 +453323,7 @@
                             {
                                 "id": "701326336",
                                 "name": "Nemesis (EN)",
-                                "rank": 160,
+                                "rank": 156,
                                 "teamScore": 329336
                             },
                             {
@@ -453865,7 +453865,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157,
+                                "rank": 158,
                                 "teamScore": 667937
                             },
                             {
@@ -454065,7 +454065,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157,
+                                "rank": 158,
                                 "teamScore": 651851
                             },
                             {
@@ -454223,7 +454223,7 @@
                             {
                                 "id": "701178590",
                                 "name": "Tyrant (EN)",
-                                "rank": 24,
+                                "rank": 21,
                                 "teamScore": 1922086
                             },
                             {
@@ -454235,7 +454235,7 @@
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22,
+                                "rank": 23,
                                 "teamScore": 1730631
                             },
                             {
@@ -454645,8 +454645,8 @@
                             {
                                 "id": "701326336",
                                 "name": "Nemesis (EN)",
-                                "rank": 160,
-                                "teamScore": 988966
+                                "rank": 156,
+                                "teamScore": 992856
                             },
                             {
                                 "id": "302262593",
@@ -455841,7 +455841,7 @@
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159,
+                                "rank": 160,
                                 "teamScore": 700838
                             },
                             {
@@ -457305,13 +457305,13 @@
                             {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21,
+                                "rank": 22,
                                 "teamScore": 822151
                             },
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23,
+                                "rank": 24,
                                 "teamScore": 792201
                             },
                             {
@@ -457353,7 +457353,7 @@
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22,
+                                "rank": 23,
                                 "teamScore": 692669
                             },
                             {
@@ -457483,9 +457483,15 @@
                                 "teamScore": 510579
                             },
                             {
+                                "id": "701178590",
+                                "name": "Tyrant (EN)",
+                                "rank": 21,
+                                "teamScore": 510258
+                            },
+                            {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158,
+                                "rank": 159,
                                 "teamScore": 502876
                             },
                             {
@@ -457587,7 +457593,7 @@
                             {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156,
+                                "rank": 157,
                                 "teamScore": 435025
                             },
                             {
@@ -457795,12 +457801,6 @@
                                 "teamScore": 349266
                             },
                             {
-                                "id": "701178590",
-                                "name": "Tyrant (EN)",
-                                "rank": 24,
-                                "teamScore": 347941
-                            },
-                            {
                                 "id": "700345793",
                                 "name": "Llamas (EN)",
                                 "rank": 382,
@@ -457851,7 +457851,7 @@
                             {
                                 "id": "701326336",
                                 "name": "Nemesis (EN)",
-                                "rank": 160,
+                                "rank": 156,
                                 "teamScore": 329336
                             },
                             {
@@ -458819,7 +458819,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157,
+                                "rank": 158,
                                 "teamScore": 667937
                             },
                             {
@@ -460708,7 +460708,7 @@
                             {
                                 "id": "701178590",
                                 "name": "Tyrant (EN)",
-                                "rank": 24,
+                                "rank": 21,
                                 "teamScore": 1922086
                             },
                             {
@@ -460720,7 +460720,7 @@
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22,
+                                "rank": 23,
                                 "teamScore": 1730631
                             },
                             {
@@ -461010,7 +461010,7 @@
                             {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21,
+                                "rank": 22,
                                 "teamScore": 1608005
                             },
                             {
@@ -461274,7 +461274,7 @@
                             {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156,
+                                "rank": 157,
                                 "teamScore": 885946
                             },
                             {
@@ -462016,7 +462016,7 @@
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23,
+                                "rank": 24,
                                 "teamScore": 1514207
                             },
                             {
@@ -462226,7 +462226,7 @@
                             {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158,
+                                "rank": 159,
                                 "teamScore": 816840
                             },
                             {
@@ -462682,7 +462682,7 @@
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159,
+                                "rank": 160,
                                 "teamScore": 618713
                             },
                             {
@@ -463719,8 +463719,8 @@
                             {
                                 "id": "701326336",
                                 "name": "Nemesis (EN)",
-                                "rank": 160,
-                                "teamScore": 988966
+                                "rank": 156,
+                                "teamScore": 992856
                             },
                             {
                                 "id": "302262593",
@@ -464594,7 +464594,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157,
+                                "rank": 158,
                                 "teamScore": 651851
                             },
                             {
@@ -465741,7 +465741,7 @@
                             {
                                 "id": "701178590",
                                 "name": "Tyrant (EN)",
-                                "rank": 24,
+                                "rank": 21,
                                 "teamScore": 1922086
                             },
                             {
@@ -465753,7 +465753,7 @@
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22,
+                                "rank": 23,
                                 "teamScore": 1730631
                             },
                             {
@@ -466100,7 +466100,7 @@
                             {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21,
+                                "rank": 22,
                                 "teamScore": 1608005
                             },
                             {
@@ -466610,7 +466610,7 @@
                             {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156,
+                                "rank": 157,
                                 "teamScore": 885946
                             },
                             {
@@ -467042,7 +467042,7 @@
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159,
+                                "rank": 160,
                                 "teamScore": 700838
                             },
                             {
@@ -468549,7 +468549,7 @@
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23,
+                                "rank": 24,
                                 "teamScore": 1514207
                             },
                             {
@@ -468759,7 +468759,7 @@
                             {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158,
+                                "rank": 159,
                                 "teamScore": 816840
                             },
                             {
@@ -469215,7 +469215,7 @@
                             {
                                 "id": "500736331",
                                 "name": "랑기리 (KR)",
-                                "rank": 159,
+                                "rank": 160,
                                 "teamScore": 618713
                             },
                             {
@@ -470518,8 +470518,8 @@
                             {
                                 "id": "701326336",
                                 "name": "Nemesis (EN)",
-                                "rank": 160,
-                                "teamScore": 988966
+                                "rank": 156,
+                                "teamScore": 992856
                             },
                             {
                                 "id": "302262593",
@@ -470752,13 +470752,13 @@
                             {
                                 "id": "300971420",
                                 "name": "なつ (JP)",
-                                "rank": 21,
+                                "rank": 22,
                                 "teamScore": 822151
                             },
                             {
                                 "id": "304735076",
                                 "name": "水泳部見学部員 (JP)",
-                                "rank": 23,
+                                "rank": 24,
                                 "teamScore": 792201
                             },
                             {
@@ -470800,7 +470800,7 @@
                             {
                                 "id": "700388264",
                                 "name": "Conq (EN)",
-                                "rank": 22,
+                                "rank": 23,
                                 "teamScore": 692669
                             },
                             {
@@ -470930,9 +470930,15 @@
                                 "teamScore": 510579
                             },
                             {
+                                "id": "701178590",
+                                "name": "Tyrant (EN)",
+                                "rank": 21,
+                                "teamScore": 510258
+                            },
+                            {
                                 "id": "101482613",
                                 "name": "长歌 (CN)",
-                                "rank": 158,
+                                "rank": 159,
                                 "teamScore": 502876
                             },
                             {
@@ -471034,7 +471040,7 @@
                             {
                                 "id": "302138661",
                                 "name": "小焱焱 (JP)",
-                                "rank": 156,
+                                "rank": 157,
                                 "teamScore": 435025
                             },
                             {
@@ -471242,12 +471248,6 @@
                                 "teamScore": 349266
                             },
                             {
-                                "id": "701178590",
-                                "name": "Tyrant (EN)",
-                                "rank": 24,
-                                "teamScore": 347941
-                            },
-                            {
                                 "id": "700345793",
                                 "name": "Llamas (EN)",
                                 "rank": 382,
@@ -471298,7 +471298,7 @@
                             {
                                 "id": "701326336",
                                 "name": "Nemesis (EN)",
-                                "rank": 160,
+                                "rank": 156,
                                 "teamScore": 329336
                             },
                             {
@@ -472018,7 +472018,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157,
+                                "rank": 158,
                                 "teamScore": 667937
                             },
                             {
@@ -473473,7 +473473,7 @@
                             {
                                 "id": "100544463",
                                 "name": "池鱼 (CN)",
-                                "rank": 157,
+                                "rank": 158,
                                 "teamScore": 651851
                             },
                             {
