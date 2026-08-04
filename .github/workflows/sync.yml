@@ -49,7 +49,7 @@ jobs:
         season_changed=false
         pnpm install
         node index.js
-        if ! git diff --quiet -- season.json; then
+        if [ -n "$(git ls-files --others --exclude-standard -- 'bb*.json' 'fe*.json')" ]; then
           season_changed=true
         fi
         git add .
