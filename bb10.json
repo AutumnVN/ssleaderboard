@@ -1,7 +1,7 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1785952294",
+            "LastRefreshTime": "1785952894",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
@@ -29680,13 +29680,13 @@
                     "Id": "700887681",
                     "NickName": "Morgana",
                     "HeadIcon": 14403,
-                    "Score": 958512,
+                    "Score": 959647,
                     "Rank": 88,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Teams": [
                         {
-                            "BuildScore": 9960,
+                            "BuildScore": 9615,
                             "Chars": [
                                 {
                                     "Id": 110,
@@ -29701,7 +29701,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 216455,
+                            "LevelScore": 217590,
                             "LevelId": 22,
                             "Discs": [
                                 214004,
@@ -29713,15 +29713,19 @@
                             ],
                             "Potentials": [
                                 {
-                                    "PotentialId": 511001,
-                                    "Level": 1
-                                },
-                                {
                                     "PotentialId": 511002,
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 511043,
+                                    "PotentialId": 511001,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511011,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511007,
                                     "Level": 6
                                 },
                                 {
@@ -29729,15 +29733,11 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 511007,
-                                    "Level": 4
-                                },
-                                {
                                     "PotentialId": 511005,
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 511011,
+                                    "PotentialId": 511043,
                                     "Level": 6
                                 },
                                 {
@@ -29749,24 +29749,24 @@
                                     "Level": 1
                                 },
                                 {
+                                    "PotentialId": 514233,
+                                    "Level": 6
+                                },
+                                {
                                     "PotentialId": 514230,
                                     "Level": 6
                                 },
                                 {
                                     "PotentialId": 514228,
-                                    "Level": 6
+                                    "Level": 4
                                 },
                                 {
                                     "PotentialId": 514225,
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 514233,
-                                    "Level": 6
-                                },
-                                {
                                     "PotentialId": 514226,
-                                    "Level": 1
+                                    "Level": 3
                                 },
                                 {
                                     "PotentialId": 514523,
@@ -29777,66 +29777,66 @@
                                     "Level": 1
                                 },
                                 {
+                                    "PotentialId": 514532,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 514528,
+                                    "Level": 3
+                                },
+                                {
                                     "PotentialId": 514531,
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 514528,
-                                    "Level": 4
-                                },
-                                {
                                     "PotentialId": 514529,
                                     "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514532,
-                                    "Level": 2
                                 }
                             ],
                             "Notes": [
                                 {
-                                    "Tid": 90011,
-                                    "Qty": 41
+                                    "Tid": 90016,
+                                    "Qty": 25
                                 },
                                 {
-                                    "Tid": 90016,
-                                    "Qty": 46
+                                    "Tid": 90011,
+                                    "Qty": 30
                                 },
                                 {
                                     "Tid": 90013,
-                                    "Qty": 22
+                                    "Qty": 33
                                 },
                                 {
                                     "Tid": 90012,
-                                    "Qty": 32
+                                    "Qty": 31
                                 },
                                 {
                                     "Tid": 90023,
-                                    "Qty": 40
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 4
+                                    "Qty": 31
                                 },
                                 {
                                     "Tid": 90015,
+                                    "Qty": 12
+                                },
+                                {
+                                    "Tid": 90017,
                                     "Qty": 9
                                 },
                                 {
                                     "Tid": 90014,
-                                    "Qty": 2
+                                    "Qty": 6
                                 }
                             ],
                             "ActiveSecondaryIds": [
-                                4004103,
+                                4004102,
                                 4004202,
-                                4045103,
+                                4045102,
                                 4045202,
-                                4050103,
-                                4050201
+                                4050102,
+                                4050202
                             ],
-                            "RecordRank": "33",
-                            "BuildCode": "AAAAbgAAAI4AAACRzaAYAAZsRsAMADAEGWAA"
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAbgAAAI4AAACRzbAYAAZsxMAMADADGmAA"
                         },
                         {
                             "BuildScore": 10005,
@@ -34067,7 +34067,7 @@
                     ]
                 }
             ],
-            "Total": 11128,
+            "Total": 11140,
             "UsageByFloor": {
                 "22": [
                     {
@@ -40767,7 +40767,7 @@
                                 "id": "700887681",
                                 "name": "Morgana",
                                 "rank": 88,
-                                "teamScore": 216455
+                                "teamScore": 217590
                             },
                             {
                                 "id": "700590521",
@@ -43147,7 +43147,7 @@
                                 "id": "700887681",
                                 "name": "Morgana",
                                 "rank": 88,
-                                "teamScore": 216455
+                                "teamScore": 217590
                             },
                             {
                                 "id": "700590521",
@@ -44613,7 +44613,7 @@
                                 "id": "700887681",
                                 "name": "Morgana",
                                 "rank": 88,
-                                "teamScore": 216455
+                                "teamScore": 217590
                             },
                             {
                                 "id": "700590521",
@@ -44704,8 +44704,8 @@
                                 "p511006": 42,
                                 "p514225": 41,
                                 "p511043": 39,
-                                "p514528": 39,
-                                "p514532": 38,
+                                "p514532": 39,
+                                "p514528": 38,
                                 "p514529": 36,
                                 "p511007": 35,
                                 "p514228": 24,
@@ -44737,15 +44737,15 @@
                                 "p514242": 9,
                                 "p514530": 8,
                                 "p511043": 6,
-                                "p514532": 6,
                                 "p511008": 5,
+                                "p514532": 5,
                                 "p514533": 5,
                                 "p514529": 4,
+                                "p514528": 4,
                                 "p511006": 4,
                                 "p514521": 4,
                                 "p514522": 4,
                                 "p511042": 3,
-                                "p514528": 3,
                                 "p514225": 3,
                                 "p511009": 3,
                                 "p511013": 2,
@@ -49781,7 +49781,7 @@
                                 "id": "700887681",
                                 "name": "Morgana",
                                 "rank": 88,
-                                "teamScore": 216455
+                                "teamScore": 217590
                             },
                             {
                                 "id": "700590521",
@@ -49872,8 +49872,8 @@
                                 "p511006": 42,
                                 "p514225": 41,
                                 "p511043": 39,
-                                "p514528": 39,
-                                "p514532": 38,
+                                "p514532": 39,
+                                "p514528": 38,
                                 "p514529": 36,
                                 "p511007": 35,
                                 "p514228": 24,
@@ -49905,15 +49905,15 @@
                                 "p514242": 9,
                                 "p514530": 8,
                                 "p511043": 6,
-                                "p514532": 6,
                                 "p511008": 5,
+                                "p514532": 5,
                                 "p514533": 5,
                                 "p514529": 4,
+                                "p514528": 4,
                                 "p511006": 4,
                                 "p514521": 4,
                                 "p514522": 4,
                                 "p511042": 3,
-                                "p514528": 3,
                                 "p514225": 3,
                                 "p511009": 3,
                                 "p511013": 2,
@@ -101337,7 +101337,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1785952318",
+            "LastRefreshTime": "1785952918",
             "Rank": [
                 {
                     "Id": "507501904",
@@ -134965,7 +134965,7 @@
                     ]
                 }
             ],
-            "Total": 3417,
+            "Total": 3419,
             "UsageByFloor": {
                 "22": [
                     {
@@ -149983,7 +149983,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1785952227",
+            "LastRefreshTime": "1785952827",
             "Rank": [
                 {
                     "Id": "900334820",
@@ -183592,7 +183592,7 @@
                     ]
                 }
             ],
-            "Total": 4128,
+            "Total": 4131,
             "UsageByFloor": {
                 "22": [
                     {
@@ -397438,13 +397438,13 @@
                     "Id": "700887681",
                     "NickName": "Morgana (EN)",
                     "HeadIcon": 14403,
-                    "Score": 958512,
+                    "Score": 959647,
                     "Rank": 444,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Teams": [
                         {
-                            "BuildScore": 9960,
+                            "BuildScore": 9615,
                             "Chars": [
                                 {
                                     "Id": 110,
@@ -397459,7 +397459,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 216455,
+                            "LevelScore": 217590,
                             "LevelId": 22,
                             "Discs": [
                                 214004,
@@ -397471,15 +397471,19 @@
                             ],
                             "Potentials": [
                                 {
-                                    "PotentialId": 511001,
-                                    "Level": 1
-                                },
-                                {
                                     "PotentialId": 511002,
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 511043,
+                                    "PotentialId": 511001,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511011,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511007,
                                     "Level": 6
                                 },
                                 {
@@ -397487,15 +397491,11 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 511007,
-                                    "Level": 4
-                                },
-                                {
                                     "PotentialId": 511005,
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 511011,
+                                    "PotentialId": 511043,
                                     "Level": 6
                                 },
                                 {
@@ -397507,24 +397507,24 @@
                                     "Level": 1
                                 },
                                 {
+                                    "PotentialId": 514233,
+                                    "Level": 6
+                                },
+                                {
                                     "PotentialId": 514230,
                                     "Level": 6
                                 },
                                 {
                                     "PotentialId": 514228,
-                                    "Level": 6
+                                    "Level": 4
                                 },
                                 {
                                     "PotentialId": 514225,
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 514233,
-                                    "Level": 6
-                                },
-                                {
                                     "PotentialId": 514226,
-                                    "Level": 1
+                                    "Level": 3
                                 },
                                 {
                                     "PotentialId": 514523,
@@ -397535,66 +397535,66 @@
                                     "Level": 1
                                 },
                                 {
+                                    "PotentialId": 514532,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 514528,
+                                    "Level": 3
+                                },
+                                {
                                     "PotentialId": 514531,
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 514528,
-                                    "Level": 4
-                                },
-                                {
                                     "PotentialId": 514529,
                                     "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514532,
-                                    "Level": 2
                                 }
                             ],
                             "Notes": [
                                 {
-                                    "Tid": 90011,
-                                    "Qty": 41
+                                    "Tid": 90016,
+                                    "Qty": 25
                                 },
                                 {
-                                    "Tid": 90016,
-                                    "Qty": 46
+                                    "Tid": 90011,
+                                    "Qty": 30
                                 },
                                 {
                                     "Tid": 90013,
-                                    "Qty": 22
+                                    "Qty": 33
                                 },
                                 {
                                     "Tid": 90012,
-                                    "Qty": 32
+                                    "Qty": 31
                                 },
                                 {
                                     "Tid": 90023,
-                                    "Qty": 40
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 4
+                                    "Qty": 31
                                 },
                                 {
                                     "Tid": 90015,
+                                    "Qty": 12
+                                },
+                                {
+                                    "Tid": 90017,
                                     "Qty": 9
                                 },
                                 {
                                     "Tid": 90014,
-                                    "Qty": 2
+                                    "Qty": 6
                                 }
                             ],
                             "ActiveSecondaryIds": [
-                                4004103,
+                                4004102,
                                 4004202,
-                                4045103,
+                                4045102,
                                 4045202,
-                                4050103,
-                                4050201
+                                4050102,
+                                4050202
                             ],
-                            "RecordRank": "33",
-                            "BuildCode": "AAAAbgAAAI4AAACRzaAYAAZsRsAMADAEGWAA"
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAbgAAAI4AAACRzbAYAAZsxMAMADADGmAA"
                         },
                         {
                             "BuildScore": 10005,
@@ -416729,8 +416729,8 @@
                     ]
                 }
             ],
-            "Total": 46138,
-            "LastRefreshTime": "1785952444",
+            "Total": 46155,
+            "LastRefreshTime": "1785952918",
             "UsageByFloor": {
                 "22": [
                     {
@@ -449458,7 +449458,7 @@
                                 "id": "700887681",
                                 "name": "Morgana (EN)",
                                 "rank": 444,
-                                "teamScore": 216455
+                                "teamScore": 217590
                             },
                             {
                                 "id": "900333293",
@@ -458644,7 +458644,7 @@
                                 "id": "700887681",
                                 "name": "Morgana (EN)",
                                 "rank": 444,
-                                "teamScore": 216455
+                                "teamScore": 217590
                             },
                             {
                                 "id": "900333293",
@@ -463253,7 +463253,7 @@
                                 "id": "700887681",
                                 "name": "Morgana (EN)",
                                 "rank": 444,
-                                "teamScore": 216455
+                                "teamScore": 217590
                             },
                             {
                                 "id": "900333293",
@@ -463479,8 +463479,8 @@
                                 "p514225": 154,
                                 "p514233": 151,
                                 "p511043": 147,
-                                "p514528": 143,
-                                "p514532": 132,
+                                "p514528": 142,
+                                "p514532": 133,
                                 "p514529": 130,
                                 "p511006": 125,
                                 "p511007": 117,
@@ -463515,7 +463515,7 @@
                                 "p514242": 37,
                                 "p514226": 35,
                                 "p511042": 31,
-                                "p514532": 30,
+                                "p514532": 29,
                                 "p514231": 28,
                                 "p514522": 24,
                                 "p514521": 24,
@@ -463528,7 +463528,7 @@
                                 "p511010": 9,
                                 "p514225": 8,
                                 "p514541": 8,
-                                "p514528": 6,
+                                "p514528": 7,
                                 "p511009": 6,
                                 "p514526": 6,
                                 "p514531": 5,
@@ -476746,7 +476746,7 @@
                                 "id": "700887681",
                                 "name": "Morgana (EN)",
                                 "rank": 444,
-                                "teamScore": 216455
+                                "teamScore": 217590
                             },
                             {
                                 "id": "900333293",
@@ -476972,8 +476972,8 @@
                                 "p514225": 154,
                                 "p514233": 151,
                                 "p511043": 147,
-                                "p514528": 143,
-                                "p514532": 132,
+                                "p514528": 142,
+                                "p514532": 133,
                                 "p514529": 130,
                                 "p511006": 125,
                                 "p511007": 117,
@@ -477008,7 +477008,7 @@
                                 "p514242": 37,
                                 "p514226": 35,
                                 "p511042": 31,
-                                "p514532": 30,
+                                "p514532": 29,
                                 "p514231": 28,
                                 "p514522": 24,
                                 "p514521": 24,
@@ -477021,7 +477021,7 @@
                                 "p511010": 9,
                                 "p514225": 8,
                                 "p514541": 8,
-                                "p514528": 6,
+                                "p514528": 7,
                                 "p511009": 6,
                                 "p514526": 6,
                                 "p514531": 5,
