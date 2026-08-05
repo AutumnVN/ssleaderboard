@@ -1,7 +1,7 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1785926489",
+            "LastRefreshTime": "1785927089",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
@@ -33921,7 +33921,7 @@
                     ]
                 }
             ],
-            "Total": 10694,
+            "Total": 10701,
             "UsageByFloor": {
                 "22": [
                     {
@@ -100434,7 +100434,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1785926511",
+            "LastRefreshTime": "1785927111",
             "Rank": [
                 {
                     "Id": "507501904",
@@ -105212,7 +105212,7 @@
                     "Id": "501073715",
                     "NickName": "Arc",
                     "HeadIcon": 130002,
-                    "Score": 1854993,
+                    "Score": 1866435,
                     "Rank": 15,
                     "TitlePrefix": 11,
                     "TitleSuffix": 16,
@@ -105379,7 +105379,7 @@
                             "BuildCode": "AAAAcgAAAH4AAACeMAbJ7BBsMBhBgMIAGAoG"
                         },
                         {
-                            "BuildScore": 10155,
+                            "BuildScore": 9345,
                             "Chars": [
                                 {
                                     "Id": 144,
@@ -105394,7 +105394,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 720268,
+                            "LevelScore": 731710,
                             "LevelId": 22,
                             "Discs": [
                                 214005,
@@ -105406,12 +105406,16 @@
                             ],
                             "Potentials": [
                                 {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
                                     "PotentialId": 514404,
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 514403,
-                                    "Level": 1
+                                    "PotentialId": 514410,
+                                    "Level": 6
                                 },
                                 {
                                     "PotentialId": 514409,
@@ -105422,19 +105426,19 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 514410,
+                                    "PotentialId": 514412,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 514408,
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 514407,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 5
-                                },
-                                {
                                     "PotentialId": 514405,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514441,
                                     "Level": 2
                                 },
                                 {
@@ -105446,19 +105450,11 @@
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
                                     "PotentialId": 516043,
                                     "Level": 6
                                 },
                                 {
                                     "PotentialId": 516028,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 516033,
                                     "Level": 6
                                 },
                                 {
@@ -105466,7 +105462,15 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 516042,
+                                    "PotentialId": 516033,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 516032,
                                     "Level": 2
                                 },
                                 {
@@ -105478,70 +105482,70 @@
                                     "Level": 1
                                 },
                                 {
+                                    "PotentialId": 513033,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
                                     "PotentialId": 513026,
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513030,
+                                    "PotentialId": 513029,
                                     "Level": 2
                                 },
                                 {
-                                    "PotentialId": 513025,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 513042,
+                                    "PotentialId": 513030,
                                     "Level": 2
                                 }
                             ],
                             "Notes": [
                                 {
                                     "Tid": 90012,
-                                    "Qty": 33
+                                    "Qty": 26
                                 },
                                 {
                                     "Tid": 90018,
-                                    "Qty": 40
+                                    "Qty": 30
                                 },
                                 {
                                     "Tid": 90013,
-                                    "Qty": 10
+                                    "Qty": 9
                                 },
                                 {
                                     "Tid": 90014,
-                                    "Qty": 15
+                                    "Qty": 13
                                 },
                                 {
                                     "Tid": 90015,
-                                    "Qty": 16
+                                    "Qty": 5
                                 },
                                 {
                                     "Tid": 90017,
-                                    "Qty": 15
+                                    "Qty": 24
                                 },
                                 {
                                     "Tid": 90016,
-                                    "Qty": 35
+                                    "Qty": 25
                                 },
                                 {
                                     "Tid": 90011,
-                                    "Qty": 41
+                                    "Qty": 43
                                 }
                             ],
                             "ActiveSecondaryIds": [
                                 4005101,
                                 4005201,
-                                4026103,
-                                4026202,
-                                4055103,
-                                4055202
+                                4026102,
+                                4026201,
+                                4055102,
+                                4055201
                             ],
-                            "RecordRank": "34",
-                            "BuildCode": "AAAAkAAAAKAAAACCNBDDagAwA8BsFsmAQAwQ"
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAkAAAAKAAAACCMgbDaIAwBsE2Bs2AQCoA"
                         }
                     ],
                     "Honors": [
@@ -134058,7 +134062,7 @@
                     ]
                 }
             ],
-            "Total": 3254,
+            "Total": 3258,
             "UsageByFloor": {
                 "22": [
                     {
@@ -140587,16 +140591,16 @@
                                 "teamScore": 733548
                             },
                             {
+                                "id": "501073715",
+                                "name": "Arc",
+                                "rank": 15,
+                                "teamScore": 731710
+                            },
+                            {
                                 "id": "500426978",
                                 "name": "물만두",
                                 "rank": 54,
                                 "teamScore": 728623
-                            },
-                            {
-                                "id": "501073715",
-                                "name": "Arc",
-                                "rank": 15,
-                                "teamScore": 720268
                             },
                             {
                                 "id": "501159294",
@@ -142275,16 +142279,16 @@
                                 "teamScore": 733548
                             },
                             {
+                                "id": "501073715",
+                                "name": "Arc",
+                                "rank": 15,
+                                "teamScore": 731710
+                            },
+                            {
                                 "id": "500426978",
                                 "name": "물만두",
                                 "rank": 54,
                                 "teamScore": 728623
-                            },
-                            {
-                                "id": "501073715",
-                                "name": "Arc",
-                                "rank": 15,
-                                "teamScore": 720268
                             },
                             {
                                 "id": "501159294",
@@ -143591,16 +143595,16 @@
                                 "teamScore": 733548
                             },
                             {
+                                "id": "501073715",
+                                "name": "Arc",
+                                "rank": 15,
+                                "teamScore": 731710
+                            },
+                            {
                                 "id": "500426978",
                                 "name": "물만두",
                                 "rank": 54,
                                 "teamScore": 728623
-                            },
-                            {
-                                "id": "501073715",
-                                "name": "Arc",
-                                "rank": 15,
-                                "teamScore": 720268
                             },
                             {
                                 "id": "501159294",
@@ -143784,6 +143788,7 @@
                                 "p514403": 55,
                                 "p514410": 55,
                                 "p514409": 55,
+                                "p514408": 55,
                                 "p514413": 55,
                                 "p516023": 55,
                                 "p516024": 55,
@@ -143793,24 +143798,22 @@
                                 "p513025": 55,
                                 "p513026": 55,
                                 "p513033": 55,
-                                "p514408": 54,
                                 "p516029": 54,
                                 "p516033": 54,
                                 "p516028": 52,
                                 "p516043": 52,
                                 "p514412": 47,
                                 "p513030": 46,
-                                "p513029": 33,
+                                "p513029": 34,
                                 "p513031": 19,
                                 "p514405": 16,
                                 "p514442": 15,
                                 "p514411": 12,
-                                "p516032": 4,
+                                "p516032": 5,
                                 "p516041": 4,
-                                "p514407": 3,
+                                "p514407": 2,
+                                "p514441": 1,
                                 "p513041": 1,
-                                "p516042": 1,
-                                "p513042": 1,
                                 "p513032": 1,
                                 "p513028": 1,
                                 "p516025": 1
@@ -143818,15 +143821,15 @@
                             "high": {
                                 "p514410": 55,
                                 "p513026": 55,
-                                "p514408": 53,
+                                "p514408": 54,
                                 "p514413": 53,
                                 "p516030": 53,
                                 "p513025": 52,
                                 "p513033": 51,
-                                "p516033": 48,
+                                "p516033": 47,
                                 "p516043": 46,
-                                "p516029": 42,
-                                "p516028": 37,
+                                "p516029": 41,
+                                "p516028": 38,
                                 "p514412": 24,
                                 "p514409": 23,
                                 "p513029": 14,
@@ -143845,25 +143848,24 @@
                                 "p513030": 46,
                                 "p514409": 32,
                                 "p514412": 23,
-                                "p513029": 19,
+                                "p513029": 20,
                                 "p514405": 15,
-                                "p516028": 15,
                                 "p513031": 14,
+                                "p516028": 14,
+                                "p516029": 13,
                                 "p514411": 12,
                                 "p514442": 12,
-                                "p516029": 12,
-                                "p516033": 6,
+                                "p516033": 7,
                                 "p516043": 6,
+                                "p516032": 5,
                                 "p513033": 4,
-                                "p516032": 4,
                                 "p516041": 4,
                                 "p513025": 3,
-                                "p514407": 3,
                                 "p516030": 2,
                                 "p514413": 2,
+                                "p514407": 2,
+                                "p514441": 1,
                                 "p513041": 1,
-                                "p516042": 1,
-                                "p513042": 1,
                                 "p513032": 1,
                                 "p513028": 1,
                                 "p514408": 1
@@ -146785,16 +146787,16 @@
                                 "teamScore": 733548
                             },
                             {
+                                "id": "501073715",
+                                "name": "Arc",
+                                "rank": 15,
+                                "teamScore": 731710
+                            },
+                            {
                                 "id": "500426978",
                                 "name": "물만두",
                                 "rank": 54,
                                 "teamScore": 728623
-                            },
-                            {
-                                "id": "501073715",
-                                "name": "Arc",
-                                "rank": 15,
-                                "teamScore": 720268
                             },
                             {
                                 "id": "501159294",
@@ -147021,26 +147023,26 @@
                                 "p514404": 81,
                                 "p514403": 81,
                                 "p514409": 81,
-                                "p514408": 80,
+                                "p514408": 81,
                                 "p514412": 74,
                                 "p513030": 69,
-                                "p513029": 51,
+                                "p513029": 52,
                                 "p514405": 29,
                                 "p513031": 27,
                                 "p514442": 27,
                                 "p514411": 18,
-                                "p514407": 9,
+                                "p514407": 8,
                                 "p516041": 6,
+                                "p516032": 6,
                                 "p514402": 5,
                                 "p514401": 5,
                                 "p514406": 5,
-                                "p516032": 5,
                                 "p513032": 2,
                                 "p513041": 2,
-                                "p516042": 2,
                                 "p513023": 1,
-                                "p513042": 1,
+                                "p514441": 1,
                                 "p513028": 1,
+                                "p516042": 1,
                                 "p516025": 1
                             },
                             "high": {
@@ -147050,11 +147052,11 @@
                                 "p514410": 81,
                                 "p513033": 80,
                                 "p513025": 80,
-                                "p514408": 78,
-                                "p516033": 73,
+                                "p514408": 79,
+                                "p516033": 72,
                                 "p516043": 71,
-                                "p516029": 67,
-                                "p516028": 55,
+                                "p516029": 66,
+                                "p516028": 56,
                                 "p514412": 39,
                                 "p514409": 35,
                                 "p513029": 22,
@@ -147077,33 +147079,33 @@
                                 "p513030": 68,
                                 "p514409": 46,
                                 "p514412": 35,
-                                "p513029": 29,
-                                "p516028": 27,
+                                "p513029": 30,
+                                "p516028": 26,
                                 "p514405": 22,
                                 "p514442": 20,
+                                "p516029": 19,
                                 "p514411": 18,
-                                "p516029": 18,
                                 "p513031": 17,
                                 "p516043": 12,
-                                "p516033": 10,
+                                "p516033": 11,
                                 "p513033": 6,
                                 "p516041": 6,
                                 "p513025": 6,
                                 "p514402": 5,
                                 "p514401": 5,
+                                "p516032": 5,
                                 "p514413": 4,
-                                "p514407": 4,
-                                "p516032": 4,
                                 "p516030": 3,
+                                "p514407": 3,
                                 "p514410": 2,
                                 "p513032": 2,
                                 "p513041": 2,
-                                "p516042": 2,
                                 "p514408": 2,
                                 "p513026": 1,
                                 "p513023": 1,
-                                "p513042": 1,
-                                "p513028": 1
+                                "p514441": 1,
+                                "p513028": 1,
+                                "p516042": 1
                             }
                         },
                         "discUsage": {
@@ -149198,7 +149200,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1785926425",
+            "LastRefreshTime": "1785927025",
             "Rank": [
                 {
                     "Id": "900334820",
@@ -182802,7 +182804,7 @@
                     ]
                 }
             ],
-            "Total": 3941,
+            "Total": 3942,
             "UsageByFloor": {
                 "22": [
                     {
@@ -267578,11 +267580,366 @@
                     ]
                 },
                 {
+                    "Id": "501073715",
+                    "NickName": "Arc (KR)",
+                    "HeadIcon": 130002,
+                    "Score": 1866435,
+                    "Rank": 61,
+                    "TitlePrefix": 11,
+                    "TitleSuffix": 16,
+                    "Teams": [
+                        {
+                            "BuildScore": 10005,
+                            "Chars": [
+                                {
+                                    "Id": 114,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 126,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 158,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 1134725,
+                            "LevelId": 23,
+                            "Discs": [
+                                214029,
+                                214027,
+                                214048,
+                                214001,
+                                214041,
+                                214017
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 511404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511409,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511411,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 511412,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 511442,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 512622,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512623,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512627,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512641,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512629,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 512625,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512631,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515821,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515822,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515843,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515831,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515833,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 515825,
+                                    "Level": 1
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 36
+                                },
+                                {
+                                    "Tid": 90019,
+                                    "Qty": 40
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 28
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 6
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 7
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 12
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 44
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4029102,
+                                4029201,
+                                4027102,
+                                4027201,
+                                4048103,
+                                4048202
+                            ],
+                            "RecordRank": "34",
+                            "BuildCode": "AAAAcgAAAH4AAACeMAbJ7BBsMBhBgMIAGAoG"
+                        },
+                        {
+                            "BuildScore": 9345,
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 731710,
+                            "LevelId": 22,
+                            "Discs": [
+                                214005,
+                                214026,
+                                214055,
+                                214031,
+                                214047,
+                                214021
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514405,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514441,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 516032,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513029,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513030,
+                                    "Level": 2
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 9
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 13
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 5
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 24
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 25
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 43
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4005101,
+                                4005201,
+                                4026102,
+                                4026201,
+                                4055102,
+                                4055201
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAkAAAAKAAAACCMgbDaIAwBsE2Bs2AQCoA"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 112114,
+                            "AffinityLV": 36
+                        },
+                        {
+                            "Id": 112155,
+                            "AffinityLV": 41
+                        },
+                        {
+                            "Id": 112140,
+                            "AffinityLV": 26
+                        }
+                    ]
+                },
+                {
                     "Id": "303557008",
                     "NickName": "谷口水位観測所 (JP)",
                     "HeadIcon": 11402,
                     "Score": 1864052,
-                    "Rank": 61,
+                    "Rank": 62,
                     "TitlePrefix": 5,
                     "TitleSuffix": 8,
                     "Teams": [
@@ -267758,7 +268115,7 @@
                     "NickName": "ずゐかす (JP)",
                     "HeadIcon": 11303,
                     "Score": 1863117,
-                    "Rank": 62,
+                    "Rank": 63,
                     "TitlePrefix": 35,
                     "TitleSuffix": 16,
                     "Teams": [
@@ -268116,7 +268473,7 @@
                     "NickName": "彩色穿透 (CN)",
                     "HeadIcon": 16001,
                     "Score": 1857687,
-                    "Rank": 63,
+                    "Rank": 64,
                     "TitlePrefix": 3,
                     "TitleSuffix": 4,
                     "Teams": [
@@ -268458,357 +268815,6 @@
                         },
                         {
                             "Id": 114002
-                        }
-                    ]
-                },
-                {
-                    "Id": "501073715",
-                    "NickName": "Arc (KR)",
-                    "HeadIcon": 130002,
-                    "Score": 1854993,
-                    "Rank": 64,
-                    "TitlePrefix": 11,
-                    "TitleSuffix": 16,
-                    "Teams": [
-                        {
-                            "BuildScore": 10005,
-                            "Chars": [
-                                {
-                                    "Id": 114,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 126,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 158,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 1134725,
-                            "LevelId": 23,
-                            "Discs": [
-                                214029,
-                                214027,
-                                214048,
-                                214001,
-                                214041,
-                                214017
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 511404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511409,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511411,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 511412,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 511442,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 512622,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512623,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512627,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512641,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512629,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 512625,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512631,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515821,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515822,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515843,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515831,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515833,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 515825,
-                                    "Level": 1
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 36
-                                },
-                                {
-                                    "Tid": 90019,
-                                    "Qty": 40
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 28
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 6
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 7
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 12
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 44
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4029102,
-                                4029201,
-                                4027102,
-                                4027201,
-                                4048103,
-                                4048202
-                            ],
-                            "RecordRank": "34",
-                            "BuildCode": "AAAAcgAAAH4AAACeMAbJ7BBsMBhBgMIAGAoG"
-                        },
-                        {
-                            "BuildScore": 10155,
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 720268,
-                            "LevelId": 22,
-                            "Discs": [
-                                214005,
-                                214026,
-                                214055,
-                                214031,
-                                214047,
-                                214021
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514407,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 514405,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516042,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513030,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 513042,
-                                    "Level": 2
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 33
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 40
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 10
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 15
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 15
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 35
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 41
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4005101,
-                                4005201,
-                                4026103,
-                                4026202,
-                                4055103,
-                                4055202
-                            ],
-                            "RecordRank": "34",
-                            "BuildCode": "AAAAkAAAAKAAAACCNBDDagAwA8BsFsmAQAwQ"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 112114,
-                            "AffinityLV": 36
-                        },
-                        {
-                            "Id": 112155,
-                            "AffinityLV": 41
-                        },
-                        {
-                            "Id": 112140,
-                            "AffinityLV": 26
                         }
                     ]
                 },
@@ -415803,8 +415809,8 @@
                     ]
                 }
             ],
-            "Total": 44089,
-            "LastRefreshTime": "1785926630",
+            "Total": 44101,
+            "LastRefreshTime": "1785927111",
             "UsageByFloor": {
                 "22": [
                     {
@@ -415970,7 +415976,7 @@
                             {
                                 "id": "501073715",
                                 "name": "Arc (KR)",
-                                "rank": 64
+                                "rank": 61
                             },
                             {
                                 "id": "301696872",
@@ -417378,7 +417384,7 @@
                             {
                                 "id": "501073715",
                                 "name": "Arc (KR)",
-                                "rank": 64
+                                "rank": 61
                             },
                             {
                                 "id": "301696872",
@@ -418721,7 +418727,7 @@
                             {
                                 "id": "501073715",
                                 "name": "Arc (KR)",
-                                "rank": 64
+                                "rank": 61
                             },
                             {
                                 "id": "301696872",
@@ -420009,12 +420015,12 @@
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300605487",
@@ -420957,12 +420963,12 @@
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300605487",
@@ -421895,7 +421901,7 @@
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300605487",
@@ -423063,7 +423069,7 @@
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "302262593",
@@ -423562,19 +423568,19 @@
                                 "rank": 60
                             },
                             {
+                                "id": "501073715",
+                                "name": "Arc (KR)",
+                                "rank": 61
+                            },
+                            {
                                 "id": "303557008",
                                 "name": "谷口水位観測所 (JP)",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62
-                            },
-                            {
-                                "id": "501073715",
-                                "name": "Arc (KR)",
-                                "rank": 64
+                                "rank": 63
                             },
                             {
                                 "id": "301696872",
@@ -425050,19 +425056,19 @@
                                 "rank": 60
                             },
                             {
+                                "id": "501073715",
+                                "name": "Arc (KR)",
+                                "rank": 61
+                            },
+                            {
                                 "id": "303557008",
                                 "name": "谷口水位観測所 (JP)",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62
-                            },
-                            {
-                                "id": "501073715",
-                                "name": "Arc (KR)",
-                                "rank": 64
+                                "rank": 63
                             },
                             {
                                 "id": "301696872",
@@ -426503,14 +426509,14 @@
                                 "rank": 60
                             },
                             {
-                                "id": "303557008",
-                                "name": "谷口水位観測所 (JP)",
+                                "id": "501073715",
+                                "name": "Arc (KR)",
                                 "rank": 61
                             },
                             {
-                                "id": "501073715",
-                                "name": "Arc (KR)",
-                                "rank": 64
+                                "id": "303557008",
+                                "name": "谷口水位観測所 (JP)",
+                                "rank": 62
                             },
                             {
                                 "id": "301696872",
@@ -427843,7 +427849,7 @@
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300605487",
@@ -428701,7 +428707,7 @@
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300605487",
@@ -429499,7 +429505,7 @@
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300605487",
@@ -430566,7 +430572,7 @@
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "901328979",
@@ -431276,13 +431282,13 @@
                                 "rank": 60
                             },
                             {
-                                "id": "100964127",
-                                "name": "彩色穿透 (CN)",
-                                "rank": 63
-                            },
-                            {
                                 "id": "501073715",
                                 "name": "Arc (KR)",
+                                "rank": 61
+                            },
+                            {
+                                "id": "100964127",
+                                "name": "彩色穿透 (CN)",
                                 "rank": 64
                             },
                             {
@@ -433534,13 +433540,13 @@
                                 "rank": 60
                             },
                             {
-                                "id": "100964127",
-                                "name": "彩色穿透 (CN)",
-                                "rank": 63
-                            },
-                            {
                                 "id": "501073715",
                                 "name": "Arc (KR)",
+                                "rank": 61
+                            },
+                            {
+                                "id": "100964127",
+                                "name": "彩色穿透 (CN)",
                                 "rank": 64
                             },
                             {
@@ -435672,13 +435678,13 @@
                                 "rank": 60
                             },
                             {
-                                "id": "100964127",
-                                "name": "彩色穿透 (CN)",
-                                "rank": 63
-                            },
-                            {
                                 "id": "501073715",
                                 "name": "Arc (KR)",
+                                "rank": 61
+                            },
+                            {
+                                "id": "100964127",
+                                "name": "彩色穿透 (CN)",
                                 "rank": 64
                             },
                             {
@@ -437680,19 +437686,19 @@
                                 "rank": 60
                             },
                             {
+                                "id": "501073715",
+                                "name": "Arc (KR)",
+                                "rank": 61
+                            },
+                            {
                                 "id": "303557008",
                                 "name": "谷口水位観測所 (JP)",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62
-                            },
-                            {
-                                "id": "501073715",
-                                "name": "Arc (KR)",
-                                "rank": 64
+                                "rank": 63
                             },
                             {
                                 "id": "301696872",
@@ -439233,19 +439239,19 @@
                                 "rank": 60
                             },
                             {
+                                "id": "501073715",
+                                "name": "Arc (KR)",
+                                "rank": 61
+                            },
+                            {
                                 "id": "303557008",
                                 "name": "谷口水位観測所 (JP)",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62
-                            },
-                            {
-                                "id": "501073715",
-                                "name": "Arc (KR)",
-                                "rank": 64
+                                "rank": 63
                             },
                             {
                                 "id": "301696872",
@@ -440731,14 +440737,14 @@
                                 "rank": 60
                             },
                             {
-                                "id": "303557008",
-                                "name": "谷口水位観測所 (JP)",
+                                "id": "501073715",
+                                "name": "Arc (KR)",
                                 "rank": 61
                             },
                             {
-                                "id": "501073715",
-                                "name": "Arc (KR)",
-                                "rank": 64
+                                "id": "303557008",
+                                "name": "谷口水位観測所 (JP)",
+                                "rank": 62
                             },
                             {
                                 "id": "301696872",
@@ -442081,12 +442087,12 @@
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300605487",
@@ -443029,12 +443035,12 @@
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300605487",
@@ -443967,7 +443973,7 @@
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300605487",
@@ -444968,7 +444974,7 @@
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "301054542",
@@ -445776,7 +445782,7 @@
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "302262593",
@@ -446713,6 +446719,12 @@
                                 "teamScore": 733548
                             },
                             {
+                                "id": "501073715",
+                                "name": "Arc (KR)",
+                                "rank": 61,
+                                "teamScore": 731710
+                            },
+                            {
                                 "id": "701821829",
                                 "name": "Domz (EN)",
                                 "rank": 269,
@@ -446729,12 +446741,6 @@
                                 "name": "万古神豪友希那 (CN)",
                                 "rank": 112,
                                 "teamScore": 721333
-                            },
-                            {
-                                "id": "501073715",
-                                "name": "Arc (KR)",
-                                "rank": 64,
-                                "teamScore": 720268
                             },
                             {
                                 "id": "701434036",
@@ -447869,7 +447875,7 @@
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63,
+                                "rank": 64,
                                 "teamScore": 512050
                             },
                             {
@@ -448779,7 +448785,7 @@
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62,
+                                "rank": 63,
                                 "teamScore": 918783
                             },
                             {
@@ -449477,7 +449483,7 @@
                             {
                                 "id": "303557008",
                                 "name": "谷口水位観測所 (JP)",
-                                "rank": 61,
+                                "rank": 62,
                                 "teamScore": 1864052
                             },
                             {
@@ -449603,7 +449609,7 @@
                             {
                                 "id": "501073715",
                                 "name": "Arc (KR)",
-                                "rank": 64,
+                                "rank": 61,
                                 "teamScore": 1134725
                             },
                             {
@@ -451213,7 +451219,7 @@
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63,
+                                "rank": 64,
                                 "teamScore": 1345637
                             },
                             {
@@ -452123,7 +452129,7 @@
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62,
+                                "rank": 63,
                                 "teamScore": 944334
                             },
                             {
@@ -452943,7 +452949,7 @@
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63,
+                                "rank": 64,
                                 "teamScore": 1345637
                             },
                             {
@@ -453943,6 +453949,12 @@
                                 "teamScore": 733548
                             },
                             {
+                                "id": "501073715",
+                                "name": "Arc (KR)",
+                                "rank": 61,
+                                "teamScore": 731710
+                            },
+                            {
                                 "id": "701821829",
                                 "name": "Domz (EN)",
                                 "rank": 269,
@@ -453971,12 +453983,6 @@
                                 "name": "万古神豪友希那 (CN)",
                                 "rank": 112,
                                 "teamScore": 721333
-                            },
-                            {
-                                "id": "501073715",
-                                "name": "Arc (KR)",
-                                "rank": 64,
-                                "teamScore": 720268
                             },
                             {
                                 "id": "701434036",
@@ -455117,7 +455123,7 @@
                             {
                                 "id": "303557008",
                                 "name": "谷口水位観測所 (JP)",
-                                "rank": 61,
+                                "rank": 62,
                                 "teamScore": 1864052
                             },
                             {
@@ -455243,7 +455249,7 @@
                             {
                                 "id": "501073715",
                                 "name": "Arc (KR)",
-                                "rank": 64,
+                                "rank": 61,
                                 "teamScore": 1134725
                             },
                             {
@@ -457027,7 +457033,7 @@
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63,
+                                "rank": 64,
                                 "teamScore": 512050
                             },
                             {
@@ -457851,7 +457857,7 @@
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62,
+                                "rank": 63,
                                 "teamScore": 944334
                             },
                             {
@@ -458471,7 +458477,7 @@
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62,
+                                "rank": 63,
                                 "teamScore": 918783
                             },
                             {
@@ -459901,6 +459907,12 @@
                                 "teamScore": 733548
                             },
                             {
+                                "id": "501073715",
+                                "name": "Arc (KR)",
+                                "rank": 61,
+                                "teamScore": 731710
+                            },
+                            {
                                 "id": "701821829",
                                 "name": "Domz (EN)",
                                 "rank": 269,
@@ -459917,12 +459929,6 @@
                                 "name": "万古神豪友希那 (CN)",
                                 "rank": 112,
                                 "teamScore": 721333
-                            },
-                            {
-                                "id": "501073715",
-                                "name": "Arc (KR)",
-                                "rank": 64,
-                                "teamScore": 720268
                             },
                             {
                                 "id": "701434036",
@@ -460801,7 +460807,7 @@
                                 "p516023": 250,
                                 "p514403": 249,
                                 "p514404": 249,
-                                "p514408": 248,
+                                "p514408": 249,
                                 "p514409": 248,
                                 "p513033": 248,
                                 "p516030": 248,
@@ -460812,19 +460818,19 @@
                                 "p516043": 230,
                                 "p514412": 227,
                                 "p513030": 193,
-                                "p513029": 135,
+                                "p513029": 136,
                                 "p514411": 108,
                                 "p513031": 93,
                                 "p514442": 65,
                                 "p514405": 26,
-                                "p516032": 24,
-                                "p514407": 12,
+                                "p516032": 25,
                                 "p513032": 11,
-                                "p513042": 8,
+                                "p514407": 11,
+                                "p513042": 7,
                                 "p516041": 7,
-                                "p516042": 5,
+                                "p514441": 4,
+                                "p516042": 4,
                                 "p513028": 4,
-                                "p514441": 3,
                                 "p513041": 3,
                                 "p513043": 2,
                                 "p513027": 2,
@@ -460838,16 +460844,16 @@
                             },
                             "high": {
                                 "p514410": 249,
-                                "p514408": 246,
+                                "p514408": 247,
                                 "p513026": 244,
                                 "p516030": 242,
                                 "p513033": 240,
                                 "p514413": 233,
-                                "p516033": 232,
+                                "p516033": 231,
                                 "p513025": 226,
-                                "p516028": 206,
+                                "p516028": 207,
                                 "p516043": 196,
-                                "p516029": 192,
+                                "p516029": 191,
                                 "p514412": 129,
                                 "p514409": 84,
                                 "p513029": 75,
@@ -460875,26 +460881,26 @@
                                 "p514411": 106,
                                 "p514412": 98,
                                 "p513031": 63,
-                                "p513029": 60,
-                                "p516029": 50,
+                                "p513029": 61,
+                                "p516029": 51,
                                 "p514442": 47,
-                                "p516028": 39,
+                                "p516028": 38,
                                 "p516043": 34,
                                 "p514405": 24,
-                                "p516032": 21,
+                                "p516032": 22,
                                 "p513025": 20,
                                 "p514413": 17,
-                                "p516033": 16,
-                                "p514407": 11,
+                                "p516033": 17,
                                 "p513032": 10,
+                                "p514407": 10,
                                 "p513033": 8,
                                 "p516041": 7,
                                 "p516030": 6,
                                 "p513026": 6,
-                                "p513042": 5,
-                                "p516042": 5,
+                                "p513042": 4,
+                                "p514441": 4,
+                                "p516042": 4,
                                 "p513028": 4,
-                                "p514441": 3,
                                 "p513041": 3,
                                 "p513043": 2,
                                 "p513027": 2,
@@ -461566,7 +461572,7 @@
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63,
+                                "rank": 64,
                                 "teamScore": 512050
                             },
                             {
@@ -462863,7 +462869,7 @@
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62,
+                                "rank": 63,
                                 "teamScore": 918783
                             },
                             {
@@ -465087,7 +465093,7 @@
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63,
+                                "rank": 64,
                                 "teamScore": 1345637
                             },
                             {
@@ -465995,7 +466001,7 @@
                             {
                                 "id": "303557008",
                                 "name": "谷口水位観測所 (JP)",
-                                "rank": 61,
+                                "rank": 62,
                                 "teamScore": 1864052
                             },
                             {
@@ -466121,7 +466127,7 @@
                             {
                                 "id": "501073715",
                                 "name": "Arc (KR)",
-                                "rank": 64,
+                                "rank": 61,
                                 "teamScore": 1134725
                             },
                             {
@@ -468141,7 +468147,7 @@
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62,
+                                "rank": 63,
                                 "teamScore": 944334
                             },
                             {
@@ -470095,7 +470101,7 @@
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63,
+                                "rank": 64,
                                 "teamScore": 1345637
                             },
                             {
@@ -471095,6 +471101,12 @@
                                 "teamScore": 733548
                             },
                             {
+                                "id": "501073715",
+                                "name": "Arc (KR)",
+                                "rank": 61,
+                                "teamScore": 731710
+                            },
+                            {
                                 "id": "701821829",
                                 "name": "Domz (EN)",
                                 "rank": 269,
@@ -471123,12 +471135,6 @@
                                 "name": "万古神豪友希那 (CN)",
                                 "rank": 112,
                                 "teamScore": 721333
-                            },
-                            {
-                                "id": "501073715",
-                                "name": "Arc (KR)",
-                                "rank": 64,
-                                "teamScore": 720268
                             },
                             {
                                 "id": "701434036",
@@ -472262,32 +472268,32 @@
                                 "p513025": 378,
                                 "p514403": 377,
                                 "p514404": 377,
+                                "p514408": 377,
                                 "p516033": 377,
-                                "p514408": 376,
                                 "p514409": 376,
                                 "p516029": 374,
                                 "p516028": 373,
                                 "p516043": 353,
                                 "p514412": 347,
                                 "p513030": 291,
-                                "p513029": 206,
+                                "p513029": 207,
                                 "p514411": 155,
                                 "p513031": 142,
                                 "p514442": 106,
                                 "p514405": 46,
-                                "p516032": 43,
-                                "p514407": 26,
+                                "p516032": 44,
+                                "p514407": 25,
                                 "p513032": 18,
-                                "p513042": 13,
+                                "p513042": 12,
                                 "p516041": 10,
                                 "p514406": 9,
-                                "p516042": 9,
                                 "p514402": 8,
                                 "p514401": 8,
+                                "p516042": 8,
                                 "p513027": 7,
+                                "p514441": 5,
                                 "p513043": 5,
                                 "p513028": 5,
-                                "p514441": 4,
                                 "p513041": 4,
                                 "p514443": 3,
                                 "p516031": 3,
@@ -472298,15 +472304,15 @@
                             "high": {
                                 "p514410": 376,
                                 "p513026": 376,
-                                "p514408": 373,
+                                "p514408": 374,
                                 "p516030": 373,
                                 "p513033": 364,
                                 "p514413": 361,
-                                "p516033": 349,
                                 "p513025": 348,
-                                "p516028": 304,
-                                "p516029": 293,
+                                "p516033": 348,
+                                "p516028": 305,
                                 "p516043": 293,
+                                "p516029": 292,
                                 "p514412": 214,
                                 "p514409": 138,
                                 "p513029": 117,
@@ -472333,31 +472339,31 @@
                                 "p514409": 238,
                                 "p514411": 151,
                                 "p514412": 133,
-                                "p513029": 89,
+                                "p513029": 90,
                                 "p513031": 86,
-                                "p516029": 81,
+                                "p516029": 82,
                                 "p514442": 77,
-                                "p516028": 69,
+                                "p516028": 68,
                                 "p516043": 60,
                                 "p514405": 36,
-                                "p516032": 33,
+                                "p516032": 34,
                                 "p513025": 30,
-                                "p516033": 28,
+                                "p516033": 29,
                                 "p514413": 24,
                                 "p513033": 18,
-                                "p514407": 18,
+                                "p514407": 17,
                                 "p513032": 15,
                                 "p516030": 10,
                                 "p516041": 10,
-                                "p513042": 9,
                                 "p513026": 9,
-                                "p516042": 9,
                                 "p514402": 8,
                                 "p514401": 8,
+                                "p513042": 8,
+                                "p516042": 8,
                                 "p513027": 7,
+                                "p514441": 5,
                                 "p513043": 5,
                                 "p513028": 5,
-                                "p514441": 4,
                                 "p514410": 4,
                                 "p513041": 4,
                                 "p514443": 3,
@@ -472460,7 +472466,7 @@
                             {
                                 "id": "303557008",
                                 "name": "谷口水位観測所 (JP)",
-                                "rank": 61,
+                                "rank": 62,
                                 "teamScore": 1864052
                             },
                             {
@@ -472586,7 +472592,7 @@
                             {
                                 "id": "501073715",
                                 "name": "Arc (KR)",
-                                "rank": 64,
+                                "rank": 61,
                                 "teamScore": 1134725
                             },
                             {
@@ -474875,7 +474881,7 @@
                             {
                                 "id": "100964127",
                                 "name": "彩色穿透 (CN)",
-                                "rank": 63,
+                                "rank": 64,
                                 "teamScore": 512050
                             },
                             {
@@ -476303,7 +476309,7 @@
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62,
+                                "rank": 63,
                                 "teamScore": 944334
                             },
                             {
@@ -476982,7 +476988,7 @@
                             {
                                 "id": "300462442",
                                 "name": "ずゐかす (JP)",
-                                "rank": 62,
+                                "rank": 63,
                                 "teamScore": 918783
                             },
                             {
