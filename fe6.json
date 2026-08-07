@@ -1,14 +1,14 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1786140076",
+            "LastRefreshTime": "1786140676",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "WorldClass": 40,
                 "HeadIcon": 15602,
                 "Score": 12396870,
-                "Rank": 878,
+                "Rank": 879,
                 "TitlePrefix": 33,
                 "TitleSuffix": 36,
                 "Honors": [
@@ -1608,7 +1608,7 @@
                     "NickName": "Tyri",
                     "WorldClass": 1,
                     "HeadIcon": 11402,
-                    "Score": 13924749,
+                    "Score": 13934194,
                     "Rank": 8,
                     "TitlePrefix": 3,
                     "TitleSuffix": 36,
@@ -1637,7 +1637,7 @@
                             ],
                             "BuildScore": 9180,
                             "Damage": 2741254464,
-                            "Time": 52747,
+                            "Time": 51581,
                             "Discs": [
                                 214048,
                                 214029,
@@ -2885,7 +2885,7 @@
                     "Honors": [
                         {
                             "Id": 112144,
-                            "AffinityLV": 53
+                            "AffinityLV": 54
                         },
                         {
                             "Id": 112134,
@@ -18570,7 +18570,7 @@
                     ]
                 }
             ],
-            "Total": 22422,
+            "Total": 22425,
             "UsageByFloor": {
                 "all": [
                     {
@@ -20430,7 +20430,7 @@
                                 "id": "700913340",
                                 "name": "Tyri",
                                 "rank": 8,
-                                "teamScore": -52747
+                                "teamScore": -51581
                             },
                             {
                                 "id": "700389671",
@@ -21565,7 +21565,7 @@
                                 "id": "700913340",
                                 "name": "Tyri",
                                 "rank": 8,
-                                "teamScore": -52747
+                                "teamScore": -51581
                             },
                             {
                                 "id": "700389671",
@@ -22779,7 +22779,7 @@
             }
         },
         "jp": {
-            "LastRefreshTime": "1786140214",
+            "LastRefreshTime": "1786140814",
             "Self": {},
             "Rank": [
                 {
@@ -40797,7 +40797,7 @@
                     ]
                 }
             ],
-            "Total": 33575,
+            "Total": 33581,
             "UsageByFloor": {
                 "all": [
                     {
@@ -44470,7 +44470,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1786140093",
+            "LastRefreshTime": "1786140693",
             "Self": {},
             "Rank": [
                 {
@@ -62603,7 +62603,7 @@
                     ]
                 }
             ],
-            "Total": 7752,
+            "Total": 7754,
             "UsageByFloor": {
                 "all": [
                     {
@@ -66489,7 +66489,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1786140024",
+            "LastRefreshTime": "1786140624",
             "Self": {},
             "Rank": [
                 {
@@ -84722,7 +84722,7 @@
                     ]
                 }
             ],
-            "Total": 9041,
+            "Total": 9042,
             "UsageByFloor": {
                 "all": [
                     {
@@ -120160,12 +120160,191 @@
                     ]
                 },
                 {
+                    "Id": "700913340",
+                    "NickName": "Tyri (EN)",
+                    "WorldClass": 1,
+                    "HeadIcon": 11402,
+                    "Score": 13934194,
+                    "Rank": 55,
+                    "TitlePrefix": 3,
+                    "TitleSuffix": 36,
+                    "Honors": [
+                        {
+                            "Id": 111001
+                        },
+                        {},
+                        {}
+                    ],
+                    "Teams": [
+                        {
+                            "Chars": [
+                                {
+                                    "Id": 114,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 158,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 126,
+                                    "Level": 90
+                                }
+                            ],
+                            "BuildScore": 9180,
+                            "Damage": 2741254464,
+                            "Time": 51581,
+                            "Discs": [
+                                214048,
+                                214029,
+                                214019,
+                                214041,
+                                214001,
+                                214040
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 511404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511412,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 511409,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511443,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511411,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 515821,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515822,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515833,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515831,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515825,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515843,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515832,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 512623,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512622,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512625,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512641,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512629,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 512627,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 512631,
+                                    "Level": 6
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 41
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 8
+                                },
+                                {
+                                    "Tid": 90019,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 20
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 16
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 39
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 13
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 9
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4048102,
+                                4048201,
+                                4029102,
+                                4029201,
+                                4019101
+                            ],
+                            "RecordRank": "31",
+                            "BuildCode": "AAAAcgAAAJ4AAAB+MAYNbAbCABkMBmwoGFGA"
+                        }
+                    ]
+                },
+                {
                     "Id": "501188500",
                     "NickName": "치유 (KR)",
                     "WorldClass": 1,
                     "HeadIcon": 16002,
                     "Score": 13933116,
-                    "Rank": 55,
+                    "Rank": 56,
                     "TitlePrefix": 3,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -120347,7 +120526,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 102,
                     "Score": 13932841,
-                    "Rank": 56,
+                    "Rank": 57,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -120517,7 +120696,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130009,
                     "Score": 13926912,
-                    "Rank": 57,
+                    "Rank": 58,
                     "TitlePrefix": 11,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -120699,185 +120878,6 @@
                             ],
                             "RecordRank": "34",
                             "BuildCode": "AAAAcgAAAJ4AAAB+MAaJbAbCABgMBswwGDEA"
-                        }
-                    ]
-                },
-                {
-                    "Id": "700913340",
-                    "NickName": "Tyri (EN)",
-                    "WorldClass": 1,
-                    "HeadIcon": 11402,
-                    "Score": 13924749,
-                    "Rank": 58,
-                    "TitlePrefix": 3,
-                    "TitleSuffix": 36,
-                    "Honors": [
-                        {
-                            "Id": 111001
-                        },
-                        {},
-                        {}
-                    ],
-                    "Teams": [
-                        {
-                            "Chars": [
-                                {
-                                    "Id": 114,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 158,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 126,
-                                    "Level": 90
-                                }
-                            ],
-                            "BuildScore": 9180,
-                            "Damage": 2741254464,
-                            "Time": 52747,
-                            "Discs": [
-                                214048,
-                                214029,
-                                214019,
-                                214041,
-                                214001,
-                                214040
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 511404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511412,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 511409,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511443,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511411,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 515821,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515822,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515833,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515831,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515825,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515843,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515832,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 512623,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512622,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512625,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512641,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512629,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 512627,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 512631,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 41
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 8
-                                },
-                                {
-                                    "Tid": 90019,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 20
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 39
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 13
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 9
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4048102,
-                                4048201,
-                                4029102,
-                                4029201,
-                                4019101
-                            ],
-                            "RecordRank": "31",
-                            "BuildCode": "AAAAcgAAAJ4AAAB+MAYNbAbCABkMBmwoGFGA"
                         }
                     ]
                 },
@@ -135483,7 +135483,7 @@
                     "Honors": [
                         {
                             "Id": 112144,
-                            "AffinityLV": 53
+                            "AffinityLV": 54
                         },
                         {
                             "Id": 112134,
@@ -201393,8 +201393,8 @@
                     ]
                 }
             ],
-            "Total": 102298,
-            "LastRefreshTime": "1786140214",
+            "Total": 102310,
+            "LastRefreshTime": "1786140814",
             "UsageByFloor": {
                 "all": [
                     {
@@ -201610,12 +201610,12 @@
                             {
                                 "id": "501188500",
                                 "name": "치유 (KR)",
-                                "rank": 55
+                                "rank": 56
                             },
                             {
                                 "id": "900542522",
                                 "name": "雷不死 (TW)",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "509768854",
@@ -203278,12 +203278,12 @@
                             {
                                 "id": "501188500",
                                 "name": "치유 (KR)",
-                                "rank": 55
+                                "rank": 56
                             },
                             {
                                 "id": "900542522",
                                 "name": "雷不死 (TW)",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "300799973",
@@ -204886,7 +204886,7 @@
                             {
                                 "id": "501188500",
                                 "name": "치유 (KR)",
-                                "rank": 55
+                                "rank": 56
                             },
                             {
                                 "id": "509768854",
@@ -206222,13 +206222,13 @@
                                 "rank": 53
                             },
                             {
-                                "id": "300531304",
-                                "name": "もやどら (JP)",
-                                "rank": 57
-                            },
-                            {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
+                                "rank": 55
+                            },
+                            {
+                                "id": "300531304",
+                                "name": "もやどら (JP)",
                                 "rank": 58
                             },
                             {
@@ -207040,13 +207040,13 @@
                                 "rank": 53
                             },
                             {
-                                "id": "300531304",
-                                "name": "もやどら (JP)",
-                                "rank": 57
-                            },
-                            {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
+                                "rank": 55
+                            },
+                            {
+                                "id": "300531304",
+                                "name": "もやどら (JP)",
                                 "rank": 58
                             },
                             {
@@ -207858,13 +207858,13 @@
                                 "rank": 53
                             },
                             {
-                                "id": "300531304",
-                                "name": "もやどら (JP)",
-                                "rank": 57
-                            },
-                            {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
+                                "rank": 55
+                            },
+                            {
+                                "id": "300531304",
+                                "name": "もやどら (JP)",
                                 "rank": 58
                             },
                             {
@@ -208882,7 +208882,7 @@
                             {
                                 "id": "900542522",
                                 "name": "雷不死 (TW)",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "700570098",
@@ -209251,7 +209251,7 @@
                             {
                                 "id": "501188500",
                                 "name": "치유 (KR)",
-                                "rank": 55,
+                                "rank": 56,
                                 "teamScore": -51714
                             },
                             {
@@ -210793,16 +210793,16 @@
                                 "teamScore": -50815
                             },
                             {
-                                "id": "300531304",
-                                "name": "もやどら (JP)",
-                                "rank": 57,
-                                "teamScore": -52480
-                            },
-                            {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
+                                "rank": 55,
+                                "teamScore": -51581
+                            },
+                            {
+                                "id": "300531304",
+                                "name": "もやどら (JP)",
                                 "rank": 58,
-                                "teamScore": -52747
+                                "teamScore": -52480
                             },
                             {
                                 "id": "500345369",
@@ -212083,7 +212083,7 @@
                             {
                                 "id": "900542522",
                                 "name": "雷不死 (TW)",
-                                "rank": 56,
+                                "rank": 57,
                                 "teamScore": -51748
                             },
                             {
@@ -212096,7 +212096,7 @@
                         "topUser": {
                             "id": "900542522",
                             "name": "雷不死 (TW)",
-                            "rank": 56,
+                            "rank": 57,
                             "teamScore": -51748
                         },
                         "rank": 7
@@ -212665,7 +212665,7 @@
                             {
                                 "id": "501188500",
                                 "name": "치유 (KR)",
-                                "rank": 55,
+                                "rank": 56,
                                 "teamScore": -51714
                             },
                             {
@@ -214600,16 +214600,16 @@
                                 "teamScore": -50815
                             },
                             {
-                                "id": "300531304",
-                                "name": "もやどら (JP)",
-                                "rank": 57,
-                                "teamScore": -52480
-                            },
-                            {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
+                                "rank": 55,
+                                "teamScore": -51581
+                            },
+                            {
+                                "id": "300531304",
+                                "name": "もやどら (JP)",
                                 "rank": 58,
-                                "teamScore": -52747
+                                "teamScore": -52480
                             },
                             {
                                 "id": "500345369",
@@ -216225,7 +216225,7 @@
                             {
                                 "id": "900542522",
                                 "name": "雷不死 (TW)",
-                                "rank": 56,
+                                "rank": 57,
                                 "teamScore": -51748
                             },
                             {
@@ -216238,7 +216238,7 @@
                         "topUser": {
                             "id": "900542522",
                             "name": "雷不死 (TW)",
-                            "rank": 56,
+                            "rank": 57,
                             "teamScore": -51748
                         },
                         "rank": 8,
