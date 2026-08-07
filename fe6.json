@@ -1,14 +1,14 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1786105868",
+            "LastRefreshTime": "1786106468",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "WorldClass": 40,
                 "HeadIcon": 15602,
                 "Score": 12396870,
-                "Rank": 834,
+                "Rank": 835,
                 "TitlePrefix": 33,
                 "TitleSuffix": 36,
                 "Honors": [
@@ -18627,7 +18627,7 @@
                     ]
                 }
             ],
-            "Total": 22060,
+            "Total": 22066,
             "UsageByFloor": {
                 "all": [
                     {
@@ -22727,7 +22727,7 @@
             }
         },
         "jp": {
-            "LastRefreshTime": "1786105990",
+            "LastRefreshTime": "1786106590",
             "Self": {},
             "Rank": [
                 {
@@ -22917,7 +22917,7 @@
                     "NickName": "PS勢",
                     "WorldClass": 1,
                     "HeadIcon": 16001,
-                    "Score": 14129468,
+                    "Score": 14171013,
                     "Rank": 2,
                     "TitlePrefix": 9,
                     "TitleSuffix": 20,
@@ -22944,7 +22944,7 @@
                             ],
                             "BuildScore": 10035,
                             "Damage": 2741254464,
-                            "Time": 27473,
+                            "Time": 22344,
                             "Discs": [
                                 214055,
                                 214008,
@@ -40766,7 +40766,7 @@
                     ]
                 }
             ],
-            "Total": 33061,
+            "Total": 33073,
             "UsageByFloor": {
                 "all": [
                     {
@@ -42382,7 +42382,7 @@
                                 "id": "301747603",
                                 "name": "PS勢",
                                 "rank": 2,
-                                "teamScore": -27473
+                                "teamScore": -22344
                             },
                             {
                                 "id": "300870166",
@@ -43106,7 +43106,7 @@
                                 "id": "301747603",
                                 "name": "PS勢",
                                 "rank": 2,
-                                "teamScore": -27473
+                                "teamScore": -22344
                             },
                             {
                                 "id": "300870166",
@@ -44436,7 +44436,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1786105883",
+            "LastRefreshTime": "1786106483",
             "Self": {},
             "Rank": [
                 {
@@ -62557,7 +62557,7 @@
                     ]
                 }
             ],
-            "Total": 7662,
+            "Total": 7663,
             "UsageByFloor": {
                 "all": [
                     {
@@ -66548,7 +66548,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1786105822",
+            "LastRefreshTime": "1786106422",
             "Self": {},
             "Rank": [
                 {
@@ -84766,7 +84766,7 @@
                     ]
                 }
             ],
-            "Total": 8909,
+            "Total": 8911,
             "UsageByFloor": {
                 "all": [
                     {
@@ -111203,12 +111203,178 @@
                     ]
                 },
                 {
+                    "Id": "301747603",
+                    "NickName": "PS勢 (JP)",
+                    "WorldClass": 1,
+                    "HeadIcon": 16001,
+                    "Score": 14171013,
+                    "Rank": 5,
+                    "TitlePrefix": 9,
+                    "TitleSuffix": 20,
+                    "Honors": [
+                        {},
+                        {},
+                        {}
+                    ],
+                    "Teams": [
+                        {
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "BuildScore": 10035,
+                            "Damage": 2741254464,
+                            "Time": 22344,
+                            "Discs": [
+                                214055,
+                                214008,
+                                214026,
+                                214005,
+                                214031,
+                                214047
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513030,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513029,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516032,
+                                    "Level": 4
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 43
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 44
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 14
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 41
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 8
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 1
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4055103,
+                                4055202,
+                                4008103,
+                                4008202,
+                                4026103,
+                                4026202
+                            ],
+                            "RecordRank": "34",
+                            "BuildCode": "AAAAkAAAAIIAAACgMAZjbADNgEBcADAGwgwA"
+                        }
+                    ]
+                },
+                {
                     "Id": "507501904",
                     "NickName": "루체 (KR)",
                     "WorldClass": 1,
                     "HeadIcon": 13303,
                     "Score": 14164541,
-                    "Rank": 5,
+                    "Rank": 6,
                     "TitlePrefix": 13,
                     "TitleSuffix": 6,
                     "Honors": [
@@ -111382,172 +111548,6 @@
                             ],
                             "RecordRank": "34",
                             "BuildCode": "AAAAkAAAAIIAAACgMAaLbADJgEAsADAGwywA"
-                        }
-                    ]
-                },
-                {
-                    "Id": "301747603",
-                    "NickName": "PS勢 (JP)",
-                    "WorldClass": 1,
-                    "HeadIcon": 16001,
-                    "Score": 14129468,
-                    "Rank": 6,
-                    "TitlePrefix": 9,
-                    "TitleSuffix": 20,
-                    "Honors": [
-                        {},
-                        {},
-                        {}
-                    ],
-                    "Teams": [
-                        {
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "BuildScore": 10035,
-                            "Damage": 2741254464,
-                            "Time": 27473,
-                            "Discs": [
-                                214055,
-                                214008,
-                                214026,
-                                214005,
-                                214031,
-                                214047
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513030,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513029,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516032,
-                                    "Level": 4
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 43
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 44
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 14
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 41
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 8
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 1
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4055103,
-                                4055202,
-                                4008103,
-                                4008202,
-                                4026103,
-                                4026202
-                            ],
-                            "RecordRank": "34",
-                            "BuildCode": "AAAAkAAAAIIAAACgMAZjbADNgEBcADAGwgwA"
                         }
                     ]
                 },
@@ -201501,8 +201501,8 @@
                     ]
                 }
             ],
-            "Total": 100742,
-            "LastRefreshTime": "1786105990",
+            "Total": 100763,
+            "LastRefreshTime": "1786106590",
             "UsageByFloor": {
                 "all": [
                     {
@@ -201531,13 +201531,13 @@
                                 "rank": 4
                             },
                             {
-                                "id": "507501904",
-                                "name": "루체 (KR)",
+                                "id": "301747603",
+                                "name": "PS勢 (JP)",
                                 "rank": 5
                             },
                             {
-                                "id": "301747603",
-                                "name": "PS勢 (JP)",
+                                "id": "507501904",
+                                "name": "루체 (KR)",
                                 "rank": 6
                             },
                             {
@@ -203234,13 +203234,13 @@
                                 "rank": 4
                             },
                             {
-                                "id": "507501904",
-                                "name": "루체 (KR)",
+                                "id": "301747603",
+                                "name": "PS勢 (JP)",
                                 "rank": 5
                             },
                             {
-                                "id": "301747603",
-                                "name": "PS勢 (JP)",
+                                "id": "507501904",
+                                "name": "루체 (KR)",
                                 "rank": 6
                             },
                             {
@@ -204842,13 +204842,13 @@
                                 "rank": 4
                             },
                             {
-                                "id": "507501904",
-                                "name": "루체 (KR)",
+                                "id": "301747603",
+                                "name": "PS勢 (JP)",
                                 "rank": 5
                             },
                             {
-                                "id": "301747603",
-                                "name": "PS勢 (JP)",
+                                "id": "507501904",
+                                "name": "루체 (KR)",
                                 "rank": 6
                             },
                             {
@@ -209157,16 +209157,16 @@
                                 "teamScore": -22011
                             },
                             {
-                                "id": "507501904",
-                                "name": "루체 (KR)",
-                                "rank": 5,
-                                "teamScore": -23143
-                            },
-                            {
                                 "id": "301747603",
                                 "name": "PS勢 (JP)",
+                                "rank": 5,
+                                "teamScore": -22344
+                            },
+                            {
+                                "id": "507501904",
+                                "name": "루체 (KR)",
                                 "rank": 6,
-                                "teamScore": -27473
+                                "teamScore": -23143
                             },
                             {
                                 "id": "300870166",
@@ -212461,16 +212461,16 @@
                                 "teamScore": -22011
                             },
                             {
-                                "id": "507501904",
-                                "name": "루체 (KR)",
-                                "rank": 5,
-                                "teamScore": -23143
-                            },
-                            {
                                 "id": "301747603",
                                 "name": "PS勢 (JP)",
+                                "rank": 5,
+                                "teamScore": -22344
+                            },
+                            {
+                                "id": "507501904",
+                                "name": "루체 (KR)",
                                 "rank": 6,
-                                "teamScore": -27473
+                                "teamScore": -23143
                             },
                             {
                                 "id": "300870166",
