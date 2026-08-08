@@ -1,14 +1,14 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1786222895",
+            "LastRefreshTime": "1786223495",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "WorldClass": 40,
                 "HeadIcon": 15602,
                 "Score": 12396870,
-                "Rank": 942,
+                "Rank": 944,
                 "TitlePrefix": 33,
                 "TitleSuffix": 36,
                 "Honors": [
@@ -907,7 +907,7 @@
                     "NickName": "DonnaPregHaste",
                     "WorldClass": 1,
                     "HeadIcon": 13001,
-                    "Score": 13957732,
+                    "Score": 13978217,
                     "Rank": 4,
                     "TitlePrefix": 23,
                     "TitleSuffix": 2,
@@ -941,7 +941,7 @@
                             ],
                             "BuildScore": 9855,
                             "Damage": 2741254464,
-                            "Time": 48675,
+                            "Time": 46146,
                             "Discs": [
                                 214026,
                                 214008,
@@ -20169,7 +20169,7 @@
                                 "id": "704000939",
                                 "name": "DonnaPregHaste",
                                 "rank": 4,
-                                "teamScore": -48675
+                                "teamScore": -46146
                             },
                             {
                                 "id": "700476610",
@@ -20933,7 +20933,7 @@
                                 "id": "704000939",
                                 "name": "DonnaPregHaste",
                                 "rank": 4,
-                                "teamScore": -48675
+                                "teamScore": -46146
                             },
                             {
                                 "id": "700476610",
@@ -44095,7 +44095,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1786222916",
+            "LastRefreshTime": "1786223516",
             "Self": {},
             "Rank": [
                 {
@@ -65944,7 +65944,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1786222831",
+            "LastRefreshTime": "1786223431",
             "Self": {},
             "Rank": [
                 {
@@ -117439,12 +117439,193 @@
                     ]
                 },
                 {
+                    "Id": "704000939",
+                    "NickName": "DonnaPregHaste (EN)",
+                    "WorldClass": 1,
+                    "HeadIcon": 13001,
+                    "Score": 13978217,
+                    "Rank": 43,
+                    "TitlePrefix": 23,
+                    "TitleSuffix": 2,
+                    "Honors": [
+                        {
+                            "Id": 116008
+                        },
+                        {
+                            "Id": 111006
+                        },
+                        {
+                            "Id": 112130,
+                            "AffinityLV": 45
+                        }
+                    ],
+                    "Teams": [
+                        {
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "BuildScore": 9855,
+                            "Damage": 2741254464,
+                            "Time": 46146,
+                            "Discs": [
+                                214026,
+                                214008,
+                                214055,
+                                214031,
+                                214005,
+                                214047
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 514411,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513030,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516032,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 29
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 48
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 35
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 15
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 44
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 3
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 3
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4026103,
+                                4026201,
+                                4008102,
+                                4008201,
+                                4055103,
+                                4055201
+                            ],
+                            "RecordRank": "33",
+                            "BuildCode": "AAAAkAAAAIIAAACgMAZrZADNgEBsADAGwuwA"
+                        }
+                    ]
+                },
+                {
                     "Id": "500626216",
                     "NickName": "Dpgs (KR)",
                     "WorldClass": 1,
                     "HeadIcon": 14402,
                     "Score": 13976783,
-                    "Rank": 43,
+                    "Rank": 44,
                     "TitlePrefix": 23,
                     "TitleSuffix": 10,
                     "Honors": [
@@ -117625,7 +117806,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130001,
                     "Score": 13964941,
-                    "Rank": 44,
+                    "Rank": 45,
                     "TitlePrefix": 3,
                     "TitleSuffix": 14,
                     "Honors": [
@@ -117803,187 +117984,6 @@
                             ],
                             "RecordRank": "31",
                             "BuildCode": "AAAAcgAAAH4AAACeMAXBbAbMMBAxgMIAGCwG"
-                        }
-                    ]
-                },
-                {
-                    "Id": "704000939",
-                    "NickName": "DonnaPregHaste (EN)",
-                    "WorldClass": 1,
-                    "HeadIcon": 13001,
-                    "Score": 13957732,
-                    "Rank": 45,
-                    "TitlePrefix": 23,
-                    "TitleSuffix": 2,
-                    "Honors": [
-                        {
-                            "Id": 116008
-                        },
-                        {
-                            "Id": 111006
-                        },
-                        {
-                            "Id": 112130,
-                            "AffinityLV": 45
-                        }
-                    ],
-                    "Teams": [
-                        {
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "BuildScore": 9855,
-                            "Damage": 2741254464,
-                            "Time": 48675,
-                            "Discs": [
-                                214026,
-                                214008,
-                                214055,
-                                214031,
-                                214005,
-                                214047
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 514411,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513030,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516032,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 29
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 48
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 35
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 15
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 44
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 3
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 3
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4026103,
-                                4026201,
-                                4008102,
-                                4008201,
-                                4055103,
-                                4055201
-                            ],
-                            "RecordRank": "33",
-                            "BuildCode": "AAAAkAAAAIIAAACgMAZrZADNgEBsADAGwuwA"
                         }
                     ]
                 },
@@ -200700,7 +200700,7 @@
                 }
             ],
             "Total": 105320,
-            "LastRefreshTime": "1786223070",
+            "LastRefreshTime": "1786223516",
             "UsageByFloor": {
                 "all": [
                     {
@@ -200884,14 +200884,14 @@
                                 "rank": 42
                             },
                             {
-                                "id": "500626216",
-                                "name": "Dpgs (KR)",
+                                "id": "704000939",
+                                "name": "DonnaPregHaste (EN)",
                                 "rank": 43
                             },
                             {
-                                "id": "704000939",
-                                "name": "DonnaPregHaste (EN)",
-                                "rank": 45
+                                "id": "500626216",
+                                "name": "Dpgs (KR)",
+                                "rank": 44
                             },
                             {
                                 "id": "300420267",
@@ -202567,14 +202567,14 @@
                                 "rank": 42
                             },
                             {
-                                "id": "500626216",
-                                "name": "Dpgs (KR)",
+                                "id": "704000939",
+                                "name": "DonnaPregHaste (EN)",
                                 "rank": 43
                             },
                             {
-                                "id": "704000939",
-                                "name": "DonnaPregHaste (EN)",
-                                "rank": 45
+                                "id": "500626216",
+                                "name": "Dpgs (KR)",
+                                "rank": 44
                             },
                             {
                                 "id": "300420267",
@@ -204210,14 +204210,14 @@
                                 "rank": 42
                             },
                             {
-                                "id": "500626216",
-                                "name": "Dpgs (KR)",
+                                "id": "704000939",
+                                "name": "DonnaPregHaste (EN)",
                                 "rank": 43
                             },
                             {
-                                "id": "704000939",
-                                "name": "DonnaPregHaste (EN)",
-                                "rank": 45
+                                "id": "500626216",
+                                "name": "Dpgs (KR)",
+                                "rank": 44
                             },
                             {
                                 "id": "300420267",
@@ -205575,7 +205575,7 @@
                             {
                                 "id": "301787350",
                                 "name": "アヤメの御財布 (JP)",
-                                "rank": 44
+                                "rank": 45
                             },
                             {
                                 "id": "700357218",
@@ -206383,7 +206383,7 @@
                             {
                                 "id": "301787350",
                                 "name": "アヤメの御財布 (JP)",
-                                "rank": 44
+                                "rank": 45
                             },
                             {
                                 "id": "700357218",
@@ -207181,7 +207181,7 @@
                             {
                                 "id": "301787350",
                                 "name": "アヤメの御財布 (JP)",
-                                "rank": 44
+                                "rank": 45
                             },
                             {
                                 "id": "700357218",
@@ -208503,16 +208503,16 @@
                                 "teamScore": -45601
                             },
                             {
-                                "id": "500626216",
-                                "name": "Dpgs (KR)",
-                                "rank": 43,
-                                "teamScore": -46323
-                            },
-                            {
                                 "id": "704000939",
                                 "name": "DonnaPregHaste (EN)",
-                                "rank": 45,
-                                "teamScore": -48675
+                                "rank": 43,
+                                "teamScore": -46146
+                            },
+                            {
+                                "id": "500626216",
+                                "name": "Dpgs (KR)",
+                                "rank": 44,
+                                "teamScore": -46323
                             },
                             {
                                 "id": "300420267",
@@ -210085,7 +210085,7 @@
                             {
                                 "id": "301787350",
                                 "name": "アヤメの御財布 (JP)",
-                                "rank": 44,
+                                "rank": 45,
                                 "teamScore": -47785
                             },
                             {
@@ -211767,16 +211767,16 @@
                                 "teamScore": -45601
                             },
                             {
-                                "id": "500626216",
-                                "name": "Dpgs (KR)",
-                                "rank": 43,
-                                "teamScore": -46323
-                            },
-                            {
                                 "id": "704000939",
                                 "name": "DonnaPregHaste (EN)",
-                                "rank": 45,
-                                "teamScore": -48675
+                                "rank": 43,
+                                "teamScore": -46146
+                            },
+                            {
+                                "id": "500626216",
+                                "name": "Dpgs (KR)",
+                                "rank": 44,
+                                "teamScore": -46323
                             },
                             {
                                 "id": "300420267",
@@ -213539,7 +213539,7 @@
                             {
                                 "id": "301787350",
                                 "name": "アヤメの御財布 (JP)",
-                                "rank": 44,
+                                "rank": 45,
                                 "teamScore": -47785
                             },
                             {
