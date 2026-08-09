@@ -1,14 +1,14 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1786248701",
+            "LastRefreshTime": "1786249302",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "WorldClass": 40,
                 "HeadIcon": 15602,
                 "Score": 12396870,
-                "Rank": 966,
+                "Rank": 967,
                 "TitlePrefix": 33,
                 "TitleSuffix": 36,
                 "Honors": [
@@ -18549,7 +18549,7 @@
                     ]
                 }
             ],
-            "Total": 23279,
+            "Total": 23283,
             "UsageByFloor": {
                 "all": [
                     {
@@ -44072,7 +44072,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1786248723",
+            "LastRefreshTime": "1786249323",
             "Self": {},
             "Rank": [
                 {
@@ -46636,7 +46636,7 @@
                     "NickName": "시티",
                     "WorldClass": 1,
                     "HeadIcon": 14203,
-                    "Score": 13880515,
+                    "Score": 13885456,
                     "Rank": 15,
                     "TitlePrefix": 29,
                     "TitleSuffix": 2,
@@ -46672,7 +46672,7 @@
                             ],
                             "BuildScore": 10665,
                             "Damage": 2741254464,
-                            "Time": 58208,
+                            "Time": 57598,
                             "Discs": [
                                 214026,
                                 214008,
@@ -63832,7 +63832,7 @@
                                 "id": "500759735",
                                 "name": "시티",
                                 "rank": 15,
-                                "teamScore": -58208
+                                "teamScore": -57598
                             },
                             {
                                 "id": "501396334",
@@ -64576,7 +64576,7 @@
                                 "id": "500759735",
                                 "name": "시티",
                                 "rank": 15,
-                                "teamScore": -58208
+                                "teamScore": -57598
                             },
                             {
                                 "id": "501396334",
@@ -65926,7 +65926,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1786248633",
+            "LastRefreshTime": "1786249233",
             "Self": {},
             "Rank": [
                 {
@@ -84125,7 +84125,7 @@
                     ]
                 }
             ],
-            "Total": 9302,
+            "Total": 9303,
             "UsageByFloor": {
                 "all": [
                     {
@@ -125216,12 +125216,187 @@
                     ]
                 },
                 {
+                    "Id": "500759735",
+                    "NickName": "시티 (KR)",
+                    "WorldClass": 1,
+                    "HeadIcon": 14203,
+                    "Score": 13885456,
+                    "Rank": 86,
+                    "TitlePrefix": 29,
+                    "TitleSuffix": 2,
+                    "Honors": [
+                        {
+                            "Id": 112135,
+                            "AffinityLV": 31
+                        },
+                        {
+                            "Id": 112145,
+                            "AffinityLV": 31
+                        },
+                        {
+                            "Id": 112110,
+                            "AffinityLV": 31
+                        }
+                    ],
+                    "Teams": [
+                        {
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "BuildScore": 10665,
+                            "Damage": 2741254464,
+                            "Time": 57598,
+                            "Discs": [
+                                214026,
+                                214008,
+                                214055,
+                                214005,
+                                214031,
+                                214047
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513030,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 4
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 57
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 42
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 16
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 63
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 8
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 3
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4026104,
+                                4026202,
+                                4008103,
+                                4008202,
+                                4055104,
+                                4055202
+                            ],
+                            "RecordRank": "36",
+                            "BuildCode": "AAAAkAAAAIIAAACgMAZjZADNgEAMADAGwEwG"
+                        }
+                    ]
+                },
+                {
                     "Id": "101103944",
                     "NickName": "皮皮 (CN)",
                     "WorldClass": 1,
                     "HeadIcon": 130008,
                     "Score": 13884832,
-                    "Rank": 86,
+                    "Rank": 87,
                     "TitlePrefix": 9,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -125403,7 +125578,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130007,
                     "Score": 13883536,
-                    "Rank": 87,
+                    "Rank": 88,
                     "TitlePrefix": 3,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -125594,7 +125769,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130007,
                     "Score": 13883488,
-                    "Rank": 88,
+                    "Rank": 89,
                     "TitlePrefix": 31,
                     "TitleSuffix": 10,
                     "Honors": [
@@ -125773,7 +125948,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14403,
                     "Score": 13883488,
-                    "Rank": 88,
+                    "Rank": 89,
                     "TitlePrefix": 3,
                     "TitleSuffix": 4,
                     "Honors": [
@@ -125946,7 +126121,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14403,
                     "Score": 13882945,
-                    "Rank": 90,
+                    "Rank": 91,
                     "TitlePrefix": 1,
                     "TitleSuffix": 4,
                     "Honors": [
@@ -126118,181 +126293,6 @@
                             ],
                             "RecordRank": "34",
                             "BuildCode": "AAAAkAAAAIIAAACgMAZjZADNgEgMADAGwGgG"
-                        }
-                    ]
-                },
-                {
-                    "Id": "500759735",
-                    "NickName": "시티 (KR)",
-                    "WorldClass": 1,
-                    "HeadIcon": 14203,
-                    "Score": 13880515,
-                    "Rank": 91,
-                    "TitlePrefix": 29,
-                    "TitleSuffix": 2,
-                    "Honors": [
-                        {
-                            "Id": 112135,
-                            "AffinityLV": 31
-                        },
-                        {
-                            "Id": 112145,
-                            "AffinityLV": 31
-                        },
-                        {
-                            "Id": 112110,
-                            "AffinityLV": 31
-                        }
-                    ],
-                    "Teams": [
-                        {
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "BuildScore": 10665,
-                            "Damage": 2741254464,
-                            "Time": 58208,
-                            "Discs": [
-                                214026,
-                                214008,
-                                214055,
-                                214005,
-                                214031,
-                                214047
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513030,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 4
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 57
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 42
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 63
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 8
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 3
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4026104,
-                                4026202,
-                                4008103,
-                                4008202,
-                                4055104,
-                                4055202
-                            ],
-                            "RecordRank": "36",
-                            "BuildCode": "AAAAkAAAAIIAAACgMAZjZADNgEAMADAGwEwG"
                         }
                     ]
                 },
@@ -200613,8 +200613,8 @@
                     ]
                 }
             ],
-            "Total": 105913,
-            "LastRefreshTime": "1786248888",
+            "Total": 105918,
+            "LastRefreshTime": "1786249323",
             "UsageByFloor": {
                 "all": [
                     {
@@ -200948,28 +200948,28 @@
                                 "rank": 85
                             },
                             {
+                                "id": "500759735",
+                                "name": "시티 (KR)",
+                                "rank": 86
+                            },
+                            {
                                 "id": "100994509",
                                 "name": "Nicolas (CN)",
-                                "rank": 87
+                                "rank": 88
                             },
                             {
                                 "id": "700476610",
                                 "name": "Mash (EN)",
-                                "rank": 88
+                                "rank": 89
                             },
                             {
                                 "id": "900596807",
                                 "name": "泪如朝露 (TW)",
-                                "rank": 88
+                                "rank": 89
                             },
                             {
                                 "id": "300474380",
                                 "name": "まお (JP)",
-                                "rank": 90
-                            },
-                            {
-                                "id": "500759735",
-                                "name": "시티 (KR)",
                                 "rank": 91
                             },
                             {
@@ -202636,28 +202636,28 @@
                                 "rank": 85
                             },
                             {
+                                "id": "500759735",
+                                "name": "시티 (KR)",
+                                "rank": 86
+                            },
+                            {
                                 "id": "100994509",
                                 "name": "Nicolas (CN)",
-                                "rank": 87
+                                "rank": 88
                             },
                             {
                                 "id": "700476610",
                                 "name": "Mash (EN)",
-                                "rank": 88
+                                "rank": 89
                             },
                             {
                                 "id": "900596807",
                                 "name": "泪如朝露 (TW)",
-                                "rank": 88
+                                "rank": 89
                             },
                             {
                                 "id": "300474380",
                                 "name": "まお (JP)",
-                                "rank": 90
-                            },
-                            {
-                                "id": "500759735",
-                                "name": "시티 (KR)",
                                 "rank": 91
                             },
                             {
@@ -204274,28 +204274,28 @@
                                 "rank": 85
                             },
                             {
+                                "id": "500759735",
+                                "name": "시티 (KR)",
+                                "rank": 86
+                            },
+                            {
                                 "id": "100994509",
                                 "name": "Nicolas (CN)",
-                                "rank": 87
+                                "rank": 88
                             },
                             {
                                 "id": "700476610",
                                 "name": "Mash (EN)",
-                                "rank": 88
+                                "rank": 89
                             },
                             {
                                 "id": "900596807",
                                 "name": "泪如朝露 (TW)",
-                                "rank": 88
+                                "rank": 89
                             },
                             {
                                 "id": "300474380",
                                 "name": "まお (JP)",
-                                "rank": 90
-                            },
-                            {
-                                "id": "500759735",
-                                "name": "시티 (KR)",
                                 "rank": 91
                             },
                             {
@@ -205584,7 +205584,7 @@
                             {
                                 "id": "101103944",
                                 "name": "皮皮 (CN)",
-                                "rank": 86
+                                "rank": 87
                             },
                             {
                                 "id": "701579507",
@@ -206382,7 +206382,7 @@
                             {
                                 "id": "101103944",
                                 "name": "皮皮 (CN)",
-                                "rank": 86
+                                "rank": 87
                             },
                             {
                                 "id": "701579507",
@@ -207578,7 +207578,7 @@
                             {
                                 "id": "101103944",
                                 "name": "皮皮 (CN)",
-                                "rank": 86
+                                "rank": 87
                             },
                             {
                                 "id": "100349666",
@@ -208567,34 +208567,34 @@
                                 "teamScore": -57322
                             },
                             {
+                                "id": "500759735",
+                                "name": "시티 (KR)",
+                                "rank": 86,
+                                "teamScore": -57598
+                            },
+                            {
                                 "id": "100994509",
                                 "name": "Nicolas (CN)",
-                                "rank": 87,
+                                "rank": 88,
                                 "teamScore": -57835
                             },
                             {
                                 "id": "700476610",
                                 "name": "Mash (EN)",
-                                "rank": 88,
+                                "rank": 89,
                                 "teamScore": -57841
                             },
                             {
                                 "id": "900596807",
                                 "name": "泪如朝露 (TW)",
-                                "rank": 88,
+                                "rank": 89,
                                 "teamScore": -57841
                             },
                             {
                                 "id": "300474380",
                                 "name": "まお (JP)",
-                                "rank": 90,
-                                "teamScore": -57908
-                            },
-                            {
-                                "id": "500759735",
-                                "name": "시티 (KR)",
                                 "rank": 91,
-                                "teamScore": -58208
+                                "teamScore": -57908
                             },
                             {
                                 "id": "900407611",
@@ -210589,7 +210589,7 @@
                             {
                                 "id": "101103944",
                                 "name": "皮皮 (CN)",
-                                "rank": 86,
+                                "rank": 87,
                                 "teamScore": -57675
                             },
                             {
@@ -211831,34 +211831,34 @@
                                 "teamScore": -57322
                             },
                             {
+                                "id": "500759735",
+                                "name": "시티 (KR)",
+                                "rank": 86,
+                                "teamScore": -57598
+                            },
+                            {
                                 "id": "100994509",
                                 "name": "Nicolas (CN)",
-                                "rank": 87,
+                                "rank": 88,
                                 "teamScore": -57835
                             },
                             {
                                 "id": "700476610",
                                 "name": "Mash (EN)",
-                                "rank": 88,
+                                "rank": 89,
                                 "teamScore": -57841
                             },
                             {
                                 "id": "900596807",
                                 "name": "泪如朝露 (TW)",
-                                "rank": 88,
+                                "rank": 89,
                                 "teamScore": -57841
                             },
                             {
                                 "id": "300474380",
                                 "name": "まお (JP)",
-                                "rank": 90,
-                                "teamScore": -57908
-                            },
-                            {
-                                "id": "500759735",
-                                "name": "시티 (KR)",
                                 "rank": 91,
-                                "teamScore": -58208
+                                "teamScore": -57908
                             },
                             {
                                 "id": "900407611",
@@ -213537,7 +213537,7 @@
                             {
                                 "id": "101103944",
                                 "name": "皮皮 (CN)",
-                                "rank": 86,
+                                "rank": 87,
                                 "teamScore": -57675
                             },
                             {
