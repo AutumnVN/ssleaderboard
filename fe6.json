@@ -1,14 +1,14 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1786314117",
+            "LastRefreshTime": "1786314718",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "WorldClass": 40,
                 "HeadIcon": 15602,
                 "Score": 12396870,
-                "Rank": 1013,
+                "Rank": 1014,
                 "TitlePrefix": 33,
                 "TitleSuffix": 36,
                 "Honors": [
@@ -18586,7 +18586,7 @@
                     ]
                 }
             ],
-            "Total": 23775,
+            "Total": 23780,
             "UsageByFloor": {
                 "all": [
                     {
@@ -44103,7 +44103,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1786314142",
+            "LastRefreshTime": "1786314742",
             "Self": {},
             "Rank": [
                 {
@@ -49183,7 +49183,7 @@
                     "NickName": "Arc",
                     "WorldClass": 1,
                     "HeadIcon": 130002,
-                    "Score": 13834936,
+                    "Score": 13838792,
                     "Rank": 29,
                     "TitlePrefix": 11,
                     "TitleSuffix": 16,
@@ -49219,7 +49219,7 @@
                             ],
                             "BuildScore": 10005,
                             "Damage": 2741254464,
-                            "Time": 63835,
+                            "Time": 63359,
                             "Discs": [
                                 214029,
                                 214027,
@@ -64201,7 +64201,7 @@
                                 "id": "501073715",
                                 "name": "Arc",
                                 "rank": 29,
-                                "teamScore": -63835
+                                "teamScore": -63359
                             },
                             {
                                 "id": "502887366",
@@ -65077,7 +65077,7 @@
                                 "id": "501073715",
                                 "name": "Arc",
                                 "rank": 29,
-                                "teamScore": -63835
+                                "teamScore": -63359
                             },
                             {
                                 "id": "502887366",
@@ -65965,7 +65965,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1786314038",
+            "LastRefreshTime": "1786314638",
             "Self": {},
             "Rank": [
                 {
@@ -138655,12 +138655,199 @@
                     ]
                 },
                 {
+                    "Id": "501073715",
+                    "NickName": "Arc (KR)",
+                    "WorldClass": 1,
+                    "HeadIcon": 130002,
+                    "Score": 13838792,
+                    "Rank": 161,
+                    "TitlePrefix": 11,
+                    "TitleSuffix": 16,
+                    "Honors": [
+                        {
+                            "Id": 112114,
+                            "AffinityLV": 37
+                        },
+                        {
+                            "Id": 112155,
+                            "AffinityLV": 41
+                        },
+                        {
+                            "Id": 112140,
+                            "AffinityLV": 26
+                        }
+                    ],
+                    "Teams": [
+                        {
+                            "Chars": [
+                                {
+                                    "Id": 114,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 126,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 158,
+                                    "Level": 90
+                                }
+                            ],
+                            "BuildScore": 10005,
+                            "Damage": 2741254464,
+                            "Time": 63359,
+                            "Discs": [
+                                214029,
+                                214027,
+                                214048,
+                                214001,
+                                214041,
+                                214017
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 511404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511409,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511411,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 511412,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 511442,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 512622,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512623,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512627,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512641,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512629,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 512625,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512631,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515821,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515822,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515843,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515831,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515833,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 515825,
+                                    "Level": 1
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 36
+                                },
+                                {
+                                    "Tid": 90019,
+                                    "Qty": 40
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 28
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 6
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 7
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 12
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 44
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4029102,
+                                4029201,
+                                4027102,
+                                4027201,
+                                4048103,
+                                4048202
+                            ],
+                            "RecordRank": "34",
+                            "BuildCode": "AAAAcgAAAH4AAACeMAbJ7BBsMBhBgMIAGAoG"
+                        }
+                    ]
+                },
+                {
                     "Id": "301393790",
                     "NickName": "サンパ (JP)",
                     "WorldClass": 1,
                     "HeadIcon": 130005,
                     "Score": 13837172,
-                    "Rank": 161,
+                    "Rank": 162,
                     "TitlePrefix": 11,
                     "TitleSuffix": 20,
                     "Honors": [
@@ -138847,7 +139034,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130007,
                     "Score": 13835560,
-                    "Rank": 162,
+                    "Rank": 163,
                     "TitlePrefix": 23,
                     "TitleSuffix": 4,
                     "Honors": [
@@ -139025,193 +139212,6 @@
                             ],
                             "RecordRank": "32",
                             "BuildCode": "AAAAkAAAAIIAAACgMAbCbBDNgGBmADAGwDoG"
-                        }
-                    ]
-                },
-                {
-                    "Id": "501073715",
-                    "NickName": "Arc (KR)",
-                    "WorldClass": 1,
-                    "HeadIcon": 130002,
-                    "Score": 13834936,
-                    "Rank": 163,
-                    "TitlePrefix": 11,
-                    "TitleSuffix": 16,
-                    "Honors": [
-                        {
-                            "Id": 112114,
-                            "AffinityLV": 37
-                        },
-                        {
-                            "Id": 112155,
-                            "AffinityLV": 41
-                        },
-                        {
-                            "Id": 112140,
-                            "AffinityLV": 26
-                        }
-                    ],
-                    "Teams": [
-                        {
-                            "Chars": [
-                                {
-                                    "Id": 114,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 126,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 158,
-                                    "Level": 90
-                                }
-                            ],
-                            "BuildScore": 10005,
-                            "Damage": 2741254464,
-                            "Time": 63835,
-                            "Discs": [
-                                214029,
-                                214027,
-                                214048,
-                                214001,
-                                214041,
-                                214017
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 511404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511409,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511411,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 511412,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 511442,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 512622,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512623,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512627,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512641,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512629,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 512625,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512631,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515821,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515822,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515843,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515831,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515833,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 515825,
-                                    "Level": 1
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 36
-                                },
-                                {
-                                    "Tid": 90019,
-                                    "Qty": 40
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 28
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 6
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 7
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 12
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 44
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4029102,
-                                4029201,
-                                4027102,
-                                4027201,
-                                4048103,
-                                4048202
-                            ],
-                            "RecordRank": "34",
-                            "BuildCode": "AAAAcgAAAH4AAACeMAbJ7BBsMBhBgMIAGAoG"
                         }
                     ]
                 },
@@ -200466,8 +200466,8 @@
                     ]
                 }
             ],
-            "Total": 107877,
-            "LastRefreshTime": "1786314332",
+            "Total": 107882,
+            "LastRefreshTime": "1786314742",
             "UsageByFloor": {
                 "all": [
                     {
@@ -201143,12 +201143,12 @@
                             {
                                 "id": "301393790",
                                 "name": "サンパ (JP)",
-                                "rank": 161
+                                "rank": 162
                             },
                             {
                                 "id": "706510622",
                                 "name": "HoaNhai (EN)",
-                                "rank": 162
+                                "rank": 163
                             },
                             {
                                 "id": "700388264",
@@ -202781,12 +202781,12 @@
                             {
                                 "id": "301393790",
                                 "name": "サンパ (JP)",
-                                "rank": 161
+                                "rank": 162
                             },
                             {
                                 "id": "706510622",
                                 "name": "HoaNhai (EN)",
-                                "rank": 162
+                                "rank": 163
                             },
                             {
                                 "id": "700388264",
@@ -204384,12 +204384,12 @@
                             {
                                 "id": "301393790",
                                 "name": "サンパ (JP)",
-                                "rank": 161
+                                "rank": 162
                             },
                             {
                                 "id": "706510622",
                                 "name": "HoaNhai (EN)",
-                                "rank": 162
+                                "rank": 163
                             },
                             {
                                 "id": "300354982",
@@ -205412,7 +205412,7 @@
                             {
                                 "id": "501073715",
                                 "name": "Arc (KR)",
-                                "rank": 163
+                                "rank": 161
                             },
                             {
                                 "id": "302655672",
@@ -206235,7 +206235,7 @@
                             {
                                 "id": "501073715",
                                 "name": "Arc (KR)",
-                                "rank": 163
+                                "rank": 161
                             },
                             {
                                 "id": "302655672",
@@ -207461,7 +207461,7 @@
                             {
                                 "id": "501073715",
                                 "name": "Arc (KR)",
-                                "rank": 163
+                                "rank": 161
                             },
                             {
                                 "id": "302655672",
@@ -208750,13 +208750,13 @@
                             {
                                 "id": "301393790",
                                 "name": "サンパ (JP)",
-                                "rank": 161,
+                                "rank": 162,
                                 "teamScore": -63559
                             },
                             {
                                 "id": "706510622",
                                 "name": "HoaNhai (EN)",
-                                "rank": 162,
+                                "rank": 163,
                                 "teamScore": -63758
                             },
                             {
@@ -210464,8 +210464,8 @@
                             {
                                 "id": "501073715",
                                 "name": "Arc (KR)",
-                                "rank": 163,
-                                "teamScore": -63835
+                                "rank": 161,
+                                "teamScore": -63359
                             },
                             {
                                 "id": "302655672",
@@ -211994,13 +211994,13 @@
                             {
                                 "id": "301393790",
                                 "name": "サンパ (JP)",
-                                "rank": 161,
+                                "rank": 162,
                                 "teamScore": -63559
                             },
                             {
                                 "id": "706510622",
                                 "name": "HoaNhai (EN)",
-                                "rank": 162,
+                                "rank": 163,
                                 "teamScore": -63758
                             },
                             {
@@ -213553,8 +213553,8 @@
                             {
                                 "id": "501073715",
                                 "name": "Arc (KR)",
-                                "rank": 163,
-                                "teamScore": -63835
+                                "rank": 161,
+                                "teamScore": -63359
                             },
                             {
                                 "id": "302655672",
