@@ -1,7 +1,7 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1786297914",
+            "LastRefreshTime": "1786298514",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
@@ -18563,7 +18563,7 @@
                     ]
                 }
             ],
-            "Total": 23658,
+            "Total": 23659,
             "UsageByFloor": {
                 "all": [
                     {
@@ -44075,7 +44075,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1786297937",
+            "LastRefreshTime": "1786298537",
             "Self": {},
             "Rank": [
                 {
@@ -62178,7 +62178,7 @@
                     ]
                 }
             ],
-            "Total": 8121,
+            "Total": 8123,
             "UsageByFloor": {
                 "all": [
                     {
@@ -65926,7 +65926,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1786297836",
+            "LastRefreshTime": "1786298436",
             "Self": {},
             "Rank": [
                 {
@@ -70126,7 +70126,7 @@
                     "NickName": "dooge",
                     "WorldClass": 1,
                     "HeadIcon": 12303,
-                    "Score": 13765689,
+                    "Score": 13768306,
                     "Rank": 24,
                     "TitlePrefix": 5,
                     "TitleSuffix": 4,
@@ -70162,7 +70162,7 @@
                             ],
                             "BuildScore": 8685,
                             "Damage": 2741254464,
-                            "Time": 72384,
+                            "Time": 72061,
                             "Discs": [
                                 214048,
                                 214001,
@@ -86262,7 +86262,7 @@
                                 "id": "900438734",
                                 "name": "dooge",
                                 "rank": 24,
-                                "teamScore": -72384
+                                "teamScore": -72061
                             },
                             {
                                 "id": "900386093",
@@ -86448,7 +86448,7 @@
                                 "id": "900438734",
                                 "name": "dooge",
                                 "rank": 24,
-                                "teamScore": -72384
+                                "teamScore": -72061
                             },
                             {
                                 "id": "900386093",
@@ -161287,12 +161287,189 @@
                     ]
                 },
                 {
+                    "Id": "900438734",
+                    "NickName": "dooge (TW)",
+                    "WorldClass": 1,
+                    "HeadIcon": 12303,
+                    "Score": 13768306,
+                    "Rank": 286,
+                    "TitlePrefix": 5,
+                    "TitleSuffix": 4,
+                    "Honors": [
+                        {
+                            "Id": 112123,
+                            "AffinityLV": 53
+                        },
+                        {
+                            "Id": 112134,
+                            "AffinityLV": 46
+                        },
+                        {
+                            "Id": 112149,
+                            "AffinityLV": 44
+                        }
+                    ],
+                    "Teams": [
+                        {
+                            "Chars": [
+                                {
+                                    "Id": 134,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 126,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 158,
+                                    "Level": 90
+                                }
+                            ],
+                            "BuildScore": 8685,
+                            "Damage": 2741254464,
+                            "Time": 72061,
+                            "Discs": [
+                                214048,
+                                214001,
+                                214041,
+                                214040,
+                                214027,
+                                214017
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 513403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513412,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513443,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513442,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513408,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513411,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 512623,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512621,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512641,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512627,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512625,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512629,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512631,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 515822,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515821,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515831,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515843,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515833,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515825,
+                                    "Level": 2
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90019,
+                                    "Qty": 32
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 11
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 43
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 25
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 12
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 10
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4048102,
+                                4048201,
+                                4001101,
+                                4041102
+                            ],
+                            "RecordRank": "30",
+                            "BuildCode": "AAAAhgAAAH4AAACeMAIPDDasMAhhgMQAGAwG"
+                        }
+                    ]
+                },
+                {
                     "Id": "100585107",
                     "NickName": "桜帆 (CN)",
                     "WorldClass": 1,
                     "HeadIcon": 130003,
                     "Score": 13767496,
-                    "Rank": 286,
+                    "Rank": 287,
                     "TitlePrefix": 35,
                     "TitleSuffix": 30,
                     "Honors": [
@@ -161475,7 +161652,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 11103,
                     "Score": 13766046,
-                    "Rank": 287,
+                    "Rank": 288,
                     "TitlePrefix": 23,
                     "TitleSuffix": 26,
                     "Honors": [
@@ -161654,183 +161831,6 @@
                             ],
                             "RecordRank": "32",
                             "BuildCode": "AAAAkAAAAIIAAACgMAYnagDNkAwMADAGwWwG"
-                        }
-                    ]
-                },
-                {
-                    "Id": "900438734",
-                    "NickName": "dooge (TW)",
-                    "WorldClass": 1,
-                    "HeadIcon": 12303,
-                    "Score": 13765689,
-                    "Rank": 288,
-                    "TitlePrefix": 5,
-                    "TitleSuffix": 4,
-                    "Honors": [
-                        {
-                            "Id": 112123,
-                            "AffinityLV": 53
-                        },
-                        {
-                            "Id": 112134,
-                            "AffinityLV": 46
-                        },
-                        {
-                            "Id": 112149,
-                            "AffinityLV": 44
-                        }
-                    ],
-                    "Teams": [
-                        {
-                            "Chars": [
-                                {
-                                    "Id": 134,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 126,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 158,
-                                    "Level": 90
-                                }
-                            ],
-                            "BuildScore": 8685,
-                            "Damage": 2741254464,
-                            "Time": 72384,
-                            "Discs": [
-                                214048,
-                                214001,
-                                214041,
-                                214040,
-                                214027,
-                                214017
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 513403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513412,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513443,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513442,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513408,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513411,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 512623,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512621,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512641,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512627,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512625,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512629,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512631,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 515822,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515821,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515831,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515843,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515833,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515825,
-                                    "Level": 2
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90019,
-                                    "Qty": 32
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 11
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 43
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 25
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 12
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 10
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4048102,
-                                4048201,
-                                4001101,
-                                4041102
-                            ],
-                            "RecordRank": "30",
-                            "BuildCode": "AAAAhgAAAH4AAACeMAIPDDasMAhhgMQAGAwG"
                         }
                     ]
                 },
@@ -200377,8 +200377,8 @@
                     ]
                 }
             ],
-            "Total": 107614,
-            "LastRefreshTime": "1786298121",
+            "Total": 107617,
+            "LastRefreshTime": "1786298537",
             "UsageByFloor": {
                 "all": [
                     {
@@ -201444,7 +201444,7 @@
                             {
                                 "id": "700780468",
                                 "name": "Soh (EN)",
-                                "rank": 287
+                                "rank": 288
                             },
                             {
                                 "id": "500356481",
@@ -203077,7 +203077,7 @@
                             {
                                 "id": "700780468",
                                 "name": "Soh (EN)",
-                                "rank": 287
+                                "rank": 288
                             },
                             {
                                 "id": "500356481",
@@ -204630,7 +204630,7 @@
                             {
                                 "id": "700780468",
                                 "name": "Soh (EN)",
-                                "rank": 287
+                                "rank": 288
                             },
                             {
                                 "id": "500356481",
@@ -205551,14 +205551,14 @@
                                 "rank": 285
                             },
                             {
-                                "id": "100585107",
-                                "name": "桜帆 (CN)",
+                                "id": "900438734",
+                                "name": "dooge (TW)",
                                 "rank": 286
                             },
                             {
-                                "id": "900438734",
-                                "name": "dooge (TW)",
-                                "rank": 288
+                                "id": "100585107",
+                                "name": "桜帆 (CN)",
+                                "rank": 287
                             },
                             {
                                 "id": "100344664",
@@ -206379,14 +206379,14 @@
                                 "rank": 285
                             },
                             {
-                                "id": "100585107",
-                                "name": "桜帆 (CN)",
+                                "id": "900438734",
+                                "name": "dooge (TW)",
                                 "rank": 286
                             },
                             {
-                                "id": "900438734",
-                                "name": "dooge (TW)",
-                                "rank": 288
+                                "id": "100585107",
+                                "name": "桜帆 (CN)",
+                                "rank": 287
                             },
                             {
                                 "id": "100344664",
@@ -207017,14 +207017,14 @@
                                 "rank": 285
                             },
                             {
-                                "id": "100585107",
-                                "name": "桜帆 (CN)",
+                                "id": "900438734",
+                                "name": "dooge (TW)",
                                 "rank": 286
                             },
                             {
-                                "id": "900438734",
-                                "name": "dooge (TW)",
-                                "rank": 288
+                                "id": "100585107",
+                                "name": "桜帆 (CN)",
+                                "rank": 287
                             },
                             {
                                 "id": "100344664",
@@ -209075,7 +209075,7 @@
                             {
                                 "id": "700780468",
                                 "name": "Soh (EN)",
-                                "rank": 287,
+                                "rank": 288,
                                 "teamScore": -72340
                             },
                             {
@@ -209939,16 +209939,16 @@
                                 "teamScore": -72051
                             },
                             {
-                                "id": "100585107",
-                                "name": "桜帆 (CN)",
-                                "rank": 286,
-                                "teamScore": -72161
-                            },
-                            {
                                 "id": "900438734",
                                 "name": "dooge (TW)",
-                                "rank": 288,
-                                "teamScore": -72384
+                                "rank": 286,
+                                "teamScore": -72061
+                            },
+                            {
+                                "id": "100585107",
+                                "name": "桜帆 (CN)",
+                                "rank": 287,
+                                "teamScore": -72161
                             },
                             {
                                 "id": "100344664",
@@ -212319,7 +212319,7 @@
                             {
                                 "id": "700780468",
                                 "name": "Soh (EN)",
-                                "rank": 287,
+                                "rank": 288,
                                 "teamScore": -72340
                             },
                             {
@@ -214181,16 +214181,16 @@
                                 "teamScore": -72051
                             },
                             {
-                                "id": "100585107",
-                                "name": "桜帆 (CN)",
-                                "rank": 286,
-                                "teamScore": -72161
-                            },
-                            {
                                 "id": "900438734",
                                 "name": "dooge (TW)",
-                                "rank": 288,
-                                "teamScore": -72384
+                                "rank": 286,
+                                "teamScore": -72061
+                            },
+                            {
+                                "id": "100585107",
+                                "name": "桜帆 (CN)",
+                                "rank": 287,
+                                "teamScore": -72161
                             },
                             {
                                 "id": "100344664",
