@@ -1,14 +1,14 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1786239099",
+            "LastRefreshTime": "1786239699",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "WorldClass": 40,
                 "HeadIcon": 15602,
                 "Score": 12396870,
-                "Rank": 956,
+                "Rank": 957,
                 "TitlePrefix": 33,
                 "TitleSuffix": 36,
                 "Honors": [
@@ -18546,7 +18546,7 @@
                     ]
                 }
             ],
-            "Total": 23203,
+            "Total": 23208,
             "UsageByFloor": {
                 "all": [
                     {
@@ -44069,7 +44069,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1786239121",
+            "LastRefreshTime": "1786239721",
             "Self": {},
             "Rank": [
                 {
@@ -62173,7 +62173,7 @@
                     ]
                 }
             ],
-            "Total": 7983,
+            "Total": 7984,
             "UsageByFloor": {
                 "all": [
                     {
@@ -65923,7 +65923,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1786239032",
+            "LastRefreshTime": "1786239632",
             "Self": {},
             "Rank": [
                 {
@@ -82319,12 +82319,185 @@
                     ]
                 },
                 {
+                    "Id": "905950483",
+                    "NickName": "文乃",
+                    "WorldClass": 1,
+                    "HeadIcon": 10303,
+                    "Score": 13523378,
+                    "Rank": 91,
+                    "TitlePrefix": 3,
+                    "TitleSuffix": 4,
+                    "Honors": [
+                        {
+                            "Id": 112103,
+                            "AffinityLV": 45
+                        },
+                        {},
+                        {}
+                    ],
+                    "Teams": [
+                        {
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "BuildScore": 9030,
+                            "Damage": 2741254464,
+                            "Time": 102299,
+                            "Discs": [
+                                214026,
+                                214056,
+                                214055,
+                                214005,
+                                214047,
+                                214031
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514411,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513030,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 2
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 36
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 17
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 14
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 15
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 36
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 14
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4026102,
+                                4026202,
+                                4056101,
+                                4056201,
+                                4055102,
+                                4055202
+                            ],
+                            "RecordRank": "31",
+                            "BuildCode": "AAAAkAAAAIIAAACgMAZPYgDNgIAMADAGwCwG"
+                        }
+                    ]
+                },
+                {
                     "Id": "900804662",
                     "NickName": "天井一直線",
                     "WorldClass": 1,
                     "HeadIcon": 15603,
                     "Score": 13522811,
-                    "Rank": 91,
+                    "Rank": 92,
                     "TitlePrefix": 11,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -82504,7 +82677,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 16001,
                     "Score": 13521353,
-                    "Rank": 92,
+                    "Rank": 93,
                     "TitlePrefix": 19,
                     "TitleSuffix": 20,
                     "Honors": [
@@ -82687,7 +82860,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 102,
                     "Score": 13520381,
-                    "Rank": 93,
+                    "Rank": 94,
                     "TitlePrefix": 35,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -82866,7 +83039,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 101,
                     "Score": 13520138,
-                    "Rank": 94,
+                    "Rank": 95,
                     "TitlePrefix": 5,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -83053,7 +83226,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 11501,
                     "Score": 13517254,
-                    "Rank": 95,
+                    "Rank": 96,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -83226,7 +83399,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 15602,
                     "Score": 13514476,
-                    "Rank": 96,
+                    "Rank": 97,
                     "TitlePrefix": 3,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -83397,7 +83570,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130005,
                     "Score": 13514176,
-                    "Rank": 97,
+                    "Rank": 98,
                     "TitlePrefix": 21,
                     "TitleSuffix": 30,
                     "Honors": [
@@ -83584,7 +83757,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130005,
                     "Score": 13512726,
-                    "Rank": 98,
+                    "Rank": 99,
                     "TitlePrefix": 3,
                     "TitleSuffix": 26,
                     "Honors": [
@@ -83771,7 +83944,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130010,
                     "Score": 13512394,
-                    "Rank": 99,
+                    "Rank": 100,
                     "TitlePrefix": 11,
                     "TitleSuffix": 30,
                     "Honors": [
@@ -83949,185 +84122,6 @@
                             ],
                             "RecordRank": "33",
                             "BuildCode": "AAAAkAAAAIIAAACgMAbDaBjBgEw8ADAGwBwG"
-                        }
-                    ]
-                },
-                {
-                    "Id": "900903871",
-                    "NickName": "氷滅",
-                    "WorldClass": 1,
-                    "HeadIcon": 130007,
-                    "Score": 13510240,
-                    "Rank": 100,
-                    "TitlePrefix": 9,
-                    "TitleSuffix": 2,
-                    "Honors": [
-                        {
-                            "Id": 112144,
-                            "AffinityLV": 45
-                        },
-                        {
-                            "Id": 112155,
-                            "AffinityLV": 45
-                        },
-                        {
-                            "Id": 112133,
-                            "AffinityLV": 42
-                        }
-                    ],
-                    "Teams": [
-                        {
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "BuildScore": 9120,
-                            "Damage": 2741254464,
-                            "Time": 103921,
-                            "Discs": [
-                                214026,
-                                214055,
-                                214005,
-                                214031,
-                                214056,
-                                214047
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514411,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513031,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 18
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 35
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 43
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 12
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 24
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 9
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 28
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 3
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4026101,
-                                4026201,
-                                4055101,
-                                4055201,
-                                4005102,
-                                4005201
-                            ],
-                            "RecordRank": "31",
-                            "BuildCode": "AAAAkAAAAIIAAACgMAbLYADHgBgMADAGwGwG"
                         }
                     ]
                 }
@@ -84476,53 +84470,53 @@
                                 "rank": 90
                             },
                             {
+                                "id": "905950483",
+                                "name": "文乃",
+                                "rank": 91
+                            },
+                            {
                                 "id": "900804662",
                                 "name": "天井一直線",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "900480945",
                                 "name": "裕仁",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "900364682",
                                 "name": "主人",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "900635420",
                                 "name": "Opsianos",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "900851547",
                                 "name": "琴纱月",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "910600475",
                                 "name": "yunmeng",
-                                "rank": 96
+                                "rank": 97
                             },
                             {
                                 "id": "900688745",
                                 "name": "Soulgain",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "900732522",
                                 "name": "半夕蝶梦",
-                                "rank": 98
+                                "rank": 99
                             },
                             {
                                 "id": "900370412",
                                 "name": "Hsuaaaan",
-                                "rank": 99
-                            },
-                            {
-                                "id": "900903871",
-                                "name": "氷滅",
                                 "rank": 100
                             }
                         ],
@@ -84859,48 +84853,48 @@
                                 "rank": 90
                             },
                             {
+                                "id": "905950483",
+                                "name": "文乃",
+                                "rank": 91
+                            },
+                            {
                                 "id": "900804662",
                                 "name": "天井一直線",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "900480945",
                                 "name": "裕仁",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "900364682",
                                 "name": "主人",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "900635420",
                                 "name": "Opsianos",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "900851547",
                                 "name": "琴纱月",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "900688745",
                                 "name": "Soulgain",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "900732522",
                                 "name": "半夕蝶梦",
-                                "rank": 98
+                                "rank": 99
                             },
                             {
                                 "id": "900370412",
                                 "name": "Hsuaaaan",
-                                "rank": 99
-                            },
-                            {
-                                "id": "900903871",
-                                "name": "氷滅",
                                 "rank": 100
                             }
                         ],
@@ -85227,43 +85221,43 @@
                                 "rank": 90
                             },
                             {
+                                "id": "905950483",
+                                "name": "文乃",
+                                "rank": 91
+                            },
+                            {
                                 "id": "900804662",
                                 "name": "天井一直線",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "900480945",
                                 "name": "裕仁",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "900635420",
                                 "name": "Opsianos",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "900851547",
                                 "name": "琴纱月",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "900688745",
                                 "name": "Soulgain",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "900732522",
                                 "name": "半夕蝶梦",
-                                "rank": 98
+                                "rank": 99
                             },
                             {
                                 "id": "900370412",
                                 "name": "Hsuaaaan",
-                                "rank": 99
-                            },
-                            {
-                                "id": "900903871",
-                                "name": "氷滅",
                                 "rank": 100
                             }
                         ],
@@ -85669,7 +85663,7 @@
                             {
                                 "id": "900364682",
                                 "name": "主人",
-                                "rank": 93
+                                "rank": 94
                             }
                         ],
                         "rank": 8
@@ -85705,7 +85699,7 @@
                             {
                                 "id": "910600475",
                                 "name": "yunmeng",
-                                "rank": 96
+                                "rank": 97
                             }
                         ],
                         "rank": 10
@@ -85718,7 +85712,7 @@
                             {
                                 "id": "910600475",
                                 "name": "yunmeng",
-                                "rank": 96
+                                "rank": 97
                             }
                         ],
                         "rank": 10
@@ -86105,52 +86099,52 @@
                                 "teamScore": -102106
                             },
                             {
+                                "id": "905950483",
+                                "name": "文乃",
+                                "rank": 91,
+                                "teamScore": -102299
+                            },
+                            {
                                 "id": "900804662",
                                 "name": "天井一直線",
-                                "rank": 91,
+                                "rank": 92,
                                 "teamScore": -102369
                             },
                             {
                                 "id": "900480945",
                                 "name": "裕仁",
-                                "rank": 92,
+                                "rank": 93,
                                 "teamScore": -102549
                             },
                             {
                                 "id": "900635420",
                                 "name": "Opsianos",
-                                "rank": 94,
+                                "rank": 95,
                                 "teamScore": -102699
                             },
                             {
                                 "id": "900851547",
                                 "name": "琴纱月",
-                                "rank": 95,
+                                "rank": 96,
                                 "teamScore": -103055
                             },
                             {
                                 "id": "900688745",
                                 "name": "Soulgain",
-                                "rank": 97,
+                                "rank": 98,
                                 "teamScore": -103435
                             },
                             {
                                 "id": "900732522",
                                 "name": "半夕蝶梦",
-                                "rank": 98,
+                                "rank": 99,
                                 "teamScore": -103614
                             },
                             {
                                 "id": "900370412",
                                 "name": "Hsuaaaan",
-                                "rank": 99,
-                                "teamScore": -103655
-                            },
-                            {
-                                "id": "900903871",
-                                "name": "氷滅",
                                 "rank": 100,
-                                "teamScore": -103921
+                                "teamScore": -103655
                             }
                         ],
                         "topUser": {
@@ -86397,7 +86391,7 @@
                             {
                                 "id": "900364682",
                                 "name": "主人",
-                                "rank": 93,
+                                "rank": 94,
                                 "teamScore": -102669
                             }
                         ],
@@ -86455,14 +86449,14 @@
                             {
                                 "id": "910600475",
                                 "name": "yunmeng",
-                                "rank": 96,
+                                "rank": 97,
                                 "teamScore": -103398
                             }
                         ],
                         "topUser": {
                             "id": "910600475",
                             "name": "yunmeng",
-                            "rank": 96,
+                            "rank": 97,
                             "teamScore": -103398
                         },
                         "rank": 7
@@ -87039,52 +87033,52 @@
                                 "teamScore": -102106
                             },
                             {
+                                "id": "905950483",
+                                "name": "文乃",
+                                "rank": 91,
+                                "teamScore": -102299
+                            },
+                            {
                                 "id": "900804662",
                                 "name": "天井一直線",
-                                "rank": 91,
+                                "rank": 92,
                                 "teamScore": -102369
                             },
                             {
                                 "id": "900480945",
                                 "name": "裕仁",
-                                "rank": 92,
+                                "rank": 93,
                                 "teamScore": -102549
                             },
                             {
                                 "id": "900635420",
                                 "name": "Opsianos",
-                                "rank": 94,
+                                "rank": 95,
                                 "teamScore": -102699
                             },
                             {
                                 "id": "900851547",
                                 "name": "琴纱月",
-                                "rank": 95,
+                                "rank": 96,
                                 "teamScore": -103055
                             },
                             {
                                 "id": "900688745",
                                 "name": "Soulgain",
-                                "rank": 97,
+                                "rank": 98,
                                 "teamScore": -103435
                             },
                             {
                                 "id": "900732522",
                                 "name": "半夕蝶梦",
-                                "rank": 98,
+                                "rank": 99,
                                 "teamScore": -103614
                             },
                             {
                                 "id": "900370412",
                                 "name": "Hsuaaaan",
-                                "rank": 99,
-                                "teamScore": -103655
-                            },
-                            {
-                                "id": "900903871",
-                                "name": "氷滅",
                                 "rank": 100,
-                                "teamScore": -103921
+                                "teamScore": -103655
                             }
                         ],
                         "topUser": {
@@ -87113,12 +87107,12 @@
                                 "p513033": 68,
                                 "p513025": 67,
                                 "p516029": 67,
-                                "p514412": 65,
+                                "p514412": 66,
                                 "p516043": 64,
-                                "p513030": 56,
+                                "p513030": 57,
                                 "p514411": 48,
                                 "p513029": 48,
-                                "p513031": 14,
+                                "p513031": 13,
                                 "p513032": 4,
                                 "p516032": 3,
                                 "p513042": 2,
@@ -87139,15 +87133,15 @@
                                 "p514408": 66,
                                 "p513033": 64,
                                 "p516028": 63,
-                                "p513025": 61,
+                                "p513025": 62,
                                 "p516033": 60,
-                                "p516029": 54,
+                                "p516029": 53,
                                 "p516043": 50,
                                 "p514412": 36,
                                 "p513029": 31,
-                                "p514409": 14,
-                                "p513031": 6,
-                                "p513030": 3,
+                                "p514409": 13,
+                                "p513031": 5,
+                                "p513030": 4,
                                 "p514411": 2,
                                 "p516032": 1
                             },
@@ -87158,17 +87152,17 @@
                                 "p513022": 69,
                                 "p516024": 69,
                                 "p516023": 69,
-                                "p514409": 55,
+                                "p514409": 56,
                                 "p513030": 53,
                                 "p514411": 46,
-                                "p514412": 29,
+                                "p514412": 30,
                                 "p513029": 17,
+                                "p516029": 14,
                                 "p516043": 14,
-                                "p516029": 13,
                                 "p516033": 9,
                                 "p513031": 8,
                                 "p516028": 6,
-                                "p513025": 6,
+                                "p513025": 5,
                                 "p513033": 4,
                                 "p513032": 4,
                                 "p514408": 3,
@@ -87206,17 +87200,17 @@
                                 "d214055": 69,
                                 "d214026": 66,
                                 "d214008": 57,
-                                "d214005": 9,
+                                "d214005": 8,
+                                "d214056": 3,
                                 "d214021": 2,
-                                "d214056": 2,
                                 "d214031": 1,
                                 "d214047": 1
                             },
                             "support": {
-                                "d214005": 59,
+                                "d214005": 60,
                                 "d214031": 52,
                                 "d214047": 52,
-                                "d214056": 34,
+                                "d214056": 33,
                                 "d214021": 6,
                                 "d214037": 2,
                                 "d214006": 1,
@@ -87244,7 +87238,7 @@
                             {
                                 "id": "900364682",
                                 "name": "主人",
-                                "rank": 93,
+                                "rank": 94,
                                 "teamScore": -102669
                             }
                         ],
@@ -87812,14 +87806,14 @@
                             {
                                 "id": "910600475",
                                 "name": "yunmeng",
-                                "rank": 96,
+                                "rank": 97,
                                 "teamScore": -103398
                             }
                         ],
                         "topUser": {
                             "id": "910600475",
                             "name": "yunmeng",
-                            "rank": 96,
+                            "rank": 97,
                             "teamScore": -103398
                         },
                         "rank": 7,
@@ -198818,12 +198812,185 @@
                     ]
                 },
                 {
+                    "Id": "905950483",
+                    "NickName": "文乃 (TW)",
+                    "WorldClass": 1,
+                    "HeadIcon": 10303,
+                    "Score": 13523378,
+                    "Rank": 491,
+                    "TitlePrefix": 3,
+                    "TitleSuffix": 4,
+                    "Honors": [
+                        {
+                            "Id": 112103,
+                            "AffinityLV": 45
+                        },
+                        {},
+                        {}
+                    ],
+                    "Teams": [
+                        {
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "BuildScore": 9030,
+                            "Damage": 2741254464,
+                            "Time": 102299,
+                            "Discs": [
+                                214026,
+                                214056,
+                                214055,
+                                214005,
+                                214047,
+                                214031
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514411,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513030,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 2
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 36
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 17
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 14
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 15
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 36
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 14
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4026102,
+                                4026202,
+                                4056101,
+                                4056201,
+                                4055102,
+                                4055202
+                            ],
+                            "RecordRank": "31",
+                            "BuildCode": "AAAAkAAAAIIAAACgMAZPYgDNgIAMADAGwCwG"
+                        }
+                    ]
+                },
+                {
                     "Id": "900804662",
                     "NickName": "天井一直線 (TW)",
                     "WorldClass": 1,
                     "HeadIcon": 15603,
                     "Score": 13522811,
-                    "Rank": 491,
+                    "Rank": 492,
                     "TitlePrefix": 11,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -199003,7 +199170,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 16001,
                     "Score": 13521353,
-                    "Rank": 492,
+                    "Rank": 493,
                     "TitlePrefix": 19,
                     "TitleSuffix": 20,
                     "Honors": [
@@ -199186,7 +199353,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 102,
                     "Score": 13520381,
-                    "Rank": 493,
+                    "Rank": 494,
                     "TitlePrefix": 35,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -199365,7 +199532,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 101,
                     "Score": 13520138,
-                    "Rank": 494,
+                    "Rank": 495,
                     "TitlePrefix": 5,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -199552,7 +199719,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 11501,
                     "Score": 13517254,
-                    "Rank": 495,
+                    "Rank": 496,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -199725,7 +199892,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 15602,
                     "Score": 13514476,
-                    "Rank": 496,
+                    "Rank": 497,
                     "TitlePrefix": 3,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -199896,7 +200063,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130005,
                     "Score": 13514176,
-                    "Rank": 497,
+                    "Rank": 498,
                     "TitlePrefix": 21,
                     "TitleSuffix": 30,
                     "Honors": [
@@ -200083,7 +200250,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130005,
                     "Score": 13512726,
-                    "Rank": 498,
+                    "Rank": 499,
                     "TitlePrefix": 3,
                     "TitleSuffix": 26,
                     "Honors": [
@@ -200270,7 +200437,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130010,
                     "Score": 13512394,
-                    "Rank": 499,
+                    "Rank": 500,
                     "TitlePrefix": 11,
                     "TitleSuffix": 30,
                     "Honors": [
@@ -200450,189 +200617,10 @@
                             "BuildCode": "AAAAkAAAAIIAAACgMAbDaBjBgEw8ADAGwBwG"
                         }
                     ]
-                },
-                {
-                    "Id": "900903871",
-                    "NickName": "氷滅 (TW)",
-                    "WorldClass": 1,
-                    "HeadIcon": 130007,
-                    "Score": 13510240,
-                    "Rank": 500,
-                    "TitlePrefix": 9,
-                    "TitleSuffix": 2,
-                    "Honors": [
-                        {
-                            "Id": 112144,
-                            "AffinityLV": 45
-                        },
-                        {
-                            "Id": 112155,
-                            "AffinityLV": 45
-                        },
-                        {
-                            "Id": 112133,
-                            "AffinityLV": 42
-                        }
-                    ],
-                    "Teams": [
-                        {
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "BuildScore": 9120,
-                            "Damage": 2741254464,
-                            "Time": 103921,
-                            "Discs": [
-                                214026,
-                                214055,
-                                214005,
-                                214031,
-                                214056,
-                                214047
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514411,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513031,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 18
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 35
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 43
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 12
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 24
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 9
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 28
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 3
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4026101,
-                                4026201,
-                                4055101,
-                                4055201,
-                                4005102,
-                                4005201
-                            ],
-                            "RecordRank": "31",
-                            "BuildCode": "AAAAkAAAAIIAAACgMAbLYADHgBgMADAGwGwG"
-                        }
-                    ]
                 }
             ],
-            "Total": 105609,
-            "LastRefreshTime": "1786239281",
+            "Total": 105615,
+            "LastRefreshTime": "1786239721",
             "UsageByFloor": {
                 "all": [
                     {
@@ -202291,53 +202279,53 @@
                                 "rank": 490
                             },
                             {
+                                "id": "905950483",
+                                "name": "文乃 (TW)",
+                                "rank": 491
+                            },
+                            {
                                 "id": "900804662",
                                 "name": "天井一直線 (TW)",
-                                "rank": 491
+                                "rank": 492
                             },
                             {
                                 "id": "900480945",
                                 "name": "裕仁 (TW)",
-                                "rank": 492
+                                "rank": 493
                             },
                             {
                                 "id": "900364682",
                                 "name": "主人 (TW)",
-                                "rank": 493
+                                "rank": 494
                             },
                             {
                                 "id": "900635420",
                                 "name": "Opsianos (TW)",
-                                "rank": 494
+                                "rank": 495
                             },
                             {
                                 "id": "900851547",
                                 "name": "琴纱月 (TW)",
-                                "rank": 495
+                                "rank": 496
                             },
                             {
                                 "id": "910600475",
                                 "name": "yunmeng (TW)",
-                                "rank": 496
+                                "rank": 497
                             },
                             {
                                 "id": "900688745",
                                 "name": "Soulgain (TW)",
-                                "rank": 497
+                                "rank": 498
                             },
                             {
                                 "id": "900732522",
                                 "name": "半夕蝶梦 (TW)",
-                                "rank": 498
+                                "rank": 499
                             },
                             {
                                 "id": "900370412",
                                 "name": "Hsuaaaan (TW)",
-                                "rank": 499
-                            },
-                            {
-                                "id": "900903871",
-                                "name": "氷滅 (TW)",
                                 "rank": 500
                             }
                         ],
@@ -203929,48 +203917,48 @@
                                 "rank": 490
                             },
                             {
+                                "id": "905950483",
+                                "name": "文乃 (TW)",
+                                "rank": 491
+                            },
+                            {
                                 "id": "900804662",
                                 "name": "天井一直線 (TW)",
-                                "rank": 491
+                                "rank": 492
                             },
                             {
                                 "id": "900480945",
                                 "name": "裕仁 (TW)",
-                                "rank": 492
+                                "rank": 493
                             },
                             {
                                 "id": "900364682",
                                 "name": "主人 (TW)",
-                                "rank": 493
+                                "rank": 494
                             },
                             {
                                 "id": "900635420",
                                 "name": "Opsianos (TW)",
-                                "rank": 494
+                                "rank": 495
                             },
                             {
                                 "id": "900851547",
                                 "name": "琴纱月 (TW)",
-                                "rank": 495
+                                "rank": 496
                             },
                             {
                                 "id": "900688745",
                                 "name": "Soulgain (TW)",
-                                "rank": 497
+                                "rank": 498
                             },
                             {
                                 "id": "900732522",
                                 "name": "半夕蝶梦 (TW)",
-                                "rank": 498
+                                "rank": 499
                             },
                             {
                                 "id": "900370412",
                                 "name": "Hsuaaaan (TW)",
-                                "rank": 499
-                            },
-                            {
-                                "id": "900903871",
-                                "name": "氷滅 (TW)",
                                 "rank": 500
                             }
                         ],
@@ -205437,43 +205425,43 @@
                                 "rank": 490
                             },
                             {
+                                "id": "905950483",
+                                "name": "文乃 (TW)",
+                                "rank": 491
+                            },
+                            {
                                 "id": "900804662",
                                 "name": "天井一直線 (TW)",
-                                "rank": 491
+                                "rank": 492
                             },
                             {
                                 "id": "900480945",
                                 "name": "裕仁 (TW)",
-                                "rank": 492
+                                "rank": 493
                             },
                             {
                                 "id": "900635420",
                                 "name": "Opsianos (TW)",
-                                "rank": 494
+                                "rank": 495
                             },
                             {
                                 "id": "900851547",
                                 "name": "琴纱月 (TW)",
-                                "rank": 495
+                                "rank": 496
                             },
                             {
                                 "id": "900688745",
                                 "name": "Soulgain (TW)",
-                                "rank": 497
+                                "rank": 498
                             },
                             {
                                 "id": "900732522",
                                 "name": "半夕蝶梦 (TW)",
-                                "rank": 498
+                                "rank": 499
                             },
                             {
                                 "id": "900370412",
                                 "name": "Hsuaaaan (TW)",
-                                "rank": 499
-                            },
-                            {
-                                "id": "900903871",
-                                "name": "氷滅 (TW)",
                                 "rank": 500
                             }
                         ],
@@ -208190,7 +208178,7 @@
                             {
                                 "id": "900364682",
                                 "name": "主人 (TW)",
-                                "rank": 493
+                                "rank": 494
                             }
                         ],
                         "rank": 10
@@ -208208,7 +208196,7 @@
                             {
                                 "id": "910600475",
                                 "name": "yunmeng (TW)",
-                                "rank": 496
+                                "rank": 497
                             }
                         ],
                         "rank": 11
@@ -208234,7 +208222,7 @@
                             {
                                 "id": "910600475",
                                 "name": "yunmeng (TW)",
-                                "rank": 496
+                                "rank": 497
                             }
                         ],
                         "rank": 12
@@ -209923,52 +209911,52 @@
                                 "teamScore": -102106
                             },
                             {
+                                "id": "905950483",
+                                "name": "文乃 (TW)",
+                                "rank": 491,
+                                "teamScore": -102299
+                            },
+                            {
                                 "id": "900804662",
                                 "name": "天井一直線 (TW)",
-                                "rank": 491,
+                                "rank": 492,
                                 "teamScore": -102369
                             },
                             {
                                 "id": "900480945",
                                 "name": "裕仁 (TW)",
-                                "rank": 492,
+                                "rank": 493,
                                 "teamScore": -102549
                             },
                             {
                                 "id": "900635420",
                                 "name": "Opsianos (TW)",
-                                "rank": 494,
+                                "rank": 495,
                                 "teamScore": -102699
                             },
                             {
                                 "id": "900851547",
                                 "name": "琴纱月 (TW)",
-                                "rank": 495,
+                                "rank": 496,
                                 "teamScore": -103055
                             },
                             {
                                 "id": "900688745",
                                 "name": "Soulgain (TW)",
-                                "rank": 497,
+                                "rank": 498,
                                 "teamScore": -103435
                             },
                             {
                                 "id": "900732522",
                                 "name": "半夕蝶梦 (TW)",
-                                "rank": 498,
+                                "rank": 499,
                                 "teamScore": -103614
                             },
                             {
                                 "id": "900370412",
                                 "name": "Hsuaaaan (TW)",
-                                "rank": 499,
-                                "teamScore": -103655
-                            },
-                            {
-                                "id": "900903871",
-                                "name": "氷滅 (TW)",
                                 "rank": 500,
-                                "teamScore": -103921
+                                "teamScore": -103655
                             }
                         ],
                         "topUser": {
@@ -211335,7 +211323,7 @@
                             {
                                 "id": "900364682",
                                 "name": "主人 (TW)",
-                                "rank": 493,
+                                "rank": 494,
                                 "teamScore": -102669
                             }
                         ],
@@ -211491,14 +211479,14 @@
                             {
                                 "id": "910600475",
                                 "name": "yunmeng (TW)",
-                                "rank": 496,
+                                "rank": 497,
                                 "teamScore": -103398
                             }
                         ],
                         "topUser": {
                             "id": "910600475",
                             "name": "yunmeng (TW)",
-                            "rank": 496,
+                            "rank": 497,
                             "teamScore": -103398
                         },
                         "rank": 8
@@ -213187,52 +213175,52 @@
                                 "teamScore": -102106
                             },
                             {
+                                "id": "905950483",
+                                "name": "文乃 (TW)",
+                                "rank": 491,
+                                "teamScore": -102299
+                            },
+                            {
                                 "id": "900804662",
                                 "name": "天井一直線 (TW)",
-                                "rank": 491,
+                                "rank": 492,
                                 "teamScore": -102369
                             },
                             {
                                 "id": "900480945",
                                 "name": "裕仁 (TW)",
-                                "rank": 492,
+                                "rank": 493,
                                 "teamScore": -102549
                             },
                             {
                                 "id": "900635420",
                                 "name": "Opsianos (TW)",
-                                "rank": 494,
+                                "rank": 495,
                                 "teamScore": -102699
                             },
                             {
                                 "id": "900851547",
                                 "name": "琴纱月 (TW)",
-                                "rank": 495,
+                                "rank": 496,
                                 "teamScore": -103055
                             },
                             {
                                 "id": "900688745",
                                 "name": "Soulgain (TW)",
-                                "rank": 497,
+                                "rank": 498,
                                 "teamScore": -103435
                             },
                             {
                                 "id": "900732522",
                                 "name": "半夕蝶梦 (TW)",
-                                "rank": 498,
+                                "rank": 499,
                                 "teamScore": -103614
                             },
                             {
                                 "id": "900370412",
                                 "name": "Hsuaaaan (TW)",
-                                "rank": 499,
-                                "teamScore": -103655
-                            },
-                            {
-                                "id": "900903871",
-                                "name": "氷滅 (TW)",
                                 "rank": 500,
-                                "teamScore": -103921
+                                "teamScore": -103655
                             }
                         ],
                         "topUser": {
@@ -213261,12 +213249,12 @@
                                 "p513025": 281,
                                 "p516028": 276,
                                 "p516029": 272,
-                                "p514412": 253,
+                                "p514412": 254,
                                 "p516043": 238,
-                                "p513030": 225,
+                                "p513030": 226,
                                 "p513029": 150,
                                 "p514411": 118,
-                                "p513031": 101,
+                                "p513031": 100,
                                 "p514442": 65,
                                 "p516032": 48,
                                 "p514405": 27,
@@ -213299,17 +213287,17 @@
                                 "p514413": 276,
                                 "p513033": 267,
                                 "p516033": 257,
-                                "p513025": 252,
+                                "p513025": 253,
                                 "p516028": 237,
-                                "p516029": 216,
+                                "p516029": 215,
                                 "p516043": 186,
                                 "p514412": 157,
-                                "p514409": 105,
+                                "p514409": 104,
                                 "p513029": 80,
-                                "p513031": 51,
+                                "p513031": 50,
                                 "p516032": 18,
                                 "p514442": 16,
-                                "p513030": 7,
+                                "p513030": 8,
                                 "p514411": 6,
                                 "p514407": 6,
                                 "p514405": 5,
@@ -213326,17 +213314,17 @@
                                 "p514403": 281,
                                 "p514404": 281,
                                 "p513030": 218,
-                                "p514409": 178,
+                                "p514409": 179,
                                 "p514411": 112,
-                                "p514412": 96,
+                                "p514412": 97,
                                 "p513029": 70,
-                                "p516029": 56,
+                                "p516029": 57,
                                 "p516043": 52,
                                 "p513031": 50,
                                 "p514442": 49,
                                 "p516028": 39,
                                 "p516032": 30,
-                                "p513025": 29,
+                                "p513025": 28,
                                 "p516033": 25,
                                 "p514405": 22,
                                 "p513033": 18,
@@ -213396,17 +213384,17 @@
                                 "d214055": 285,
                                 "d214026": 276,
                                 "d214008": 250,
-                                "d214005": 35,
+                                "d214005": 34,
                                 "d214021": 4,
                                 "d214031": 4,
-                                "d214056": 3,
+                                "d214056": 4,
                                 "d214047": 1
                             },
                             "support": {
                                 "d214047": 235,
-                                "d214005": 230,
+                                "d214005": 231,
                                 "d214031": 199,
-                                "d214056": 119,
+                                "d214056": 118,
                                 "d214021": 32,
                                 "d214029": 8,
                                 "d214016": 8,
@@ -215306,7 +215294,7 @@
                             {
                                 "id": "900364682",
                                 "name": "主人 (TW)",
-                                "rank": 493,
+                                "rank": 494,
                                 "teamScore": -102669
                             }
                         ],
@@ -216078,14 +216066,14 @@
                             {
                                 "id": "910600475",
                                 "name": "yunmeng (TW)",
-                                "rank": 496,
+                                "rank": 497,
                                 "teamScore": -103398
                             }
                         ],
                         "topUser": {
                             "id": "910600475",
                             "name": "yunmeng (TW)",
-                            "rank": 496,
+                            "rank": 497,
                             "teamScore": -103398
                         },
                         "rank": 13,
