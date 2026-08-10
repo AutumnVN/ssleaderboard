@@ -1,7 +1,7 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1786322520",
+            "LastRefreshTime": "1786323120",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
@@ -18586,7 +18586,7 @@
                     ]
                 }
             ],
-            "Total": 23815,
+            "Total": 23819,
             "UsageByFloor": {
                 "all": [
                     {
@@ -44096,7 +44096,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1786322544",
+            "LastRefreshTime": "1786323145",
             "Self": {},
             "Rank": [
                 {
@@ -44464,12 +44464,189 @@
                     ]
                 },
                 {
+                    "Id": "500666969",
+                    "NickName": "환상비늘",
+                    "WorldClass": 1,
+                    "HeadIcon": 130007,
+                    "Score": 14068783,
+                    "Rank": 3,
+                    "TitlePrefix": 9,
+                    "TitleSuffix": 2,
+                    "Honors": [
+                        {
+                            "Id": 112144,
+                            "AffinityLV": 49
+                        },
+                        {
+                            "Id": 117001
+                        },
+                        {
+                            "Id": 118071
+                        }
+                    ],
+                    "Teams": [
+                        {
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "BuildScore": 10275,
+                            "Damage": 2741254464,
+                            "Time": 34965,
+                            "Discs": [
+                                214055,
+                                214008,
+                                214026,
+                                214031,
+                                214047,
+                                214005
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513031,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 4
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 55
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 42
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 20
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 20
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 48
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 15
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 4
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 9
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4055103,
+                                4055202,
+                                4008101,
+                                4008201,
+                                4026103,
+                                4026202
+                            ],
+                            "RecordRank": "34",
+                            "BuildCode": "AAAAkAAAAIIAAACgMAZDbADNgBQMADAEwGoG"
+                        }
+                    ]
+                },
+                {
                     "Id": "502462985",
                     "NickName": "도노",
                     "WorldClass": 1,
                     "HeadIcon": 130003,
                     "Score": 14067431,
-                    "Rank": 3,
+                    "Rank": 4,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -44638,183 +44815,6 @@
                             ],
                             "RecordRank": "31",
                             "BuildCode": "AAAAcgAAAH4AAACeMAbKbADMNhgwAMIAGAwE"
-                        }
-                    ]
-                },
-                {
-                    "Id": "500666969",
-                    "NickName": "환상비늘",
-                    "WorldClass": 1,
-                    "HeadIcon": 130007,
-                    "Score": 14065357,
-                    "Rank": 4,
-                    "TitlePrefix": 9,
-                    "TitleSuffix": 2,
-                    "Honors": [
-                        {
-                            "Id": 112144,
-                            "AffinityLV": 49
-                        },
-                        {
-                            "Id": 117001
-                        },
-                        {
-                            "Id": 118071
-                        }
-                    ],
-                    "Teams": [
-                        {
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "BuildScore": 10275,
-                            "Damage": 2741254464,
-                            "Time": 35388,
-                            "Discs": [
-                                214055,
-                                214008,
-                                214026,
-                                214031,
-                                214047,
-                                214005
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513031,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 4
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 55
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 42
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 20
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 20
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 48
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 15
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 4
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 9
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4055103,
-                                4055202,
-                                4008101,
-                                4008201,
-                                4026103,
-                                4026202
-                            ],
-                            "RecordRank": "34",
-                            "BuildCode": "AAAAkAAAAIIAAACgMAZDbADNgBQMADAEwGoG"
                         }
                     ]
                 },
@@ -47542,7 +47542,7 @@
                     "NickName": "좋은사람",
                     "WorldClass": 1,
                     "HeadIcon": 11203,
-                    "Score": 13869888,
+                    "Score": 13870277,
                     "Rank": 20,
                     "TitlePrefix": 35,
                     "TitleSuffix": 30,
@@ -47573,7 +47573,7 @@
                             ],
                             "BuildScore": 9840,
                             "Damage": 2741254464,
-                            "Time": 59520,
+                            "Time": 59472,
                             "Discs": [
                                 214026,
                                 214008,
@@ -60380,12 +60380,195 @@
                     ]
                 },
                 {
+                    "Id": "501229713",
+                    "NickName": "이렌",
+                    "WorldClass": 1,
+                    "HeadIcon": 16001,
+                    "Score": 13712472,
+                    "Rank": 91,
+                    "TitlePrefix": 1,
+                    "TitleSuffix": 8,
+                    "Honors": [
+                        {
+                            "Id": 112144,
+                            "AffinityLV": 42
+                        },
+                        {
+                            "Id": 112133,
+                            "AffinityLV": 33
+                        },
+                        {
+                            "Id": 112160,
+                            "AffinityLV": 29
+                        }
+                    ],
+                    "Teams": [
+                        {
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "BuildScore": 9780,
+                            "Damage": 2741254464,
+                            "Time": 78954,
+                            "Discs": [
+                                214055,
+                                214026,
+                                214008,
+                                214031,
+                                214005,
+                                214047
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514405,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513030,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 6
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 47
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 28
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 9
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 8
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 48
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 9
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 5
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4055103,
+                                4055201,
+                                4026103,
+                                4026201,
+                                4008102,
+                                4008201
+                            ],
+                            "RecordRank": "33",
+                            "BuildCode": "AAAAkAAAAIIAAACgNAaDbADNgGAMADADwGwG"
+                        }
+                    ]
+                },
+                {
                     "Id": "505249448",
                     "NickName": "쭈쭈파티",
                     "WorldClass": 1,
                     "HeadIcon": 14403,
                     "Score": 13711395,
-                    "Rank": 91,
+                    "Rank": 92,
                     "TitlePrefix": 9,
                     "TitleSuffix": 24,
                     "Honors": [
@@ -60574,7 +60757,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130007,
                     "Score": 13708771,
-                    "Rank": 92,
+                    "Rank": 93,
                     "TitlePrefix": 13,
                     "TitleSuffix": 22,
                     "Honors": [
@@ -60754,7 +60937,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130001,
                     "Score": 13708317,
-                    "Rank": 93,
+                    "Rank": 94,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -60942,7 +61125,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 13403,
                     "Score": 13707888,
-                    "Rank": 94,
+                    "Rank": 95,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -61123,7 +61306,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130008,
                     "Score": 13705344,
-                    "Rank": 95,
+                    "Rank": 96,
                     "TitlePrefix": 3,
                     "TitleSuffix": 8,
                     "Honors": [
@@ -61310,7 +61493,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130007,
                     "Score": 13705158,
-                    "Rank": 96,
+                    "Rank": 97,
                     "TitlePrefix": 11,
                     "TitleSuffix": 30,
                     "Honors": [
@@ -61491,7 +61674,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 11903,
                     "Score": 13696823,
-                    "Rank": 97,
+                    "Rank": 98,
                     "TitlePrefix": 5,
                     "TitleSuffix": 4,
                     "Honors": [
@@ -61668,7 +61851,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14403,
                     "Score": 13690351,
-                    "Rank": 98,
+                    "Rank": 99,
                     "TitlePrefix": 25,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -61850,7 +62033,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14301,
                     "Score": 13687921,
-                    "Rank": 99,
+                    "Rank": 100,
                     "TitlePrefix": 35,
                     "TitleSuffix": 16,
                     "Honors": [
@@ -62030,180 +62213,6 @@
                             "BuildCode": "AAAAkAAAAGsAAACgkNBDHADBhghgBs2GwQAG"
                         }
                     ]
-                },
-                {
-                    "Id": "505944541",
-                    "NickName": "Wiki",
-                    "WorldClass": 1,
-                    "HeadIcon": 101,
-                    "Score": 13685305,
-                    "Rank": 100,
-                    "TitlePrefix": 5,
-                    "TitleSuffix": 16,
-                    "Honors": [
-                        {
-                            "Id": 112133,
-                            "AffinityLV": 54
-                        },
-                        {
-                            "Id": 119901,
-                            "AffinityLV": 18
-                        },
-                        {
-                            "Id": 117001
-                        }
-                    ],
-                    "Teams": [
-                        {
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "BuildScore": 9435,
-                            "Damage": 2741254464,
-                            "Time": 82308,
-                            "Discs": [
-                                214008,
-                                214026,
-                                214055,
-                                214005,
-                                214047,
-                                214056
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 514411,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 32
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 36
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 18
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 31
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 28
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 8
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4008102,
-                                4008202,
-                                4026102,
-                                4026201,
-                                4055102,
-                                4055201
-                            ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAkAAAAIIAAACgMAbLZgDNgAAMADAGwGwG"
-                        }
-                    ]
                 }
             ],
             "Total": 8139,
@@ -62227,7 +62236,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘",
-                                "rank": 4
+                                "rank": 3
                             },
                             {
                                 "id": "500626216",
@@ -62540,28 +62549,28 @@
                                 "rank": 89
                             },
                             {
+                                "id": "501229713",
+                                "name": "이렌",
+                                "rank": 91
+                            },
+                            {
                                 "id": "505249448",
                                 "name": "쭈쭈파티",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "501101985",
                                 "name": "o4",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "500623776",
                                 "name": "흑련",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "507574002",
                                 "name": "쌀",
-                                "rank": 99
-                            },
-                            {
-                                "id": "505944541",
-                                "name": "Wiki",
                                 "rank": 100
                             }
                         ],
@@ -62585,7 +62594,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘",
-                                "rank": 4
+                                "rank": 3
                             },
                             {
                                 "id": "500626216",
@@ -62888,28 +62897,28 @@
                                 "rank": 89
                             },
                             {
+                                "id": "501229713",
+                                "name": "이렌",
+                                "rank": 91
+                            },
+                            {
                                 "id": "505249448",
                                 "name": "쭈쭈파티",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "501101985",
                                 "name": "o4",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "500623776",
                                 "name": "흑련",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "507574002",
                                 "name": "쌀",
-                                "rank": 99
-                            },
-                            {
-                                "id": "505944541",
-                                "name": "Wiki",
                                 "rank": 100
                             }
                         ],
@@ -62933,7 +62942,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘",
-                                "rank": 4
+                                "rank": 3
                             },
                             {
                                 "id": "500626216",
@@ -63196,24 +63205,24 @@
                                 "rank": 89
                             },
                             {
+                                "id": "501229713",
+                                "name": "이렌",
+                                "rank": 91
+                            },
+                            {
                                 "id": "505249448",
                                 "name": "쭈쭈파티",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "501101985",
                                 "name": "o4",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "500623776",
                                 "name": "흑련",
-                                "rank": 95
-                            },
-                            {
-                                "id": "505944541",
-                                "name": "Wiki",
-                                "rank": 100
+                                "rank": 96
                             }
                         ],
                         "rank": 3
@@ -63226,7 +63235,7 @@
                             {
                                 "id": "502462985",
                                 "name": "도노",
-                                "rank": 3
+                                "rank": 4
                             },
                             {
                                 "id": "500345369",
@@ -63351,27 +63360,27 @@
                             {
                                 "id": "509283201",
                                 "name": "나즈나좋아",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "500963757",
                                 "name": "짱센초롱이",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "500714100",
                                 "name": "리을",
-                                "rank": 96
+                                "rank": 97
                             },
                             {
                                 "id": "501339790",
                                 "name": "도노도노",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "500362569",
                                 "name": "푸치",
-                                "rank": 98
+                                "rank": 99
                             }
                         ],
                         "rank": 4
@@ -63384,7 +63393,7 @@
                             {
                                 "id": "502462985",
                                 "name": "도노",
-                                "rank": 3
+                                "rank": 4
                             },
                             {
                                 "id": "500345369",
@@ -63509,27 +63518,27 @@
                             {
                                 "id": "509283201",
                                 "name": "나즈나좋아",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "500963757",
                                 "name": "짱센초롱이",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "500714100",
                                 "name": "리을",
-                                "rank": 96
+                                "rank": 97
                             },
                             {
                                 "id": "501339790",
                                 "name": "도노도노",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "500362569",
                                 "name": "푸치",
-                                "rank": 98
+                                "rank": 99
                             }
                         ],
                         "rank": 4
@@ -63542,7 +63551,7 @@
                             {
                                 "id": "502462985",
                                 "name": "도노",
-                                "rank": 3
+                                "rank": 4
                             },
                             {
                                 "id": "500345369",
@@ -63607,12 +63616,12 @@
                             {
                                 "id": "501339790",
                                 "name": "도노도노",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "500362569",
                                 "name": "푸치",
-                                "rank": 98
+                                "rank": 99
                             }
                         ],
                         "rank": 6
@@ -63685,17 +63694,17 @@
                             {
                                 "id": "509283201",
                                 "name": "나즈나좋아",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "500963757",
                                 "name": "짱센초롱이",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "500714100",
                                 "name": "리을",
-                                "rank": 96
+                                "rank": 97
                             }
                         ],
                         "rank": 6
@@ -63743,7 +63752,7 @@
                             {
                                 "id": "507574002",
                                 "name": "쌀",
-                                "rank": 99
+                                "rank": 100
                             }
                         ],
                         "rank": 8
@@ -63819,8 +63828,8 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘",
-                                "rank": 4,
-                                "teamScore": -35388
+                                "rank": 3,
+                                "teamScore": -34965
                             },
                             {
                                 "id": "500626216",
@@ -63886,7 +63895,7 @@
                                 "id": "501176470",
                                 "name": "좋은사람",
                                 "rank": 20,
-                                "teamScore": -59520
+                                "teamScore": -59472
                             },
                             {
                                 "id": "500379967",
@@ -64129,28 +64138,28 @@
                                 "teamScore": -78868
                             },
                             {
+                                "id": "501229713",
+                                "name": "이렌",
+                                "rank": 91,
+                                "teamScore": -78954
+                            },
+                            {
                                 "id": "505249448",
                                 "name": "쭈쭈파티",
-                                "rank": 91,
+                                "rank": 92,
                                 "teamScore": -79087
                             },
                             {
                                 "id": "501101985",
                                 "name": "o4",
-                                "rank": 93,
+                                "rank": 94,
                                 "teamScore": -79467
                             },
                             {
                                 "id": "500623776",
                                 "name": "흑련",
-                                "rank": 95,
+                                "rank": 96,
                                 "teamScore": -79834
-                            },
-                            {
-                                "id": "505944541",
-                                "name": "Wiki",
-                                "rank": 100,
-                                "teamScore": -82308
                             }
                         ],
                         "topUser": {
@@ -64175,7 +64184,7 @@
                             {
                                 "id": "502462985",
                                 "name": "도노",
-                                "rank": 3,
+                                "rank": 4,
                                 "teamScore": -35132
                             },
                             {
@@ -64253,20 +64262,20 @@
                             {
                                 "id": "501339790",
                                 "name": "도노도노",
-                                "rank": 97,
+                                "rank": 98,
                                 "teamScore": -80886
                             },
                             {
                                 "id": "500362569",
                                 "name": "푸치",
-                                "rank": 98,
+                                "rank": 99,
                                 "teamScore": -81685
                             }
                         ],
                         "topUser": {
                             "id": "502462985",
                             "name": "도노",
-                            "rank": 3,
+                            "rank": 4,
                             "teamScore": -35132
                         },
                         "rank": 2
@@ -64357,19 +64366,19 @@
                             {
                                 "id": "509283201",
                                 "name": "나즈나좋아",
-                                "rank": 92,
+                                "rank": 93,
                                 "teamScore": -79411
                             },
                             {
                                 "id": "500963757",
                                 "name": "짱센초롱이",
-                                "rank": 94,
+                                "rank": 95,
                                 "teamScore": -79520
                             },
                             {
                                 "id": "500714100",
                                 "name": "리을",
-                                "rank": 96,
+                                "rank": 97,
                                 "teamScore": -79857
                             }
                         ],
@@ -64437,7 +64446,7 @@
                             {
                                 "id": "507574002",
                                 "name": "쌀",
-                                "rank": 99,
+                                "rank": 100,
                                 "teamScore": -81985
                             }
                         ],
@@ -64563,8 +64572,8 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘",
-                                "rank": 4,
-                                "teamScore": -35388
+                                "rank": 3,
+                                "teamScore": -34965
                             },
                             {
                                 "id": "500626216",
@@ -64630,7 +64639,7 @@
                                 "id": "501176470",
                                 "name": "좋은사람",
                                 "rank": 20,
-                                "teamScore": -59520
+                                "teamScore": -59472
                             },
                             {
                                 "id": "500379967",
@@ -64873,28 +64882,28 @@
                                 "teamScore": -78868
                             },
                             {
+                                "id": "501229713",
+                                "name": "이렌",
+                                "rank": 91,
+                                "teamScore": -78954
+                            },
+                            {
                                 "id": "505249448",
                                 "name": "쭈쭈파티",
-                                "rank": 91,
+                                "rank": 92,
                                 "teamScore": -79087
                             },
                             {
                                 "id": "501101985",
                                 "name": "o4",
-                                "rank": 93,
+                                "rank": 94,
                                 "teamScore": -79467
                             },
                             {
                                 "id": "500623776",
                                 "name": "흑련",
-                                "rank": 95,
+                                "rank": 96,
                                 "teamScore": -79834
-                            },
-                            {
-                                "id": "505944541",
-                                "name": "Wiki",
-                                "rank": 100,
-                                "teamScore": -82308
                             }
                         ],
                         "topUser": {
@@ -64922,16 +64931,16 @@
                                 "p514404": 56,
                                 "p514403": 56,
                                 "p514408": 56,
+                                "p513030": 54,
                                 "p516028": 54,
-                                "p513030": 53,
                                 "p514412": 50,
                                 "p516043": 49,
                                 "p513029": 29,
                                 "p514442": 20,
                                 "p513031": 20,
-                                "p514405": 16,
+                                "p514405": 17,
                                 "p516032": 8,
-                                "p514411": 6,
+                                "p514411": 5,
                                 "p514407": 5,
                                 "p516041": 5,
                                 "p513032": 2,
@@ -64954,10 +64963,10 @@
                                 "p513033": 54,
                                 "p516029": 49,
                                 "p516033": 47,
-                                "p516028": 42,
+                                "p516028": 41,
                                 "p516043": 38,
                                 "p514409": 29,
-                                "p514412": 26,
+                                "p514412": 27,
                                 "p513031": 12,
                                 "p513029": 9,
                                 "p514442": 5,
@@ -64973,19 +64982,19 @@
                                 "p513022": 57,
                                 "p514404": 56,
                                 "p514403": 56,
-                                "p513030": 53,
+                                "p513030": 54,
                                 "p514409": 28,
-                                "p514412": 24,
+                                "p514412": 23,
                                 "p513029": 20,
                                 "p514442": 15,
-                                "p514405": 14,
-                                "p516028": 12,
+                                "p514405": 15,
+                                "p516028": 13,
                                 "p516043": 11,
                                 "p516033": 10,
                                 "p516029": 8,
                                 "p513031": 8,
-                                "p514411": 6,
                                 "p516032": 6,
+                                "p514411": 5,
                                 "p516041": 5,
                                 "p513033": 4,
                                 "p513025": 3,
@@ -65011,8 +65020,8 @@
                                 "d214008": 54,
                                 "d214005": 52,
                                 "d214047": 49,
-                                "d214031": 42,
-                                "d214056": 24,
+                                "d214031": 43,
+                                "d214056": 23,
                                 "d214021": 10,
                                 "d214029": 1,
                                 "d214011": 1
@@ -65028,8 +65037,8 @@
                             "support": {
                                 "d214047": 49,
                                 "d214005": 48,
-                                "d214031": 41,
-                                "d214056": 24,
+                                "d214031": 42,
+                                "d214056": 23,
                                 "d214021": 9,
                                 "d214029": 1,
                                 "d214011": 1,
@@ -65051,7 +65060,7 @@
                             {
                                 "id": "502462985",
                                 "name": "도노",
-                                "rank": 3,
+                                "rank": 4,
                                 "teamScore": -35132
                             },
                             {
@@ -65129,20 +65138,20 @@
                             {
                                 "id": "501339790",
                                 "name": "도노도노",
-                                "rank": 97,
+                                "rank": 98,
                                 "teamScore": -80886
                             },
                             {
                                 "id": "500362569",
                                 "name": "푸치",
-                                "rank": 98,
+                                "rank": 99,
                                 "teamScore": -81685
                             }
                         ],
                         "topUser": {
                             "id": "502462985",
                             "name": "도노",
-                            "rank": 3,
+                            "rank": 4,
                             "teamScore": -35132
                         },
                         "rank": 2,
@@ -65411,7 +65420,7 @@
                             {
                                 "id": "507574002",
                                 "name": "쌀",
-                                "rank": 99,
+                                "rank": 100,
                                 "teamScore": -81985
                             }
                         ],
@@ -65719,19 +65728,19 @@
                             {
                                 "id": "509283201",
                                 "name": "나즈나좋아",
-                                "rank": 92,
+                                "rank": 93,
                                 "teamScore": -79411
                             },
                             {
                                 "id": "500963757",
                                 "name": "짱센초롱이",
-                                "rank": 94,
+                                "rank": 95,
                                 "teamScore": -79520
                             },
                             {
                                 "id": "500714100",
                                 "name": "리을",
-                                "rank": 96,
+                                "rank": 97,
                                 "teamScore": -79857
                             }
                         ],
@@ -65958,7 +65967,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1786322438",
+            "LastRefreshTime": "1786323038",
             "Self": {},
             "Rank": [
                 {
@@ -68149,7 +68158,7 @@
                     "Honors": [
                         {
                             "Id": 112145,
-                            "AffinityLV": 54
+                            "AffinityLV": 55
                         },
                         {
                             "Id": 112160,
@@ -84164,7 +84173,7 @@
                     ]
                 }
             ],
-            "Total": 9455,
+            "Total": 9456,
             "UsageByFloor": {
                 "all": [
                     {
@@ -112626,12 +112635,189 @@
                     ]
                 },
                 {
+                    "Id": "500666969",
+                    "NickName": "환상비늘 (KR)",
+                    "WorldClass": 1,
+                    "HeadIcon": 130007,
+                    "Score": 14068783,
+                    "Rank": 18,
+                    "TitlePrefix": 9,
+                    "TitleSuffix": 2,
+                    "Honors": [
+                        {
+                            "Id": 112144,
+                            "AffinityLV": 49
+                        },
+                        {
+                            "Id": 117001
+                        },
+                        {
+                            "Id": 118071
+                        }
+                    ],
+                    "Teams": [
+                        {
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "BuildScore": 10275,
+                            "Damage": 2741254464,
+                            "Time": 34965,
+                            "Discs": [
+                                214055,
+                                214008,
+                                214026,
+                                214031,
+                                214047,
+                                214005
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513031,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 4
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 55
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 42
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 20
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 20
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 48
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 15
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 4
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 9
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4055103,
+                                4055202,
+                                4008101,
+                                4008201,
+                                4026103,
+                                4026202
+                            ],
+                            "RecordRank": "34",
+                            "BuildCode": "AAAAkAAAAIIAAACgMAZDbADNgBQMADAEwGoG"
+                        }
+                    ]
+                },
+                {
                     "Id": "502462985",
                     "NickName": "도노 (KR)",
                     "WorldClass": 1,
                     "HeadIcon": 130003,
                     "Score": 14067431,
-                    "Rank": 18,
+                    "Rank": 19,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -112800,183 +112986,6 @@
                             ],
                             "RecordRank": "31",
                             "BuildCode": "AAAAcgAAAH4AAACeMAbKbADMNhgwAMIAGAwE"
-                        }
-                    ]
-                },
-                {
-                    "Id": "500666969",
-                    "NickName": "환상비늘 (KR)",
-                    "WorldClass": 1,
-                    "HeadIcon": 130007,
-                    "Score": 14065357,
-                    "Rank": 19,
-                    "TitlePrefix": 9,
-                    "TitleSuffix": 2,
-                    "Honors": [
-                        {
-                            "Id": 112144,
-                            "AffinityLV": 49
-                        },
-                        {
-                            "Id": 117001
-                        },
-                        {
-                            "Id": 118071
-                        }
-                    ],
-                    "Teams": [
-                        {
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "BuildScore": 10275,
-                            "Damage": 2741254464,
-                            "Time": 35388,
-                            "Discs": [
-                                214055,
-                                214008,
-                                214026,
-                                214031,
-                                214047,
-                                214005
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513031,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 4
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 55
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 42
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 20
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 20
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 48
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 15
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 4
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 9
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4055103,
-                                4055202,
-                                4008101,
-                                4008201,
-                                4026103,
-                                4026202
-                            ],
-                            "RecordRank": "34",
-                            "BuildCode": "AAAAkAAAAIIAAACgMAZDbADNgBQMADAEwGoG"
                         }
                     ]
                 },
@@ -129554,7 +129563,7 @@
                     "NickName": "좋은사람 (KR)",
                     "WorldClass": 1,
                     "HeadIcon": 11203,
-                    "Score": 13869888,
+                    "Score": 13870277,
                     "Rank": 111,
                     "TitlePrefix": 35,
                     "TitleSuffix": 30,
@@ -129585,7 +129594,7 @@
                             ],
                             "BuildScore": 9840,
                             "Damage": 2741254464,
-                            "Time": 59520,
+                            "Time": 59472,
                             "Discs": [
                                 214026,
                                 214008,
@@ -137205,7 +137214,7 @@
                     "Honors": [
                         {
                             "Id": 112145,
-                            "AffinityLV": 54
+                            "AffinityLV": 55
                         },
                         {
                             "Id": 112160,
@@ -176764,12 +176773,195 @@
                     ]
                 },
                 {
+                    "Id": "501229713",
+                    "NickName": "이렌 (KR)",
+                    "WorldClass": 1,
+                    "HeadIcon": 16001,
+                    "Score": 13712472,
+                    "Rank": 371,
+                    "TitlePrefix": 1,
+                    "TitleSuffix": 8,
+                    "Honors": [
+                        {
+                            "Id": 112144,
+                            "AffinityLV": 42
+                        },
+                        {
+                            "Id": 112133,
+                            "AffinityLV": 33
+                        },
+                        {
+                            "Id": 112160,
+                            "AffinityLV": 29
+                        }
+                    ],
+                    "Teams": [
+                        {
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "BuildScore": 9780,
+                            "Damage": 2741254464,
+                            "Time": 78954,
+                            "Discs": [
+                                214055,
+                                214026,
+                                214008,
+                                214031,
+                                214005,
+                                214047
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514405,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513030,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 6
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 47
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 28
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 9
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 8
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 48
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 9
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 5
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4055103,
+                                4055201,
+                                4026103,
+                                4026201,
+                                4008102,
+                                4008201
+                            ],
+                            "RecordRank": "33",
+                            "BuildCode": "AAAAkAAAAIIAAACgNAaDbADNgGAMADADwGwG"
+                        }
+                    ]
+                },
+                {
                     "Id": "505249448",
                     "NickName": "쭈쭈파티 (KR)",
                     "WorldClass": 1,
                     "HeadIcon": 14403,
                     "Score": 13711395,
-                    "Rank": 371,
+                    "Rank": 372,
                     "TitlePrefix": 9,
                     "TitleSuffix": 24,
                     "Honors": [
@@ -176958,7 +177150,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 15802,
                     "Score": 13711120,
-                    "Rank": 372,
+                    "Rank": 373,
                     "TitlePrefix": 35,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -177132,7 +177324,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 101,
                     "Score": 13710747,
-                    "Rank": 373,
+                    "Rank": 374,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -177317,7 +177509,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130007,
                     "Score": 13709232,
-                    "Rank": 374,
+                    "Rank": 375,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -177503,7 +177695,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130007,
                     "Score": 13708771,
-                    "Rank": 375,
+                    "Rank": 376,
                     "TitlePrefix": 13,
                     "TitleSuffix": 22,
                     "Honors": [
@@ -177683,7 +177875,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130001,
                     "Score": 13708317,
-                    "Rank": 376,
+                    "Rank": 377,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -177871,7 +178063,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 13403,
                     "Score": 13707888,
-                    "Rank": 377,
+                    "Rank": 378,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -178052,7 +178244,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130008,
                     "Score": 13705344,
-                    "Rank": 378,
+                    "Rank": 379,
                     "TitlePrefix": 3,
                     "TitleSuffix": 8,
                     "Honors": [
@@ -178239,7 +178431,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130007,
                     "Score": 13705158,
-                    "Rank": 379,
+                    "Rank": 380,
                     "TitlePrefix": 11,
                     "TitleSuffix": 30,
                     "Honors": [
@@ -178420,7 +178612,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 13403,
                     "Score": 13704810,
-                    "Rank": 380,
+                    "Rank": 381,
                     "TitlePrefix": 3,
                     "TitleSuffix": 4,
                     "Honors": [
@@ -178601,7 +178793,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130003,
                     "Score": 13703733,
-                    "Rank": 381,
+                    "Rank": 382,
                     "TitlePrefix": 35,
                     "TitleSuffix": 34,
                     "Honors": [
@@ -178791,7 +178983,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 101,
                     "Score": 13703570,
-                    "Rank": 382,
+                    "Rank": 383,
                     "TitlePrefix": 9,
                     "TitleSuffix": 10,
                     "Honors": [
@@ -178977,7 +179169,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 13204,
                     "Score": 13700339,
-                    "Rank": 383,
+                    "Rank": 384,
                     "TitlePrefix": 35,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -179158,7 +179350,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 101,
                     "Score": 13697876,
-                    "Rank": 384,
+                    "Rank": 385,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -179330,7 +179522,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14203,
                     "Score": 13697609,
-                    "Rank": 385,
+                    "Rank": 386,
                     "TitlePrefix": 21,
                     "TitleSuffix": 30,
                     "Honors": [
@@ -179517,7 +179709,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 11903,
                     "Score": 13696823,
-                    "Rank": 386,
+                    "Rank": 387,
                     "TitlePrefix": 5,
                     "TitleSuffix": 4,
                     "Honors": [
@@ -179694,7 +179886,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14302,
                     "Score": 13693859,
-                    "Rank": 387,
+                    "Rank": 388,
                     "TitlePrefix": 17,
                     "TitleSuffix": 24,
                     "Honors": [
@@ -179881,7 +180073,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 13403,
                     "Score": 13693397,
-                    "Rank": 388,
+                    "Rank": 389,
                     "TitlePrefix": 27,
                     "TitleSuffix": 18,
                     "Honors": [
@@ -180063,7 +180255,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 12301,
                     "Score": 13691161,
-                    "Rank": 389,
+                    "Rank": 390,
                     "TitlePrefix": 23,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -180245,7 +180437,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 16002,
                     "Score": 13690789,
-                    "Rank": 390,
+                    "Rank": 391,
                     "TitlePrefix": 3,
                     "TitleSuffix": 10,
                     "Honors": [
@@ -180426,7 +180618,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14403,
                     "Score": 13690351,
-                    "Rank": 391,
+                    "Rank": 392,
                     "TitlePrefix": 25,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -180608,7 +180800,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 13303,
                     "Score": 13690076,
-                    "Rank": 392,
+                    "Rank": 393,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -180780,7 +180972,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130007,
                     "Score": 13689549,
-                    "Rank": 393,
+                    "Rank": 394,
                     "TitlePrefix": 27,
                     "TitleSuffix": 28,
                     "Honors": [
@@ -180963,7 +181155,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 101,
                     "Score": 13688351,
-                    "Rank": 394,
+                    "Rank": 395,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -181144,7 +181336,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14301,
                     "Score": 13687921,
-                    "Rank": 395,
+                    "Rank": 396,
                     "TitlePrefix": 35,
                     "TitleSuffix": 16,
                     "Honors": [
@@ -181331,7 +181523,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14501,
                     "Score": 13686658,
-                    "Rank": 396,
+                    "Rank": 397,
                     "TitlePrefix": 35,
                     "TitleSuffix": 36,
                     "Honors": [
@@ -181501,180 +181693,6 @@
                             ],
                             "RecordRank": "31",
                             "BuildCode": "AAAAkAAAAIIAAACgMAYjYgDNgAAcADAGgGwG"
-                        }
-                    ]
-                },
-                {
-                    "Id": "505944541",
-                    "NickName": "Wiki (KR)",
-                    "WorldClass": 1,
-                    "HeadIcon": 101,
-                    "Score": 13685305,
-                    "Rank": 397,
-                    "TitlePrefix": 5,
-                    "TitleSuffix": 16,
-                    "Honors": [
-                        {
-                            "Id": 112133,
-                            "AffinityLV": 54
-                        },
-                        {
-                            "Id": 119901,
-                            "AffinityLV": 18
-                        },
-                        {
-                            "Id": 117001
-                        }
-                    ],
-                    "Teams": [
-                        {
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "BuildScore": 9435,
-                            "Damage": 2741254464,
-                            "Time": 82308,
-                            "Discs": [
-                                214008,
-                                214026,
-                                214055,
-                                214005,
-                                214047,
-                                214056
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 514411,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 32
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 36
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 18
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 31
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 28
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 8
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4008102,
-                                4008202,
-                                4026102,
-                                4026201,
-                                4055102,
-                                4055201
-                            ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAkAAAAIIAAACgMAbLZgDNgAAMADAGwGwG"
                         }
                     ]
                 },
@@ -200432,8 +200450,8 @@
                     ]
                 }
             ],
-            "Total": 107990,
-            "LastRefreshTime": "1786322738",
+            "Total": 107995,
+            "LastRefreshTime": "1786323145",
             "UsageByFloor": {
                 "all": [
                     {
@@ -200524,7 +200542,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 19
+                                "rank": 18
                             },
                             {
                                 "id": "100463233",
@@ -201697,53 +201715,53 @@
                                 "rank": 369
                             },
                             {
+                                "id": "501229713",
+                                "name": "이렌 (KR)",
+                                "rank": 371
+                            },
+                            {
                                 "id": "505249448",
                                 "name": "쭈쭈파티 (KR)",
-                                "rank": 371
+                                "rank": 372
                             },
                             {
                                 "id": "700343905",
                                 "name": "Owaga (EN)",
-                                "rank": 374
+                                "rank": 375
                             },
                             {
                                 "id": "501101985",
                                 "name": "o4 (KR)",
-                                "rank": 376
+                                "rank": 377
                             },
                             {
                                 "id": "500623776",
                                 "name": "흑련 (KR)",
-                                "rank": 378
+                                "rank": 379
                             },
                             {
                                 "id": "700362974",
                                 "name": "Usaminya (EN)",
-                                "rank": 381
+                                "rank": 382
                             },
                             {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 389
+                                "rank": 390
                             },
                             {
                                 "id": "900332936",
                                 "name": "空白團長魔魔王 (TW)",
-                                "rank": 390
+                                "rank": 391
                             },
                             {
                                 "id": "507574002",
                                 "name": "쌀 (KR)",
-                                "rank": 395
+                                "rank": 396
                             },
                             {
                                 "id": "700456249",
                                 "name": "VOID (EN)",
-                                "rank": 396
-                            },
-                            {
-                                "id": "505944541",
-                                "name": "Wiki (KR)",
                                 "rank": 397
                             },
                             {
@@ -202212,7 +202230,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 19
+                                "rank": 18
                             },
                             {
                                 "id": "100463233",
@@ -203330,48 +203348,48 @@
                                 "rank": 369
                             },
                             {
+                                "id": "501229713",
+                                "name": "이렌 (KR)",
+                                "rank": 371
+                            },
+                            {
                                 "id": "505249448",
                                 "name": "쭈쭈파티 (KR)",
-                                "rank": 371
+                                "rank": 372
                             },
                             {
                                 "id": "700343905",
                                 "name": "Owaga (EN)",
-                                "rank": 374
+                                "rank": 375
                             },
                             {
                                 "id": "501101985",
                                 "name": "o4 (KR)",
-                                "rank": 376
+                                "rank": 377
                             },
                             {
                                 "id": "500623776",
                                 "name": "흑련 (KR)",
-                                "rank": 378
+                                "rank": 379
                             },
                             {
                                 "id": "700362974",
                                 "name": "Usaminya (EN)",
-                                "rank": 381
+                                "rank": 382
                             },
                             {
                                 "id": "900332936",
                                 "name": "空白團長魔魔王 (TW)",
-                                "rank": 390
+                                "rank": 391
                             },
                             {
                                 "id": "507574002",
                                 "name": "쌀 (KR)",
-                                "rank": 395
+                                "rank": 396
                             },
                             {
                                 "id": "700456249",
                                 "name": "VOID (EN)",
-                                "rank": 396
-                            },
-                            {
-                                "id": "505944541",
-                                "name": "Wiki (KR)",
                                 "rank": 397
                             },
                             {
@@ -203840,7 +203858,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 19
+                                "rank": 18
                             },
                             {
                                 "id": "100463233",
@@ -204873,48 +204891,48 @@
                                 "rank": 369
                             },
                             {
+                                "id": "501229713",
+                                "name": "이렌 (KR)",
+                                "rank": 371
+                            },
+                            {
                                 "id": "505249448",
                                 "name": "쭈쭈파티 (KR)",
-                                "rank": 371
+                                "rank": 372
                             },
                             {
                                 "id": "700343905",
                                 "name": "Owaga (EN)",
-                                "rank": 374
+                                "rank": 375
                             },
                             {
                                 "id": "501101985",
                                 "name": "o4 (KR)",
-                                "rank": 376
+                                "rank": 377
                             },
                             {
                                 "id": "500623776",
                                 "name": "흑련 (KR)",
-                                "rank": 378
+                                "rank": 379
                             },
                             {
                                 "id": "700362974",
                                 "name": "Usaminya (EN)",
-                                "rank": 381
+                                "rank": 382
                             },
                             {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 389
+                                "rank": 390
                             },
                             {
                                 "id": "900332936",
                                 "name": "空白團長魔魔王 (TW)",
-                                "rank": 390
+                                "rank": 391
                             },
                             {
                                 "id": "700456249",
                                 "name": "VOID (EN)",
-                                "rank": 396
-                            },
-                            {
-                                "id": "505944541",
-                                "name": "Wiki (KR)",
                                 "rank": 397
                             },
                             {
@@ -205273,7 +205291,7 @@
                             {
                                 "id": "502462985",
                                 "name": "도노 (KR)",
-                                "rank": 18
+                                "rank": 19
                             },
                             {
                                 "id": "301138317",
@@ -205863,87 +205881,87 @@
                             {
                                 "id": "906404555",
                                 "name": "绘木 (TW)",
-                                "rank": 372
+                                "rank": 373
                             },
                             {
                                 "id": "700499434",
                                 "name": "Isuroh (EN)",
-                                "rank": 373
+                                "rank": 374
                             },
                             {
                                 "id": "509283201",
                                 "name": "나즈나좋아 (KR)",
-                                "rank": 375
+                                "rank": 376
                             },
                             {
                                 "id": "500963757",
                                 "name": "짱센초롱이 (KR)",
-                                "rank": 377
+                                "rank": 378
                             },
                             {
                                 "id": "500714100",
                                 "name": "리을 (KR)",
-                                "rank": 379
+                                "rank": 380
                             },
                             {
                                 "id": "900386093",
                                 "name": "Mexicatl (TW)",
-                                "rank": 380
+                                "rank": 381
                             },
                             {
                                 "id": "700343526",
                                 "name": "Aeros (EN)",
-                                "rank": 382
+                                "rank": 383
                             },
                             {
                                 "id": "900490758",
                                 "name": "安迪 (TW)",
-                                "rank": 383
+                                "rank": 384
                             },
                             {
                                 "id": "700412730",
                                 "name": "threeyu (EN)",
-                                "rank": 384
+                                "rank": 385
                             },
                             {
                                 "id": "901103767",
                                 "name": "祝福 (TW)",
-                                "rank": 385
+                                "rank": 386
                             },
                             {
                                 "id": "501339790",
                                 "name": "도노도노 (KR)",
-                                "rank": 386
+                                "rank": 387
                             },
                             {
                                 "id": "701587170",
                                 "name": "CloNe (EN)",
-                                "rank": 387
+                                "rank": 388
                             },
                             {
                                 "id": "700375679",
                                 "name": "Inarrou (EN)",
-                                "rank": 388
+                                "rank": 389
                             },
                             {
                                 "id": "500362569",
                                 "name": "푸치 (KR)",
-                                "rank": 391
+                                "rank": 392
                             },
                             {
                                 "id": "903666484",
                                 "name": "Uc207Pr4f57t9 (TW)",
-                                "rank": 392
+                                "rank": 393
                             },
                             {
                                 "id": "900352332",
                                 "name": "時雨彼方 (TW)",
-                                "rank": 393
+                                "rank": 394
                             },
                             {
                                 "id": "700341479",
                                 "name": "ruyu (EN)",
-                                "rank": 394
+                                "rank": 395
                             },
                             {
                                 "id": "700691078",
@@ -206091,7 +206109,7 @@
                             {
                                 "id": "502462985",
                                 "name": "도노 (KR)",
-                                "rank": 18
+                                "rank": 19
                             },
                             {
                                 "id": "301138317",
@@ -206681,87 +206699,87 @@
                             {
                                 "id": "906404555",
                                 "name": "绘木 (TW)",
-                                "rank": 372
+                                "rank": 373
                             },
                             {
                                 "id": "700499434",
                                 "name": "Isuroh (EN)",
-                                "rank": 373
+                                "rank": 374
                             },
                             {
                                 "id": "509283201",
                                 "name": "나즈나좋아 (KR)",
-                                "rank": 375
+                                "rank": 376
                             },
                             {
                                 "id": "500963757",
                                 "name": "짱센초롱이 (KR)",
-                                "rank": 377
+                                "rank": 378
                             },
                             {
                                 "id": "500714100",
                                 "name": "리을 (KR)",
-                                "rank": 379
+                                "rank": 380
                             },
                             {
                                 "id": "900386093",
                                 "name": "Mexicatl (TW)",
-                                "rank": 380
+                                "rank": 381
                             },
                             {
                                 "id": "700343526",
                                 "name": "Aeros (EN)",
-                                "rank": 382
+                                "rank": 383
                             },
                             {
                                 "id": "900490758",
                                 "name": "安迪 (TW)",
-                                "rank": 383
+                                "rank": 384
                             },
                             {
                                 "id": "700412730",
                                 "name": "threeyu (EN)",
-                                "rank": 384
+                                "rank": 385
                             },
                             {
                                 "id": "901103767",
                                 "name": "祝福 (TW)",
-                                "rank": 385
+                                "rank": 386
                             },
                             {
                                 "id": "501339790",
                                 "name": "도노도노 (KR)",
-                                "rank": 386
+                                "rank": 387
                             },
                             {
                                 "id": "701587170",
                                 "name": "CloNe (EN)",
-                                "rank": 387
+                                "rank": 388
                             },
                             {
                                 "id": "700375679",
                                 "name": "Inarrou (EN)",
-                                "rank": 388
+                                "rank": 389
                             },
                             {
                                 "id": "500362569",
                                 "name": "푸치 (KR)",
-                                "rank": 391
+                                "rank": 392
                             },
                             {
                                 "id": "903666484",
                                 "name": "Uc207Pr4f57t9 (TW)",
-                                "rank": 392
+                                "rank": 393
                             },
                             {
                                 "id": "900352332",
                                 "name": "時雨彼方 (TW)",
-                                "rank": 393
+                                "rank": 394
                             },
                             {
                                 "id": "700341479",
                                 "name": "ruyu (EN)",
-                                "rank": 394
+                                "rank": 395
                             },
                             {
                                 "id": "700691078",
@@ -207234,52 +207252,52 @@
                             {
                                 "id": "700499434",
                                 "name": "Isuroh (EN)",
-                                "rank": 373
+                                "rank": 374
                             },
                             {
                                 "id": "509283201",
                                 "name": "나즈나좋아 (KR)",
-                                "rank": 375
+                                "rank": 376
                             },
                             {
                                 "id": "500963757",
                                 "name": "짱센초롱이 (KR)",
-                                "rank": 377
+                                "rank": 378
                             },
                             {
                                 "id": "500714100",
                                 "name": "리을 (KR)",
-                                "rank": 379
+                                "rank": 380
                             },
                             {
                                 "id": "900386093",
                                 "name": "Mexicatl (TW)",
-                                "rank": 380
+                                "rank": 381
                             },
                             {
                                 "id": "700412730",
                                 "name": "threeyu (EN)",
-                                "rank": 384
+                                "rank": 385
                             },
                             {
                                 "id": "901103767",
                                 "name": "祝福 (TW)",
-                                "rank": 385
+                                "rank": 386
                             },
                             {
                                 "id": "700375679",
                                 "name": "Inarrou (EN)",
-                                "rank": 388
+                                "rank": 389
                             },
                             {
                                 "id": "903666484",
                                 "name": "Uc207Pr4f57t9 (TW)",
-                                "rank": 392
+                                "rank": 393
                             },
                             {
                                 "id": "700341479",
                                 "name": "ruyu (EN)",
-                                "rank": 394
+                                "rank": 395
                             },
                             {
                                 "id": "700691078",
@@ -207337,7 +207355,7 @@
                             {
                                 "id": "502462985",
                                 "name": "도노 (KR)",
-                                "rank": 18
+                                "rank": 19
                             },
                             {
                                 "id": "300629420",
@@ -207597,37 +207615,37 @@
                             {
                                 "id": "906404555",
                                 "name": "绘木 (TW)",
-                                "rank": 372
+                                "rank": 373
                             },
                             {
                                 "id": "700343526",
                                 "name": "Aeros (EN)",
-                                "rank": 382
+                                "rank": 383
                             },
                             {
                                 "id": "900490758",
                                 "name": "安迪 (TW)",
-                                "rank": 383
+                                "rank": 384
                             },
                             {
                                 "id": "501339790",
                                 "name": "도노도노 (KR)",
-                                "rank": 386
+                                "rank": 387
                             },
                             {
                                 "id": "701587170",
                                 "name": "CloNe (EN)",
-                                "rank": 387
+                                "rank": 388
                             },
                             {
                                 "id": "500362569",
                                 "name": "푸치 (KR)",
-                                "rank": 391
+                                "rank": 392
                             },
                             {
                                 "id": "900352332",
                                 "name": "時雨彼方 (TW)",
-                                "rank": 393
+                                "rank": 394
                             },
                             {
                                 "id": "904489359",
@@ -207903,7 +207921,7 @@
                             {
                                 "id": "507574002",
                                 "name": "쌀 (KR)",
-                                "rank": 395
+                                "rank": 396
                             },
                             {
                                 "id": "706870003",
@@ -207991,7 +208009,7 @@
                             {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 389
+                                "rank": 390
                             },
                             {
                                 "id": "700547919",
@@ -208140,8 +208158,8 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 19,
-                                "teamScore": -35388
+                                "rank": 18,
+                                "teamScore": -34965
                             },
                             {
                                 "id": "100463233",
@@ -208501,7 +208519,7 @@
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
                                 "rank": 111,
-                                "teamScore": -59520
+                                "teamScore": -59472
                             },
                             {
                                 "id": "301764497",
@@ -209326,52 +209344,52 @@
                                 "teamScore": -78868
                             },
                             {
+                                "id": "501229713",
+                                "name": "이렌 (KR)",
+                                "rank": 371,
+                                "teamScore": -78954
+                            },
+                            {
                                 "id": "505249448",
                                 "name": "쭈쭈파티 (KR)",
-                                "rank": 371,
+                                "rank": 372,
                                 "teamScore": -79087
                             },
                             {
                                 "id": "700343905",
                                 "name": "Owaga (EN)",
-                                "rank": 374,
+                                "rank": 375,
                                 "teamScore": -79354
                             },
                             {
                                 "id": "501101985",
                                 "name": "o4 (KR)",
-                                "rank": 376,
+                                "rank": 377,
                                 "teamScore": -79467
                             },
                             {
                                 "id": "500623776",
                                 "name": "흑련 (KR)",
-                                "rank": 378,
+                                "rank": 379,
                                 "teamScore": -79834
                             },
                             {
                                 "id": "700362974",
                                 "name": "Usaminya (EN)",
-                                "rank": 381,
+                                "rank": 382,
                                 "teamScore": -80033
                             },
                             {
                                 "id": "900332936",
                                 "name": "空白團長魔魔王 (TW)",
-                                "rank": 390,
+                                "rank": 391,
                                 "teamScore": -81631
                             },
                             {
                                 "id": "700456249",
                                 "name": "VOID (EN)",
-                                "rank": 396,
-                                "teamScore": -82141
-                            },
-                            {
-                                "id": "505944541",
-                                "name": "Wiki (KR)",
                                 "rank": 397,
-                                "teamScore": -82308
+                                "teamScore": -82141
                             },
                             {
                                 "id": "700500224",
@@ -210188,61 +210206,61 @@
                             {
                                 "id": "700499434",
                                 "name": "Isuroh (EN)",
-                                "rank": 373,
+                                "rank": 374,
                                 "teamScore": -79167
                             },
                             {
                                 "id": "509283201",
                                 "name": "나즈나좋아 (KR)",
-                                "rank": 375,
+                                "rank": 376,
                                 "teamScore": -79411
                             },
                             {
                                 "id": "500963757",
                                 "name": "짱센초롱이 (KR)",
-                                "rank": 377,
+                                "rank": 378,
                                 "teamScore": -79520
                             },
                             {
                                 "id": "500714100",
                                 "name": "리을 (KR)",
-                                "rank": 379,
+                                "rank": 380,
                                 "teamScore": -79857
                             },
                             {
                                 "id": "900386093",
                                 "name": "Mexicatl (TW)",
-                                "rank": 380,
+                                "rank": 381,
                                 "teamScore": -79900
                             },
                             {
                                 "id": "700412730",
                                 "name": "threeyu (EN)",
-                                "rank": 384,
+                                "rank": 385,
                                 "teamScore": -80756
                             },
                             {
                                 "id": "901103767",
                                 "name": "祝福 (TW)",
-                                "rank": 385,
+                                "rank": 386,
                                 "teamScore": -80789
                             },
                             {
                                 "id": "700375679",
                                 "name": "Inarrou (EN)",
-                                "rank": 388,
+                                "rank": 389,
                                 "teamScore": -81309
                             },
                             {
                                 "id": "903666484",
                                 "name": "Uc207Pr4f57t9 (TW)",
-                                "rank": 392,
+                                "rank": 393,
                                 "teamScore": -81719
                             },
                             {
                                 "id": "700341479",
                                 "name": "ruyu (EN)",
-                                "rank": 394,
+                                "rank": 395,
                                 "teamScore": -81932
                             },
                             {
@@ -210322,7 +210340,7 @@
                             {
                                 "id": "502462985",
                                 "name": "도노 (KR)",
-                                "rank": 18,
+                                "rank": 19,
                                 "teamScore": -35132
                             },
                             {
@@ -210634,43 +210652,43 @@
                             {
                                 "id": "906404555",
                                 "name": "绘木 (TW)",
-                                "rank": 372,
+                                "rank": 373,
                                 "teamScore": -79121
                             },
                             {
                                 "id": "700343526",
                                 "name": "Aeros (EN)",
-                                "rank": 382,
+                                "rank": 383,
                                 "teamScore": -80053
                             },
                             {
                                 "id": "900490758",
                                 "name": "安迪 (TW)",
-                                "rank": 383,
+                                "rank": 384,
                                 "teamScore": -80452
                             },
                             {
                                 "id": "501339790",
                                 "name": "도노도노 (KR)",
-                                "rank": 386,
+                                "rank": 387,
                                 "teamScore": -80886
                             },
                             {
                                 "id": "701587170",
                                 "name": "CloNe (EN)",
-                                "rank": 387,
+                                "rank": 388,
                                 "teamScore": -81252
                             },
                             {
                                 "id": "500362569",
                                 "name": "푸치 (KR)",
-                                "rank": 391,
+                                "rank": 392,
                                 "teamScore": -81685
                             },
                             {
                                 "id": "900352332",
                                 "name": "時雨彼方 (TW)",
-                                "rank": 393,
+                                "rank": 394,
                                 "teamScore": -81784
                             },
                             {
@@ -210992,7 +211010,7 @@
                             {
                                 "id": "507574002",
                                 "name": "쌀 (KR)",
-                                "rank": 395,
+                                "rank": 396,
                                 "teamScore": -81985
                             },
                             {
@@ -211102,7 +211120,7 @@
                             {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 389,
+                                "rank": 390,
                                 "teamScore": -81585
                             },
                             {
@@ -211384,8 +211402,8 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 19,
-                                "teamScore": -35388
+                                "rank": 18,
+                                "teamScore": -34965
                             },
                             {
                                 "id": "100463233",
@@ -211745,7 +211763,7 @@
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
                                 "rank": 111,
-                                "teamScore": -59520
+                                "teamScore": -59472
                             },
                             {
                                 "id": "301764497",
@@ -212570,52 +212588,52 @@
                                 "teamScore": -78868
                             },
                             {
+                                "id": "501229713",
+                                "name": "이렌 (KR)",
+                                "rank": 371,
+                                "teamScore": -78954
+                            },
+                            {
                                 "id": "505249448",
                                 "name": "쭈쭈파티 (KR)",
-                                "rank": 371,
+                                "rank": 372,
                                 "teamScore": -79087
                             },
                             {
                                 "id": "700343905",
                                 "name": "Owaga (EN)",
-                                "rank": 374,
+                                "rank": 375,
                                 "teamScore": -79354
                             },
                             {
                                 "id": "501101985",
                                 "name": "o4 (KR)",
-                                "rank": 376,
+                                "rank": 377,
                                 "teamScore": -79467
                             },
                             {
                                 "id": "500623776",
                                 "name": "흑련 (KR)",
-                                "rank": 378,
+                                "rank": 379,
                                 "teamScore": -79834
                             },
                             {
                                 "id": "700362974",
                                 "name": "Usaminya (EN)",
-                                "rank": 381,
+                                "rank": 382,
                                 "teamScore": -80033
                             },
                             {
                                 "id": "900332936",
                                 "name": "空白團長魔魔王 (TW)",
-                                "rank": 390,
+                                "rank": 391,
                                 "teamScore": -81631
                             },
                             {
                                 "id": "700456249",
                                 "name": "VOID (EN)",
-                                "rank": 396,
-                                "teamScore": -82141
-                            },
-                            {
-                                "id": "505944541",
-                                "name": "Wiki (KR)",
                                 "rank": 397,
-                                "teamScore": -82308
+                                "teamScore": -82141
                             },
                             {
                                 "id": "700500224",
@@ -213042,13 +213060,13 @@
                                 "p516029": 270,
                                 "p514412": 255,
                                 "p516043": 237,
-                                "p513030": 225,
+                                "p513030": 226,
                                 "p513029": 148,
-                                "p514411": 115,
+                                "p514411": 114,
                                 "p513031": 108,
                                 "p514442": 72,
                                 "p516032": 48,
-                                "p514405": 29,
+                                "p514405": 30,
                                 "p514407": 19,
                                 "p513042": 12,
                                 "p513032": 12,
@@ -213078,10 +213096,10 @@
                                 "p513033": 266,
                                 "p516033": 255,
                                 "p513025": 254,
-                                "p516028": 240,
+                                "p516028": 239,
                                 "p516029": 210,
                                 "p516043": 188,
-                                "p514412": 154,
+                                "p514412": 155,
                                 "p514409": 109,
                                 "p513029": 80,
                                 "p513031": 54,
@@ -213101,20 +213119,20 @@
                                 "p513022": 285,
                                 "p514403": 281,
                                 "p514404": 281,
-                                "p513030": 216,
+                                "p513030": 217,
                                 "p514409": 174,
-                                "p514411": 109,
-                                "p514412": 101,
+                                "p514411": 108,
+                                "p514412": 100,
                                 "p513029": 68,
                                 "p516029": 60,
                                 "p514442": 55,
                                 "p513031": 54,
                                 "p516043": 49,
-                                "p516028": 39,
+                                "p516028": 40,
                                 "p516033": 28,
                                 "p516032": 27,
                                 "p513025": 27,
-                                "p514405": 23,
+                                "p514405": 24,
                                 "p513033": 20,
                                 "p514407": 12,
                                 "p513042": 12,
@@ -213149,8 +213167,8 @@
                                 "d214005": 267,
                                 "d214008": 249,
                                 "d214047": 238,
-                                "d214031": 201,
-                                "d214056": 122,
+                                "d214031": 202,
+                                "d214056": 121,
                                 "d214021": 38,
                                 "d214029": 9,
                                 "d214016": 9,
@@ -213182,8 +213200,8 @@
                             "support": {
                                 "d214047": 237,
                                 "d214005": 228,
-                                "d214031": 197,
-                                "d214056": 118,
+                                "d214031": 198,
+                                "d214056": 117,
                                 "d214021": 34,
                                 "d214029": 9,
                                 "d214016": 9,
@@ -213273,7 +213291,7 @@
                             {
                                 "id": "701904533",
                                 "name": "Ahmadjak (EN)",
-                                "rank": 389,
+                                "rank": 390,
                                 "teamScore": -81585
                             },
                             {
@@ -213417,7 +213435,7 @@
                             {
                                 "id": "502462985",
                                 "name": "도노 (KR)",
-                                "rank": 18,
+                                "rank": 19,
                                 "teamScore": -35132
                             },
                             {
@@ -213729,43 +213747,43 @@
                             {
                                 "id": "906404555",
                                 "name": "绘木 (TW)",
-                                "rank": 372,
+                                "rank": 373,
                                 "teamScore": -79121
                             },
                             {
                                 "id": "700343526",
                                 "name": "Aeros (EN)",
-                                "rank": 382,
+                                "rank": 383,
                                 "teamScore": -80053
                             },
                             {
                                 "id": "900490758",
                                 "name": "安迪 (TW)",
-                                "rank": 383,
+                                "rank": 384,
                                 "teamScore": -80452
                             },
                             {
                                 "id": "501339790",
                                 "name": "도노도노 (KR)",
-                                "rank": 386,
+                                "rank": 387,
                                 "teamScore": -80886
                             },
                             {
                                 "id": "701587170",
                                 "name": "CloNe (EN)",
-                                "rank": 387,
+                                "rank": 388,
                                 "teamScore": -81252
                             },
                             {
                                 "id": "500362569",
                                 "name": "푸치 (KR)",
-                                "rank": 391,
+                                "rank": 392,
                                 "teamScore": -81685
                             },
                             {
                                 "id": "900352332",
                                 "name": "時雨彼方 (TW)",
-                                "rank": 393,
+                                "rank": 394,
                                 "teamScore": -81784
                             },
                             {
@@ -214426,61 +214444,61 @@
                             {
                                 "id": "700499434",
                                 "name": "Isuroh (EN)",
-                                "rank": 373,
+                                "rank": 374,
                                 "teamScore": -79167
                             },
                             {
                                 "id": "509283201",
                                 "name": "나즈나좋아 (KR)",
-                                "rank": 375,
+                                "rank": 376,
                                 "teamScore": -79411
                             },
                             {
                                 "id": "500963757",
                                 "name": "짱센초롱이 (KR)",
-                                "rank": 377,
+                                "rank": 378,
                                 "teamScore": -79520
                             },
                             {
                                 "id": "500714100",
                                 "name": "리을 (KR)",
-                                "rank": 379,
+                                "rank": 380,
                                 "teamScore": -79857
                             },
                             {
                                 "id": "900386093",
                                 "name": "Mexicatl (TW)",
-                                "rank": 380,
+                                "rank": 381,
                                 "teamScore": -79900
                             },
                             {
                                 "id": "700412730",
                                 "name": "threeyu (EN)",
-                                "rank": 384,
+                                "rank": 385,
                                 "teamScore": -80756
                             },
                             {
                                 "id": "901103767",
                                 "name": "祝福 (TW)",
-                                "rank": 385,
+                                "rank": 386,
                                 "teamScore": -80789
                             },
                             {
                                 "id": "700375679",
                                 "name": "Inarrou (EN)",
-                                "rank": 388,
+                                "rank": 389,
                                 "teamScore": -81309
                             },
                             {
                                 "id": "903666484",
                                 "name": "Uc207Pr4f57t9 (TW)",
-                                "rank": 392,
+                                "rank": 393,
                                 "teamScore": -81719
                             },
                             {
                                 "id": "700341479",
                                 "name": "ruyu (EN)",
-                                "rank": 394,
+                                "rank": 395,
                                 "teamScore": -81932
                             },
                             {
@@ -215248,7 +215266,7 @@
                             {
                                 "id": "507574002",
                                 "name": "쌀 (KR)",
-                                "rank": 395,
+                                "rank": 396,
                                 "teamScore": -81985
                             },
                             {
