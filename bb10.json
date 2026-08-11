@@ -1,7 +1,7 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1786437194",
+            "LastRefreshTime": "1786437794",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
@@ -34080,7 +34080,7 @@
                     ]
                 }
             ],
-            "Total": 14657,
+            "Total": 14659,
             "UsageByFloor": {
                 "22": [
                     {
@@ -51137,7 +51137,7 @@
             }
         },
         "jp": {
-            "LastRefreshTime": "1786436934",
+            "LastRefreshTime": "1786437534",
             "Rank": [
                 {
                     "Id": "300338594",
@@ -84367,7 +84367,7 @@
                     ]
                 }
             ],
-            "Total": 17646,
+            "Total": 17652,
             "UsageByFloor": {
                 "22": [
                     {
@@ -101039,7 +101039,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1786437263",
+            "LastRefreshTime": "1786437863",
             "Rank": [
                 {
                     "Id": "502462985",
@@ -121072,7 +121072,9 @@
                             "Id": 112149,
                             "AffinityLV": 33
                         },
-                        {},
+                        {
+                            "Id": 111010
+                        },
                         {}
                     ]
                 },
@@ -128851,10 +128853,12 @@
                             "AffinityLV": 10
                         },
                         {
-                            "Id": 116013
+                            "Id": 119901,
+                            "AffinityLV": 18
                         },
                         {
-                            "Id": 118081
+                            "Id": 119902,
+                            "AffinityLV": 18
                         }
                     ]
                 },
@@ -134608,7 +134612,7 @@
                     ]
                 }
             ],
-            "Total": 4489,
+            "Total": 4492,
             "UsageByFloor": {
                 "22": [
                     {
@@ -149733,7 +149737,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1786437060",
+            "LastRefreshTime": "1786437660",
             "Rank": [
                 {
                     "Id": "900334820",
@@ -198511,7 +198515,7 @@
             }
         },
         "cn": {
-            "LastRefreshTime": "1786434118",
+            "LastRefreshTime": "1786437118",
             "Rank": [
                 {
                     "Id": "100481860",
@@ -199219,7 +199223,7 @@
                     "Id": "100490650",
                     "NickName": "你听得到",
                     "HeadIcon": 14203,
-                    "Score": 3400490,
+                    "Score": 3431718,
                     "Rank": 3,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
@@ -199240,7 +199244,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 2439709,
+                            "LevelScore": 2470937,
                             "LevelId": 23,
                             "Discs": [
                                 214026,
@@ -213480,7 +213484,7 @@
                     ],
                     "Honors": [
                         {
-                            "Id": 119901,
+                            "Id": 119902,
                             "AffinityLV": 18
                         },
                         {
@@ -220283,8 +220287,8 @@
                     "HeadIcon": 130008,
                     "Score": 1343006,
                     "Rank": 65,
-                    "TitlePrefix": 35,
-                    "TitleSuffix": 36,
+                    "TitlePrefix": 37,
+                    "TitleSuffix": 38,
                     "Teams": [
                         {
                             "BuildScore": 9435,
@@ -226791,7 +226795,8 @@
                     ],
                     "Honors": [
                         {
-                            "Id": 118081
+                            "Id": 119902,
+                            "AffinityLV": 18
                         },
                         {
                             "Id": 112115,
@@ -232617,7 +232622,7 @@
                     ]
                 }
             ],
-            "Total": 18830,
+            "Total": 18851,
             "UsageByFloor": {
                 "22": [
                     {
@@ -240201,7 +240206,7 @@
                                 "id": "100490650",
                                 "name": "你听得到",
                                 "rank": 3,
-                                "teamScore": 2439709
+                                "teamScore": 2470937
                             },
                             {
                                 "id": "100585538",
@@ -240364,7 +240369,7 @@
                             "id": "100490650",
                             "name": "你听得到",
                             "rank": 3,
-                            "teamScore": 2439709
+                            "teamScore": 2470937
                         },
                         "rank": 2
                     },
@@ -240615,7 +240620,7 @@
                                 "id": "100490650",
                                 "name": "你听得到",
                                 "rank": 3,
-                                "teamScore": 2439709
+                                "teamScore": 2470937
                             },
                             {
                                 "id": "100391766",
@@ -241156,7 +241161,7 @@
                             "id": "100490650",
                             "name": "你听得到",
                             "rank": 3,
-                            "teamScore": 2439709
+                            "teamScore": 2470937
                         },
                         "rank": 1
                     },
@@ -243796,7 +243801,7 @@
                                 "id": "100490650",
                                 "name": "你听得到",
                                 "rank": 3,
-                                "teamScore": 2439709
+                                "teamScore": 2470937
                             },
                             {
                                 "id": "100585538",
@@ -243959,7 +243964,7 @@
                             "id": "100490650",
                             "name": "你听得到",
                             "rank": 3,
-                            "teamScore": 2439709
+                            "teamScore": 2470937
                         },
                         "rank": 1,
                         "potentialUsage": {
@@ -245382,7 +245387,7 @@
                                 "id": "100490650",
                                 "name": "你听得到",
                                 "rank": 3,
-                                "teamScore": 2439709
+                                "teamScore": 2470937
                             },
                             {
                                 "id": "100391766",
@@ -245923,7 +245928,7 @@
                             "id": "100490650",
                             "name": "你听得到",
                             "rank": 3,
-                            "teamScore": 2439709
+                            "teamScore": 2470937
                         },
                         "rank": 1,
                         "potentialUsage": {
@@ -249678,7 +249683,7 @@
                     "Id": "100490650",
                     "NickName": "你听得到 (CN)",
                     "HeadIcon": 14203,
-                    "Score": 3400490,
+                    "Score": 3431718,
                     "Rank": 5,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
@@ -249699,7 +249704,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 2439709,
+                            "LevelScore": 2470937,
                             "LevelId": 23,
                             "Discs": [
                                 214026,
@@ -307905,7 +307910,7 @@
                     ],
                     "Honors": [
                         {
-                            "Id": 119901,
+                            "Id": 119902,
                             "AffinityLV": 18
                         },
                         {
@@ -337685,8 +337690,8 @@
                     "HeadIcon": 130008,
                     "Score": 1343006,
                     "Rank": 266,
-                    "TitlePrefix": 35,
-                    "TitleSuffix": 36,
+                    "TitlePrefix": 37,
+                    "TitleSuffix": 38,
                     "Teams": [
                         {
                             "BuildScore": 9435,
@@ -338697,7 +338702,9 @@
                             "Id": 112149,
                             "AffinityLV": 33
                         },
-                        {},
+                        {
+                            "Id": 111010
+                        },
                         {}
                     ]
                 },
@@ -355200,7 +355207,8 @@
                     ],
                     "Honors": [
                         {
-                            "Id": 118081
+                            "Id": 119902,
+                            "AffinityLV": 18
                         },
                         {
                             "Id": 112115,
@@ -364260,10 +364268,12 @@
                             "AffinityLV": 10
                         },
                         {
-                            "Id": 116013
+                            "Id": 119901,
+                            "AffinityLV": 18
                         },
                         {
-                            "Id": 118081
+                            "Id": 119902,
+                            "AffinityLV": 18
                         }
                     ]
                 },
@@ -416538,8 +416548,8 @@
                     ]
                 }
             ],
-            "Total": 61063,
-            "LastRefreshTime": "1786437263",
+            "Total": 61095,
+            "LastRefreshTime": "1786437863",
             "UsageByFloor": {
                 "22": [
                     {
@@ -451861,7 +451871,7 @@
                                 "id": "100490650",
                                 "name": "你听得到 (CN)",
                                 "rank": 5,
-                                "teamScore": 2439709
+                                "teamScore": 2470937
                             },
                             {
                                 "id": "301747603",
@@ -452786,7 +452796,7 @@
                             "id": "100490650",
                             "name": "你听得到 (CN)",
                             "rank": 5,
-                            "teamScore": 2439709
+                            "teamScore": 2470937
                         },
                         "rank": 2
                     },
@@ -453657,7 +453667,7 @@
                                 "id": "100490650",
                                 "name": "你听得到 (CN)",
                                 "rank": 5,
-                                "teamScore": 2439709
+                                "teamScore": 2470937
                             },
                             {
                                 "id": "100391766",
@@ -456016,7 +456026,7 @@
                             "id": "100490650",
                             "name": "你听得到 (CN)",
                             "rank": 5,
-                            "teamScore": 2439709
+                            "teamScore": 2470937
                         },
                         "rank": 1
                     },
@@ -466533,7 +466543,7 @@
                                 "id": "100490650",
                                 "name": "你听得到 (CN)",
                                 "rank": 5,
-                                "teamScore": 2439709
+                                "teamScore": 2470937
                             },
                             {
                                 "id": "301747603",
@@ -467458,7 +467468,7 @@
                             "id": "100490650",
                             "name": "你听得到 (CN)",
                             "rank": 5,
-                            "teamScore": 2439709
+                            "teamScore": 2470937
                         },
                         "rank": 2,
                         "potentialUsage": {
@@ -471447,7 +471457,7 @@
                                 "id": "100490650",
                                 "name": "你听得到 (CN)",
                                 "rank": 5,
-                                "teamScore": 2439709
+                                "teamScore": 2470937
                             },
                             {
                                 "id": "100391766",
@@ -473806,7 +473816,7 @@
                             "id": "100490650",
                             "name": "你听得到 (CN)",
                             "rank": 5,
-                            "teamScore": 2439709
+                            "teamScore": 2470937
                         },
                         "rank": 2,
                         "potentialUsage": {
