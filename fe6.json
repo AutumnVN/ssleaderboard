@@ -1,7 +1,7 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1786447351",
+            "LastRefreshTime": "1786447951",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
@@ -22552,7 +22552,7 @@
             }
         },
         "jp": {
-            "LastRefreshTime": "1786447023",
+            "LastRefreshTime": "1786447623",
             "Self": {},
             "Rank": [
                 {
@@ -44098,7 +44098,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1786447380",
+            "LastRefreshTime": "1786447981",
             "Self": {},
             "Rank": [
                 {
@@ -60807,11 +60807,17 @@
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
-                        {},
+                        {
+                            "Id": 119902,
+                            "AffinityLV": 18
+                        },
                         {
                             "Id": 111009
                         },
-                        {}
+                        {
+                            "Id": 112114,
+                            "AffinityLV": 26
+                        }
                     ],
                     "Teams": [
                         {
@@ -65975,7 +65981,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1786447248",
+            "LastRefreshTime": "1786447848",
             "Self": {},
             "Rank": [
                 {
@@ -87704,7 +87710,7 @@
             }
         },
         "cn": {
-            "LastRefreshTime": "1786444316",
+            "LastRefreshTime": "1786447317",
             "Self": {},
             "Rank": [
                 {
@@ -94667,8 +94673,8 @@
                     "HeadIcon": 12601,
                     "Score": 13842753,
                     "Rank": 39,
-                    "TitlePrefix": 33,
-                    "TitleSuffix": 34,
+                    "TitlePrefix": 37,
+                    "TitleSuffix": 38,
                     "Honors": [
                         {
                             "Id": 111010
@@ -96298,16 +96304,13 @@
                     "TitleSuffix": 2,
                     "Honors": [
                         {
-                            "Id": 112144,
-                            "AffinityLV": 35
+                            "Id": 115005
                         },
                         {
-                            "Id": 112158,
-                            "AffinityLV": 38
+                            "Id": 118011
                         },
                         {
-                            "Id": 119901,
-                            "AffinityLV": 18
+                            "Id": 117001
                         }
                     ],
                     "Teams": [
@@ -99602,8 +99605,8 @@
                             "AffinityLV": 18
                         },
                         {
-                            "Id": 112133,
-                            "AffinityLV": 31
+                            "Id": 119902,
+                            "AffinityLV": 18
                         },
                         {
                             "Id": 112160,
@@ -138617,8 +138620,8 @@
                     "HeadIcon": 12601,
                     "Score": 13842753,
                     "Rank": 160,
-                    "TitlePrefix": 33,
-                    "TitleSuffix": 34,
+                    "TitlePrefix": 37,
+                    "TitleSuffix": 38,
                     "Honors": [
                         {
                             "Id": 111010
@@ -146250,16 +146253,13 @@
                     "TitleSuffix": 2,
                     "Honors": [
                         {
-                            "Id": 112144,
-                            "AffinityLV": 35
+                            "Id": 115005
                         },
                         {
-                            "Id": 112158,
-                            "AffinityLV": 38
+                            "Id": 118011
                         },
                         {
-                            "Id": 119901,
-                            "AffinityLV": 18
+                            "Id": 117001
                         }
                     ],
                     "Teams": [
@@ -160436,8 +160436,8 @@
                             "AffinityLV": 18
                         },
                         {
-                            "Id": 112133,
-                            "AffinityLV": 31
+                            "Id": 119902,
+                            "AffinityLV": 18
                         },
                         {
                             "Id": 112160,
@@ -177191,11 +177191,17 @@
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
-                        {},
+                        {
+                            "Id": 119902,
+                            "AffinityLV": 18
+                        },
                         {
                             "Id": 111009
                         },
-                        {}
+                        {
+                            "Id": 112114,
+                            "AffinityLV": 26
+                        }
                     ],
                     "Teams": [
                         {
@@ -200458,7 +200464,7 @@
                 }
             ],
             "Total": 109584,
-            "LastRefreshTime": "1786447380",
+            "LastRefreshTime": "1786447981",
             "UsageByFloor": {
                 "all": [
                     {
