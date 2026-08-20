@@ -1,7 +1,7 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1787241970",
+            "LastRefreshTime": "1787242571",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
@@ -34206,7 +34206,7 @@
                     ]
                 }
             ],
-            "Total": 18083,
+            "Total": 18088,
             "UsageByFloor": {
                 "22": [
                     {
@@ -51367,7 +51367,7 @@
             }
         },
         "jp": {
-            "LastRefreshTime": "1787242040",
+            "LastRefreshTime": "1787242640",
             "Rank": [
                 {
                     "Id": "300338594",
@@ -71057,8 +71057,7 @@
                     ],
                     "Honors": [
                         {
-                            "Id": 112144,
-                            "AffinityLV": 98
+                            "Id": 111010
                         },
                         {},
                         {}
@@ -84824,7 +84823,7 @@
                     ]
                 }
             ],
-            "Total": 22025,
+            "Total": 22028,
             "UsageByFloor": {
                 "22": [
                     {
@@ -101327,7 +101326,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1787242110",
+            "LastRefreshTime": "1787242710",
             "Rank": [
                 {
                     "Id": "507501904",
@@ -150578,7 +150577,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1787241716",
+            "LastRefreshTime": "1787242316",
             "Rank": [
                 {
                     "Id": "900334820",
@@ -151615,13 +151614,13 @@
                     "Id": "901096538",
                     "NickName": "冬月櫻",
                     "HeadIcon": 101,
-                    "Score": 2051097,
+                    "Score": 2120474,
                     "Rank": 4,
                     "TitlePrefix": 37,
                     "TitleSuffix": 2,
                     "Teams": [
                         {
-                            "BuildScore": 9015,
+                            "BuildScore": 9405,
                             "Chars": [
                                 {
                                     "Id": 157,
@@ -151636,7 +151635,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 822625,
+                            "LevelScore": 892002,
                             "LevelId": 22,
                             "Discs": [
                                 214045,
@@ -151648,12 +151647,24 @@
                             ],
                             "Potentials": [
                                 {
+                                    "PotentialId": 515702,
+                                    "Level": 1
+                                },
+                                {
                                     "PotentialId": 515701,
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 515702,
-                                    "Level": 1
+                                    "PotentialId": 515706,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515742,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 515713,
+                                    "Level": 6
                                 },
                                 {
                                     "PotentialId": 515705,
@@ -151664,28 +151675,16 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 515706,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515742,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 515713,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514521,
-                                    "Level": 1
+                                    "PotentialId": 515711,
+                                    "Level": 2
                                 },
                                 {
                                     "PotentialId": 514522,
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 514525,
-                                    "Level": 6
+                                    "PotentialId": 514521,
+                                    "Level": 1
                                 },
                                 {
                                     "PotentialId": 514526,
@@ -151696,8 +151695,12 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 514532,
-                                    "Level": 3
+                                    "PotentialId": 514525,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514527,
+                                    "Level": 2
                                 },
                                 {
                                     "PotentialId": 514222,
@@ -151731,31 +151734,35 @@
                             "Notes": [
                                 {
                                     "Tid": 90011,
-                                    "Qty": 32
+                                    "Qty": 35
                                 },
                                 {
                                     "Tid": 90014,
-                                    "Qty": 22
+                                    "Qty": 20
                                 },
                                 {
                                     "Tid": 90016,
-                                    "Qty": 22
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90023,
                                     "Qty": 25
                                 },
                                 {
                                     "Tid": 90012,
-                                    "Qty": 35
+                                    "Qty": 16
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 25
+                                },
+                                {
+                                    "Tid": 90023,
+                                    "Qty": 39
                                 },
                                 {
                                     "Tid": 90015,
-                                    "Qty": 3
+                                    "Qty": 9
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 6
                                 }
                             ],
                             "ActiveSecondaryIds": [
@@ -151763,11 +151770,11 @@
                                 4045201,
                                 4057102,
                                 4057201,
-                                4006101,
+                                4006102,
                                 4006201
                             ],
-                            "RecordRank": "31",
-                            "BuildCode": "AAAAnQAAAJEAAACOzbADABjNgBmAAGyAwAww"
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAnQAAAJEAAACOzbALACjNkBgAAGyAwAww"
                         },
                         {
                             "BuildScore": 9960,
@@ -184323,7 +184330,7 @@
                     ]
                 }
             ],
-            "Total": 6753,
+            "Total": 6755,
             "UsageByFloor": {
                 "22": [
                     {
@@ -191229,7 +191236,7 @@
                                 "id": "901096538",
                                 "name": "冬月櫻",
                                 "rank": 4,
-                                "teamScore": 822625
+                                "teamScore": 892002
                             },
                             {
                                 "id": "900354785",
@@ -193309,7 +193316,7 @@
                                 "id": "901096538",
                                 "name": "冬月櫻",
                                 "rank": 4,
-                                "teamScore": 822625
+                                "teamScore": 892002
                             },
                             {
                                 "id": "900354785",
@@ -194215,7 +194222,7 @@
                                 "id": "901096538",
                                 "name": "冬月櫻",
                                 "rank": 4,
-                                "teamScore": 822625
+                                "teamScore": 892002
                             },
                             {
                                 "id": "900354785",
@@ -194327,18 +194334,18 @@
                                 "p514230": 16,
                                 "p514522": 16,
                                 "p514521": 16,
-                                "p514532": 16,
                                 "p514525": 16,
                                 "p514233": 16,
                                 "p515702": 15,
                                 "p515701": 15,
                                 "p515707": 15,
                                 "p515706": 15,
+                                "p514532": 15,
                                 "p514526": 15,
                                 "p515742": 13,
                                 "p514226": 11,
-                                "p514527": 10,
-                                "p515711": 9,
+                                "p514527": 11,
+                                "p515711": 10,
                                 "p515743": 5,
                                 "p514231": 4,
                                 "p515741": 2,
@@ -194369,7 +194376,7 @@
                                 "p514225": 12,
                                 "p514526": 12,
                                 "p514532": 11,
-                                "p515742": 10,
+                                "p515742": 11,
                                 "p515743": 3,
                                 "p514231": 3,
                                 "p514226": 2,
@@ -194386,15 +194393,15 @@
                                 "p514521": 16,
                                 "p515702": 15,
                                 "p515701": 15,
-                                "p514527": 10,
-                                "p515711": 9,
+                                "p514527": 11,
+                                "p515711": 10,
                                 "p514226": 9,
-                                "p514532": 5,
+                                "p514532": 4,
                                 "p514225": 4,
                                 "p514242": 4,
-                                "p515742": 3,
                                 "p514526": 3,
                                 "p515743": 2,
+                                "p515742": 2,
                                 "p514230": 2,
                                 "p515704": 2,
                                 "p515703": 2,
@@ -197991,7 +197998,7 @@
                                 "id": "901096538",
                                 "name": "冬月櫻",
                                 "rank": 4,
-                                "teamScore": 822625
+                                "teamScore": 892002
                             },
                             {
                                 "id": "900354785",
@@ -198103,18 +198110,18 @@
                                 "p514230": 16,
                                 "p514522": 16,
                                 "p514521": 16,
-                                "p514532": 16,
                                 "p514525": 16,
                                 "p514233": 16,
                                 "p515702": 15,
                                 "p515701": 15,
                                 "p515707": 15,
                                 "p515706": 15,
+                                "p514532": 15,
                                 "p514526": 15,
                                 "p515742": 13,
                                 "p514226": 11,
-                                "p514527": 10,
-                                "p515711": 9,
+                                "p514527": 11,
+                                "p515711": 10,
                                 "p515743": 5,
                                 "p514231": 4,
                                 "p515741": 2,
@@ -198145,7 +198152,7 @@
                                 "p514225": 12,
                                 "p514526": 12,
                                 "p514532": 11,
-                                "p515742": 10,
+                                "p515742": 11,
                                 "p515743": 3,
                                 "p514231": 3,
                                 "p514226": 2,
@@ -198162,15 +198169,15 @@
                                 "p514521": 16,
                                 "p515702": 15,
                                 "p515701": 15,
-                                "p514527": 10,
-                                "p515711": 9,
+                                "p514527": 11,
+                                "p515711": 10,
                                 "p514226": 9,
-                                "p514532": 5,
+                                "p514532": 4,
                                 "p514225": 4,
                                 "p514242": 4,
-                                "p515742": 3,
                                 "p514526": 3,
                                 "p515743": 2,
+                                "p515742": 2,
                                 "p514230": 2,
                                 "p515704": 2,
                                 "p515703": 2,
@@ -267963,11 +267970,346 @@
                     ]
                 },
                 {
+                    "Id": "901096538",
+                    "NickName": "冬月櫻 (TW)",
+                    "HeadIcon": 101,
+                    "Score": 2120474,
+                    "Rank": 56,
+                    "TitlePrefix": 37,
+                    "TitleSuffix": 2,
+                    "Teams": [
+                        {
+                            "BuildScore": 9405,
+                            "Chars": [
+                                {
+                                    "Id": 157,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 145,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 142,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 892002,
+                            "LevelId": 22,
+                            "Discs": [
+                                214045,
+                                214057,
+                                214006,
+                                214013,
+                                214011,
+                                214014
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 515702,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515701,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515706,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515742,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 515713,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515705,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515707,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515711,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514522,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514521,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514526,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514531,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514525,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514527,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514222,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514223,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514242,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514233,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514225,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514230,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514226,
+                                    "Level": 2
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 35
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 20
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 25
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 16
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 25
+                                },
+                                {
+                                    "Tid": 90023,
+                                    "Qty": 39
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 9
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 6
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4045102,
+                                4045201,
+                                4057102,
+                                4057201,
+                                4006102,
+                                4006201
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAnQAAAJEAAACOzbALACjNkBgAAGyAwAww"
+                        },
+                        {
+                            "BuildScore": 9960,
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 1228472,
+                            "LevelId": 23,
+                            "Discs": [
+                                214026,
+                                214055,
+                                214008,
+                                214031,
+                                214005,
+                                214047
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513029,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513030,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 43
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 57
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 40
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 10
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 4
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 4
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 34
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4026102,
+                                4026202,
+                                4055102,
+                                4055202,
+                                4008103,
+                                4008202
+                            ],
+                            "RecordRank": "33",
+                            "BuildCode": "AAAAkAAAAIIAAACgMAZDZgDNgCAsADAGwGwG"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 112145,
+                            "AffinityLV": 57
+                        },
+                        {
+                            "Id": 112160,
+                            "AffinityLV": 27
+                        },
+                        {
+                            "Id": 112158,
+                            "AffinityLV": 30
+                        }
+                    ]
+                },
+                {
                     "Id": "304212226",
                     "NickName": "剣鞘 (JP)",
                     "HeadIcon": 130007,
                     "Score": 2116914,
-                    "Rank": 56,
+                    "Rank": 57,
                     "TitlePrefix": 37,
                     "TitleSuffix": 4,
                     "Teams": [
@@ -268316,7 +268658,7 @@
                     "NickName": "魔女想睡觉 (CN)",
                     "HeadIcon": 101,
                     "Score": 2115411,
-                    "Rank": 57,
+                    "Rank": 58,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -268670,7 +269012,7 @@
                     "NickName": "늙고병든세기 (KR)",
                     "HeadIcon": 130007,
                     "Score": 2105586,
-                    "Rank": 58,
+                    "Rank": 59,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -268999,7 +269341,7 @@
                     "NickName": "츠아 (KR)",
                     "HeadIcon": 11303,
                     "Score": 2105467,
-                    "Rank": 59,
+                    "Rank": 60,
                     "TitlePrefix": 17,
                     "TitleSuffix": 22,
                     "Teams": [
@@ -269335,7 +269677,7 @@
                     "NickName": "Tyri (EN)",
                     "HeadIcon": 11402,
                     "Score": 2098112,
-                    "Rank": 60,
+                    "Rank": 61,
                     "TitlePrefix": 3,
                     "TitleSuffix": 36,
                     "Teams": [
@@ -269673,7 +270015,7 @@
                     "NickName": "ElLuka (JP)",
                     "HeadIcon": 14501,
                     "Score": 2097739,
-                    "Rank": 61,
+                    "Rank": 62,
                     "TitlePrefix": 35,
                     "TitleSuffix": 34,
                     "Teams": [
@@ -270010,7 +270352,7 @@
                     "NickName": "Suteki (CN)",
                     "HeadIcon": 11303,
                     "Score": 2097503,
-                    "Rank": 62,
+                    "Rank": 63,
                     "TitlePrefix": 9,
                     "TitleSuffix": 4,
                     "Teams": [
@@ -270365,7 +270707,7 @@
                     "NickName": "たつきちゃん (JP)",
                     "HeadIcon": 16002,
                     "Score": 2075738,
-                    "Rank": 63,
+                    "Rank": 64,
                     "TitlePrefix": 13,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -270708,7 +271050,7 @@
                     "NickName": "シャチタス (JP)",
                     "HeadIcon": 14103,
                     "Score": 2064120,
-                    "Rank": 64,
+                    "Rank": 65,
                     "TitlePrefix": 1,
                     "TitleSuffix": 30,
                     "Teams": [
@@ -271047,7 +271389,7 @@
                     "NickName": "ryo (JP)",
                     "HeadIcon": 130007,
                     "Score": 2055872,
-                    "Rank": 65,
+                    "Rank": 66,
                     "TitlePrefix": 11,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -271365,7 +271707,7 @@
                     "NickName": "こおど (JP)",
                     "HeadIcon": 14403,
                     "Score": 2053060,
-                    "Rank": 66,
+                    "Rank": 67,
                     "TitlePrefix": 11,
                     "TitleSuffix": 30,
                     "Teams": [
@@ -271708,7 +272050,7 @@
                     "NickName": "Jotter (JP)",
                     "HeadIcon": 130002,
                     "Score": 2052640,
-                    "Rank": 67,
+                    "Rank": 68,
                     "TitlePrefix": 23,
                     "TitleSuffix": 30,
                     "Teams": [
@@ -272046,333 +272388,6 @@
                         },
                         {
                             "Id": 112144,
-                            "AffinityLV": 30
-                        }
-                    ]
-                },
-                {
-                    "Id": "901096538",
-                    "NickName": "冬月櫻 (TW)",
-                    "HeadIcon": 101,
-                    "Score": 2051097,
-                    "Rank": 68,
-                    "TitlePrefix": 37,
-                    "TitleSuffix": 2,
-                    "Teams": [
-                        {
-                            "BuildScore": 9015,
-                            "Chars": [
-                                {
-                                    "Id": 157,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 145,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 142,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 822625,
-                            "LevelId": 22,
-                            "Discs": [
-                                214045,
-                                214057,
-                                214006,
-                                214013,
-                                214011,
-                                214014
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 515701,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515702,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515705,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515707,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515706,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515742,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 515713,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514521,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514522,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514525,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514526,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514531,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514532,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 514222,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514223,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514242,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514233,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514225,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514230,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514226,
-                                    "Level": 2
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 32
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 22
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 22
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90023,
-                                    "Qty": 25
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 35
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 3
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4045102,
-                                4045201,
-                                4057102,
-                                4057201,
-                                4006101,
-                                4006201
-                            ],
-                            "RecordRank": "31",
-                            "BuildCode": "AAAAnQAAAJEAAACOzbADABjNgBmAAGyAwAww"
-                        },
-                        {
-                            "BuildScore": 9960,
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 1228472,
-                            "LevelId": 23,
-                            "Discs": [
-                                214026,
-                                214055,
-                                214008,
-                                214031,
-                                214005,
-                                214047
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513029,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513030,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 43
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 57
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 40
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 10
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 4
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 4
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 34
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4026102,
-                                4026202,
-                                4055102,
-                                4055202,
-                                4008103,
-                                4008202
-                            ],
-                            "RecordRank": "33",
-                            "BuildCode": "AAAAkAAAAIIAAACgMAZDZgDNgCAsADAGwGwG"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 112145,
-                            "AffinityLV": 57
-                        },
-                        {
-                            "Id": 112160,
-                            "AffinityLV": 27
-                        },
-                        {
-                            "Id": 112158,
                             "AffinityLV": 30
                         }
                     ]
@@ -300445,8 +300460,7 @@
                     ],
                     "Honors": [
                         {
-                            "Id": 112144,
-                            "AffinityLV": 98
+                            "Id": 111010
                         },
                         {},
                         {}
@@ -418388,8 +418402,8 @@
                     ]
                 }
             ],
-            "Total": 76261,
-            "LastRefreshTime": "1787242110",
+            "Total": 76271,
+            "LastRefreshTime": "1787242710",
             "UsageByFloor": {
                 "22": [
                     {
@@ -418515,27 +418529,27 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59
+                                "rank": 60
                             },
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60
+                                "rank": 61
                             },
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64
+                                "rank": 65
                             },
                             {
                                 "id": "300420267",
@@ -419763,27 +419777,27 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59
+                                "rank": 60
                             },
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60
+                                "rank": 61
                             },
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64
+                                "rank": 65
                             },
                             {
                                 "id": "300420267",
@@ -420931,27 +420945,27 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59
+                                "rank": 60
                             },
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60
+                                "rank": 61
                             },
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64
+                                "rank": 65
                             },
                             {
                                 "id": "300420267",
@@ -422097,33 +422111,33 @@
                                 "rank": 54
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 56
+                            },
+                            {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58
+                                "rank": 59
                             },
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65
+                                "rank": 66
                             },
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 68
                             },
                             {
@@ -423220,33 +423234,33 @@
                                 "rank": 54
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 56
+                            },
+                            {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58
+                                "rank": 59
                             },
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65
+                                "rank": 66
                             },
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 68
                             },
                             {
@@ -424270,22 +424284,22 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58
+                                "rank": 59
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65
+                                "rank": 66
                             },
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67
+                                "rank": 68
                             },
                             {
                                 "id": "900380073",
@@ -424851,14 +424865,14 @@
                                 "rank": 48
                             },
                             {
-                                "id": "304177371",
-                                "name": "ElLuka (JP)",
-                                "rank": 61
-                            },
-                            {
                                 "id": "901096538",
                                 "name": "冬月櫻 (TW)",
-                                "rank": 68
+                                "rank": 56
+                            },
+                            {
+                                "id": "304177371",
+                                "name": "ElLuka (JP)",
+                                "rank": 62
                             },
                             {
                                 "id": "100964127",
@@ -425429,7 +425443,7 @@
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57
+                                "rank": 58
                             },
                             {
                                 "id": "300511011",
@@ -425537,7 +425551,7 @@
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66
+                                "rank": 67
                             },
                             {
                                 "id": "500879261",
@@ -425620,7 +425634,7 @@
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66
+                                "rank": 67
                             },
                             {
                                 "id": "500879261",
@@ -425678,7 +425692,7 @@
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57
+                                "rank": 58
                             },
                             {
                                 "id": "300446285",
@@ -425852,7 +425866,7 @@
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66
+                                "rank": 67
                             },
                             {
                                 "id": "500879261",
@@ -425903,7 +425917,7 @@
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57
+                                "rank": 58
                             },
                             {
                                 "id": "101189295",
@@ -426200,27 +426214,27 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59
+                                "rank": 60
                             },
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60
+                                "rank": 61
                             },
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64
+                                "rank": 65
                             },
                             {
                                 "id": "300420267",
@@ -427533,27 +427547,27 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59
+                                "rank": 60
                             },
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60
+                                "rank": 61
                             },
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64
+                                "rank": 65
                             },
                             {
                                 "id": "300420267",
@@ -428836,22 +428850,22 @@
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60
+                                "rank": 61
                             },
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64
+                                "rank": 65
                             },
                             {
                                 "id": "300420267",
@@ -430057,38 +430071,38 @@
                                 "rank": 54
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 56
+                            },
+                            {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57
+                                "rank": 58
                             },
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58
+                                "rank": 59
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65
+                                "rank": 66
                             },
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66
+                                "rank": 67
                             },
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 68
                             },
                             {
@@ -431085,38 +431099,38 @@
                                 "rank": 54
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 56
+                            },
+                            {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57
+                                "rank": 58
                             },
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58
+                                "rank": 59
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65
+                                "rank": 66
                             },
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66
+                                "rank": 67
                             },
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 68
                             },
                             {
@@ -432058,28 +432072,28 @@
                                 "rank": 54
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 56
+                            },
+                            {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57
+                                "rank": 58
                             },
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58
+                                "rank": 59
                             },
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 68
                             },
                             {
@@ -432863,12 +432877,12 @@
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65
+                                "rank": 66
                             },
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66
+                                "rank": 67
                             },
                             {
                                 "id": "500879261",
@@ -432996,7 +433010,7 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59
+                                "rank": 60
                             },
                             {
                                 "id": "300462442",
@@ -433119,7 +433133,7 @@
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "300511011",
@@ -433365,7 +433379,7 @@
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "300511011",
@@ -433599,7 +433613,7 @@
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "100353697",
@@ -433939,63 +433953,63 @@
                                 "rank": 55
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 56
+                            },
+                            {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57
+                                "rank": 58
                             },
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58
+                                "rank": 59
                             },
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59
+                                "rank": 60
                             },
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60
+                                "rank": 61
                             },
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64
+                                "rank": 65
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65
+                                "rank": 66
                             },
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66
+                                "rank": 67
                             },
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 68
                             },
                             {
@@ -436202,63 +436216,63 @@
                                 "rank": 55
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 56
+                            },
+                            {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57
+                                "rank": 58
                             },
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58
+                                "rank": 59
                             },
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59
+                                "rank": 60
                             },
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60
+                                "rank": 61
                             },
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64
+                                "rank": 65
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65
+                                "rank": 66
                             },
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66
+                                "rank": 67
                             },
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 68
                             },
                             {
@@ -438345,53 +438359,53 @@
                                 "rank": 55
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 56
+                            },
+                            {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57
+                                "rank": 58
                             },
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58
+                                "rank": 59
                             },
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59
+                                "rank": 60
                             },
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60
+                                "rank": 61
                             },
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64
+                                "rank": 65
                             },
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 68
                             },
                             {
@@ -440290,32 +440304,32 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59
+                                "rank": 60
                             },
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60
+                                "rank": 61
                             },
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64
+                                "rank": 65
                             },
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66
+                                "rank": 67
                             },
                             {
                                 "id": "300420267",
@@ -441698,32 +441712,32 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59
+                                "rank": 60
                             },
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60
+                                "rank": 61
                             },
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64
+                                "rank": 65
                             },
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66
+                                "rank": 67
                             },
                             {
                                 "id": "300420267",
@@ -443046,27 +443060,27 @@
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60
+                                "rank": 61
                             },
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62
+                                "rank": 63
                             },
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63
+                                "rank": 64
                             },
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64
+                                "rank": 65
                             },
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66
+                                "rank": 67
                             },
                             {
                                 "id": "300420267",
@@ -444282,33 +444296,33 @@
                                 "rank": 54
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 56
+                            },
+                            {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58
+                                "rank": 59
                             },
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65
+                                "rank": 66
                             },
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 68
                             },
                             {
@@ -445405,33 +445419,33 @@
                                 "rank": 54
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 56
+                            },
+                            {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58
+                                "rank": 59
                             },
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65
+                                "rank": 66
                             },
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 68
                             },
                             {
@@ -446455,22 +446469,22 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58
+                                "rank": 59
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65
+                                "rank": 66
                             },
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67
+                                "rank": 68
                             },
                             {
                                 "id": "900380073",
@@ -447036,14 +447050,14 @@
                                 "rank": 48
                             },
                             {
-                                "id": "304177371",
-                                "name": "ElLuka (JP)",
-                                "rank": 61
-                            },
-                            {
                                 "id": "901096538",
                                 "name": "冬月櫻 (TW)",
-                                "rank": 68
+                                "rank": 56
+                            },
+                            {
+                                "id": "304177371",
+                                "name": "ElLuka (JP)",
+                                "rank": 62
                             },
                             {
                                 "id": "100964127",
@@ -447541,17 +447555,17 @@
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57
+                                "rank": 58
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65
+                                "rank": 66
                             },
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66
+                                "rank": 67
                             },
                             {
                                 "id": "500879261",
@@ -447774,7 +447788,7 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59
+                                "rank": 60
                             },
                             {
                                 "id": "300462442",
@@ -448095,12 +448109,12 @@
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57
+                                "rank": 58
                             },
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "300511011",
@@ -448248,7 +448262,7 @@
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57
+                                "rank": 58
                             },
                             {
                                 "id": "100353401",
@@ -448494,7 +448508,7 @@
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "300511011",
@@ -448683,7 +448697,7 @@
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "100353697",
@@ -448992,7 +449006,7 @@
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63,
+                                "rank": 64,
                                 "teamScore": 1284064
                             },
                             {
@@ -449016,7 +449030,7 @@
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62,
+                                "rank": 63,
                                 "teamScore": 1205832
                             },
                             {
@@ -449208,7 +449222,7 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59,
+                                "rank": 60,
                                 "teamScore": 1010562
                             },
                             {
@@ -449598,7 +449612,7 @@
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64,
+                                "rank": 65,
                                 "teamScore": 747255
                             },
                             {
@@ -449922,7 +449936,7 @@
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60,
+                                "rank": 61,
                                 "teamScore": 625689
                             },
                             {
@@ -450314,7 +450328,7 @@
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67,
+                                "rank": 68,
                                 "teamScore": 673031
                             },
                             {
@@ -450434,7 +450448,7 @@
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58,
+                                "rank": 59,
                                 "teamScore": 469868
                             },
                             {
@@ -450644,7 +450658,7 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56,
+                                "rank": 57,
                                 "teamScore": 336107
                             },
                             {
@@ -450872,7 +450886,7 @@
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65,
+                                "rank": 66,
                                 "teamScore": 135315
                             }
                         ],
@@ -450898,7 +450912,7 @@
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61,
+                                "rank": 62,
                                 "teamScore": 1703431
                             },
                             {
@@ -451006,8 +451020,8 @@
                             {
                                 "id": "901096538",
                                 "name": "冬月櫻 (TW)",
-                                "rank": 68,
-                                "teamScore": 822625
+                                "rank": 56,
+                                "teamScore": 892002
                             },
                             {
                                 "id": "300340205",
@@ -451505,7 +451519,7 @@
                         "topUser": {
                             "id": "304177371",
                             "name": "ElLuka (JP)",
-                            "rank": 61,
+                            "rank": 62,
                             "teamScore": 1703431
                         },
                         "rank": 3
@@ -451900,7 +451914,7 @@
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66,
+                                "rank": 67,
                                 "teamScore": 240456
                             },
                             {
@@ -452028,14 +452042,14 @@
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57,
+                                "rank": 58,
                                 "teamScore": 577994
                             }
                         ],
                         "topUser": {
                             "id": "100584539",
                             "name": "魔女想睡觉 (CN)",
-                            "rank": 57,
+                            "rank": 58,
                             "teamScore": 577994
                         },
                         "rank": 13
@@ -452438,7 +452452,7 @@
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60,
+                                "rank": 61,
                                 "teamScore": 1472423
                             },
                             {
@@ -452456,7 +452470,7 @@
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64,
+                                "rank": 65,
                                 "teamScore": 1316865
                             },
                             {
@@ -452690,7 +452704,7 @@
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62,
+                                "rank": 63,
                                 "teamScore": 891671
                             },
                             {
@@ -452882,7 +452896,7 @@
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63,
+                                "rank": 64,
                                 "teamScore": 791674
                             },
                             {
@@ -453832,7 +453846,7 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56,
+                                "rank": 57,
                                 "teamScore": 1780807
                             },
                             {
@@ -453868,7 +453882,7 @@
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58,
+                                "rank": 59,
                                 "teamScore": 1635718
                             },
                             {
@@ -453904,7 +453918,7 @@
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57,
+                                "rank": 58,
                                 "teamScore": 1537417
                             },
                             {
@@ -453952,7 +453966,7 @@
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67,
+                                "rank": 68,
                                 "teamScore": 1379609
                             },
                             {
@@ -454048,7 +454062,7 @@
                             {
                                 "id": "901096538",
                                 "name": "冬月櫻 (TW)",
-                                "rank": 68,
+                                "rank": 56,
                                 "teamScore": 1228472
                             },
                             {
@@ -454806,7 +454820,7 @@
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65,
+                                "rank": 66,
                                 "teamScore": 1920557
                             },
                             {
@@ -454830,7 +454844,7 @@
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66,
+                                "rank": 67,
                                 "teamScore": 1812604
                             },
                             {
@@ -454970,7 +454984,7 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59,
+                                "rank": 60,
                                 "teamScore": 1094905
                             },
                             {
@@ -455386,7 +455400,7 @@
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61,
+                                "rank": 62,
                                 "teamScore": 394308
                             }
                         ],
@@ -455768,7 +455782,7 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56,
+                                "rank": 57,
                                 "teamScore": 1780807
                             },
                             {
@@ -455810,7 +455824,7 @@
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58,
+                                "rank": 59,
                                 "teamScore": 1635718
                             },
                             {
@@ -455870,7 +455884,7 @@
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57,
+                                "rank": 58,
                                 "teamScore": 1537417
                             },
                             {
@@ -455924,7 +455938,7 @@
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67,
+                                "rank": 68,
                                 "teamScore": 1379609
                             },
                             {
@@ -456002,7 +456016,7 @@
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63,
+                                "rank": 64,
                                 "teamScore": 1284064
                             },
                             {
@@ -456080,7 +456094,7 @@
                             {
                                 "id": "901096538",
                                 "name": "冬月櫻 (TW)",
-                                "rank": 68,
+                                "rank": 56,
                                 "teamScore": 1228472
                             },
                             {
@@ -456116,7 +456130,7 @@
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62,
+                                "rank": 63,
                                 "teamScore": 1205832
                             },
                             {
@@ -456494,7 +456508,7 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59,
+                                "rank": 60,
                                 "teamScore": 1010562
                             },
                             {
@@ -457130,7 +457144,7 @@
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64,
+                                "rank": 65,
                                 "teamScore": 747255
                             },
                             {
@@ -457628,7 +457642,7 @@
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60,
+                                "rank": 61,
                                 "teamScore": 625689
                             },
                             {
@@ -458062,7 +458076,7 @@
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60,
+                                "rank": 61,
                                 "teamScore": 1472423
                             },
                             {
@@ -458080,7 +458094,7 @@
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64,
+                                "rank": 65,
                                 "teamScore": 1316865
                             },
                             {
@@ -458314,7 +458328,7 @@
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62,
+                                "rank": 63,
                                 "teamScore": 891671
                             },
                             {
@@ -458506,7 +458520,7 @@
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63,
+                                "rank": 64,
                                 "teamScore": 791674
                             },
                             {
@@ -459370,7 +459384,7 @@
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66,
+                                "rank": 67,
                                 "teamScore": 240456
                             },
                             {
@@ -459534,7 +459548,7 @@
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67,
+                                "rank": 68,
                                 "teamScore": 673031
                             },
                             {
@@ -459654,7 +459668,7 @@
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58,
+                                "rank": 59,
                                 "teamScore": 469868
                             },
                             {
@@ -459864,7 +459878,7 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56,
+                                "rank": 57,
                                 "teamScore": 336107
                             },
                             {
@@ -460092,7 +460106,7 @@
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65,
+                                "rank": 66,
                                 "teamScore": 135315
                             }
                         ],
@@ -460118,7 +460132,7 @@
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61,
+                                "rank": 62,
                                 "teamScore": 1703431
                             },
                             {
@@ -460226,8 +460240,8 @@
                             {
                                 "id": "901096538",
                                 "name": "冬月櫻 (TW)",
-                                "rank": 68,
-                                "teamScore": 822625
+                                "rank": 56,
+                                "teamScore": 892002
                             },
                             {
                                 "id": "300340205",
@@ -460725,7 +460739,7 @@
                         "topUser": {
                             "id": "304177371",
                             "name": "ElLuka (JP)",
-                            "rank": 61,
+                            "rank": 62,
                             "teamScore": 1703431
                         },
                         "rank": 4
@@ -460750,7 +460764,7 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59,
+                                "rank": 60,
                                 "teamScore": 1094905
                             },
                             {
@@ -461028,7 +461042,7 @@
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65,
+                                "rank": 66,
                                 "teamScore": 1920557
                             },
                             {
@@ -461052,7 +461066,7 @@
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66,
+                                "rank": 67,
                                 "teamScore": 1812604
                             },
                             {
@@ -461758,7 +461772,7 @@
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61,
+                                "rank": 62,
                                 "teamScore": 394308
                             }
                         ],
@@ -461994,14 +462008,14 @@
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57,
+                                "rank": 58,
                                 "teamScore": 577994
                             }
                         ],
                         "topUser": {
                             "id": "100584539",
                             "name": "魔女想睡觉 (CN)",
-                            "rank": 57,
+                            "rank": 58,
                             "teamScore": 577994
                         },
                         "rank": 21
@@ -462372,7 +462386,7 @@
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63,
+                                "rank": 64,
                                 "teamScore": 1284064
                             },
                             {
@@ -462396,7 +462410,7 @@
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62,
+                                "rank": 63,
                                 "teamScore": 1205832
                             },
                             {
@@ -462588,7 +462602,7 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59,
+                                "rank": 60,
                                 "teamScore": 1010562
                             },
                             {
@@ -462978,7 +462992,7 @@
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64,
+                                "rank": 65,
                                 "teamScore": 747255
                             },
                             {
@@ -463302,7 +463316,7 @@
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60,
+                                "rank": 61,
                                 "teamScore": 625689
                             },
                             {
@@ -464107,7 +464121,7 @@
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61,
+                                "rank": 62,
                                 "teamScore": 1703431
                             },
                             {
@@ -464215,8 +464229,8 @@
                             {
                                 "id": "901096538",
                                 "name": "冬月櫻 (TW)",
-                                "rank": 68,
-                                "teamScore": 822625
+                                "rank": 56,
+                                "teamScore": 892002
                             },
                             {
                                 "id": "300340205",
@@ -464714,7 +464728,7 @@
                         "topUser": {
                             "id": "304177371",
                             "name": "ElLuka (JP)",
-                            "rank": 61,
+                            "rank": 62,
                             "teamScore": 1703431
                         },
                         "rank": 4,
@@ -464736,12 +464750,12 @@
                                 "p514522": 93,
                                 "p514521": 93,
                                 "p514525": 93,
-                                "p514532": 93,
+                                "p514532": 92,
                                 "p514526": 91,
                                 "p514242": 86,
-                                "p514527": 51,
+                                "p514527": 52,
                                 "p514226": 49,
-                                "p515711": 36,
+                                "p515711": 37,
                                 "p514228": 30,
                                 "p515743": 19,
                                 "p514231": 18,
@@ -464774,7 +464788,7 @@
                                 "p514233": 86,
                                 "p515707": 85,
                                 "p514526": 82,
-                                "p515742": 74,
+                                "p515742": 75,
                                 "p514242": 72,
                                 "p514532": 57,
                                 "p514226": 16,
@@ -464798,12 +464812,12 @@
                                 "p515701": 96,
                                 "p514522": 93,
                                 "p514521": 93,
-                                "p514527": 40,
-                                "p514532": 36,
-                                "p515711": 34,
+                                "p514527": 41,
+                                "p515711": 35,
+                                "p514532": 35,
                                 "p514226": 33,
                                 "p514228": 25,
-                                "p515742": 20,
+                                "p515742": 19,
                                 "p515712": 16,
                                 "p514242": 14,
                                 "p515743": 13,
@@ -465310,7 +465324,7 @@
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67,
+                                "rank": 68,
                                 "teamScore": 673031
                             },
                             {
@@ -465430,7 +465444,7 @@
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58,
+                                "rank": 59,
                                 "teamScore": 469868
                             },
                             {
@@ -465640,7 +465654,7 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56,
+                                "rank": 57,
                                 "teamScore": 336107
                             },
                             {
@@ -465868,7 +465882,7 @@
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65,
+                                "rank": 66,
                                 "teamScore": 135315
                             }
                         ],
@@ -466759,14 +466773,14 @@
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57,
+                                "rank": 58,
                                 "teamScore": 577994
                             }
                         ],
                         "topUser": {
                             "id": "100584539",
                             "name": "魔女想睡觉 (CN)",
-                            "rank": 57,
+                            "rank": 58,
                             "teamScore": 577994
                         },
                         "rank": 13,
@@ -467270,7 +467284,7 @@
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66,
+                                "rank": 67,
                                 "teamScore": 240456
                             },
                             {
@@ -468024,7 +468038,7 @@
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65,
+                                "rank": 66,
                                 "teamScore": 1920557
                             },
                             {
@@ -468048,7 +468062,7 @@
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66,
+                                "rank": 67,
                                 "teamScore": 1812604
                             },
                             {
@@ -468375,7 +468389,7 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56,
+                                "rank": 57,
                                 "teamScore": 1780807
                             },
                             {
@@ -468411,7 +468425,7 @@
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58,
+                                "rank": 59,
                                 "teamScore": 1635718
                             },
                             {
@@ -468447,7 +468461,7 @@
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57,
+                                "rank": 58,
                                 "teamScore": 1537417
                             },
                             {
@@ -468495,7 +468509,7 @@
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67,
+                                "rank": 68,
                                 "teamScore": 1379609
                             },
                             {
@@ -468591,7 +468605,7 @@
                             {
                                 "id": "901096538",
                                 "name": "冬月櫻 (TW)",
-                                "rank": 68,
+                                "rank": 56,
                                 "teamScore": 1228472
                             },
                             {
@@ -469568,7 +469582,7 @@
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60,
+                                "rank": 61,
                                 "teamScore": 1472423
                             },
                             {
@@ -469586,7 +469600,7 @@
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64,
+                                "rank": 65,
                                 "teamScore": 1316865
                             },
                             {
@@ -469820,7 +469834,7 @@
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62,
+                                "rank": 63,
                                 "teamScore": 891671
                             },
                             {
@@ -470012,7 +470026,7 @@
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63,
+                                "rank": 64,
                                 "teamScore": 791674
                             },
                             {
@@ -471252,7 +471266,7 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59,
+                                "rank": 60,
                                 "teamScore": 1094905
                             },
                             {
@@ -472598,7 +472612,7 @@
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61,
+                                "rank": 62,
                                 "teamScore": 394308
                             }
                         ],
@@ -473051,7 +473065,7 @@
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65,
+                                "rank": 66,
                                 "teamScore": 1920557
                             },
                             {
@@ -473075,7 +473089,7 @@
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66,
+                                "rank": 67,
                                 "teamScore": 1812604
                             },
                             {
@@ -473450,7 +473464,7 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56,
+                                "rank": 57,
                                 "teamScore": 1780807
                             },
                             {
@@ -473492,7 +473506,7 @@
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58,
+                                "rank": 59,
                                 "teamScore": 1635718
                             },
                             {
@@ -473552,7 +473566,7 @@
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57,
+                                "rank": 58,
                                 "teamScore": 1537417
                             },
                             {
@@ -473606,7 +473620,7 @@
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67,
+                                "rank": 68,
                                 "teamScore": 1379609
                             },
                             {
@@ -473684,7 +473698,7 @@
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63,
+                                "rank": 64,
                                 "teamScore": 1284064
                             },
                             {
@@ -473762,7 +473776,7 @@
                             {
                                 "id": "901096538",
                                 "name": "冬月櫻 (TW)",
-                                "rank": 68,
+                                "rank": 56,
                                 "teamScore": 1228472
                             },
                             {
@@ -473798,7 +473812,7 @@
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62,
+                                "rank": 63,
                                 "teamScore": 1205832
                             },
                             {
@@ -474176,7 +474190,7 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59,
+                                "rank": 60,
                                 "teamScore": 1010562
                             },
                             {
@@ -474812,7 +474826,7 @@
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64,
+                                "rank": 65,
                                 "teamScore": 747255
                             },
                             {
@@ -475310,7 +475324,7 @@
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60,
+                                "rank": 61,
                                 "teamScore": 625689
                             },
                             {
@@ -475931,7 +475945,7 @@
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 60,
+                                "rank": 61,
                                 "teamScore": 1472423
                             },
                             {
@@ -475949,7 +475963,7 @@
                             {
                                 "id": "300684924",
                                 "name": "シャチタス (JP)",
-                                "rank": 64,
+                                "rank": 65,
                                 "teamScore": 1316865
                             },
                             {
@@ -476183,7 +476197,7 @@
                             {
                                 "id": "101003023",
                                 "name": "Suteki (CN)",
-                                "rank": 62,
+                                "rank": 63,
                                 "teamScore": 891671
                             },
                             {
@@ -476375,7 +476389,7 @@
                             {
                                 "id": "301318326",
                                 "name": "たつきちゃん (JP)",
-                                "rank": 63,
+                                "rank": 64,
                                 "teamScore": 791674
                             },
                             {
@@ -477239,7 +477253,7 @@
                             {
                                 "id": "300427647",
                                 "name": "こおど (JP)",
-                                "rank": 66,
+                                "rank": 67,
                                 "teamScore": 240456
                             },
                             {
@@ -477814,7 +477828,7 @@
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61,
+                                "rank": 62,
                                 "teamScore": 1703431
                             },
                             {
@@ -477922,8 +477936,8 @@
                             {
                                 "id": "901096538",
                                 "name": "冬月櫻 (TW)",
-                                "rank": 68,
-                                "teamScore": 822625
+                                "rank": 56,
+                                "teamScore": 892002
                             },
                             {
                                 "id": "300340205",
@@ -478421,7 +478435,7 @@
                         "topUser": {
                             "id": "304177371",
                             "name": "ElLuka (JP)",
-                            "rank": 61,
+                            "rank": 62,
                             "teamScore": 1703431
                         },
                         "rank": 6,
@@ -478443,12 +478457,12 @@
                                 "p514522": 93,
                                 "p514521": 93,
                                 "p514525": 93,
-                                "p514532": 93,
+                                "p514532": 92,
                                 "p514526": 91,
                                 "p514242": 86,
-                                "p514527": 51,
+                                "p514527": 52,
                                 "p514226": 49,
-                                "p515711": 36,
+                                "p515711": 37,
                                 "p514228": 30,
                                 "p515743": 19,
                                 "p514231": 18,
@@ -478481,7 +478495,7 @@
                                 "p514233": 86,
                                 "p515707": 85,
                                 "p514526": 82,
-                                "p515742": 74,
+                                "p515742": 75,
                                 "p514242": 72,
                                 "p514532": 57,
                                 "p514226": 16,
@@ -478505,12 +478519,12 @@
                                 "p515701": 96,
                                 "p514522": 93,
                                 "p514521": 93,
-                                "p514527": 40,
-                                "p514532": 36,
-                                "p515711": 34,
+                                "p514527": 41,
+                                "p515711": 35,
+                                "p514532": 35,
                                 "p514226": 33,
                                 "p514228": 25,
-                                "p515742": 20,
+                                "p515742": 19,
                                 "p515712": 16,
                                 "p514242": 14,
                                 "p515743": 13,
@@ -479110,7 +479124,7 @@
                             {
                                 "id": "501852452",
                                 "name": "츠아 (KR)",
-                                "rank": 59,
+                                "rank": 60,
                                 "teamScore": 1094905
                             },
                             {
@@ -479605,7 +479619,7 @@
                             {
                                 "id": "301066887",
                                 "name": "Jotter (JP)",
-                                "rank": 67,
+                                "rank": 68,
                                 "teamScore": 673031
                             },
                             {
@@ -479725,7 +479739,7 @@
                             {
                                 "id": "500510283",
                                 "name": "늙고병든세기 (KR)",
-                                "rank": 58,
+                                "rank": 59,
                                 "teamScore": 469868
                             },
                             {
@@ -479935,7 +479949,7 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 56,
+                                "rank": 57,
                                 "teamScore": 336107
                             },
                             {
@@ -480163,7 +480177,7 @@
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 65,
+                                "rank": 66,
                                 "teamScore": 135315
                             }
                         ],
@@ -481733,7 +481747,7 @@
                             {
                                 "id": "304177371",
                                 "name": "ElLuka (JP)",
-                                "rank": 61,
+                                "rank": 62,
                                 "teamScore": 394308
                             }
                         ],
@@ -481850,14 +481864,14 @@
                             {
                                 "id": "100584539",
                                 "name": "魔女想睡觉 (CN)",
-                                "rank": 57,
+                                "rank": 58,
                                 "teamScore": 577994
                             }
                         ],
                         "topUser": {
                             "id": "100584539",
                             "name": "魔女想睡觉 (CN)",
-                            "rank": 57,
+                            "rank": 58,
                             "teamScore": 577994
                         },
                         "rank": 23,
