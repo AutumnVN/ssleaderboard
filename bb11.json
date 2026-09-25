@@ -1,7 +1,7 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1790294858",
+            "LastRefreshTime": "1790295458",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
@@ -33917,7 +33917,7 @@
                     ]
                 }
             ],
-            "Total": 17926,
+            "Total": 17928,
             "UsageByFloor": {
                 "24": [
                     {
@@ -50296,7 +50296,7 @@
             }
         },
         "jp": {
-            "LastRefreshTime": "1790295131",
+            "LastRefreshTime": "1790295731",
             "Rank": [
                 {
                     "Id": "300994285",
@@ -76846,7 +76846,7 @@
                     "Id": "303822810",
                     "NickName": "うぃろぴんな",
                     "HeadIcon": 13001,
-                    "Score": 1352702,
+                    "Score": 1359887,
                     "Rank": 80,
                     "TitlePrefix": 13,
                     "TitleSuffix": 6,
@@ -76867,7 +76867,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 672320,
+                            "LevelScore": 679505,
                             "LevelId": 24,
                             "Discs": [
                                 214026,
@@ -82034,8 +82034,14 @@
                             "Id": 112111,
                             "AffinityLV": 99
                         },
-                        {},
-                        {}
+                        {
+                            "Id": 112114,
+                            "AffinityLV": 42
+                        },
+                        {
+                            "Id": 119902,
+                            "AffinityLV": 18
+                        }
                     ]
                 },
                 {
@@ -83713,7 +83719,7 @@
                     ]
                 }
             ],
-            "Total": 22182,
+            "Total": 22183,
             "UsageByFloor": {
                 "24": [
                     {
@@ -90685,7 +90691,7 @@
                                 "id": "303822810",
                                 "name": "うぃろぴんな",
                                 "rank": 80,
-                                "teamScore": 672320
+                                "teamScore": 679505
                             },
                             {
                                 "id": "301138317",
@@ -92641,7 +92647,7 @@
                                 "id": "303822810",
                                 "name": "うぃろぴんな",
                                 "rank": 80,
-                                "teamScore": 672320
+                                "teamScore": 679505
                             },
                             {
                                 "id": "301138317",
@@ -94332,7 +94338,7 @@
                                 "id": "303822810",
                                 "name": "うぃろぴんな",
                                 "rank": 80,
-                                "teamScore": 672320
+                                "teamScore": 679505
                             },
                             {
                                 "id": "301138317",
@@ -97957,7 +97963,7 @@
                                 "id": "303822810",
                                 "name": "うぃろぴんな",
                                 "rank": 80,
-                                "teamScore": 672320
+                                "teamScore": 679505
                             },
                             {
                                 "id": "301138317",
@@ -100108,7 +100114,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1790294954",
+            "LastRefreshTime": "1790295554",
             "Rank": [
                 {
                     "Id": "502462985",
@@ -309494,11 +309500,343 @@
                     ]
                 },
                 {
+                    "Id": "303822810",
+                    "NickName": "うぃろぴんな (JP)",
+                    "HeadIcon": 13001,
+                    "Score": 1359887,
+                    "Rank": 182,
+                    "TitlePrefix": 13,
+                    "TitleSuffix": 6,
+                    "Teams": [
+                        {
+                            "BuildScore": 10275,
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 679505,
+                            "LevelId": 24,
+                            "Discs": [
+                                214026,
+                                214008,
+                                214055,
+                                214047,
+                                214005,
+                                214056
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514442,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 514412,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513031,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513032,
+                                    "Level": 3
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 45
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 18
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 7
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 32
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 3
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 53
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 1
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4026103,
+                                4026202,
+                                4008102,
+                                4008202,
+                                4055103,
+                                4055202
+                            ],
+                            "RecordRank": "34",
+                            "BuildCode": "AAAAkAAAAKAAAACCMAbC5igwBsBgBsuADYwA"
+                        },
+                        {
+                            "BuildScore": 9150,
+                            "Chars": [
+                                {
+                                    "Id": 156,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 149,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 159,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 680382,
+                            "LevelId": 25,
+                            "Discs": [
+                                214036,
+                                214037,
+                                214023,
+                                214042,
+                                214054,
+                                214052
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 515602,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515601,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515613,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515606,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515612,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515610,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515643,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515611,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 514923,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514922,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514932,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514933,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514931,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514930,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 515921,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515924,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515933,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515926,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515942,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 515929,
+                                    "Level": 6
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90021,
+                                    "Qty": 47
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 10
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 23
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 23
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 16
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 33
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 12
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 18
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4036101,
+                                4036201,
+                                4037102,
+                                4037201,
+                                4023101,
+                                4023201
+                            ],
+                            "RecordRank": "31",
+                            "BuildCode": "AAAAnAAAAJUAAACfwYAPbAZgAFsMAJGAAGwg"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 116015
+                        },
+                        {
+                            "Id": 118001
+                        },
+                        {
+                            "Id": 117001
+                        }
+                    ]
+                },
+                {
                     "Id": "100540914",
                     "NickName": "龟海音 (CN)",
                     "HeadIcon": 130008,
                     "Score": 1359731,
-                    "Rank": 182,
+                    "Rank": 183,
                     "TitlePrefix": 39,
                     "TitleSuffix": 20,
                     "Teams": [
@@ -309853,7 +310191,7 @@
                     "NickName": "不知道 (CN)",
                     "HeadIcon": 12501,
                     "Score": 1356724,
-                    "Rank": 183,
+                    "Rank": 184,
                     "TitlePrefix": 21,
                     "TitleSuffix": 4,
                     "Teams": [
@@ -310188,7 +310526,7 @@
                     "NickName": "再也不洗纹章 (CN)",
                     "HeadIcon": 13504,
                     "Score": 1353624,
-                    "Rank": 184,
+                    "Rank": 185,
                     "TitlePrefix": 3,
                     "TitleSuffix": 4,
                     "Teams": [
@@ -310521,338 +310859,6 @@
                         {
                             "Id": 112145,
                             "AffinityLV": 53
-                        }
-                    ]
-                },
-                {
-                    "Id": "303822810",
-                    "NickName": "うぃろぴんな (JP)",
-                    "HeadIcon": 13001,
-                    "Score": 1352702,
-                    "Rank": 185,
-                    "TitlePrefix": 13,
-                    "TitleSuffix": 6,
-                    "Teams": [
-                        {
-                            "BuildScore": 10275,
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 672320,
-                            "LevelId": 24,
-                            "Discs": [
-                                214026,
-                                214008,
-                                214055,
-                                214047,
-                                214005,
-                                214056
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514442,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513031,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513032,
-                                    "Level": 3
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 45
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 18
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 7
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 32
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 3
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 53
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 1
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4026103,
-                                4026202,
-                                4008102,
-                                4008202,
-                                4055103,
-                                4055202
-                            ],
-                            "RecordRank": "34",
-                            "BuildCode": "AAAAkAAAAKAAAACCMAbC5igwBsBgBsuADYwA"
-                        },
-                        {
-                            "BuildScore": 9150,
-                            "Chars": [
-                                {
-                                    "Id": 156,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 149,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 159,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 680382,
-                            "LevelId": 25,
-                            "Discs": [
-                                214036,
-                                214037,
-                                214023,
-                                214042,
-                                214054,
-                                214052
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 515602,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515601,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515613,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515606,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515612,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515610,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515643,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515611,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 514923,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514922,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514932,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514933,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514931,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514930,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 515921,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515924,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515933,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515926,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515942,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 515929,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90021,
-                                    "Qty": 47
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 10
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 23
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 23
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 33
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 12
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 18
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4036101,
-                                4036201,
-                                4037102,
-                                4037201,
-                                4023101,
-                                4023201
-                            ],
-                            "RecordRank": "31",
-                            "BuildCode": "AAAAnAAAAJUAAACfwYAPbAZgAFsMAJGAAGwg"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 116015
-                        },
-                        {
-                            "Id": 118001
-                        },
-                        {
-                            "Id": 117001
                         }
                     ]
                 },
@@ -324825,8 +324831,14 @@
                             "Id": 112111,
                             "AffinityLV": 99
                         },
-                        {},
-                        {}
+                        {
+                            "Id": 112114,
+                            "AffinityLV": 42
+                        },
+                        {
+                            "Id": 119902,
+                            "AffinityLV": 18
+                        }
                     ]
                 },
                 {
@@ -416651,8 +416663,8 @@
                     ]
                 }
             ],
-            "Total": 77714,
-            "LastRefreshTime": "1790295143",
+            "Total": 77717,
+            "LastRefreshTime": "1790295731",
             "UsageByFloor": {
                 "24": [
                     {
@@ -417328,17 +417340,17 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182
+                                "rank": 183
                             },
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 183
+                                "rank": 184
                             },
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184
+                                "rank": 185
                             },
                             {
                                 "id": "100347962",
@@ -419161,17 +419173,17 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182
+                                "rank": 183
                             },
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 183
+                                "rank": 184
                             },
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184
+                                "rank": 185
                             },
                             {
                                 "id": "100347962",
@@ -420989,17 +421001,17 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182
+                                "rank": 183
                             },
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 183
+                                "rank": 184
                             },
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184
+                                "rank": 185
                             },
                             {
                                 "id": "100347962",
@@ -422252,7 +422264,7 @@
                             {
                                 "id": "303822810",
                                 "name": "うぃろぴんな (JP)",
-                                "rank": 185
+                                "rank": 182
                             },
                             {
                                 "id": "301138317",
@@ -423426,7 +423438,7 @@
                             {
                                 "id": "303822810",
                                 "name": "うぃろぴんな (JP)",
-                                "rank": 185
+                                "rank": 182
                             },
                             {
                                 "id": "301138317",
@@ -423684,7 +423696,7 @@
                             {
                                 "id": "303822810",
                                 "name": "うぃろぴんな (JP)",
-                                "rank": 185
+                                "rank": 182
                             },
                             {
                                 "id": "301138317",
@@ -424941,14 +424953,14 @@
                                 "rank": 181
                             },
                             {
-                                "id": "100336489",
-                                "name": "不知道 (CN)",
-                                "rank": 183
-                            },
-                            {
                                 "id": "303822810",
                                 "name": "うぃろぴんな (JP)",
-                                "rank": 185
+                                "rank": 182
+                            },
+                            {
+                                "id": "100336489",
+                                "name": "不知道 (CN)",
+                                "rank": 184
                             },
                             {
                                 "id": "100347962",
@@ -426574,14 +426586,14 @@
                                 "rank": 181
                             },
                             {
-                                "id": "100336489",
-                                "name": "不知道 (CN)",
-                                "rank": 183
-                            },
-                            {
                                 "id": "303822810",
                                 "name": "うぃろぴんな (JP)",
-                                "rank": 185
+                                "rank": 182
+                            },
+                            {
+                                "id": "100336489",
+                                "name": "不知道 (CN)",
+                                "rank": 184
                             },
                             {
                                 "id": "100347962",
@@ -428017,14 +428029,14 @@
                                 "rank": 181
                             },
                             {
-                                "id": "100336489",
-                                "name": "不知道 (CN)",
-                                "rank": 183
-                            },
-                            {
                                 "id": "303822810",
                                 "name": "うぃろぴんな (JP)",
-                                "rank": 185
+                                "rank": 182
+                            },
+                            {
+                                "id": "100336489",
+                                "name": "不知道 (CN)",
+                                "rank": 184
                             },
                             {
                                 "id": "100347962",
@@ -429177,7 +429189,7 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182
+                                "rank": 183
                             },
                             {
                                 "id": "101003023",
@@ -429575,7 +429587,7 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182
+                                "rank": 183
                             },
                             {
                                 "id": "101003023",
@@ -429928,7 +429940,7 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182
+                                "rank": 183
                             },
                             {
                                 "id": "101003023",
@@ -431401,7 +431413,7 @@
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184
+                                "rank": 185
                             },
                             {
                                 "id": "700632942",
@@ -431559,7 +431571,7 @@
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184
+                                "rank": 185
                             },
                             {
                                 "id": "700632942",
@@ -431702,7 +431714,7 @@
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184
+                                "rank": 185
                             },
                             {
                                 "id": "700632942",
@@ -432653,17 +432665,17 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182
+                                "rank": 183
                             },
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 183
+                                "rank": 184
                             },
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184
+                                "rank": 185
                             },
                             {
                                 "id": "100347962",
@@ -434491,17 +434503,17 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182
+                                "rank": 183
                             },
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 183
+                                "rank": 184
                             },
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184
+                                "rank": 185
                             },
                             {
                                 "id": "100347962",
@@ -436312,14 +436324,14 @@
                                 "rank": 181
                             },
                             {
-                                "id": "100336489",
-                                "name": "不知道 (CN)",
-                                "rank": 183
-                            },
-                            {
                                 "id": "303822810",
                                 "name": "うぃろぴんな (JP)",
-                                "rank": 185
+                                "rank": 182
+                            },
+                            {
+                                "id": "100336489",
+                                "name": "不知道 (CN)",
+                                "rank": 184
                             },
                             {
                                 "id": "100347962",
@@ -438072,17 +438084,17 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182
+                                "rank": 183
                             },
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 183
+                                "rank": 184
                             },
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184
+                                "rank": 185
                             },
                             {
                                 "id": "100347962",
@@ -439658,14 +439670,14 @@
                                 "rank": 181
                             },
                             {
-                                "id": "100336489",
-                                "name": "不知道 (CN)",
-                                "rank": 183
-                            },
-                            {
                                 "id": "303822810",
                                 "name": "うぃろぴんな (JP)",
-                                "rank": 185
+                                "rank": 182
+                            },
+                            {
+                                "id": "100336489",
+                                "name": "不知道 (CN)",
+                                "rank": 184
                             },
                             {
                                 "id": "100347962",
@@ -441226,14 +441238,14 @@
                                 "rank": 181
                             },
                             {
-                                "id": "100336489",
-                                "name": "不知道 (CN)",
-                                "rank": 183
-                            },
-                            {
                                 "id": "303822810",
                                 "name": "うぃろぴんな (JP)",
-                                "rank": 185
+                                "rank": 182
+                            },
+                            {
+                                "id": "100336489",
+                                "name": "不知道 (CN)",
+                                "rank": 184
                             },
                             {
                                 "id": "100347962",
@@ -442519,14 +442531,14 @@
                                 "rank": 179
                             },
                             {
-                                "id": "100540914",
-                                "name": "龟海音 (CN)",
+                                "id": "303822810",
+                                "name": "うぃろぴんな (JP)",
                                 "rank": 182
                             },
                             {
-                                "id": "303822810",
-                                "name": "うぃろぴんな (JP)",
-                                "rank": 185
+                                "id": "100540914",
+                                "name": "龟海音 (CN)",
+                                "rank": 183
                             },
                             {
                                 "id": "301138317",
@@ -443377,14 +443389,14 @@
                                 "rank": 179
                             },
                             {
-                                "id": "100540914",
-                                "name": "龟海音 (CN)",
+                                "id": "303822810",
+                                "name": "うぃろぴんな (JP)",
                                 "rank": 182
                             },
                             {
-                                "id": "303822810",
-                                "name": "うぃろぴんな (JP)",
-                                "rank": 185
+                                "id": "100540914",
+                                "name": "龟海音 (CN)",
+                                "rank": 183
                             },
                             {
                                 "id": "301138317",
@@ -444578,14 +444590,14 @@
                                 "rank": 179
                             },
                             {
-                                "id": "100540914",
-                                "name": "龟海音 (CN)",
+                                "id": "303822810",
+                                "name": "うぃろぴんな (JP)",
                                 "rank": 182
                             },
                             {
-                                "id": "303822810",
-                                "name": "うぃろぴんな (JP)",
-                                "rank": 185
+                                "id": "100540914",
+                                "name": "龟海音 (CN)",
+                                "rank": 183
                             },
                             {
                                 "id": "301138317",
@@ -446473,7 +446485,7 @@
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184
+                                "rank": 185
                             },
                             {
                                 "id": "700632942",
@@ -446631,7 +446643,7 @@
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184
+                                "rank": 185
                             },
                             {
                                 "id": "700632942",
@@ -446774,7 +446786,7 @@
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184
+                                "rank": 185
                             },
                             {
                                 "id": "700632942",
@@ -447533,7 +447545,7 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182,
+                                "rank": 183,
                                 "teamScore": 961135
                             },
                             {
@@ -447569,7 +447581,7 @@
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 183,
+                                "rank": 184,
                                 "teamScore": 928198
                             },
                             {
@@ -447671,7 +447683,7 @@
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184,
+                                "rank": 185,
                                 "teamScore": 839458
                             },
                             {
@@ -449727,8 +449739,8 @@
                             {
                                 "id": "303822810",
                                 "name": "うぃろぴんな (JP)",
-                                "rank": 185,
-                                "teamScore": 672320
+                                "rank": 182,
+                                "teamScore": 679505
                             },
                             {
                                 "id": "700590521",
@@ -451319,7 +451331,7 @@
                             {
                                 "id": "303822810",
                                 "name": "うぃろぴんな (JP)",
-                                "rank": 185,
+                                "rank": 182,
                                 "teamScore": 680382
                             },
                             {
@@ -451883,7 +451895,7 @@
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 183,
+                                "rank": 184,
                                 "teamScore": 428526
                             },
                             {
@@ -452455,7 +452467,7 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182,
+                                "rank": 183,
                                 "teamScore": 398596
                             },
                             {
@@ -453321,7 +453333,7 @@
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184,
+                                "rank": 185,
                                 "teamScore": 514166
                             },
                             {
@@ -454351,7 +454363,7 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182,
+                                "rank": 183,
                                 "teamScore": 961135
                             },
                             {
@@ -454387,7 +454399,7 @@
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 183,
+                                "rank": 184,
                                 "teamScore": 928198
                             },
                             {
@@ -454489,7 +454501,7 @@
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184,
+                                "rank": 185,
                                 "teamScore": 839458
                             },
                             {
@@ -456891,7 +456903,7 @@
                             {
                                 "id": "303822810",
                                 "name": "うぃろぴんな (JP)",
-                                "rank": 185,
+                                "rank": 182,
                                 "teamScore": 680382
                             },
                             {
@@ -457461,7 +457473,7 @@
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 183,
+                                "rank": 184,
                                 "teamScore": 428526
                             },
                             {
@@ -457869,16 +457881,16 @@
                                 "teamScore": 692275
                             },
                             {
+                                "id": "303822810",
+                                "name": "うぃろぴんな (JP)",
+                                "rank": 182,
+                                "teamScore": 679505
+                            },
+                            {
                                 "id": "700476610",
                                 "name": "Mash (EN)",
                                 "rank": 302,
                                 "teamScore": 677879
-                            },
-                            {
-                                "id": "303822810",
-                                "name": "うぃろぴんな (JP)",
-                                "rank": 185,
-                                "teamScore": 672320
                             },
                             {
                                 "id": "700590521",
@@ -458201,7 +458213,7 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182,
+                                "rank": 183,
                                 "teamScore": 398596
                             },
                             {
@@ -459627,7 +459639,7 @@
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184,
+                                "rank": 185,
                                 "teamScore": 514166
                             },
                             {
@@ -461584,7 +461596,7 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182,
+                                "rank": 183,
                                 "teamScore": 961135
                             },
                             {
@@ -461620,7 +461632,7 @@
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 183,
+                                "rank": 184,
                                 "teamScore": 928198
                             },
                             {
@@ -461722,7 +461734,7 @@
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184,
+                                "rank": 185,
                                 "teamScore": 839458
                             },
                             {
@@ -463585,8 +463597,8 @@
                             {
                                 "id": "303822810",
                                 "name": "うぃろぴんな (JP)",
-                                "rank": 185,
-                                "teamScore": 672320
+                                "rank": 182,
+                                "teamScore": 679505
                             },
                             {
                                 "id": "700590521",
@@ -466397,7 +466409,7 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182,
+                                "rank": 183,
                                 "teamScore": 398596
                             },
                             {
@@ -467542,7 +467554,7 @@
                             {
                                 "id": "303822810",
                                 "name": "うぃろぴんな (JP)",
-                                "rank": 185,
+                                "rank": 182,
                                 "teamScore": 680382
                             },
                             {
@@ -468106,7 +468118,7 @@
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 183,
+                                "rank": 184,
                                 "teamScore": 428526
                             },
                             {
@@ -469283,7 +469295,7 @@
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184,
+                                "rank": 185,
                                 "teamScore": 514166
                             },
                             {
@@ -472741,7 +472753,7 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182,
+                                "rank": 183,
                                 "teamScore": 961135
                             },
                             {
@@ -472777,7 +472789,7 @@
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 183,
+                                "rank": 184,
                                 "teamScore": 928198
                             },
                             {
@@ -472879,7 +472891,7 @@
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184,
+                                "rank": 185,
                                 "teamScore": 839458
                             },
                             {
@@ -474860,16 +474872,16 @@
                                 "teamScore": 692275
                             },
                             {
+                                "id": "303822810",
+                                "name": "うぃろぴんな (JP)",
+                                "rank": 182,
+                                "teamScore": 679505
+                            },
+                            {
                                 "id": "700476610",
                                 "name": "Mash (EN)",
                                 "rank": 302,
                                 "teamScore": 677879
-                            },
-                            {
-                                "id": "303822810",
-                                "name": "うぃろぴんな (JP)",
-                                "rank": 185,
-                                "teamScore": 672320
                             },
                             {
                                 "id": "700590521",
@@ -475192,7 +475204,7 @@
                             {
                                 "id": "100540914",
                                 "name": "龟海音 (CN)",
-                                "rank": 182,
+                                "rank": 183,
                                 "teamScore": 398596
                             },
                             {
@@ -476318,7 +476330,7 @@
                             {
                                 "id": "303822810",
                                 "name": "うぃろぴんな (JP)",
-                                "rank": 185,
+                                "rank": 182,
                                 "teamScore": 680382
                             },
                             {
@@ -476888,7 +476900,7 @@
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 183,
+                                "rank": 184,
                                 "teamScore": 428526
                             },
                             {
@@ -478159,7 +478171,7 @@
                             {
                                 "id": "100528431",
                                 "name": "再也不洗纹章 (CN)",
-                                "rank": 184,
+                                "rank": 185,
                                 "teamScore": 514166
                             },
                             {
