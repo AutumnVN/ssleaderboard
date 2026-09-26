@@ -1,14 +1,14 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1790407882",
+            "LastRefreshTime": "1790408482",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "WorldClass": 40,
                 "HeadIcon": 15602,
                 "Score": 8779979,
-                "Rank": 853,
+                "Rank": 854,
                 "TitlePrefix": 35,
                 "TitleSuffix": 36,
                 "Honors": [
@@ -18225,7 +18225,7 @@
                     ]
                 }
             ],
-            "Total": 21055,
+            "Total": 21063,
             "UsageByFloor": {
                 "all": [
                     {
@@ -22634,7 +22634,7 @@
             }
         },
         "jp": {
-            "LastRefreshTime": "1790407437",
+            "LastRefreshTime": "1790408037",
             "Self": {},
             "Rank": [
                 {
@@ -25567,7 +25567,7 @@
                     "NickName": "カラースプレー",
                     "WorldClass": 1,
                     "HeadIcon": 15501,
-                    "Score": 13728194,
+                    "Score": 13732941,
                     "Rank": 17,
                     "TitlePrefix": 11,
                     "TitleSuffix": 2,
@@ -25603,7 +25603,7 @@
                             ],
                             "BuildScore": 9120,
                             "Damage": 3543994134,
-                            "Time": 77013,
+                            "Time": 76427,
                             "Discs": [
                                 214006,
                                 214057,
@@ -40651,7 +40651,7 @@
                     ]
                 }
             ],
-            "Total": 32482,
+            "Total": 32487,
             "UsageByFloor": {
                 "all": [
                     {
@@ -42349,7 +42349,7 @@
                                 "id": "303536685",
                                 "name": "カラースプレー",
                                 "rank": 17,
-                                "teamScore": -77013
+                                "teamScore": -76427
                             },
                             {
                                 "id": "307271876",
@@ -43352,7 +43352,7 @@
                                 "id": "303536685",
                                 "name": "カラースプレー",
                                 "rank": 17,
-                                "teamScore": -77013
+                                "teamScore": -76427
                             },
                             {
                                 "id": "307271876",
@@ -44772,7 +44772,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1790407889",
+            "LastRefreshTime": "1790408490",
             "Self": {},
             "Rank": [
                 {
@@ -62825,7 +62825,7 @@
                     ]
                 }
             ],
-            "Total": 7000,
+            "Total": 7002,
             "UsageByFloor": {
                 "all": [
                     {
@@ -67197,7 +67197,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1790407826",
+            "LastRefreshTime": "1790408426",
             "Self": {},
             "Rank": [
                 {
@@ -123718,12 +123718,195 @@
                     ]
                 },
                 {
+                    "Id": "303536685",
+                    "NickName": "カラースプレー (JP)",
+                    "WorldClass": 1,
+                    "HeadIcon": 15501,
+                    "Score": 13732941,
+                    "Rank": 32,
+                    "TitlePrefix": 11,
+                    "TitleSuffix": 2,
+                    "Honors": [
+                        {
+                            "Id": 112155,
+                            "AffinityLV": 99
+                        },
+                        {
+                            "Id": 112157,
+                            "AffinityLV": 42
+                        },
+                        {
+                            "Id": 112145,
+                            "AffinityLV": 42
+                        }
+                    ],
+                    "Teams": [
+                        {
+                            "Chars": [
+                                {
+                                    "Id": 157,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 145,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 142,
+                                    "Level": 90
+                                }
+                            ],
+                            "BuildScore": 9120,
+                            "Damage": 3543994134,
+                            "Time": 76427,
+                            "Discs": [
+                                214006,
+                                214057,
+                                214045,
+                                214032,
+                                214013,
+                                214014
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 515701,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515702,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515742,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515713,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515706,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515705,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515707,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 515712,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514522,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514521,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514531,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514527,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514525,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514526,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514533,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514222,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514223,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514230,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514225,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514233,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514242,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 514228,
+                                    "Level": 2
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 18
+                                },
+                                {
+                                    "Tid": 90023,
+                                    "Qty": 21
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 25
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 18
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 39
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 6
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 37
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4006101,
+                                4006201,
+                                4057101,
+                                4057201,
+                                4045101,
+                                4045201
+                            ],
+                            "RecordRank": "31",
+                            "BuildCode": "AAAAnQAAAJEAAACOzaADBDDNsBgEAGwCwAwo"
+                        }
+                    ]
+                },
+                {
                     "Id": "700340892",
                     "NickName": "Vyolets (EN)",
                     "WorldClass": 1,
                     "HeadIcon": 13504,
                     "Score": 13728924,
-                    "Rank": 32,
+                    "Rank": 33,
                     "TitlePrefix": 35,
                     "TitleSuffix": 36,
                     "Honors": [
@@ -123897,189 +124080,6 @@
                             ],
                             "RecordRank": "31",
                             "BuildCode": "AAAAnQAAAJEAAACOzagPADDNgBoAAGwA0Awg"
-                        }
-                    ]
-                },
-                {
-                    "Id": "303536685",
-                    "NickName": "カラースプレー (JP)",
-                    "WorldClass": 1,
-                    "HeadIcon": 15501,
-                    "Score": 13728194,
-                    "Rank": 33,
-                    "TitlePrefix": 11,
-                    "TitleSuffix": 2,
-                    "Honors": [
-                        {
-                            "Id": 112155,
-                            "AffinityLV": 99
-                        },
-                        {
-                            "Id": 112157,
-                            "AffinityLV": 42
-                        },
-                        {
-                            "Id": 112145,
-                            "AffinityLV": 42
-                        }
-                    ],
-                    "Teams": [
-                        {
-                            "Chars": [
-                                {
-                                    "Id": 157,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 145,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 142,
-                                    "Level": 90
-                                }
-                            ],
-                            "BuildScore": 9120,
-                            "Damage": 3543994134,
-                            "Time": 77013,
-                            "Discs": [
-                                214006,
-                                214057,
-                                214045,
-                                214032,
-                                214013,
-                                214014
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 515701,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515702,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515742,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515713,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515706,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515705,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515707,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 515712,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514522,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514521,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514531,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514527,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514525,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514526,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514533,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514222,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514223,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514230,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514225,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514233,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514242,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 514228,
-                                    "Level": 2
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 18
-                                },
-                                {
-                                    "Tid": 90023,
-                                    "Qty": 21
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 25
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 18
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 39
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 6
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 37
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4006101,
-                                4006201,
-                                4057101,
-                                4057201,
-                                4045101,
-                                4045201
-                            ],
-                            "RecordRank": "31",
-                            "BuildCode": "AAAAnQAAAJEAAACOzaADBDDNsBgEAGwCwAwo"
                         }
                     ]
                 },
@@ -213777,8 +213777,8 @@
                     ]
                 }
             ],
-            "Total": 98923,
-            "LastRefreshTime": "1790407889",
+            "Total": 98938,
+            "LastRefreshTime": "1790408490",
             "UsageByFloor": {
                 "all": [
                     {
@@ -213867,13 +213867,13 @@
                                 "rank": 29
                             },
                             {
-                                "id": "700340892",
-                                "name": "Vyolets (EN)",
+                                "id": "303536685",
+                                "name": "カラースプレー (JP)",
                                 "rank": 32
                             },
                             {
-                                "id": "303536685",
-                                "name": "カラースプレー (JP)",
+                                "id": "700340892",
+                                "name": "Vyolets (EN)",
                                 "rank": 33
                             },
                             {
@@ -215120,13 +215120,13 @@
                                 "rank": 29
                             },
                             {
-                                "id": "700340892",
-                                "name": "Vyolets (EN)",
+                                "id": "303536685",
+                                "name": "カラースプレー (JP)",
                                 "rank": 32
                             },
                             {
-                                "id": "303536685",
-                                "name": "カラースプレー (JP)",
+                                "id": "700340892",
+                                "name": "Vyolets (EN)",
                                 "rank": 33
                             },
                             {
@@ -216373,13 +216373,13 @@
                                 "rank": 29
                             },
                             {
-                                "id": "700340892",
-                                "name": "Vyolets (EN)",
+                                "id": "303536685",
+                                "name": "カラースプレー (JP)",
                                 "rank": 32
                             },
                             {
-                                "id": "303536685",
-                                "name": "カラースプレー (JP)",
+                                "id": "700340892",
+                                "name": "Vyolets (EN)",
                                 "rank": 33
                             },
                             {
@@ -222021,16 +222021,16 @@
                                 "teamScore": -75282
                             },
                             {
-                                "id": "700340892",
-                                "name": "Vyolets (EN)",
-                                "rank": 32,
-                                "teamScore": -76923
-                            },
-                            {
                                 "id": "303536685",
                                 "name": "カラースプレー (JP)",
+                                "rank": 32,
+                                "teamScore": -76427
+                            },
+                            {
+                                "id": "700340892",
+                                "name": "Vyolets (EN)",
                                 "rank": 33,
-                                "teamScore": -77013
+                                "teamScore": -76923
                             },
                             {
                                 "id": "307271876",
@@ -226327,16 +226327,16 @@
                                 "teamScore": -75282
                             },
                             {
-                                "id": "700340892",
-                                "name": "Vyolets (EN)",
-                                "rank": 32,
-                                "teamScore": -76923
-                            },
-                            {
                                 "id": "303536685",
                                 "name": "カラースプレー (JP)",
+                                "rank": 32,
+                                "teamScore": -76427
+                            },
+                            {
+                                "id": "700340892",
+                                "name": "Vyolets (EN)",
                                 "rank": 33,
-                                "teamScore": -77013
+                                "teamScore": -76923
                             },
                             {
                                 "id": "307271876",
