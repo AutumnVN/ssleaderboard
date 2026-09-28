@@ -1,14 +1,14 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1790556117",
+            "LastRefreshTime": "1790556717",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "WorldClass": 40,
                 "HeadIcon": 15602,
                 "Score": 8779979,
-                "Rank": 1010,
+                "Rank": 1011,
                 "TitlePrefix": 35,
                 "TitleSuffix": 36,
                 "Honors": [
@@ -18270,7 +18270,7 @@
                     ]
                 }
             ],
-            "Total": 22195,
+            "Total": 22197,
             "UsageByFloor": {
                 "all": [
                     {
@@ -22546,7 +22546,7 @@
             }
         },
         "jp": {
-            "LastRefreshTime": "1790556342",
+            "LastRefreshTime": "1790556942",
             "Self": {},
             "Rank": [
                 {
@@ -27679,7 +27679,7 @@
                         },
                         {
                             "Id": 112125,
-                            "AffinityLV": 51
+                            "AffinityLV": 52
                         },
                         {
                             "Id": 112133,
@@ -31639,12 +31639,190 @@
                     ]
                 },
                 {
+                    "Id": "300641200",
+                    "NickName": "天災デドダム",
+                    "WorldClass": 1,
+                    "HeadIcon": 101,
+                    "Score": 13513950,
+                    "Rank": 51,
+                    "TitlePrefix": 37,
+                    "TitleSuffix": 12,
+                    "Honors": [
+                        {
+                            "Id": 112144,
+                            "AffinityLV": 21
+                        },
+                        {
+                            "Id": 112110,
+                            "AffinityLV": 42
+                        },
+                        {
+                            "Id": 112143,
+                            "AffinityLV": 21
+                        }
+                    ],
+                    "Teams": [
+                        {
+                            "Chars": [
+                                {
+                                    "Id": 157,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 145,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 142,
+                                    "Level": 90
+                                }
+                            ],
+                            "BuildScore": 9165,
+                            "Damage": 3543994134,
+                            "Time": 103463,
+                            "Discs": [
+                                214045,
+                                214006,
+                                214032,
+                                214014,
+                                214009,
+                                214011
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 515701,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515702,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515713,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515705,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515742,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515706,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515707,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 515711,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514521,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514522,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514531,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514526,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514525,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514527,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514223,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514222,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514228,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514225,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514233,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514230,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514242,
+                                    "Level": 6
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 27
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 33
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 18
+                                },
+                                {
+                                    "Tid": 90023,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 24
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 13
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4045102,
+                                4045201,
+                                4006102,
+                                4032101,
+                                4032201
+                            ],
+                            "RecordRank": "31",
+                            "BuildCode": "AAAAnQAAAJEAAACOzZgLADDNkBgAAGwGwAww"
+                        }
+                    ]
+                },
+                {
                     "Id": "301100844",
                     "NickName": "たろう",
                     "WorldClass": 1,
                     "HeadIcon": 130005,
                     "Score": 13506935,
-                    "Rank": 51,
+                    "Rank": 52,
                     "TitlePrefix": 25,
                     "TitleSuffix": 38,
                     "Honors": [
@@ -31819,7 +31997,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 11802,
                     "Score": 13506206,
-                    "Rank": 52,
+                    "Rank": 53,
                     "TitlePrefix": 11,
                     "TitleSuffix": 38,
                     "Honors": [
@@ -31994,7 +32172,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 15601,
                     "Score": 13506101,
-                    "Rank": 53,
+                    "Rank": 54,
                     "TitlePrefix": 3,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -32176,7 +32354,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130007,
                     "Score": 13502780,
-                    "Rank": 54,
+                    "Rank": 55,
                     "TitlePrefix": 37,
                     "TitleSuffix": 4,
                     "Honors": [
@@ -32357,7 +32535,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130007,
                     "Score": 13502140,
-                    "Rank": 55,
+                    "Rank": 56,
                     "TitlePrefix": 35,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -32560,7 +32738,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14301,
                     "Score": 13499702,
-                    "Rank": 56,
+                    "Rank": 57,
                     "TitlePrefix": 1,
                     "TitleSuffix": 36,
                     "Honors": [
@@ -32747,7 +32925,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 13702,
                     "Score": 13488410,
-                    "Rank": 57,
+                    "Rank": 58,
                     "TitlePrefix": 3,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -32931,7 +33109,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 12503,
                     "Score": 13487649,
-                    "Rank": 58,
+                    "Rank": 59,
                     "TitlePrefix": 27,
                     "TitleSuffix": 12,
                     "Honors": [
@@ -33109,7 +33287,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130007,
                     "Score": 13485713,
-                    "Rank": 59,
+                    "Rank": 60,
                     "TitlePrefix": 11,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -33284,7 +33462,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14903,
                     "Score": 13485170,
-                    "Rank": 60,
+                    "Rank": 61,
                     "TitlePrefix": 5,
                     "TitleSuffix": 8,
                     "Honors": [
@@ -33454,7 +33632,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14403,
                     "Score": 13482797,
-                    "Rank": 61,
+                    "Rank": 62,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -33622,184 +33800,6 @@
                             ],
                             "RecordRank": "31",
                             "BuildCode": "AAAAnAAAAJUAAACfwYAHbAZgAHsKAJGAAGww"
-                        }
-                    ]
-                },
-                {
-                    "Id": "300641200",
-                    "NickName": "天災デドダム",
-                    "WorldClass": 1,
-                    "HeadIcon": 101,
-                    "Score": 13482554,
-                    "Rank": 62,
-                    "TitlePrefix": 37,
-                    "TitleSuffix": 12,
-                    "Honors": [
-                        {
-                            "Id": 112144,
-                            "AffinityLV": 21
-                        },
-                        {
-                            "Id": 112110,
-                            "AffinityLV": 42
-                        },
-                        {
-                            "Id": 112143,
-                            "AffinityLV": 21
-                        }
-                    ],
-                    "Teams": [
-                        {
-                            "Chars": [
-                                {
-                                    "Id": 157,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 145,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 142,
-                                    "Level": 90
-                                }
-                            ],
-                            "BuildScore": 9165,
-                            "Damage": 3543994134,
-                            "Time": 107339,
-                            "Discs": [
-                                214045,
-                                214006,
-                                214032,
-                                214014,
-                                214009,
-                                214011
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 515701,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515702,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515713,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515705,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515742,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515706,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515707,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 515711,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514521,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514522,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514531,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514526,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514525,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514527,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514223,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514222,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514228,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514225,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514233,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514230,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514242,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 27
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 33
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 18
-                                },
-                                {
-                                    "Tid": 90023,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 24
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 13
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4045102,
-                                4045201,
-                                4006102,
-                                4032101,
-                                4032201
-                            ],
-                            "RecordRank": "31",
-                            "BuildCode": "AAAAnQAAAJEAAACOzZgLADDNkBgAAGwGwAww"
                         }
                     ]
                 },
@@ -40644,7 +40644,7 @@
                     ]
                 }
             ],
-            "Total": 34064,
+            "Total": 34070,
             "UsageByFloor": {
                 "all": [
                     {
@@ -40773,19 +40773,19 @@
                                 "rank": 50
                             },
                             {
+                                "id": "300641200",
+                                "name": "天災デドダム",
+                                "rank": 51
+                            },
+                            {
                                 "id": "301100844",
                                 "name": "たろう",
-                                "rank": 51
+                                "rank": 52
                             },
                             {
                                 "id": "300377624",
                                 "name": "あうあう",
-                                "rank": 57
-                            },
-                            {
-                                "id": "300641200",
-                                "name": "天災デドダム",
-                                "rank": 62
+                                "rank": 58
                             },
                             {
                                 "id": "300939353",
@@ -40986,19 +40986,19 @@
                                 "rank": 50
                             },
                             {
+                                "id": "300641200",
+                                "name": "天災デドダム",
+                                "rank": 51
+                            },
+                            {
                                 "id": "301100844",
                                 "name": "たろう",
-                                "rank": 51
+                                "rank": 52
                             },
                             {
                                 "id": "300377624",
                                 "name": "あうあう",
-                                "rank": 57
-                            },
-                            {
-                                "id": "300641200",
-                                "name": "天災デドダム",
-                                "rank": 62
+                                "rank": 58
                             },
                             {
                                 "id": "300939353",
@@ -41199,19 +41199,19 @@
                                 "rank": 50
                             },
                             {
+                                "id": "300641200",
+                                "name": "天災デドダム",
+                                "rank": 51
+                            },
+                            {
                                 "id": "301100844",
                                 "name": "たろう",
-                                "rank": 51
+                                "rank": 52
                             },
                             {
                                 "id": "300377624",
                                 "name": "あうあう",
-                                "rank": 57
-                            },
-                            {
-                                "id": "300641200",
-                                "name": "天災デドダム",
-                                "rank": 62
+                                "rank": 58
                             },
                             {
                                 "id": "300939353",
@@ -41374,17 +41374,17 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘",
-                                "rank": 54
+                                "rank": 55
                             },
                             {
                                 "id": "301128757",
                                 "name": "ショウ",
-                                "rank": 55
+                                "rank": 56
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo",
-                                "rank": 59
+                                "rank": 60
                             },
                             {
                                 "id": "300405475",
@@ -41497,32 +41497,32 @@
                             {
                                 "id": "302486538",
                                 "name": "vol",
-                                "rank": 52
+                                "rank": 53
                             },
                             {
                                 "id": "300952297",
                                 "name": "白兎",
-                                "rank": 53
+                                "rank": 54
                             },
                             {
                                 "id": "300446124",
                                 "name": "えるあ",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "304499075",
                                 "name": "トス",
-                                "rank": 58
+                                "rank": 59
                             },
                             {
                                 "id": "300398161",
                                 "name": "べるちゃそ",
-                                "rank": 60
+                                "rank": 61
                             },
                             {
                                 "id": "300386837",
                                 "name": "九叢裂",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "301023553",
@@ -41630,32 +41630,32 @@
                             {
                                 "id": "302486538",
                                 "name": "vol",
-                                "rank": 52
+                                "rank": 53
                             },
                             {
                                 "id": "300952297",
                                 "name": "白兎",
-                                "rank": 53
+                                "rank": 54
                             },
                             {
                                 "id": "300446124",
                                 "name": "えるあ",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "304499075",
                                 "name": "トス",
-                                "rank": 58
+                                "rank": 59
                             },
                             {
                                 "id": "300398161",
                                 "name": "べるちゃそ",
-                                "rank": 60
+                                "rank": 61
                             },
                             {
                                 "id": "300386837",
                                 "name": "九叢裂",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "301023553",
@@ -41763,27 +41763,27 @@
                             {
                                 "id": "302486538",
                                 "name": "vol",
-                                "rank": 52
+                                "rank": 53
                             },
                             {
                                 "id": "300952297",
                                 "name": "白兎",
-                                "rank": 53
+                                "rank": 54
                             },
                             {
                                 "id": "300446124",
                                 "name": "えるあ",
-                                "rank": 56
+                                "rank": 57
                             },
                             {
                                 "id": "304499075",
                                 "name": "トス",
-                                "rank": 58
+                                "rank": 59
                             },
                             {
                                 "id": "300386837",
                                 "name": "九叢裂",
-                                "rank": 61
+                                "rank": 62
                             },
                             {
                                 "id": "301023553",
@@ -41896,7 +41896,7 @@
                             {
                                 "id": "301128757",
                                 "name": "ショウ",
-                                "rank": 55
+                                "rank": 56
                             },
                             {
                                 "id": "303489829",
@@ -41984,7 +41984,7 @@
                             {
                                 "id": "301128757",
                                 "name": "ショウ",
-                                "rank": 55
+                                "rank": 56
                             },
                             {
                                 "id": "303489829",
@@ -42072,12 +42072,12 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘",
-                                "rank": 54
+                                "rank": 55
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo",
-                                "rank": 59
+                                "rank": 60
                             },
                             {
                                 "id": "300405475",
@@ -42150,12 +42150,12 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘",
-                                "rank": 54
+                                "rank": 55
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo",
-                                "rank": 59
+                                "rank": 60
                             },
                             {
                                 "id": "300405475",
@@ -42198,7 +42198,7 @@
                             {
                                 "id": "300398161",
                                 "name": "べるちゃそ",
-                                "rank": 60
+                                "rank": 61
                             },
                             {
                                 "id": "300549834",
@@ -42435,22 +42435,22 @@
                                 "teamScore": -102824
                             },
                             {
+                                "id": "300641200",
+                                "name": "天災デドダム",
+                                "rank": 51,
+                                "teamScore": -103463
+                            },
+                            {
                                 "id": "301100844",
                                 "name": "たろう",
-                                "rank": 51,
+                                "rank": 52,
                                 "teamScore": -104329
                             },
                             {
                                 "id": "300377624",
                                 "name": "あうあう",
-                                "rank": 57,
+                                "rank": 58,
                                 "teamScore": -106616
-                            },
-                            {
-                                "id": "300641200",
-                                "name": "天災デドダム",
-                                "rank": 62,
-                                "teamScore": -107339
                             },
                             {
                                 "id": "300939353",
@@ -42595,31 +42595,31 @@
                             {
                                 "id": "302486538",
                                 "name": "vol",
-                                "rank": 52,
+                                "rank": 53,
                                 "teamScore": -104419
                             },
                             {
                                 "id": "300952297",
                                 "name": "白兎",
-                                "rank": 53,
+                                "rank": 54,
                                 "teamScore": -104432
                             },
                             {
                                 "id": "300446124",
                                 "name": "えるあ",
-                                "rank": 56,
+                                "rank": 57,
                                 "teamScore": -105222
                             },
                             {
                                 "id": "304499075",
                                 "name": "トス",
-                                "rank": 58,
+                                "rank": 59,
                                 "teamScore": -106710
                             },
                             {
                                 "id": "300386837",
                                 "name": "九叢裂",
-                                "rank": 61,
+                                "rank": 62,
                                 "teamScore": -107309
                             },
                             {
@@ -42753,7 +42753,7 @@
                             {
                                 "id": "301128757",
                                 "name": "ショウ",
-                                "rank": 55,
+                                "rank": 56,
                                 "teamScore": -104921
                             },
                             {
@@ -42863,13 +42863,13 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘",
-                                "rank": 54,
+                                "rank": 55,
                                 "teamScore": -104842
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo",
-                                "rank": 59,
+                                "rank": 60,
                                 "teamScore": -106949
                             },
                             {
@@ -42931,7 +42931,7 @@
                             {
                                 "id": "300398161",
                                 "name": "べるちゃそ",
-                                "rank": 60,
+                                "rank": 61,
                                 "teamScore": -107016
                             },
                             {
@@ -43139,13 +43139,13 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘",
-                                "rank": 54,
+                                "rank": 55,
                                 "teamScore": -104842
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo",
-                                "rank": 59,
+                                "rank": 60,
                                 "teamScore": -106949
                             },
                             {
@@ -43449,22 +43449,22 @@
                                 "teamScore": -102824
                             },
                             {
+                                "id": "300641200",
+                                "name": "天災デドダム",
+                                "rank": 51,
+                                "teamScore": -103463
+                            },
+                            {
                                 "id": "301100844",
                                 "name": "たろう",
-                                "rank": 51,
+                                "rank": 52,
                                 "teamScore": -104329
                             },
                             {
                                 "id": "300377624",
                                 "name": "あうあう",
-                                "rank": 57,
+                                "rank": 58,
                                 "teamScore": -106616
-                            },
-                            {
-                                "id": "300641200",
-                                "name": "天災デドダム",
-                                "rank": 62,
-                                "teamScore": -107339
                             },
                             {
                                 "id": "300939353",
@@ -43748,7 +43748,7 @@
                             {
                                 "id": "301128757",
                                 "name": "ショウ",
-                                "rank": 55,
+                                "rank": 56,
                                 "teamScore": -104921
                             },
                             {
@@ -44024,7 +44024,7 @@
                             {
                                 "id": "300398161",
                                 "name": "べるちゃそ",
-                                "rank": 60,
+                                "rank": 61,
                                 "teamScore": -107016
                             },
                             {
@@ -44267,31 +44267,31 @@
                             {
                                 "id": "302486538",
                                 "name": "vol",
-                                "rank": 52,
+                                "rank": 53,
                                 "teamScore": -104419
                             },
                             {
                                 "id": "300952297",
                                 "name": "白兎",
-                                "rank": 53,
+                                "rank": 54,
                                 "teamScore": -104432
                             },
                             {
                                 "id": "300446124",
                                 "name": "えるあ",
-                                "rank": 56,
+                                "rank": 57,
                                 "teamScore": -105222
                             },
                             {
                                 "id": "304499075",
                                 "name": "トス",
-                                "rank": 58,
+                                "rank": 59,
                                 "teamScore": -106710
                             },
                             {
                                 "id": "300386837",
                                 "name": "九叢裂",
-                                "rank": 61,
+                                "rank": 62,
                                 "teamScore": -107309
                             },
                             {
@@ -44774,7 +44774,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1790556126",
+            "LastRefreshTime": "1790556727",
             "Self": {},
             "Rank": [
                 {
@@ -62852,7 +62852,7 @@
                     ]
                 }
             ],
-            "Total": 7288,
+            "Total": 7290,
             "UsageByFloor": {
                 "all": [
                     {
@@ -67111,7 +67111,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1790556037",
+            "LastRefreshTime": "1790556637",
             "Self": {},
             "Rank": [
                 {
@@ -127179,7 +127179,7 @@
                         },
                         {
                             "Id": 112125,
-                            "AffinityLV": 51
+                            "AffinityLV": 52
                         },
                         {
                             "Id": 112133,
@@ -136787,12 +136787,190 @@
                     ]
                 },
                 {
+                    "Id": "300641200",
+                    "NickName": "天災デドダム (JP)",
+                    "WorldClass": 1,
+                    "HeadIcon": 101,
+                    "Score": 13513950,
+                    "Rank": 111,
+                    "TitlePrefix": 37,
+                    "TitleSuffix": 12,
+                    "Honors": [
+                        {
+                            "Id": 112144,
+                            "AffinityLV": 21
+                        },
+                        {
+                            "Id": 112110,
+                            "AffinityLV": 42
+                        },
+                        {
+                            "Id": 112143,
+                            "AffinityLV": 21
+                        }
+                    ],
+                    "Teams": [
+                        {
+                            "Chars": [
+                                {
+                                    "Id": 157,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 145,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 142,
+                                    "Level": 90
+                                }
+                            ],
+                            "BuildScore": 9165,
+                            "Damage": 3543994134,
+                            "Time": 103463,
+                            "Discs": [
+                                214045,
+                                214006,
+                                214032,
+                                214014,
+                                214009,
+                                214011
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 515701,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515702,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515713,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515705,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515742,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515706,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515707,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 515711,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514521,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514522,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514531,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514526,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514525,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514527,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 514223,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514222,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514228,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514225,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514233,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514230,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514242,
+                                    "Level": 6
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 27
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 33
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 18
+                                },
+                                {
+                                    "Tid": 90023,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 24
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 13
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4045102,
+                                4045201,
+                                4006102,
+                                4032101,
+                                4032201
+                            ],
+                            "RecordRank": "31",
+                            "BuildCode": "AAAAnQAAAJEAAACOzZgLADDNkBgAAGwGwAww"
+                        }
+                    ]
+                },
+                {
                     "Id": "500597126",
                     "NickName": "새쿤 (KR)",
                     "WorldClass": 1,
                     "HeadIcon": 12503,
                     "Score": 13511690,
-                    "Rank": 111,
+                    "Rank": 112,
                     "TitlePrefix": 11,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -136973,7 +137151,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130009,
                     "Score": 13510685,
-                    "Rank": 112,
+                    "Rank": 113,
                     "TitlePrefix": 35,
                     "TitleSuffix": 36,
                     "Honors": [
@@ -137154,7 +137332,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 11103,
                     "Score": 13508174,
-                    "Rank": 113,
+                    "Rank": 114,
                     "TitlePrefix": 29,
                     "TitleSuffix": 22,
                     "Honors": [
@@ -137337,7 +137515,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130005,
                     "Score": 13506935,
-                    "Rank": 114,
+                    "Rank": 115,
                     "TitlePrefix": 25,
                     "TitleSuffix": 38,
                     "Honors": [
@@ -137512,7 +137690,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 11802,
                     "Score": 13506206,
-                    "Rank": 115,
+                    "Rank": 116,
                     "TitlePrefix": 11,
                     "TitleSuffix": 38,
                     "Honors": [
@@ -137687,7 +137865,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 15601,
                     "Score": 13506101,
-                    "Rank": 116,
+                    "Rank": 117,
                     "TitlePrefix": 3,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -137869,7 +138047,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14502,
                     "Score": 13505129,
-                    "Rank": 117,
+                    "Rank": 118,
                     "TitlePrefix": 29,
                     "TitleSuffix": 26,
                     "Honors": [
@@ -138055,7 +138233,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 13204,
                     "Score": 13504934,
-                    "Rank": 118,
+                    "Rank": 119,
                     "TitlePrefix": 35,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -138237,7 +138415,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130007,
                     "Score": 13502780,
-                    "Rank": 119,
+                    "Rank": 120,
                     "TitlePrefix": 37,
                     "TitleSuffix": 4,
                     "Honors": [
@@ -138418,7 +138596,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14002,
                     "Score": 13502407,
-                    "Rank": 120,
+                    "Rank": 121,
                     "TitlePrefix": 1,
                     "TitleSuffix": 6,
                     "Honors": [
@@ -138603,7 +138781,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130007,
                     "Score": 13502140,
-                    "Rank": 121,
+                    "Rank": 122,
                     "TitlePrefix": 35,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -138806,7 +138984,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14301,
                     "Score": 13499702,
-                    "Rank": 122,
+                    "Rank": 123,
                     "TitlePrefix": 1,
                     "TitleSuffix": 36,
                     "Honors": [
@@ -138993,7 +139171,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130007,
                     "Score": 13495846,
-                    "Rank": 123,
+                    "Rank": 124,
                     "TitlePrefix": 29,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -139178,7 +139356,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 16002,
                     "Score": 13493343,
-                    "Rank": 124,
+                    "Rank": 125,
                     "TitlePrefix": 3,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -139360,7 +139538,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 12501,
                     "Score": 13489487,
-                    "Rank": 125,
+                    "Rank": 126,
                     "TitlePrefix": 21,
                     "TitleSuffix": 4,
                     "Honors": [
@@ -139547,7 +139725,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 13702,
                     "Score": 13488410,
-                    "Rank": 126,
+                    "Rank": 127,
                     "TitlePrefix": 3,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -139731,7 +139909,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 12503,
                     "Score": 13487649,
-                    "Rank": 127,
+                    "Rank": 128,
                     "TitlePrefix": 27,
                     "TitleSuffix": 12,
                     "Honors": [
@@ -139909,7 +140087,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 15602,
                     "Score": 13487568,
-                    "Rank": 128,
+                    "Rank": 129,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -140083,7 +140261,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 15603,
                     "Score": 13486596,
-                    "Rank": 129,
+                    "Rank": 130,
                     "TitlePrefix": 35,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -140263,7 +140441,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 15603,
                     "Score": 13486134,
-                    "Rank": 130,
+                    "Rank": 131,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -140442,7 +140620,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 130007,
                     "Score": 13485713,
-                    "Rank": 131,
+                    "Rank": 132,
                     "TitlePrefix": 11,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -140617,7 +140795,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14903,
                     "Score": 13485170,
-                    "Rank": 132,
+                    "Rank": 133,
                     "TitlePrefix": 5,
                     "TitleSuffix": 8,
                     "Honors": [
@@ -140787,7 +140965,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 13504,
                     "Score": 13483631,
-                    "Rank": 133,
+                    "Rank": 134,
                     "TitlePrefix": 21,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -140978,7 +141156,7 @@
                     "WorldClass": 1,
                     "HeadIcon": 14403,
                     "Score": 13482797,
-                    "Rank": 134,
+                    "Rank": 135,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Honors": [
@@ -141146,184 +141324,6 @@
                             ],
                             "RecordRank": "31",
                             "BuildCode": "AAAAnAAAAJUAAACfwYAHbAZgAHsKAJGAAGww"
-                        }
-                    ]
-                },
-                {
-                    "Id": "300641200",
-                    "NickName": "天災デドダム (JP)",
-                    "WorldClass": 1,
-                    "HeadIcon": 101,
-                    "Score": 13482554,
-                    "Rank": 135,
-                    "TitlePrefix": 37,
-                    "TitleSuffix": 12,
-                    "Honors": [
-                        {
-                            "Id": 112144,
-                            "AffinityLV": 21
-                        },
-                        {
-                            "Id": 112110,
-                            "AffinityLV": 42
-                        },
-                        {
-                            "Id": 112143,
-                            "AffinityLV": 21
-                        }
-                    ],
-                    "Teams": [
-                        {
-                            "Chars": [
-                                {
-                                    "Id": 157,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 145,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 142,
-                                    "Level": 90
-                                }
-                            ],
-                            "BuildScore": 9165,
-                            "Damage": 3543994134,
-                            "Time": 107339,
-                            "Discs": [
-                                214045,
-                                214006,
-                                214032,
-                                214014,
-                                214009,
-                                214011
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 515701,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515702,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515713,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515705,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515742,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515706,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515707,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 515711,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514521,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514522,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514531,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514526,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514525,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514527,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514223,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514222,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514228,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514225,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514233,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514230,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514242,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 27
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 33
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 18
-                                },
-                                {
-                                    "Tid": 90023,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 24
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 13
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4045102,
-                                4045201,
-                                4006102,
-                                4032101,
-                                4032201
-                            ],
-                            "RecordRank": "31",
-                            "BuildCode": "AAAAnQAAAJEAAACOzZgLADDNkBgAAGwGwAww"
                         }
                     ]
                 },
@@ -211548,8 +211548,8 @@
                     ]
                 }
             ],
-            "Total": 103519,
-            "LastRefreshTime": "1790556342",
+            "Total": 103529,
+            "LastRefreshTime": "1790556942",
             "UsageByFloor": {
                 "all": [
                     {
@@ -211818,54 +211818,54 @@
                                 "rank": 109
                             },
                             {
+                                "id": "300641200",
+                                "name": "天災デドダム (JP)",
+                                "rank": 111
+                            },
+                            {
                                 "id": "100405702",
                                 "name": "七夜志贵 (CN)",
-                                "rank": 112
+                                "rank": 113
                             },
                             {
                                 "id": "301100844",
                                 "name": "たろう (JP)",
-                                "rank": 114
+                                "rank": 115
                             },
                             {
                                 "id": "509842611",
                                 "name": "라임이 (KR)",
-                                "rank": 117
+                                "rank": 118
                             },
                             {
                                 "id": "100624517",
                                 "name": "fafa (CN)",
-                                "rank": 118
+                                "rank": 119
                             },
                             {
                                 "id": "500725177",
                                 "name": "weda (KR)",
-                                "rank": 120
+                                "rank": 121
                             },
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 125
+                                "rank": 126
                             },
                             {
                                 "id": "300377624",
                                 "name": "あうあう (JP)",
-                                "rank": 126
+                                "rank": 127
                             },
                             {
                                 "id": "704263705",
                                 "name": "Paidjo (EN)",
-                                "rank": 128
+                                "rank": 129
                             },
                             {
                                 "id": "100342443",
                                 "name": "户濑 (CN)",
-                                "rank": 129
-                            },
-                            {
-                                "id": "300641200",
-                                "name": "天災デドダム (JP)",
-                                "rank": 135
+                                "rank": 130
                             },
                             {
                                 "id": "501159294",
@@ -213061,54 +213061,54 @@
                                 "rank": 109
                             },
                             {
+                                "id": "300641200",
+                                "name": "天災デドダム (JP)",
+                                "rank": 111
+                            },
+                            {
                                 "id": "100405702",
                                 "name": "七夜志贵 (CN)",
-                                "rank": 112
+                                "rank": 113
                             },
                             {
                                 "id": "301100844",
                                 "name": "たろう (JP)",
-                                "rank": 114
+                                "rank": 115
                             },
                             {
                                 "id": "509842611",
                                 "name": "라임이 (KR)",
-                                "rank": 117
+                                "rank": 118
                             },
                             {
                                 "id": "100624517",
                                 "name": "fafa (CN)",
-                                "rank": 118
+                                "rank": 119
                             },
                             {
                                 "id": "500725177",
                                 "name": "weda (KR)",
-                                "rank": 120
+                                "rank": 121
                             },
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 125
+                                "rank": 126
                             },
                             {
                                 "id": "300377624",
                                 "name": "あうあう (JP)",
-                                "rank": 126
+                                "rank": 127
                             },
                             {
                                 "id": "704263705",
                                 "name": "Paidjo (EN)",
-                                "rank": 128
+                                "rank": 129
                             },
                             {
                                 "id": "100342443",
                                 "name": "户濑 (CN)",
-                                "rank": 129
-                            },
-                            {
-                                "id": "300641200",
-                                "name": "天災デドダム (JP)",
-                                "rank": 135
+                                "rank": 130
                             },
                             {
                                 "id": "501159294",
@@ -214294,54 +214294,54 @@
                                 "rank": 109
                             },
                             {
+                                "id": "300641200",
+                                "name": "天災デドダム (JP)",
+                                "rank": 111
+                            },
+                            {
                                 "id": "100405702",
                                 "name": "七夜志贵 (CN)",
-                                "rank": 112
+                                "rank": 113
                             },
                             {
                                 "id": "301100844",
                                 "name": "たろう (JP)",
-                                "rank": 114
+                                "rank": 115
                             },
                             {
                                 "id": "509842611",
                                 "name": "라임이 (KR)",
-                                "rank": 117
+                                "rank": 118
                             },
                             {
                                 "id": "100624517",
                                 "name": "fafa (CN)",
-                                "rank": 118
+                                "rank": 119
                             },
                             {
                                 "id": "500725177",
                                 "name": "weda (KR)",
-                                "rank": 120
+                                "rank": 121
                             },
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 125
+                                "rank": 126
                             },
                             {
                                 "id": "300377624",
                                 "name": "あうあう (JP)",
-                                "rank": 126
+                                "rank": 127
                             },
                             {
                                 "id": "704263705",
                                 "name": "Paidjo (EN)",
-                                "rank": 128
+                                "rank": 129
                             },
                             {
                                 "id": "100342443",
                                 "name": "户濑 (CN)",
-                                "rank": 129
-                            },
-                            {
-                                "id": "300641200",
-                                "name": "天災デドダム (JP)",
-                                "rank": 135
+                                "rank": 130
                             },
                             {
                                 "id": "501159294",
@@ -215404,37 +215404,37 @@
                             {
                                 "id": "500597126",
                                 "name": "새쿤 (KR)",
-                                "rank": 111
+                                "rank": 112
                             },
                             {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 119
+                                "rank": 120
                             },
                             {
                                 "id": "301128757",
                                 "name": "ショウ (JP)",
-                                "rank": 121
+                                "rank": 122
                             },
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "501188500",
                                 "name": "치유 (KR)",
-                                "rank": 124
+                                "rank": 125
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 131
+                                "rank": 132
                             },
                             {
                                 "id": "700367958",
                                 "name": "Roger (EN)",
-                                "rank": 133
+                                "rank": 134
                             },
                             {
                                 "id": "700693280",
@@ -216102,37 +216102,37 @@
                             {
                                 "id": "302486538",
                                 "name": "vol (JP)",
-                                "rank": 115
+                                "rank": 116
                             },
                             {
                                 "id": "300952297",
                                 "name": "白兎 (JP)",
-                                "rank": 116
+                                "rank": 117
                             },
                             {
                                 "id": "300446124",
                                 "name": "えるあ (JP)",
-                                "rank": 122
+                                "rank": 123
                             },
                             {
                                 "id": "304499075",
                                 "name": "トス (JP)",
-                                "rank": 127
+                                "rank": 128
                             },
                             {
                                 "id": "900401240",
                                 "name": "EEE (TW)",
-                                "rank": 130
+                                "rank": 131
                             },
                             {
                                 "id": "300398161",
                                 "name": "べるちゃそ (JP)",
-                                "rank": 132
+                                "rank": 133
                             },
                             {
                                 "id": "300386837",
                                 "name": "九叢裂 (JP)",
-                                "rank": 134
+                                "rank": 135
                             },
                             {
                                 "id": "301023553",
@@ -216640,32 +216640,32 @@
                             {
                                 "id": "302486538",
                                 "name": "vol (JP)",
-                                "rank": 115
+                                "rank": 116
                             },
                             {
                                 "id": "300952297",
                                 "name": "白兎 (JP)",
-                                "rank": 116
+                                "rank": 117
                             },
                             {
                                 "id": "300446124",
                                 "name": "えるあ (JP)",
-                                "rank": 122
+                                "rank": 123
                             },
                             {
                                 "id": "304499075",
                                 "name": "トス (JP)",
-                                "rank": 127
+                                "rank": 128
                             },
                             {
                                 "id": "900401240",
                                 "name": "EEE (TW)",
-                                "rank": 130
+                                "rank": 131
                             },
                             {
                                 "id": "300386837",
                                 "name": "九叢裂 (JP)",
-                                "rank": 134
+                                "rank": 135
                             },
                             {
                                 "id": "301023553",
@@ -217153,17 +217153,17 @@
                             {
                                 "id": "500597126",
                                 "name": "새쿤 (KR)",
-                                "rank": 111
+                                "rank": 112
                             },
                             {
                                 "id": "504180898",
                                 "name": "카린 (KR)",
-                                "rank": 113
+                                "rank": 114
                             },
                             {
                                 "id": "301128757",
                                 "name": "ショウ (JP)",
-                                "rank": 121
+                                "rank": 122
                             },
                             {
                                 "id": "700693280",
@@ -217626,37 +217626,37 @@
                             {
                                 "id": "302486538",
                                 "name": "vol (JP)",
-                                "rank": 115
+                                "rank": 116
                             },
                             {
                                 "id": "300952297",
                                 "name": "白兎 (JP)",
-                                "rank": 116
+                                "rank": 117
                             },
                             {
                                 "id": "300446124",
                                 "name": "えるあ (JP)",
-                                "rank": 122
+                                "rank": 123
                             },
                             {
                                 "id": "304499075",
                                 "name": "トス (JP)",
-                                "rank": 127
+                                "rank": 128
                             },
                             {
                                 "id": "900401240",
                                 "name": "EEE (TW)",
-                                "rank": 130
+                                "rank": 131
                             },
                             {
                                 "id": "300398161",
                                 "name": "べるちゃそ (JP)",
-                                "rank": 132
+                                "rank": 133
                             },
                             {
                                 "id": "300386837",
                                 "name": "九叢裂 (JP)",
-                                "rank": 134
+                                "rank": 135
                             },
                             {
                                 "id": "301023553",
@@ -218059,12 +218059,12 @@
                             {
                                 "id": "500597126",
                                 "name": "새쿤 (KR)",
-                                "rank": 111
+                                "rank": 112
                             },
                             {
                                 "id": "301128757",
                                 "name": "ショウ (JP)",
-                                "rank": 121
+                                "rank": 122
                             },
                             {
                                 "id": "700693280",
@@ -218482,22 +218482,22 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 119
+                                "rank": 120
                             },
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "501188500",
                                 "name": "치유 (KR)",
-                                "rank": 124
+                                "rank": 125
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 131
+                                "rank": 132
                             },
                             {
                                 "id": "300405475",
@@ -218825,27 +218825,27 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 119
+                                "rank": 120
                             },
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 123
+                                "rank": 124
                             },
                             {
                                 "id": "501188500",
                                 "name": "치유 (KR)",
-                                "rank": 124
+                                "rank": 125
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 131
+                                "rank": 132
                             },
                             {
                                 "id": "700367958",
                                 "name": "Roger (EN)",
-                                "rank": 133
+                                "rank": 134
                             },
                             {
                                 "id": "300405475",
@@ -219241,7 +219241,7 @@
                             {
                                 "id": "504180898",
                                 "name": "카린 (KR)",
-                                "rank": 113
+                                "rank": 114
                             },
                             {
                                 "id": "900348439",
@@ -219334,7 +219334,7 @@
                             {
                                 "id": "504180898",
                                 "name": "카린 (KR)",
-                                "rank": 113
+                                "rank": 114
                             },
                             {
                                 "id": "900348439",
@@ -219485,7 +219485,7 @@
                             {
                                 "id": "300398161",
                                 "name": "べるちゃそ (JP)",
-                                "rank": 132
+                                "rank": 133
                             },
                             {
                                 "id": "300549834",
@@ -219601,7 +219601,7 @@
                             {
                                 "id": "700367958",
                                 "name": "Roger (EN)",
-                                "rank": 133
+                                "rank": 134
                             }
                         ],
                         "rank": 19
@@ -219929,64 +219929,64 @@
                                 "teamScore": -102824
                             },
                             {
+                                "id": "300641200",
+                                "name": "天災デドダム (JP)",
+                                "rank": 111,
+                                "teamScore": -103463
+                            },
+                            {
                                 "id": "100405702",
                                 "name": "七夜志贵 (CN)",
-                                "rank": 112,
+                                "rank": 113,
                                 "teamScore": -103866
                             },
                             {
                                 "id": "301100844",
                                 "name": "たろう (JP)",
-                                "rank": 114,
+                                "rank": 115,
                                 "teamScore": -104329
                             },
                             {
                                 "id": "509842611",
                                 "name": "라임이 (KR)",
-                                "rank": 117,
+                                "rank": 118,
                                 "teamScore": -104552
                             },
                             {
                                 "id": "100624517",
                                 "name": "fafa (CN)",
-                                "rank": 118,
+                                "rank": 119,
                                 "teamScore": -104576
                             },
                             {
                                 "id": "500725177",
                                 "name": "weda (KR)",
-                                "rank": 120,
+                                "rank": 121,
                                 "teamScore": -104888
                             },
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 125,
+                                "rank": 126,
                                 "teamScore": -106483
                             },
                             {
                                 "id": "300377624",
                                 "name": "あうあう (JP)",
-                                "rank": 126,
+                                "rank": 127,
                                 "teamScore": -106616
                             },
                             {
                                 "id": "704263705",
                                 "name": "Paidjo (EN)",
-                                "rank": 128,
+                                "rank": 129,
                                 "teamScore": -106720
                             },
                             {
                                 "id": "100342443",
                                 "name": "户濑 (CN)",
-                                "rank": 129,
+                                "rank": 130,
                                 "teamScore": -106840
-                            },
-                            {
-                                "id": "300641200",
-                                "name": "天災デドダム (JP)",
-                                "rank": 135,
-                                "teamScore": -107339
                             },
                             {
                                 "id": "501159294",
@@ -221169,37 +221169,37 @@
                             {
                                 "id": "302486538",
                                 "name": "vol (JP)",
-                                "rank": 115,
+                                "rank": 116,
                                 "teamScore": -104419
                             },
                             {
                                 "id": "300952297",
                                 "name": "白兎 (JP)",
-                                "rank": 116,
+                                "rank": 117,
                                 "teamScore": -104432
                             },
                             {
                                 "id": "300446124",
                                 "name": "えるあ (JP)",
-                                "rank": 122,
+                                "rank": 123,
                                 "teamScore": -105222
                             },
                             {
                                 "id": "304499075",
                                 "name": "トス (JP)",
-                                "rank": 127,
+                                "rank": 128,
                                 "teamScore": -106710
                             },
                             {
                                 "id": "900401240",
                                 "name": "EEE (TW)",
-                                "rank": 130,
+                                "rank": 131,
                                 "teamScore": -106897
                             },
                             {
                                 "id": "300386837",
                                 "name": "九叢裂 (JP)",
-                                "rank": 134,
+                                "rank": 135,
                                 "teamScore": -107309
                             },
                             {
@@ -221657,13 +221657,13 @@
                             {
                                 "id": "500597126",
                                 "name": "새쿤 (KR)",
-                                "rank": 111,
+                                "rank": 112,
                                 "teamScore": -103742
                             },
                             {
                                 "id": "301128757",
                                 "name": "ショウ (JP)",
-                                "rank": 121,
+                                "rank": 122,
                                 "teamScore": -104921
                             },
                             {
@@ -222145,25 +222145,25 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 119,
+                                "rank": 120,
                                 "teamScore": -104842
                             },
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": -105698
                             },
                             {
                                 "id": "501188500",
                                 "name": "치유 (KR)",
-                                "rank": 124,
+                                "rank": 125,
                                 "teamScore": -106007
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 131,
+                                "rank": 132,
                                 "teamScore": -106949
                             },
                             {
@@ -222605,7 +222605,7 @@
                             {
                                 "id": "504180898",
                                 "name": "카린 (KR)",
-                                "rank": 113,
+                                "rank": 114,
                                 "teamScore": -104176
                             },
                             {
@@ -222827,7 +222827,7 @@
                             {
                                 "id": "300398161",
                                 "name": "べるちゃそ (JP)",
-                                "rank": 132,
+                                "rank": 133,
                                 "teamScore": -107016
                             },
                             {
@@ -223085,14 +223085,14 @@
                             {
                                 "id": "700367958",
                                 "name": "Roger (EN)",
-                                "rank": 133,
+                                "rank": 134,
                                 "teamScore": -107206
                             }
                         ],
                         "topUser": {
                             "id": "700367958",
                             "name": "Roger (EN)",
-                            "rank": 133,
+                            "rank": 134,
                             "teamScore": -107206
                         },
                         "rank": 12
@@ -223633,25 +223633,25 @@
                             {
                                 "id": "304212226",
                                 "name": "剣鞘 (JP)",
-                                "rank": 119,
+                                "rank": 120,
                                 "teamScore": -104842
                             },
                             {
                                 "id": "500333383",
                                 "name": "사쿠라바_에마 (KR)",
-                                "rank": 123,
+                                "rank": 124,
                                 "teamScore": -105698
                             },
                             {
                                 "id": "501188500",
                                 "name": "치유 (KR)",
-                                "rank": 124,
+                                "rank": 125,
                                 "teamScore": -106007
                             },
                             {
                                 "id": "302541444",
                                 "name": "ryo (JP)",
-                                "rank": 131,
+                                "rank": 132,
                                 "teamScore": -106949
                             },
                             {
@@ -224383,64 +224383,64 @@
                                 "teamScore": -102824
                             },
                             {
+                                "id": "300641200",
+                                "name": "天災デドダム (JP)",
+                                "rank": 111,
+                                "teamScore": -103463
+                            },
+                            {
                                 "id": "100405702",
                                 "name": "七夜志贵 (CN)",
-                                "rank": 112,
+                                "rank": 113,
                                 "teamScore": -103866
                             },
                             {
                                 "id": "301100844",
                                 "name": "たろう (JP)",
-                                "rank": 114,
+                                "rank": 115,
                                 "teamScore": -104329
                             },
                             {
                                 "id": "509842611",
                                 "name": "라임이 (KR)",
-                                "rank": 117,
+                                "rank": 118,
                                 "teamScore": -104552
                             },
                             {
                                 "id": "100624517",
                                 "name": "fafa (CN)",
-                                "rank": 118,
+                                "rank": 119,
                                 "teamScore": -104576
                             },
                             {
                                 "id": "500725177",
                                 "name": "weda (KR)",
-                                "rank": 120,
+                                "rank": 121,
                                 "teamScore": -104888
                             },
                             {
                                 "id": "100336489",
                                 "name": "不知道 (CN)",
-                                "rank": 125,
+                                "rank": 126,
                                 "teamScore": -106483
                             },
                             {
                                 "id": "300377624",
                                 "name": "あうあう (JP)",
-                                "rank": 126,
+                                "rank": 127,
                                 "teamScore": -106616
                             },
                             {
                                 "id": "704263705",
                                 "name": "Paidjo (EN)",
-                                "rank": 128,
+                                "rank": 129,
                                 "teamScore": -106720
                             },
                             {
                                 "id": "100342443",
                                 "name": "户濑 (CN)",
-                                "rank": 129,
+                                "rank": 130,
                                 "teamScore": -106840
-                            },
-                            {
-                                "id": "300641200",
-                                "name": "天災デドダム (JP)",
-                                "rank": 135,
-                                "teamScore": -107339
                             },
                             {
                                 "id": "501159294",
@@ -225776,13 +225776,13 @@
                             {
                                 "id": "500597126",
                                 "name": "새쿤 (KR)",
-                                "rank": 111,
+                                "rank": 112,
                                 "teamScore": -103742
                             },
                             {
                                 "id": "301128757",
                                 "name": "ショウ (JP)",
-                                "rank": 121,
+                                "rank": 122,
                                 "teamScore": -104921
                             },
                             {
@@ -226325,7 +226325,7 @@
                             {
                                 "id": "504180898",
                                 "name": "카린 (KR)",
-                                "rank": 113,
+                                "rank": 114,
                                 "teamScore": -104176
                             },
                             {
@@ -226759,37 +226759,37 @@
                             {
                                 "id": "302486538",
                                 "name": "vol (JP)",
-                                "rank": 115,
+                                "rank": 116,
                                 "teamScore": -104419
                             },
                             {
                                 "id": "300952297",
                                 "name": "白兎 (JP)",
-                                "rank": 116,
+                                "rank": 117,
                                 "teamScore": -104432
                             },
                             {
                                 "id": "300446124",
                                 "name": "えるあ (JP)",
-                                "rank": 122,
+                                "rank": 123,
                                 "teamScore": -105222
                             },
                             {
                                 "id": "304499075",
                                 "name": "トス (JP)",
-                                "rank": 127,
+                                "rank": 128,
                                 "teamScore": -106710
                             },
                             {
                                 "id": "900401240",
                                 "name": "EEE (TW)",
-                                "rank": 130,
+                                "rank": 131,
                                 "teamScore": -106897
                             },
                             {
                                 "id": "300386837",
                                 "name": "九叢裂 (JP)",
-                                "rank": 134,
+                                "rank": 135,
                                 "teamScore": -107309
                             },
                             {
@@ -227330,7 +227330,7 @@
                             {
                                 "id": "300398161",
                                 "name": "べるちゃそ (JP)",
-                                "rank": 132,
+                                "rank": 133,
                                 "teamScore": -107016
                             },
                             {
@@ -228209,14 +228209,14 @@
                             {
                                 "id": "700367958",
                                 "name": "Roger (EN)",
-                                "rank": 133,
+                                "rank": 134,
                                 "teamScore": -107206
                             }
                         ],
                         "topUser": {
                             "id": "700367958",
                             "name": "Roger (EN)",
-                            "rank": 133,
+                            "rank": 134,
                             "teamScore": -107206
                         },
                         "rank": 16,
