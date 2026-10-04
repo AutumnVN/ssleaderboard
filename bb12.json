@@ -152665,7 +152665,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1791077417",
+            "LastRefreshTime": "1791078017",
             "Rank": [
                 {
                     "Id": "904798180",
@@ -154002,13 +154002,13 @@
                     "Id": "901096538",
                     "NickName": "冬月櫻",
                     "HeadIcon": 101,
-                    "Score": 1508852,
+                    "Score": 1554892,
                     "Rank": 5,
                     "TitlePrefix": 11,
                     "TitleSuffix": 2,
                     "Teams": [
                         {
-                            "BuildScore": 9825,
+                            "BuildScore": 9990,
                             "Chars": [
                                 {
                                     "Id": 139,
@@ -154023,7 +154023,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 1164120,
+                            "LevelScore": 1210160,
                             "LevelId": 26,
                             "Discs": [
                                 214061,
@@ -154035,11 +154035,11 @@
                             ],
                             "Potentials": [
                                 {
-                                    "PotentialId": 513901,
+                                    "PotentialId": 513902,
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 513902,
+                                    "PotentialId": 513901,
                                     "Level": 1
                                 },
                                 {
@@ -154051,6 +154051,10 @@
                                     "Level": 6
                                 },
                                 {
+                                    "PotentialId": 513905,
+                                    "Level": 6
+                                },
+                                {
                                     "PotentialId": 513913,
                                     "Level": 6
                                 },
@@ -154059,8 +154063,8 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 513905,
-                                    "Level": 6
+                                    "PotentialId": 513912,
+                                    "Level": 2
                                 },
                                 {
                                     "PotentialId": 513021,
@@ -154071,15 +154075,11 @@
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
                                     "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513025,
                                     "Level": 6
                                 },
                                 {
@@ -154087,24 +154087,16 @@
                                     "Level": 3
                                 },
                                 {
-                                    "PotentialId": 516024,
-                                    "Level": 1
+                                    "PotentialId": 513033,
+                                    "Level": 5
                                 },
                                 {
                                     "PotentialId": 516023,
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 516033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
+                                    "PotentialId": 516024,
+                                    "Level": 1
                                 },
                                 {
                                     "PotentialId": 516030,
@@ -154112,49 +154104,61 @@
                                 },
                                 {
                                     "PotentialId": 516029,
-                                    "Level": 2
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 1
                                 }
                             ],
                             "Notes": [
                                 {
                                     "Tid": 90012,
-                                    "Qty": 40
+                                    "Qty": 34
                                 },
                                 {
                                     "Tid": 90017,
-                                    "Qty": 42
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 44
-                                },
-                                {
-                                    "Tid": 90011,
                                     "Qty": 30
                                 },
                                 {
-                                    "Tid": 90016,
-                                    "Qty": 5
+                                    "Tid": 90018,
+                                    "Qty": 47
                                 },
                                 {
-                                    "Tid": 90015,
-                                    "Qty": 7
+                                    "Tid": 90011,
+                                    "Qty": 42
                                 },
                                 {
                                     "Tid": 90014,
+                                    "Qty": 9
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 9
+                                },
+                                {
+                                    "Tid": 90015,
                                     "Qty": 3
                                 }
                             ],
                             "ActiveSecondaryIds": [
-                                4061102,
+                                4061103,
                                 4061202,
-                                4055102,
+                                4055103,
                                 4055202,
-                                4008103,
+                                4008102,
                                 4008202
                             ],
-                            "RecordRank": "33",
-                            "BuildCode": "AAAAiwAAAIIAAACgzbADAAbNgAwMADAGwCwG"
+                            "RecordRank": "34",
+                            "BuildCode": "AAAAiwAAAIIAAACgzbADBAbNgAwKADABwGwG"
                         },
                         {
                             "BuildScore": 9195,
@@ -185271,7 +185275,7 @@
                     ]
                 }
             ],
-            "Total": 2648,
+            "Total": 2649,
             "UsageByFloor": {
                 "26": [
                     {
@@ -191611,7 +191615,7 @@
                                 "id": "901096538",
                                 "name": "冬月櫻",
                                 "rank": 5,
-                                "teamScore": 1164120
+                                "teamScore": 1210160
                             },
                             {
                                 "id": "900419184",
@@ -193239,7 +193243,7 @@
                                 "id": "901096538",
                                 "name": "冬月櫻",
                                 "rank": 5,
-                                "teamScore": 1164120
+                                "teamScore": 1210160
                             },
                             {
                                 "id": "900419184",
@@ -194827,7 +194831,7 @@
                                 "id": "901096538",
                                 "name": "冬月櫻",
                                 "rank": 5,
-                                "teamScore": 1164120
+                                "teamScore": 1210160
                             },
                             {
                                 "id": "900419184",
@@ -195213,7 +195217,7 @@
                                 "p516033": 62,
                                 "p516029": 54,
                                 "p513031": 42,
-                                "p513912": 38,
+                                "p513912": 39,
                                 "p513030": 34,
                                 "p513911": 7,
                                 "p513032": 7,
@@ -195246,10 +195250,10 @@
                                 "p513033": 61,
                                 "p516030": 60,
                                 "p516033": 57,
-                                "p516028": 52,
+                                "p516028": 51,
                                 "p516043": 49,
                                 "p513025": 47,
-                                "p516029": 33,
+                                "p516029": 34,
                                 "p513031": 5,
                                 "p513030": 5,
                                 "p513912": 2,
@@ -195271,12 +195275,12 @@
                                 "p516023": 63,
                                 "p516024": 63,
                                 "p513031": 37,
-                                "p513912": 36,
+                                "p513912": 37,
                                 "p513030": 29,
-                                "p516029": 21,
+                                "p516029": 20,
                                 "p513025": 15,
                                 "p516043": 14,
-                                "p516028": 11,
+                                "p516028": 12,
                                 "p513941": 6,
                                 "p513911": 6,
                                 "p513032": 6,
@@ -198578,7 +198582,7 @@
                                 "id": "901096538",
                                 "name": "冬月櫻",
                                 "rank": 5,
-                                "teamScore": 1164120
+                                "teamScore": 1210160
                             },
                             {
                                 "id": "900419184",
@@ -198964,7 +198968,7 @@
                                 "p516033": 62,
                                 "p516029": 54,
                                 "p513031": 42,
-                                "p513912": 38,
+                                "p513912": 39,
                                 "p513030": 34,
                                 "p513911": 7,
                                 "p513032": 7,
@@ -198997,10 +199001,10 @@
                                 "p513033": 61,
                                 "p516030": 60,
                                 "p516033": 57,
-                                "p516028": 52,
+                                "p516028": 51,
                                 "p516043": 49,
                                 "p513025": 47,
-                                "p516029": 33,
+                                "p516029": 34,
                                 "p513031": 5,
                                 "p513030": 5,
                                 "p513912": 2,
@@ -199022,12 +199026,12 @@
                                 "p516023": 63,
                                 "p516024": 63,
                                 "p513031": 37,
-                                "p513912": 36,
+                                "p513912": 37,
                                 "p513030": 29,
-                                "p516029": 21,
+                                "p516029": 20,
                                 "p513025": 15,
                                 "p516043": 14,
-                                "p516028": 11,
+                                "p516028": 12,
                                 "p513941": 6,
                                 "p513911": 6,
                                 "p513032": 6,
@@ -281310,11 +281314,354 @@
                     ]
                 },
                 {
+                    "Id": "901096538",
+                    "NickName": "冬月櫻 (TW)",
+                    "HeadIcon": 101,
+                    "Score": 1554892,
+                    "Rank": 90,
+                    "TitlePrefix": 11,
+                    "TitleSuffix": 2,
+                    "Teams": [
+                        {
+                            "BuildScore": 9990,
+                            "Chars": [
+                                {
+                                    "Id": 139,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 1210160,
+                            "LevelId": 26,
+                            "Discs": [
+                                214061,
+                                214055,
+                                214008,
+                                214026,
+                                214005,
+                                214062
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 513902,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513901,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513943,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513907,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513905,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513913,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513906,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513912,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513031,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 1
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 34
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 30
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 47
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 42
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 9
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 9
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 3
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4061103,
+                                4061202,
+                                4055103,
+                                4055202,
+                                4008102,
+                                4008202
+                            ],
+                            "RecordRank": "34",
+                            "BuildCode": "AAAAiwAAAIIAAACgzbADBAbNgAwKADABwGwG"
+                        },
+                        {
+                            "BuildScore": 9195,
+                            "Chars": [
+                                {
+                                    "Id": 143,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 137,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 123,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 344732,
+                            "LevelId": 27,
+                            "Discs": [
+                                214016,
+                                214059,
+                                214002,
+                                214055,
+                                214046,
+                                214028
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514302,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514301,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514313,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514305,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514312,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514307,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 514306,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 514311,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513723,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513724,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513733,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513732,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513729,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513728,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513730,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 512323,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512321,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512328,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512330,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512333,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512326,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 512332,
+                                    "Level": 2
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 20
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 9
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 22
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 34
+                                },
+                                {
+                                    "Tid": 90020,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 27
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 6
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 14
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 3
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4016101,
+                                4016201,
+                                4059102,
+                                4059201,
+                                4002101,
+                                4002201
+                            ],
+                            "RecordRank": "31",
+                            "BuildCode": "AAAAjwAAAIkAAAB7zRgLDAAwBqNsAKFGwQwA"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 112145,
+                            "AffinityLV": 67
+                        },
+                        {
+                            "Id": 112160,
+                            "AffinityLV": 30
+                        },
+                        {
+                            "Id": 112158,
+                            "AffinityLV": 30
+                        }
+                    ]
+                },
+                {
                     "Id": "301150720",
                     "NickName": "Siris (JP)",
                     "HeadIcon": 130003,
                     "Score": 1553200,
-                    "Rank": 90,
+                    "Rank": 91,
                     "TitlePrefix": 15,
                     "TitleSuffix": 16,
                     "Teams": [
@@ -281486,7 +281833,7 @@
                     "NickName": "わたこう (JP)",
                     "HeadIcon": 130012,
                     "Score": 1548764,
-                    "Rank": 91,
+                    "Rank": 92,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -281818,7 +282165,7 @@
                     "NickName": "지엘 (KR)",
                     "HeadIcon": 11501,
                     "Score": 1547504,
-                    "Rank": 92,
+                    "Rank": 93,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -282155,7 +282502,7 @@
                     "NickName": "sukeb (KR)",
                     "HeadIcon": 130012,
                     "Score": 1545244,
-                    "Rank": 93,
+                    "Rank": 94,
                     "TitlePrefix": 39,
                     "TitleSuffix": 40,
                     "Teams": [
@@ -282478,7 +282825,7 @@
                     "NickName": "甘织遥奈 (CN)",
                     "HeadIcon": 101,
                     "Score": 1528025,
-                    "Rank": 94,
+                    "Rank": 95,
                     "TitlePrefix": 3,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -282810,7 +283157,7 @@
                     "NickName": "坍缩星计时器 (CN)",
                     "HeadIcon": 14703,
                     "Score": 1527552,
-                    "Rank": 95,
+                    "Rank": 96,
                     "TitlePrefix": 3,
                     "TitleSuffix": 22,
                     "Teams": [
@@ -283135,7 +283482,7 @@
                     "NickName": "雪解けのうに (JP)",
                     "HeadIcon": 13403,
                     "Score": 1523108,
-                    "Rank": 96,
+                    "Rank": 97,
                     "TitlePrefix": 11,
                     "TitleSuffix": 34,
                     "Teams": [
@@ -283475,7 +283822,7 @@
                     "NickName": "ユウト77 (JP)",
                     "HeadIcon": 11303,
                     "Score": 1514231,
-                    "Rank": 97,
+                    "Rank": 98,
                     "TitlePrefix": 11,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -283822,7 +284169,7 @@
                     "NickName": "좋은사람 (KR)",
                     "HeadIcon": 11203,
                     "Score": 1512494,
-                    "Rank": 98,
+                    "Rank": 99,
                     "TitlePrefix": 39,
                     "TitleSuffix": 30,
                     "Teams": [
@@ -284156,7 +284503,7 @@
                     "NickName": "特蕾西娅 (CN)",
                     "HeadIcon": 13702,
                     "Score": 1509449,
-                    "Rank": 99,
+                    "Rank": 100,
                     "TitlePrefix": 5,
                     "TitleSuffix": 24,
                     "Teams": [
@@ -284492,345 +284839,6 @@
                         {
                             "Id": 112133,
                             "AffinityLV": 45
-                        }
-                    ]
-                },
-                {
-                    "Id": "901096538",
-                    "NickName": "冬月櫻 (TW)",
-                    "HeadIcon": 101,
-                    "Score": 1508852,
-                    "Rank": 100,
-                    "TitlePrefix": 11,
-                    "TitleSuffix": 2,
-                    "Teams": [
-                        {
-                            "BuildScore": 9825,
-                            "Chars": [
-                                {
-                                    "Id": 139,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 1164120,
-                            "LevelId": 26,
-                            "Discs": [
-                                214061,
-                                214055,
-                                214008,
-                                214026,
-                                214005,
-                                214062
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 513901,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513902,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513943,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513907,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513913,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513906,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513905,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513031,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 2
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 40
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 42
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 44
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 5
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 7
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 3
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4061102,
-                                4061202,
-                                4055102,
-                                4055202,
-                                4008103,
-                                4008202
-                            ],
-                            "RecordRank": "33",
-                            "BuildCode": "AAAAiwAAAIIAAACgzbADAAbNgAwMADAGwCwG"
-                        },
-                        {
-                            "BuildScore": 9195,
-                            "Chars": [
-                                {
-                                    "Id": 143,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 137,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 123,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 344732,
-                            "LevelId": 27,
-                            "Discs": [
-                                214016,
-                                214059,
-                                214002,
-                                214055,
-                                214046,
-                                214028
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514302,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514301,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514313,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514305,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514312,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514307,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 514306,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 514311,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513723,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513724,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513733,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513732,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513729,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513728,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513730,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 512323,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512321,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512328,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512330,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512333,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512326,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 512332,
-                                    "Level": 2
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 20
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 9
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 22
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 34
-                                },
-                                {
-                                    "Tid": 90020,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 27
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 6
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 14
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 3
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4016101,
-                                4016201,
-                                4059102,
-                                4059201,
-                                4002101,
-                                4002201
-                            ],
-                            "RecordRank": "31",
-                            "BuildCode": "AAAAjwAAAIkAAAB7zRgLDAAwBqNsAKFGwQwA"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 112145,
-                            "AffinityLV": 67
-                        },
-                        {
-                            "Id": 112160,
-                            "AffinityLV": 30
-                        },
-                        {
-                            "Id": 112158,
-                            "AffinityLV": 30
                         }
                     ]
                 },
@@ -416637,8 +416645,8 @@
                     ]
                 }
             ],
-            "Total": 29099,
-            "LastRefreshTime": "1791077573",
+            "Total": 29100,
+            "LastRefreshTime": "1791078017",
             "UsageByFloor": {
                 "26": [
                     {
@@ -417027,53 +417035,53 @@
                                 "rank": 88
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 90
+                            },
+                            {
                                 "id": "301150720",
                                 "name": "Siris (JP)",
-                                "rank": 90
+                                "rank": 91
                             },
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96
+                                "rank": 97
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98
+                                "rank": 99
                             },
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 100
                             },
                             {
@@ -419075,38 +419083,38 @@
                                 "rank": 85
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 90
+                            },
+                            {
                                 "id": "301150720",
                                 "name": "Siris (JP)",
-                                "rank": 90
+                                "rank": 91
                             },
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98
+                                "rank": 99
                             },
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 100
                             },
                             {
@@ -420938,48 +420946,48 @@
                                 "rank": 85
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 90
+                            },
+                            {
                                 "id": "301150720",
                                 "name": "Siris (JP)",
-                                "rank": 90
+                                "rank": 91
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96
+                                "rank": 97
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98
+                                "rank": 99
                             },
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 100
                             },
                             {
@@ -422088,7 +422096,7 @@
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "900343000",
@@ -423660,17 +423668,17 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96
+                                "rank": 97
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "500333257",
@@ -424072,7 +424080,7 @@
                             {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "303536685",
@@ -424115,7 +424123,7 @@
                             {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "303536685",
@@ -424158,7 +424166,7 @@
                             {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "303536685",
@@ -424421,22 +424429,22 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98
+                                "rank": 99
                             },
                             {
                                 "id": "100572482",
@@ -425319,22 +425327,22 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98
+                                "rank": 99
                             },
                             {
                                 "id": "100572482",
@@ -426127,22 +426135,22 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98
+                                "rank": 99
                             },
                             {
                                 "id": "100572482",
@@ -426903,18 +426911,18 @@
                                 "rank": 89
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 90
+                            },
+                            {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 100
                             },
                             {
@@ -427541,18 +427549,18 @@
                                 "rank": 82
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 90
+                            },
+                            {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 100
                             },
                             {
@@ -428189,18 +428197,18 @@
                                 "rank": 82
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 90
+                            },
+                            {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 100
                             },
                             {
@@ -428824,12 +428832,12 @@
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "301509448",
@@ -429282,7 +429290,7 @@
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96
+                                "rank": 97
                             },
                             {
                                 "id": "900343000",
@@ -429645,7 +429653,7 @@
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96
+                                "rank": 97
                             },
                             {
                                 "id": "900343000",
@@ -429978,12 +429986,12 @@
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "100387373",
@@ -430892,7 +430900,7 @@
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "100964127",
@@ -431065,7 +431073,7 @@
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "100387373",
@@ -431452,7 +431460,7 @@
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96
+                                "rank": 97
                             },
                             {
                                 "id": "506431221",
@@ -432120,53 +432128,53 @@
                                 "rank": 89
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 90
+                            },
+                            {
                                 "id": "301150720",
                                 "name": "Siris (JP)",
-                                "rank": 90
+                                "rank": 91
                             },
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96
+                                "rank": 97
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98
+                                "rank": 99
                             },
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 100
                             },
                             {
@@ -434253,38 +434261,38 @@
                                 "rank": 85
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 90
+                            },
+                            {
                                 "id": "301150720",
                                 "name": "Siris (JP)",
-                                "rank": 90
+                                "rank": 91
                             },
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98
+                                "rank": 99
                             },
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 100
                             },
                             {
@@ -436126,48 +436134,48 @@
                                 "rank": 85
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 90
+                            },
+                            {
                                 "id": "301150720",
                                 "name": "Siris (JP)",
-                                "rank": 90
+                                "rank": 91
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96
+                                "rank": 97
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98
+                                "rank": 99
                             },
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 100
                             },
                             {
@@ -437391,22 +437399,22 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98
+                                "rank": 99
                             },
                             {
                                 "id": "100572482",
@@ -438289,22 +438297,22 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98
+                                "rank": 99
                             },
                             {
                                 "id": "100572482",
@@ -439097,22 +439105,22 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95
+                                "rank": 96
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98
+                                "rank": 99
                             },
                             {
                                 "id": "100572482",
@@ -439885,7 +439893,7 @@
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96
+                                "rank": 97
                             },
                             {
                                 "id": "900343000",
@@ -440603,7 +440611,7 @@
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96
+                                "rank": 97
                             },
                             {
                                 "id": "900343000",
@@ -441284,18 +441292,18 @@
                                 "rank": 89
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 90
+                            },
+                            {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 100
                             },
                             {
@@ -441874,7 +441882,7 @@
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "900343000",
@@ -442585,18 +442593,18 @@
                                 "rank": 82
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 90
+                            },
+                            {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 100
                             },
                             {
@@ -443233,18 +443241,18 @@
                                 "rank": 82
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 90
+                            },
+                            {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
                                 "rank": 100
                             },
                             {
@@ -444471,12 +444479,12 @@
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "301509448",
@@ -444944,12 +444952,12 @@
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "100387373",
@@ -445550,7 +445558,7 @@
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92
+                                "rank": 93
                             },
                             {
                                 "id": "100964127",
@@ -445733,17 +445741,17 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93
+                                "rank": 94
                             },
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96
+                                "rank": 97
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97
+                                "rank": 98
                             },
                             {
                                 "id": "500333257",
@@ -445931,7 +445939,7 @@
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96
+                                "rank": 97
                             },
                             {
                                 "id": "301509448",
@@ -446084,7 +446092,7 @@
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94
+                                "rank": 95
                             },
                             {
                                 "id": "100387373",
@@ -446408,7 +446416,7 @@
                             {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "303536685",
@@ -446451,7 +446459,7 @@
                             {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "303536685",
@@ -446494,7 +446502,7 @@
                             {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91
+                                "rank": 92
                             },
                             {
                                 "id": "303536685",
@@ -446867,7 +446875,7 @@
                             {
                                 "id": "301150720",
                                 "name": "Siris (JP)",
-                                "rank": 90,
+                                "rank": 91,
                                 "teamScore": 1553200
                             },
                             {
@@ -447027,6 +447035,12 @@
                                 "teamScore": 1221634
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 90,
+                                "teamScore": 1210160
+                            },
+                            {
                                 "id": "100855962",
                                 "name": "久田泉奈 (CN)",
                                 "rank": 43,
@@ -447041,7 +447055,7 @@
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94,
+                                "rank": 95,
                                 "teamScore": 1170045
                             },
                             {
@@ -447049,12 +447063,6 @@
                                 "name": "七万Saito (CN)",
                                 "rank": 144,
                                 "teamScore": 1164755
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
-                                "rank": 100,
-                                "teamScore": 1164120
                             },
                             {
                                 "id": "100387373",
@@ -447071,7 +447079,7 @@
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98,
+                                "rank": 99,
                                 "teamScore": 1141447
                             },
                             {
@@ -447137,7 +447145,7 @@
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95,
+                                "rank": 96,
                                 "teamScore": 1095733
                             },
                             {
@@ -447449,7 +447457,7 @@
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99,
+                                "rank": 100,
                                 "teamScore": 883304
                             },
                             {
@@ -448297,7 +448305,7 @@
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92,
+                                "rank": 93,
                                 "teamScore": 1231240
                             },
                             {
@@ -449249,19 +449257,19 @@
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96,
+                                "rank": 97,
                                 "teamScore": 1265444
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93,
+                                "rank": 94,
                                 "teamScore": 1178012
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97,
+                                "rank": 98,
                                 "teamScore": 1161404
                             },
                             {
@@ -449621,7 +449629,7 @@
                             {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91,
+                                "rank": 92,
                                 "teamScore": 780438
                             },
                             {
@@ -450315,7 +450323,7 @@
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95,
+                                "rank": 96,
                                 "teamScore": 431819
                             },
                             {
@@ -450417,7 +450425,7 @@
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98,
+                                "rank": 99,
                                 "teamScore": 371047
                             },
                             {
@@ -450429,7 +450437,7 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93,
+                                "rank": 94,
                                 "teamScore": 367232
                             },
                             {
@@ -450465,7 +450473,7 @@
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97,
+                                "rank": 98,
                                 "teamScore": 352827
                             },
                             {
@@ -450887,7 +450895,7 @@
                             {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91,
+                                "rank": 92,
                                 "teamScore": 768326
                             },
                             {
@@ -450929,7 +450937,7 @@
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99,
+                                "rank": 100,
                                 "teamScore": 626145
                             },
                             {
@@ -451097,7 +451105,7 @@
                             {
                                 "id": "901096538",
                                 "name": "冬月櫻 (TW)",
-                                "rank": 100,
+                                "rank": 90,
                                 "teamScore": 344732
                             },
                             {
@@ -451881,7 +451889,7 @@
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92,
+                                "rank": 93,
                                 "teamScore": 316264
                             },
                             {
@@ -452257,7 +452265,7 @@
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94,
+                                "rank": 95,
                                 "teamScore": 357980
                             },
                             {
@@ -452763,7 +452771,7 @@
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96,
+                                "rank": 97,
                                 "teamScore": 257664
                             },
                             {
@@ -453665,7 +453673,7 @@
                             {
                                 "id": "301150720",
                                 "name": "Siris (JP)",
-                                "rank": 90,
+                                "rank": 91,
                                 "teamScore": 1553200
                             },
                             {
@@ -453825,6 +453833,12 @@
                                 "teamScore": 1221634
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 90,
+                                "teamScore": 1210160
+                            },
+                            {
                                 "id": "100855962",
                                 "name": "久田泉奈 (CN)",
                                 "rank": 43,
@@ -453839,7 +453853,7 @@
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94,
+                                "rank": 95,
                                 "teamScore": 1170045
                             },
                             {
@@ -453847,12 +453861,6 @@
                                 "name": "七万Saito (CN)",
                                 "rank": 144,
                                 "teamScore": 1164755
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
-                                "rank": 100,
-                                "teamScore": 1164120
                             },
                             {
                                 "id": "100387373",
@@ -453869,7 +453877,7 @@
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98,
+                                "rank": 99,
                                 "teamScore": 1141447
                             },
                             {
@@ -453935,7 +453943,7 @@
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95,
+                                "rank": 96,
                                 "teamScore": 1095733
                             },
                             {
@@ -454247,7 +454255,7 @@
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99,
+                                "rank": 100,
                                 "teamScore": 883304
                             },
                             {
@@ -455383,7 +455391,7 @@
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95,
+                                "rank": 96,
                                 "teamScore": 431819
                             },
                             {
@@ -455485,7 +455493,7 @@
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98,
+                                "rank": 99,
                                 "teamScore": 371047
                             },
                             {
@@ -455497,7 +455505,7 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93,
+                                "rank": 94,
                                 "teamScore": 367232
                             },
                             {
@@ -455533,7 +455541,7 @@
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97,
+                                "rank": 98,
                                 "teamScore": 352827
                             },
                             {
@@ -455913,7 +455921,7 @@
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92,
+                                "rank": 93,
                                 "teamScore": 1231240
                             },
                             {
@@ -457291,7 +457299,7 @@
                             {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91,
+                                "rank": 92,
                                 "teamScore": 768326
                             },
                             {
@@ -457333,7 +457341,7 @@
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99,
+                                "rank": 100,
                                 "teamScore": 626145
                             },
                             {
@@ -457501,7 +457509,7 @@
                             {
                                 "id": "901096538",
                                 "name": "冬月櫻 (TW)",
-                                "rank": 100,
+                                "rank": 90,
                                 "teamScore": 344732
                             },
                             {
@@ -457911,7 +457919,7 @@
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92,
+                                "rank": 93,
                                 "teamScore": 316264
                             },
                             {
@@ -458213,7 +458221,7 @@
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96,
+                                "rank": 97,
                                 "teamScore": 257664
                             },
                             {
@@ -458287,19 +458295,19 @@
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96,
+                                "rank": 97,
                                 "teamScore": 1265444
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93,
+                                "rank": 94,
                                 "teamScore": 1178012
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97,
+                                "rank": 98,
                                 "teamScore": 1161404
                             },
                             {
@@ -458663,7 +458671,7 @@
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94,
+                                "rank": 95,
                                 "teamScore": 357980
                             },
                             {
@@ -459349,7 +459357,7 @@
                             {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91,
+                                "rank": 92,
                                 "teamScore": 780438
                             },
                             {
@@ -460343,7 +460351,7 @@
                             {
                                 "id": "301150720",
                                 "name": "Siris (JP)",
-                                "rank": 90,
+                                "rank": 91,
                                 "teamScore": 1553200
                             },
                             {
@@ -460503,6 +460511,12 @@
                                 "teamScore": 1221634
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 90,
+                                "teamScore": 1210160
+                            },
+                            {
                                 "id": "100855962",
                                 "name": "久田泉奈 (CN)",
                                 "rank": 43,
@@ -460517,7 +460531,7 @@
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94,
+                                "rank": 95,
                                 "teamScore": 1170045
                             },
                             {
@@ -460525,12 +460539,6 @@
                                 "name": "七万Saito (CN)",
                                 "rank": 144,
                                 "teamScore": 1164755
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
-                                "rank": 100,
-                                "teamScore": 1164120
                             },
                             {
                                 "id": "100387373",
@@ -460547,7 +460555,7 @@
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98,
+                                "rank": 99,
                                 "teamScore": 1141447
                             },
                             {
@@ -460613,7 +460621,7 @@
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95,
+                                "rank": 96,
                                 "teamScore": 1095733
                             },
                             {
@@ -460925,7 +460933,7 @@
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99,
+                                "rank": 100,
                                 "teamScore": 883304
                             },
                             {
@@ -461745,7 +461753,7 @@
                                 "p516029": 223,
                                 "p513031": 150,
                                 "p513030": 142,
-                                "p513912": 113,
+                                "p513912": 114,
                                 "p513029": 45,
                                 "p513941": 44,
                                 "p513942": 31,
@@ -461780,10 +461788,10 @@
                                 "p513906": 226,
                                 "p516030": 223,
                                 "p516033": 207,
-                                "p516028": 204,
+                                "p516028": 203,
                                 "p516043": 187,
                                 "p513025": 187,
-                                "p516029": 177,
+                                "p516029": 178,
                                 "p513031": 41,
                                 "p513909": 21,
                                 "p513942": 20,
@@ -461810,12 +461818,12 @@
                                 "p516023": 240,
                                 "p513030": 135,
                                 "p513031": 109,
-                                "p513912": 107,
+                                "p513912": 108,
                                 "p513025": 66,
                                 "p516043": 56,
-                                "p516029": 46,
+                                "p516029": 45,
                                 "p513941": 42,
-                                "p516028": 41,
+                                "p516028": 42,
                                 "p516033": 40,
                                 "p513029": 33,
                                 "p513911": 22,
@@ -462089,19 +462097,19 @@
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96,
+                                "rank": 97,
                                 "teamScore": 1265444
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93,
+                                "rank": 94,
                                 "teamScore": 1178012
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97,
+                                "rank": 98,
                                 "teamScore": 1161404
                             },
                             {
@@ -462421,7 +462429,7 @@
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92,
+                                "rank": 93,
                                 "teamScore": 1231240
                             },
                             {
@@ -464447,7 +464455,7 @@
                             {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91,
+                                "rank": 92,
                                 "teamScore": 780438
                             },
                             {
@@ -465474,7 +465482,7 @@
                             {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91,
+                                "rank": 92,
                                 "teamScore": 768326
                             },
                             {
@@ -465516,7 +465524,7 @@
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99,
+                                "rank": 100,
                                 "teamScore": 626145
                             },
                             {
@@ -465684,7 +465692,7 @@
                             {
                                 "id": "901096538",
                                 "name": "冬月櫻 (TW)",
-                                "rank": 100,
+                                "rank": 90,
                                 "teamScore": 344732
                             },
                             {
@@ -466460,7 +466468,7 @@
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92,
+                                "rank": 93,
                                 "teamScore": 316264
                             },
                             {
@@ -467888,7 +467896,7 @@
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95,
+                                "rank": 96,
                                 "teamScore": 431819
                             },
                             {
@@ -467990,7 +467998,7 @@
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98,
+                                "rank": 99,
                                 "teamScore": 371047
                             },
                             {
@@ -468002,7 +468010,7 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93,
+                                "rank": 94,
                                 "teamScore": 367232
                             },
                             {
@@ -468038,7 +468046,7 @@
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97,
+                                "rank": 98,
                                 "teamScore": 352827
                             },
                             {
@@ -469263,7 +469271,7 @@
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94,
+                                "rank": 95,
                                 "teamScore": 357980
                             },
                             {
@@ -470427,7 +470435,7 @@
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96,
+                                "rank": 97,
                                 "teamScore": 257664
                             },
                             {
@@ -471811,7 +471819,7 @@
                             {
                                 "id": "301150720",
                                 "name": "Siris (JP)",
-                                "rank": 90,
+                                "rank": 91,
                                 "teamScore": 1553200
                             },
                             {
@@ -471971,6 +471979,12 @@
                                 "teamScore": 1221634
                             },
                             {
+                                "id": "901096538",
+                                "name": "冬月櫻 (TW)",
+                                "rank": 90,
+                                "teamScore": 1210160
+                            },
+                            {
                                 "id": "100855962",
                                 "name": "久田泉奈 (CN)",
                                 "rank": 43,
@@ -471985,7 +471999,7 @@
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94,
+                                "rank": 95,
                                 "teamScore": 1170045
                             },
                             {
@@ -471993,12 +472007,6 @@
                                 "name": "七万Saito (CN)",
                                 "rank": 144,
                                 "teamScore": 1164755
-                            },
-                            {
-                                "id": "901096538",
-                                "name": "冬月櫻 (TW)",
-                                "rank": 100,
-                                "teamScore": 1164120
                             },
                             {
                                 "id": "100387373",
@@ -472015,7 +472023,7 @@
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98,
+                                "rank": 99,
                                 "teamScore": 1141447
                             },
                             {
@@ -472081,7 +472089,7 @@
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95,
+                                "rank": 96,
                                 "teamScore": 1095733
                             },
                             {
@@ -472393,7 +472401,7 @@
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99,
+                                "rank": 100,
                                 "teamScore": 883304
                             },
                             {
@@ -473213,7 +473221,7 @@
                                 "p516029": 223,
                                 "p513031": 150,
                                 "p513030": 142,
-                                "p513912": 113,
+                                "p513912": 114,
                                 "p513029": 45,
                                 "p513941": 44,
                                 "p513942": 31,
@@ -473248,10 +473256,10 @@
                                 "p513906": 226,
                                 "p516030": 223,
                                 "p516033": 207,
-                                "p516028": 204,
+                                "p516028": 203,
                                 "p516043": 187,
                                 "p513025": 187,
-                                "p516029": 177,
+                                "p516029": 178,
                                 "p513031": 41,
                                 "p513909": 21,
                                 "p513942": 20,
@@ -473278,12 +473286,12 @@
                                 "p516023": 240,
                                 "p513030": 135,
                                 "p513031": 109,
-                                "p513912": 107,
+                                "p513912": 108,
                                 "p513025": 66,
                                 "p516043": 56,
-                                "p516029": 46,
+                                "p516029": 45,
                                 "p513941": 42,
-                                "p516028": 41,
+                                "p516028": 42,
                                 "p516033": 40,
                                 "p513029": 33,
                                 "p513911": 22,
@@ -473557,19 +473565,19 @@
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96,
+                                "rank": 97,
                                 "teamScore": 1265444
                             },
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93,
+                                "rank": 94,
                                 "teamScore": 1178012
                             },
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97,
+                                "rank": 98,
                                 "teamScore": 1161404
                             },
                             {
@@ -473889,7 +473897,7 @@
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92,
+                                "rank": 93,
                                 "teamScore": 1231240
                             },
                             {
@@ -476036,7 +476044,7 @@
                             {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91,
+                                "rank": 92,
                                 "teamScore": 768326
                             },
                             {
@@ -476078,7 +476086,7 @@
                             {
                                 "id": "100420098",
                                 "name": "特蕾西娅 (CN)",
-                                "rank": 99,
+                                "rank": 100,
                                 "teamScore": 626145
                             },
                             {
@@ -476246,7 +476254,7 @@
                             {
                                 "id": "901096538",
                                 "name": "冬月櫻 (TW)",
-                                "rank": 100,
+                                "rank": 90,
                                 "teamScore": 344732
                             },
                             {
@@ -477022,7 +477030,7 @@
                             {
                                 "id": "500358774",
                                 "name": "지엘 (KR)",
-                                "rank": 92,
+                                "rank": 93,
                                 "teamScore": 316264
                             },
                             {
@@ -477614,7 +477622,7 @@
                             {
                                 "id": "302262593",
                                 "name": "雪解けのうに (JP)",
-                                "rank": 96,
+                                "rank": 97,
                                 "teamScore": 257664
                             },
                             {
@@ -478603,7 +478611,7 @@
                             {
                                 "id": "100649289",
                                 "name": "坍缩星计时器 (CN)",
-                                "rank": 95,
+                                "rank": 96,
                                 "teamScore": 431819
                             },
                             {
@@ -478705,7 +478713,7 @@
                             {
                                 "id": "501176470",
                                 "name": "좋은사람 (KR)",
-                                "rank": 98,
+                                "rank": 99,
                                 "teamScore": 371047
                             },
                             {
@@ -478717,7 +478725,7 @@
                             {
                                 "id": "500425333",
                                 "name": "sukeb (KR)",
-                                "rank": 93,
+                                "rank": 94,
                                 "teamScore": 367232
                             },
                             {
@@ -478753,7 +478761,7 @@
                             {
                                 "id": "300505068",
                                 "name": "ユウト77 (JP)",
-                                "rank": 97,
+                                "rank": 98,
                                 "teamScore": 352827
                             },
                             {
@@ -479288,7 +479296,7 @@
                             {
                                 "id": "300533017",
                                 "name": "わたこう (JP)",
-                                "rank": 91,
+                                "rank": 92,
                                 "teamScore": 780438
                             },
                             {
@@ -480261,7 +480269,7 @@
                             {
                                 "id": "100488710",
                                 "name": "甘织遥奈 (CN)",
-                                "rank": 94,
+                                "rank": 95,
                                 "teamScore": 357980
                             },
                             {
