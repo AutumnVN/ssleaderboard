@@ -1,7 +1,7 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1791382925",
+            "LastRefreshTime": "1791383525",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
@@ -10427,7 +10427,7 @@
                     "Id": "700406419",
                     "NickName": "Paidjo",
                     "HeadIcon": 102,
-                    "Score": 1108424,
+                    "Score": 1115702,
                     "Rank": 31,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
@@ -10590,7 +10590,7 @@
                             "BuildCode": "AAAAcgAAAH4AAACeMAbA7ARsMBgxgMQAGAwG"
                         },
                         {
-                            "BuildScore": 9675,
+                            "BuildScore": 9780,
                             "Chars": [
                                 {
                                     "Id": 155,
@@ -10605,7 +10605,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 377930,
+                            "LevelScore": 385208,
                             "LevelId": 27,
                             "Discs": [
                                 214007,
@@ -10625,7 +10625,15 @@
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 515505,
+                                    "PotentialId": 515513,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515512,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 515506,
                                     "Level": 6
                                 },
                                 {
@@ -10633,35 +10641,27 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 515506,
+                                    "PotentialId": 515505,
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 515513,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515512,
+                                    "PotentialId": 515541,
                                     "Level": 2
-                                },
-                                {
-                                    "PotentialId": 515543,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 510721,
-                                    "Level": 1
                                 },
                                 {
                                     "PotentialId": 510722,
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 510743,
-                                    "Level": 6
+                                    "PotentialId": 510721,
+                                    "Level": 1
                                 },
                                 {
                                     "PotentialId": 510729,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 510725,
                                     "Level": 6
                                 },
                                 {
@@ -10669,12 +10669,12 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 510725,
+                                    "PotentialId": 510743,
                                     "Level": 4
                                 },
                                 {
                                     "PotentialId": 510727,
-                                    "Level": 5
+                                    "Level": 2
                                 },
                                 {
                                     "PotentialId": 513224,
@@ -10685,70 +10685,66 @@
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 513233,
-                                    "Level": 6
-                                },
-                                {
                                     "PotentialId": 513230,
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 513229,
-                                    "Level": 3
+                                    "PotentialId": 513233,
+                                    "Level": 6
                                 },
                                 {
-                                    "PotentialId": 513231,
-                                    "Level": 2
+                                    "PotentialId": 513229,
+                                    "Level": 6
                                 },
                                 {
                                     "PotentialId": 513228,
-                                    "Level": 2
+                                    "Level": 4
                                 }
                             ],
                             "Notes": [
                                 {
                                     "Tid": 90022,
-                                    "Qty": 39
+                                    "Qty": 31
                                 },
                                 {
                                     "Tid": 90013,
-                                    "Qty": 7
+                                    "Qty": 10
                                 },
                                 {
                                     "Tid": 90017,
-                                    "Qty": 29
+                                    "Qty": 34
                                 },
                                 {
                                     "Tid": 90015,
-                                    "Qty": 6
+                                    "Qty": 12
                                 },
                                 {
                                     "Tid": 90016,
-                                    "Qty": 30
+                                    "Qty": 33
                                 },
                                 {
                                     "Tid": 90014,
-                                    "Qty": 16
+                                    "Qty": 13
                                 },
                                 {
                                     "Tid": 90011,
-                                    "Qty": 29
+                                    "Qty": 33
                                 },
                                 {
                                     "Tid": 90012,
-                                    "Qty": 33
+                                    "Qty": 26
                                 }
                             ],
                             "ActiveSecondaryIds": [
                                 4007102,
-                                4007201,
+                                4007202,
                                 4020102,
-                                4020201,
+                                4020202,
                                 4038102,
-                                4038202
+                                4038201
                             ],
                             "RecordRank": "33",
-                            "BuildCode": "AAAAmwAAAGsAAACEzbADBATILgBgBjACyDwA"
+                            "BuildCode": "AAAAmwAAAGsAAACEzbADCIDMFgBQBDAEwGwA"
                         }
                     ],
                     "Honors": [
@@ -33789,7 +33785,7 @@
                     ]
                 }
             ],
-            "Total": 10069,
+            "Total": 10074,
             "UsageByFloor": {
                 "26": [
                     {
@@ -41815,7 +41811,7 @@
                                 "id": "700406419",
                                 "name": "Paidjo",
                                 "rank": 31,
-                                "teamScore": 377930
+                                "teamScore": 385208
                             },
                             {
                                 "id": "701293902",
@@ -43419,7 +43415,7 @@
                                 "id": "700406419",
                                 "name": "Paidjo",
                                 "rank": 31,
-                                "teamScore": 377930
+                                "teamScore": 385208
                             },
                             {
                                 "id": "701293902",
@@ -46540,7 +46536,7 @@
                                 "id": "700406419",
                                 "name": "Paidjo",
                                 "rank": 31,
-                                "teamScore": 377930
+                                "teamScore": 385208
                             },
                             {
                                 "id": "701293902",
@@ -46579,9 +46575,9 @@
                                 "p513233": 3,
                                 "p513228": 3,
                                 "p515510": 2,
-                                "p515543": 2,
+                                "p515543": 1,
                                 "p513225": 1,
-                                "p513231": 1,
+                                "p515541": 1,
                                 "p510731": 1,
                                 "p513243": 1
                             },
@@ -46592,28 +46588,31 @@
                                 "p515513": 3,
                                 "p510729": 3,
                                 "p510728": 3,
-                                "p510727": 3,
                                 "p510725": 3,
                                 "p513230": 3,
                                 "p513233": 3,
+                                "p510727": 2,
                                 "p510743": 2,
                                 "p515510": 1,
-                                "p515543": 1
+                                "p515512": 1,
+                                "p513229": 1,
+                                "p513228": 1
                             },
                             "low": {
                                 "p515501": 3,
                                 "p515502": 3,
-                                "p515512": 3,
                                 "p510721": 3,
                                 "p510722": 3,
                                 "p513224": 3,
                                 "p513223": 3,
-                                "p513229": 3,
-                                "p513228": 3,
+                                "p515512": 2,
+                                "p513229": 2,
+                                "p513228": 2,
                                 "p515543": 1,
                                 "p510743": 1,
                                 "p513225": 1,
-                                "p513231": 1,
+                                "p515541": 1,
+                                "p510727": 1,
                                 "p515510": 1,
                                 "p510731": 1,
                                 "p513243": 1
@@ -50503,7 +50502,7 @@
                                 "id": "700406419",
                                 "name": "Paidjo",
                                 "rank": 31,
-                                "teamScore": 377930
+                                "teamScore": 385208
                             },
                             {
                                 "id": "701293902",
@@ -50542,9 +50541,9 @@
                                 "p513233": 3,
                                 "p513228": 3,
                                 "p515510": 2,
-                                "p515543": 2,
+                                "p515543": 1,
                                 "p513225": 1,
-                                "p513231": 1,
+                                "p515541": 1,
                                 "p510731": 1,
                                 "p513243": 1
                             },
@@ -50555,28 +50554,31 @@
                                 "p515513": 3,
                                 "p510729": 3,
                                 "p510728": 3,
-                                "p510727": 3,
                                 "p510725": 3,
                                 "p513230": 3,
                                 "p513233": 3,
+                                "p510727": 2,
                                 "p510743": 2,
                                 "p515510": 1,
-                                "p515543": 1
+                                "p515512": 1,
+                                "p513229": 1,
+                                "p513228": 1
                             },
                             "low": {
                                 "p515501": 3,
                                 "p515502": 3,
-                                "p515512": 3,
                                 "p510721": 3,
                                 "p510722": 3,
                                 "p513224": 3,
                                 "p513223": 3,
-                                "p513229": 3,
-                                "p513228": 3,
+                                "p515512": 2,
+                                "p513229": 2,
+                                "p513228": 2,
                                 "p515543": 1,
                                 "p510743": 1,
                                 "p513225": 1,
-                                "p513231": 1,
+                                "p515541": 1,
+                                "p510727": 1,
                                 "p515510": 1,
                                 "p510731": 1,
                                 "p513243": 1
@@ -102795,7 +102797,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1791382966",
+            "LastRefreshTime": "1791383567",
             "Rank": [
                 {
                     "Id": "507501904",
@@ -135707,7 +135709,7 @@
                     ]
                 }
             ],
-            "Total": 2643,
+            "Total": 2646,
             "UsageByFloor": {
                 "26": [
                     {
@@ -348310,11 +348312,341 @@
                     ]
                 },
                 {
+                    "Id": "700406419",
+                    "NickName": "Paidjo (EN)",
+                    "HeadIcon": 102,
+                    "Score": 1115702,
+                    "Rank": 290,
+                    "TitlePrefix": 1,
+                    "TitleSuffix": 2,
+                    "Teams": [
+                        {
+                            "BuildScore": 9045,
+                            "Chars": [
+                                {
+                                    "Id": 114,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 126,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 158,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 730494,
+                            "LevelId": 26,
+                            "Discs": [
+                                214029,
+                                214027,
+                                214019,
+                                214040,
+                                214041,
+                                214005
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 511403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511409,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511443,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 511412,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512623,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512622,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512631,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512641,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512625,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512627,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512629,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 515821,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515822,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515831,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515843,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515833,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515825,
+                                    "Level": 2
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 22
+                                },
+                                {
+                                    "Tid": 90019,
+                                    "Qty": 50
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 26
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 6
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 7
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 19
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 15
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 18
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4029102,
+                                4029201,
+                                4027102,
+                                4027201,
+                                4019101,
+                                4019201
+                            ],
+                            "RecordRank": "31",
+                            "BuildCode": "AAAAcgAAAH4AAACeMAbA7ARsMBgxgMQAGAwG"
+                        },
+                        {
+                            "BuildScore": 9780,
+                            "Chars": [
+                                {
+                                    "Id": 155,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 107,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 132,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 385208,
+                            "LevelId": 27,
+                            "Discs": [
+                                214007,
+                                214020,
+                                214038,
+                                214039,
+                                214003,
+                                214010
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 515501,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515502,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515513,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515512,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 515506,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515507,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515505,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515541,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 510722,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 510721,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 510729,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 510725,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 510728,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 510743,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 510727,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513224,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513223,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513230,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513233,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513229,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513228,
+                                    "Level": 4
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90022,
+                                    "Qty": 31
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 10
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 34
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 12
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 33
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 13
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 33
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 26
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4007102,
+                                4007202,
+                                4020102,
+                                4020202,
+                                4038102,
+                                4038201
+                            ],
+                            "RecordRank": "33",
+                            "BuildCode": "AAAAmwAAAGsAAACEzbADCIDMFgBQBDAEwGwA"
+                        }
+                    ],
+                    "Honors": [
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                {
                     "Id": "502763496",
                     "NickName": "두부 (KR)",
                     "HeadIcon": 13303,
                     "Score": 1115606,
-                    "Rank": 290,
+                    "Rank": 291,
                     "TitlePrefix": 37,
                     "TitleSuffix": 38,
                     "Teams": [
@@ -348651,7 +348983,7 @@
                     "NickName": "밀리에르 (KR)",
                     "HeadIcon": 130012,
                     "Score": 1114446,
-                    "Rank": 291,
+                    "Rank": 292,
                     "TitlePrefix": 3,
                     "TitleSuffix": 10,
                     "Teams": [
@@ -348990,7 +349322,7 @@
                     "NickName": "まゆ (CN)",
                     "HeadIcon": 13303,
                     "Score": 1111974,
-                    "Rank": 292,
+                    "Rank": 293,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -349321,7 +349653,7 @@
                     "NickName": "Moo (KR)",
                     "HeadIcon": 130001,
                     "Score": 1111919,
-                    "Rank": 293,
+                    "Rank": 294,
                     "TitlePrefix": 31,
                     "TitleSuffix": 36,
                     "Teams": [
@@ -349667,7 +349999,7 @@
                     "NickName": "碗袁申碗德 (CN)",
                     "HeadIcon": 12302,
                     "Score": 1110796,
-                    "Rank": 294,
+                    "Rank": 295,
                     "TitlePrefix": 33,
                     "TitleSuffix": 34,
                     "Teams": [
@@ -349996,7 +350328,7 @@
                     "NickName": "띵붕이 (KR)",
                     "HeadIcon": 14502,
                     "Score": 1109251,
-                    "Rank": 295,
+                    "Rank": 296,
                     "TitlePrefix": 1,
                     "TitleSuffix": 4,
                     "Teams": [
@@ -350325,340 +350657,6 @@
                         {
                             "Id": 117061
                         }
-                    ]
-                },
-                {
-                    "Id": "700406419",
-                    "NickName": "Paidjo (EN)",
-                    "HeadIcon": 102,
-                    "Score": 1108424,
-                    "Rank": 296,
-                    "TitlePrefix": 1,
-                    "TitleSuffix": 2,
-                    "Teams": [
-                        {
-                            "BuildScore": 9045,
-                            "Chars": [
-                                {
-                                    "Id": 114,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 126,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 158,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 730494,
-                            "LevelId": 26,
-                            "Discs": [
-                                214029,
-                                214027,
-                                214019,
-                                214040,
-                                214041,
-                                214005
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 511403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511409,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511443,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 511412,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512623,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512622,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512631,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512641,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512625,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512627,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512629,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 515821,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515822,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515831,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515843,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515833,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515825,
-                                    "Level": 2
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 22
-                                },
-                                {
-                                    "Tid": 90019,
-                                    "Qty": 50
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 26
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 6
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 7
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 19
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 15
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 18
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4029102,
-                                4029201,
-                                4027102,
-                                4027201,
-                                4019101,
-                                4019201
-                            ],
-                            "RecordRank": "31",
-                            "BuildCode": "AAAAcgAAAH4AAACeMAbA7ARsMBgxgMQAGAwG"
-                        },
-                        {
-                            "BuildScore": 9675,
-                            "Chars": [
-                                {
-                                    "Id": 155,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 107,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 132,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 377930,
-                            "LevelId": 27,
-                            "Discs": [
-                                214007,
-                                214020,
-                                214038,
-                                214039,
-                                214003,
-                                214010
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 515501,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515502,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 515505,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515507,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515506,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515513,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 515512,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 515543,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 510721,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 510722,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 510743,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 510729,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 510728,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 510725,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 510727,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 513224,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513223,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513233,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513230,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513229,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 513231,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513228,
-                                    "Level": 2
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90022,
-                                    "Qty": 39
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 7
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 29
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 6
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 30
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 16
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 29
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 33
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4007102,
-                                4007201,
-                                4020102,
-                                4020201,
-                                4038102,
-                                4038202
-                            ],
-                            "RecordRank": "33",
-                            "BuildCode": "AAAAmwAAAGsAAACEzbADBATILgBgBjACyDwA"
-                        }
-                    ],
-                    "Honors": [
-                        {},
-                        {},
-                        {}
                     ]
                 },
                 {
@@ -417952,8 +417950,8 @@
                     ]
                 }
             ],
-            "Total": 42781,
-            "LastRefreshTime": "1791383437",
+            "Total": 42789,
+            "LastRefreshTime": "1791383567",
             "UsageByFloor": {
                 "26": [
                     {
@@ -419214,27 +419212,27 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290
+                                "rank": 291
                             },
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291
+                                "rank": 292
                             },
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292
+                                "rank": 293
                             },
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293
+                                "rank": 294
                             },
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295
+                                "rank": 296
                             },
                             {
                                 "id": "701821829",
@@ -421262,27 +421260,27 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290
+                                "rank": 291
                             },
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291
+                                "rank": 292
                             },
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292
+                                "rank": 293
                             },
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293
+                                "rank": 294
                             },
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295
+                                "rank": 296
                             },
                             {
                                 "id": "701821829",
@@ -423055,22 +423053,22 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290
+                                "rank": 291
                             },
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291
+                                "rank": 292
                             },
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292
+                                "rank": 293
                             },
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295
+                                "rank": 296
                             },
                             {
                                 "id": "900346256",
@@ -423953,7 +423951,7 @@
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293
+                                "rank": 294
                             },
                             {
                                 "id": "701821829",
@@ -424359,14 +424357,14 @@
                                 "rank": 279
                             },
                             {
-                                "id": "101839365",
-                                "name": "碗袁申碗德 (CN)",
-                                "rank": 294
-                            },
-                            {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296
+                                "rank": 290
+                            },
+                            {
+                                "id": "101839365",
+                                "name": "碗袁申碗德 (CN)",
+                                "rank": 295
                             },
                             {
                                 "id": "700949658",
@@ -424634,7 +424632,7 @@
                             {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296
+                                "rank": 290
                             },
                             {
                                 "id": "700949658",
@@ -425058,14 +425056,14 @@
                                 "rank": 279
                             },
                             {
-                                "id": "101839365",
-                                "name": "碗袁申碗德 (CN)",
-                                "rank": 294
-                            },
-                            {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296
+                                "rank": 290
+                            },
+                            {
+                                "id": "101839365",
+                                "name": "碗袁申碗德 (CN)",
+                                "rank": 295
                             },
                             {
                                 "id": "100349666",
@@ -425549,7 +425547,7 @@
                             {
                                 "id": "101839365",
                                 "name": "碗袁申碗德 (CN)",
-                                "rank": 294
+                                "rank": 295
                             },
                             {
                                 "id": "910944993",
@@ -426194,7 +426192,7 @@
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292
+                                "rank": 293
                             },
                             {
                                 "id": "701821829",
@@ -427022,7 +427020,7 @@
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292
+                                "rank": 293
                             },
                             {
                                 "id": "701821829",
@@ -427800,7 +427798,7 @@
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292
+                                "rank": 293
                             },
                             {
                                 "id": "701821829",
@@ -428418,22 +428416,22 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290
+                                "rank": 291
                             },
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291
+                                "rank": 292
                             },
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293
+                                "rank": 294
                             },
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295
+                                "rank": 296
                             },
                             {
                                 "id": "900346256",
@@ -429076,17 +429074,17 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290
+                                "rank": 291
                             },
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291
+                                "rank": 292
                             },
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293
+                                "rank": 294
                             },
                             {
                                 "id": "904444220",
@@ -429694,22 +429692,22 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290
+                                "rank": 291
                             },
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291
+                                "rank": 292
                             },
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293
+                                "rank": 294
                             },
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295
+                                "rank": 296
                             },
                             {
                                 "id": "900346256",
@@ -430270,14 +430268,14 @@
                                 "rank": 280
                             },
                             {
-                                "id": "101839365",
-                                "name": "碗袁申碗德 (CN)",
-                                "rank": 294
-                            },
-                            {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296
+                                "rank": 290
+                            },
+                            {
+                                "id": "101839365",
+                                "name": "碗袁申碗德 (CN)",
+                                "rank": 295
                             },
                             {
                                 "id": "100591972",
@@ -431754,7 +431752,7 @@
                             {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296
+                                "rank": 290
                             },
                             {
                                 "id": "100591972",
@@ -432047,7 +432045,7 @@
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295
+                                "rank": 296
                             },
                             {
                                 "id": "900346256",
@@ -432493,7 +432491,7 @@
                             {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296
+                                "rank": 290
                             },
                             {
                                 "id": "100591972",
@@ -432964,7 +432962,7 @@
                             {
                                 "id": "101839365",
                                 "name": "碗袁申碗德 (CN)",
-                                "rank": 294
+                                "rank": 295
                             }
                         ],
                         "rank": 21
@@ -433051,7 +433049,7 @@
                             {
                                 "id": "101839365",
                                 "name": "碗袁申碗德 (CN)",
-                                "rank": 294
+                                "rank": 295
                             },
                             {
                                 "id": "700347027",
@@ -434428,27 +434426,27 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290
+                                "rank": 291
                             },
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291
+                                "rank": 292
                             },
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292
+                                "rank": 293
                             },
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293
+                                "rank": 294
                             },
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295
+                                "rank": 296
                             },
                             {
                                 "id": "701821829",
@@ -436511,27 +436509,27 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290
+                                "rank": 291
                             },
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291
+                                "rank": 292
                             },
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292
+                                "rank": 293
                             },
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293
+                                "rank": 294
                             },
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295
+                                "rank": 296
                             },
                             {
                                 "id": "701821829",
@@ -438304,22 +438302,22 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290
+                                "rank": 291
                             },
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291
+                                "rank": 292
                             },
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292
+                                "rank": 293
                             },
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295
+                                "rank": 296
                             },
                             {
                                 "id": "900346256",
@@ -439557,7 +439555,7 @@
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292
+                                "rank": 293
                             },
                             {
                                 "id": "701821829",
@@ -440385,7 +440383,7 @@
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292
+                                "rank": 293
                             },
                             {
                                 "id": "701821829",
@@ -441163,7 +441161,7 @@
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292
+                                "rank": 293
                             },
                             {
                                 "id": "701821829",
@@ -441864,14 +441862,14 @@
                                 "rank": 283
                             },
                             {
-                                "id": "101839365",
-                                "name": "碗袁申碗德 (CN)",
-                                "rank": 294
-                            },
-                            {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296
+                                "rank": 290
+                            },
+                            {
+                                "id": "101839365",
+                                "name": "碗袁申碗德 (CN)",
+                                "rank": 295
                             },
                             {
                                 "id": "100403256",
@@ -442444,22 +442442,22 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290
+                                "rank": 291
                             },
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291
+                                "rank": 292
                             },
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293
+                                "rank": 294
                             },
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295
+                                "rank": 296
                             },
                             {
                                 "id": "900346256",
@@ -443107,17 +443105,17 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290
+                                "rank": 291
                             },
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291
+                                "rank": 292
                             },
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293
+                                "rank": 294
                             },
                             {
                                 "id": "904444220",
@@ -443725,22 +443723,22 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290
+                                "rank": 291
                             },
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291
+                                "rank": 292
                             },
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293
+                                "rank": 294
                             },
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295
+                                "rank": 296
                             },
                             {
                                 "id": "900346256",
@@ -444423,7 +444421,7 @@
                             {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296
+                                "rank": 290
                             },
                             {
                                 "id": "100403256",
@@ -444979,14 +444977,14 @@
                                 "rank": 280
                             },
                             {
-                                "id": "101839365",
-                                "name": "碗袁申碗德 (CN)",
-                                "rank": 294
-                            },
-                            {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296
+                                "rank": 290
+                            },
+                            {
+                                "id": "101839365",
+                                "name": "碗袁申碗德 (CN)",
+                                "rank": 295
                             },
                             {
                                 "id": "100591972",
@@ -445512,14 +445510,14 @@
                                 "rank": 283
                             },
                             {
-                                "id": "101839365",
-                                "name": "碗袁申碗德 (CN)",
-                                "rank": 294
-                            },
-                            {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296
+                                "rank": 290
+                            },
+                            {
+                                "id": "101839365",
+                                "name": "碗袁申碗德 (CN)",
+                                "rank": 295
                             },
                             {
                                 "id": "101060086",
@@ -445982,7 +445980,7 @@
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293
+                                "rank": 294
                             },
                             {
                                 "id": "701821829",
@@ -446405,7 +446403,7 @@
                             {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296
+                                "rank": 290
                             },
                             {
                                 "id": "100591972",
@@ -446708,7 +446706,7 @@
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295
+                                "rank": 296
                             },
                             {
                                 "id": "900346256",
@@ -447407,7 +447405,7 @@
                             {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296
+                                "rank": 290
                             },
                             {
                                 "id": "100591972",
@@ -447973,7 +447971,7 @@
                             {
                                 "id": "101839365",
                                 "name": "碗袁申碗德 (CN)",
-                                "rank": 294
+                                "rank": 295
                             },
                             {
                                 "id": "500713179",
@@ -448039,7 +448037,7 @@
                             {
                                 "id": "101839365",
                                 "name": "碗袁申碗德 (CN)",
-                                "rank": 294
+                                "rank": 295
                             }
                         ],
                         "rank": 28
@@ -448080,7 +448078,7 @@
                             {
                                 "id": "101839365",
                                 "name": "碗袁申碗德 (CN)",
-                                "rank": 294
+                                "rank": 295
                             },
                             {
                                 "id": "700347027",
@@ -448998,7 +448996,7 @@
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295,
+                                "rank": 296,
                                 "teamScore": 974480
                             },
                             {
@@ -449274,7 +449272,7 @@
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291,
+                                "rank": 292,
                                 "teamScore": 850710
                             },
                             {
@@ -449922,7 +449920,7 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290,
+                                "rank": 291,
                                 "teamScore": 424365
                             },
                             {
@@ -449934,7 +449932,7 @@
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292,
+                                "rank": 293,
                                 "teamScore": 374175
                             },
                             {
@@ -450392,7 +450390,7 @@
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293,
+                                "rank": 294,
                                 "teamScore": 506829
                             },
                             {
@@ -450774,7 +450772,7 @@
                             {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296,
+                                "rank": 290,
                                 "teamScore": 730494
                             },
                             {
@@ -451426,14 +451424,14 @@
                             {
                                 "id": "101839365",
                                 "name": "碗袁申碗德 (CN)",
-                                "rank": 294,
+                                "rank": 295,
                                 "teamScore": 205346
                             }
                         ],
                         "topUser": {
                             "id": "101839365",
                             "name": "碗袁申碗德 (CN)",
-                            "rank": 294,
+                            "rank": 295,
                             "teamScore": 205346
                         },
                         "rank": 12
@@ -451550,7 +451548,7 @@
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292,
+                                "rank": 293,
                                 "teamScore": 737799
                             },
                             {
@@ -452452,7 +452450,7 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290,
+                                "rank": 291,
                                 "teamScore": 691241
                             },
                             {
@@ -452482,7 +452480,7 @@
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293,
+                                "rank": 294,
                                 "teamScore": 605090
                             },
                             {
@@ -452770,7 +452768,7 @@
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291,
+                                "rank": 292,
                                 "teamScore": 263736
                             },
                             {
@@ -453688,7 +453686,7 @@
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295,
+                                "rank": 296,
                                 "teamScore": 134771
                             },
                             {
@@ -453804,8 +453802,8 @@
                             {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296,
-                                "teamScore": 377930
+                                "rank": 290,
+                                "teamScore": 385208
                             },
                             {
                                 "id": "101230370",
@@ -454966,14 +454964,14 @@
                             {
                                 "id": "101839365",
                                 "name": "碗袁申碗德 (CN)",
-                                "rank": 294,
+                                "rank": 295,
                                 "teamScore": 905450
                             }
                         ],
                         "topUser": {
                             "id": "101839365",
                             "name": "碗袁申碗德 (CN)",
-                            "rank": 294,
+                            "rank": 295,
                             "teamScore": 905450
                         },
                         "rank": 18
@@ -455926,7 +455924,7 @@
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295,
+                                "rank": 296,
                                 "teamScore": 974480
                             },
                             {
@@ -456202,7 +456200,7 @@
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291,
+                                "rank": 292,
                                 "teamScore": 850710
                             },
                             {
@@ -456850,7 +456848,7 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290,
+                                "rank": 291,
                                 "teamScore": 424365
                             },
                             {
@@ -456862,7 +456860,7 @@
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292,
+                                "rank": 293,
                                 "teamScore": 374175
                             },
                             {
@@ -456918,7 +456916,7 @@
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292,
+                                "rank": 293,
                                 "teamScore": 737799
                             },
                             {
@@ -457808,7 +457806,7 @@
                             {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296,
+                                "rank": 290,
                                 "teamScore": 730494
                             },
                             {
@@ -458434,7 +458432,7 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290,
+                                "rank": 291,
                                 "teamScore": 691241
                             },
                             {
@@ -458464,7 +458462,7 @@
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293,
+                                "rank": 294,
                                 "teamScore": 605090
                             },
                             {
@@ -458752,7 +458750,7 @@
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291,
+                                "rank": 292,
                                 "teamScore": 263736
                             },
                             {
@@ -459348,7 +459346,7 @@
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293,
+                                "rank": 294,
                                 "teamScore": 506829
                             },
                             {
@@ -460172,7 +460170,7 @@
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295,
+                                "rank": 296,
                                 "teamScore": 134771
                             },
                             {
@@ -460288,8 +460286,8 @@
                             {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296,
-                                "teamScore": 377930
+                                "rank": 290,
+                                "teamScore": 385208
                             },
                             {
                                 "id": "101230370",
@@ -461186,7 +461184,7 @@
                             {
                                 "id": "101839365",
                                 "name": "碗袁申碗德 (CN)",
-                                "rank": 294,
+                                "rank": 295,
                                 "teamScore": 205346
                             },
                             {
@@ -461720,14 +461718,14 @@
                             {
                                 "id": "101839365",
                                 "name": "碗袁申碗德 (CN)",
-                                "rank": 294,
+                                "rank": 295,
                                 "teamScore": 905450
                             }
                         ],
                         "topUser": {
                             "id": "101839365",
                             "name": "碗袁申碗德 (CN)",
-                            "rank": 294,
+                            "rank": 295,
                             "teamScore": 905450
                         },
                         "rank": 28
@@ -462734,7 +462732,7 @@
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295,
+                                "rank": 296,
                                 "teamScore": 974480
                             },
                             {
@@ -463010,7 +463008,7 @@
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291,
+                                "rank": 292,
                                 "teamScore": 850710
                             },
                             {
@@ -463658,7 +463656,7 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290,
+                                "rank": 291,
                                 "teamScore": 424365
                             },
                             {
@@ -463670,7 +463668,7 @@
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292,
+                                "rank": 293,
                                 "teamScore": 374175
                             },
                             {
@@ -464850,7 +464848,7 @@
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293,
+                                "rank": 294,
                                 "teamScore": 506829
                             },
                             {
@@ -465135,7 +465133,7 @@
                             {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296,
+                                "rank": 290,
                                 "teamScore": 730494
                             },
                             {
@@ -466870,14 +466868,14 @@
                             {
                                 "id": "101839365",
                                 "name": "碗袁申碗德 (CN)",
-                                "rank": 294,
+                                "rank": 295,
                                 "teamScore": 205346
                             }
                         ],
                         "topUser": {
                             "id": "101839365",
                             "name": "碗袁申碗德 (CN)",
-                            "rank": 294,
+                            "rank": 295,
                             "teamScore": 205346
                         },
                         "rank": 17,
@@ -467343,7 +467341,7 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290,
+                                "rank": 291,
                                 "teamScore": 691241
                             },
                             {
@@ -467373,7 +467371,7 @@
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293,
+                                "rank": 294,
                                 "teamScore": 605090
                             },
                             {
@@ -467661,7 +467659,7 @@
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291,
+                                "rank": 292,
                                 "teamScore": 263736
                             },
                             {
@@ -469236,14 +469234,14 @@
                             {
                                 "id": "101839365",
                                 "name": "碗袁申碗德 (CN)",
-                                "rank": 294,
+                                "rank": 295,
                                 "teamScore": 905450
                             }
                         ],
                         "topUser": {
                             "id": "101839365",
                             "name": "碗袁申碗德 (CN)",
-                            "rank": 294,
+                            "rank": 295,
                             "teamScore": 905450
                         },
                         "rank": 7,
@@ -469614,7 +469612,7 @@
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292,
+                                "rank": 293,
                                 "teamScore": 737799
                             },
                             {
@@ -471380,8 +471378,8 @@
                             {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296,
-                                "teamScore": 377930
+                                "rank": 290,
+                                "teamScore": 385208
                             },
                             {
                                 "id": "101230370",
@@ -471515,13 +471513,13 @@
                                 "p510727": 18,
                                 "p510743": 17,
                                 "p513229": 12,
-                                "p515543": 9,
+                                "p515543": 8,
                                 "p510731": 8,
                                 "p515510": 7,
-                                "p513231": 5,
                                 "p513226": 5,
+                                "p515541": 4,
+                                "p513231": 4,
                                 "p513225": 4,
-                                "p515541": 3,
                                 "p510726": 3,
                                 "p513222": 3,
                                 "p515509": 3,
@@ -471544,38 +471542,39 @@
                                 "p510728": 20,
                                 "p510729": 19,
                                 "p510743": 13,
-                                "p510727": 10,
-                                "p515512": 6,
+                                "p510727": 9,
+                                "p515512": 7,
                                 "p510731": 5,
-                                "p513229": 4,
+                                "p513229": 5,
                                 "p515541": 2,
                                 "p515510": 2,
-                                "p515543": 2
+                                "p513228": 1,
+                                "p515543": 1
                             },
                             "low": {
                                 "p515501": 22,
                                 "p515502": 22,
                                 "p510721": 22,
                                 "p510722": 22,
-                                "p513228": 22,
                                 "p513224": 21,
+                                "p513228": 21,
                                 "p513223": 19,
-                                "p515512": 16,
-                                "p510727": 8,
-                                "p513229": 8,
+                                "p515512": 15,
+                                "p510727": 9,
                                 "p515543": 7,
+                                "p513229": 7,
                                 "p515510": 5,
-                                "p513231": 5,
                                 "p513226": 5,
+                                "p513231": 4,
                                 "p510743": 4,
                                 "p513225": 4,
                                 "p510731": 3,
                                 "p510726": 3,
                                 "p513222": 3,
                                 "p515509": 3,
+                                "p515541": 2,
                                 "p515508": 1,
                                 "p515511": 1,
-                                "p515541": 1,
                                 "p510728": 1,
                                 "p513221": 1,
                                 "p513243": 1,
@@ -472755,7 +472754,7 @@
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295,
+                                "rank": 296,
                                 "teamScore": 134771
                             },
                             {
@@ -474580,7 +474579,7 @@
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295,
+                                "rank": 296,
                                 "teamScore": 974480
                             },
                             {
@@ -474856,7 +474855,7 @@
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291,
+                                "rank": 292,
                                 "teamScore": 850710
                             },
                             {
@@ -475504,7 +475503,7 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290,
+                                "rank": 291,
                                 "teamScore": 424365
                             },
                             {
@@ -475516,7 +475515,7 @@
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292,
+                                "rank": 293,
                                 "teamScore": 374175
                             },
                             {
@@ -476708,7 +476707,7 @@
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293,
+                                "rank": 294,
                                 "teamScore": 506829
                             },
                             {
@@ -477011,7 +477010,7 @@
                             {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296,
+                                "rank": 290,
                                 "teamScore": 730494
                             },
                             {
@@ -478211,7 +478210,7 @@
                             {
                                 "id": "502763496",
                                 "name": "두부 (KR)",
-                                "rank": 290,
+                                "rank": 291,
                                 "teamScore": 691241
                             },
                             {
@@ -478241,7 +478240,7 @@
                             {
                                 "id": "500584552",
                                 "name": "Moo (KR)",
-                                "rank": 293,
+                                "rank": 294,
                                 "teamScore": 605090
                             },
                             {
@@ -478529,7 +478528,7 @@
                             {
                                 "id": "500340707",
                                 "name": "밀리에르 (KR)",
-                                "rank": 291,
+                                "rank": 292,
                                 "teamScore": 263736
                             },
                             {
@@ -480175,14 +480174,14 @@
                             {
                                 "id": "101839365",
                                 "name": "碗袁申碗德 (CN)",
-                                "rank": 294,
+                                "rank": 295,
                                 "teamScore": 905450
                             }
                         ],
                         "topUser": {
                             "id": "101839365",
                             "name": "碗袁申碗德 (CN)",
-                            "rank": 294,
+                            "rank": 295,
                             "teamScore": 905450
                         },
                         "rank": 16,
@@ -480623,7 +480622,7 @@
                             {
                                 "id": "100407130",
                                 "name": "まゆ (CN)",
-                                "rank": 292,
+                                "rank": 293,
                                 "teamScore": 737799
                             },
                             {
@@ -482618,8 +482617,8 @@
                             {
                                 "id": "700406419",
                                 "name": "Paidjo (EN)",
-                                "rank": 296,
-                                "teamScore": 377930
+                                "rank": 290,
+                                "teamScore": 385208
                             },
                             {
                                 "id": "101230370",
@@ -482753,13 +482752,13 @@
                                 "p510727": 18,
                                 "p510743": 17,
                                 "p513229": 12,
-                                "p515543": 9,
+                                "p515543": 8,
                                 "p510731": 8,
                                 "p515510": 7,
-                                "p513231": 5,
                                 "p513226": 5,
+                                "p515541": 4,
+                                "p513231": 4,
                                 "p513225": 4,
-                                "p515541": 3,
                                 "p510726": 3,
                                 "p513222": 3,
                                 "p515509": 3,
@@ -482782,38 +482781,39 @@
                                 "p510728": 20,
                                 "p510729": 19,
                                 "p510743": 13,
-                                "p510727": 10,
-                                "p515512": 6,
+                                "p510727": 9,
+                                "p515512": 7,
                                 "p510731": 5,
-                                "p513229": 4,
+                                "p513229": 5,
                                 "p515541": 2,
                                 "p515510": 2,
-                                "p515543": 2
+                                "p513228": 1,
+                                "p515543": 1
                             },
                             "low": {
                                 "p515501": 22,
                                 "p515502": 22,
                                 "p510721": 22,
                                 "p510722": 22,
-                                "p513228": 22,
                                 "p513224": 21,
+                                "p513228": 21,
                                 "p513223": 19,
-                                "p515512": 16,
-                                "p510727": 8,
-                                "p513229": 8,
+                                "p515512": 15,
+                                "p510727": 9,
                                 "p515543": 7,
+                                "p513229": 7,
                                 "p515510": 5,
-                                "p513231": 5,
                                 "p513226": 5,
+                                "p513231": 4,
                                 "p510743": 4,
                                 "p513225": 4,
                                 "p510731": 3,
                                 "p510726": 3,
                                 "p513222": 3,
                                 "p515509": 3,
+                                "p515541": 2,
                                 "p515508": 1,
                                 "p515511": 1,
-                                "p515541": 1,
                                 "p510728": 1,
                                 "p513221": 1,
                                 "p513243": 1,
@@ -483897,7 +483897,7 @@
                             {
                                 "id": "500336343",
                                 "name": "띵붕이 (KR)",
-                                "rank": 295,
+                                "rank": 296,
                                 "teamScore": 134771
                             },
                             {
@@ -484247,7 +484247,7 @@
                             {
                                 "id": "101839365",
                                 "name": "碗袁申碗德 (CN)",
-                                "rank": 294,
+                                "rank": 295,
                                 "teamScore": 205346
                             },
                             {
