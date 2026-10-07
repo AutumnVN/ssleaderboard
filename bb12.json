@@ -51868,7 +51868,7 @@
             }
         },
         "jp": {
-            "LastRefreshTime": "1791369362",
+            "LastRefreshTime": "1791369962",
             "Rank": [
                 {
                     "Id": "300549834",
@@ -83812,16 +83812,16 @@
                     ]
                 },
                 {
-                    "Id": "301953067",
-                    "NickName": "HoHzuki",
-                    "HeadIcon": 14402,
-                    "Score": 1200992,
+                    "Id": "301049591",
+                    "NickName": "Flandre",
+                    "HeadIcon": 101,
+                    "Score": 1209995,
                     "Rank": 100,
-                    "TitlePrefix": 23,
-                    "TitleSuffix": 30,
+                    "TitlePrefix": 1,
+                    "TitleSuffix": 2,
                     "Teams": [
                         {
-                            "BuildScore": 10890,
+                            "BuildScore": 10725,
                             "Chars": [
                                 {
                                     "Id": 144,
@@ -83836,14 +83836,14 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 1200992,
+                            "LevelScore": 1097379,
                             "LevelId": 26,
                             "Discs": [
-                                214061,
                                 214026,
+                                214061,
                                 214055,
-                                214008,
                                 214031,
+                                214005,
                                 214062
                             ],
                             "Potentials": [
@@ -83856,11 +83856,7 @@
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514410,
+                                    "PotentialId": 514409,
                                     "Level": 6
                                 },
                                 {
@@ -83868,27 +83864,27 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 514409,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 2
-                                },
-                                {
                                     "PotentialId": 514442,
-                                    "Level": 2
+                                    "Level": 6
                                 },
                                 {
-                                    "PotentialId": 513022,
-                                    "Level": 1
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 4
                                 },
                                 {
                                     "PotentialId": 513021,
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 513026,
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513031,
                                     "Level": 6
                                 },
                                 {
@@ -83896,28 +83892,24 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 513025,
+                                    "PotentialId": 513026,
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 513030,
-                                    "Level": 3
+                                    "PotentialId": 513025,
+                                    "Level": 5
                                 },
                                 {
-                                    "PotentialId": 516023,
-                                    "Level": 1
+                                    "PotentialId": 513030,
+                                    "Level": 2
                                 },
                                 {
                                     "PotentialId": 516024,
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 4
+                                    "PotentialId": 516023,
+                                    "Level": 1
                                 },
                                 {
                                     "PotentialId": 516028,
@@ -83925,68 +83917,236 @@
                                 },
                                 {
                                     "PotentialId": 516030,
-                                    "Level": 5
+                                    "Level": 6
                                 },
                                 {
-                                    "PotentialId": 516033,
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 5
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 56
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 47
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 13
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 50
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 10
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 1
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 3
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 15
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4026103,
+                                4026203,
+                                4061103,
+                                4061203,
+                                4055103,
+                                4055203
+                            ],
+                            "RecordRank": "36",
+                            "BuildCode": "AAAAkAAAAIIAAACgMAbCYDDLgFgMADAGwGAF"
+                        },
+                        {
+                            "BuildScore": 9405,
+                            "Chars": [
+                                {
+                                    "Id": 134,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 158,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 126,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 112616,
+                            "LevelId": 27,
+                            "Discs": [
+                                214017,
+                                214048,
+                                214013,
+                                214001,
+                                214041,
+                                214053
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 513403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513443,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513412,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513442,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513408,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513411,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 515822,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515821,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515833,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515831,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515843,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515825,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515829,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 515830,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 512622,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512621,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512641,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512625,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512629,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512627,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 512631,
                                     "Level": 3
                                 }
                             ],
                             "Notes": [
                                 {
                                     "Tid": 90012,
-                                    "Qty": 82
+                                    "Qty": 34
                                 },
                                 {
-                                    "Tid": 90011,
-                                    "Qty": 61
+                                    "Tid": 90019,
+                                    "Qty": 34
                                 },
                                 {
-                                    "Tid": 90018,
-                                    "Qty": 57
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 4
+                                    "Tid": 90016,
+                                    "Qty": 32
                                 },
                                 {
                                     "Tid": 90013,
-                                    "Qty": 4
+                                    "Qty": 10
                                 },
                                 {
                                     "Tid": 90017,
-                                    "Qty": 2
+                                    "Qty": 19
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 12
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 25
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 17
                                 }
                             ],
                             "ActiveSecondaryIds": [
-                                4061104,
-                                4061203,
-                                4026104,
-                                4026203,
-                                4055104,
-                                4055203
+                                4017101,
+                                4017201,
+                                4048101,
+                                4048201,
+                                4013101,
+                                4013201
                             ],
-                            "RecordRank": "36",
-                            "BuildCode": "AAAAkAAAAIIAAACgMAZDZBDNgGAMADAGoGYE"
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAhgAAAJ4AAAB+MAIPDDbMAFgsBswYDGGA"
                         }
                     ],
                     "Honors": [
-                        {
-                            "Id": 112144,
-                            "AffinityLV": 50
-                        },
-                        {
-                            "Id": 112130,
-                            "AffinityLV": 44
-                        },
-                        {
-                            "Id": 112160,
-                            "AffinityLV": 34
-                        }
+                        {},
+                        {},
+                        {}
                     ]
                 }
             ],
-            "Total": 11468,
+            "Total": 11475,
             "UsageByFloor": {
                 "26": [
                     {
@@ -84405,8 +84565,8 @@
                                 "rank": 99
                             },
                             {
-                                "id": "301953067",
-                                "name": "HoHzuki",
+                                "id": "301049591",
+                                "name": "Flandre",
                                 "rank": 100
                             }
                         ],
@@ -84783,8 +84943,8 @@
                                 "rank": 99
                             },
                             {
-                                "id": "301953067",
-                                "name": "HoHzuki",
+                                "id": "301049591",
+                                "name": "Flandre",
                                 "rank": 100
                             }
                         ],
@@ -85184,8 +85344,8 @@
                                 "rank": 99
                             },
                             {
-                                "id": "301953067",
-                                "name": "HoHzuki",
+                                "id": "301049591",
+                                "name": "Flandre",
                                 "rank": 100
                             }
                         ],
@@ -86406,7 +86566,7 @@
                     },
                     {
                         "id": 126,
-                        "count": 14,
+                        "count": 15,
                         "name": "Flora",
                         "users": [
                             {
@@ -86478,13 +86638,18 @@
                                 "id": "301169792",
                                 "name": "お菓子屋",
                                 "rank": 96
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre",
+                                "rank": 100
                             }
                         ],
-                        "rank": 6
+                        "rank": 5
                     },
                     {
                         "id": 158,
-                        "count": 14,
+                        "count": 15,
                         "name": "Laru",
                         "users": [
                             {
@@ -86556,9 +86721,14 @@
                                 "id": "301169792",
                                 "name": "お菓子屋",
                                 "rank": 96
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre",
+                                "rank": 100
                             }
                         ],
-                        "rank": 6
+                        "rank": 5
                     },
                     {
                         "id": 114,
@@ -87137,6 +87307,24 @@
                         "rank": 19
                     },
                     {
+                        "id": 134,
+                        "count": 2,
+                        "name": "Fuyuka",
+                        "users": [
+                            {
+                                "id": "302262593",
+                                "name": "雪解けのうに",
+                                "rank": 50
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre",
+                                "rank": 100
+                            }
+                        ],
+                        "rank": 20
+                    },
+                    {
                         "id": 112,
                         "count": 1,
                         "name": "Noya",
@@ -87147,7 +87335,7 @@
                                 "rank": 11
                             }
                         ],
-                        "rank": 20
+                        "rank": 21
                     },
                     {
                         "id": 113,
@@ -87160,7 +87348,7 @@
                                 "rank": 11
                             }
                         ],
-                        "rank": 20
+                        "rank": 21
                     },
                     {
                         "id": 119,
@@ -87173,7 +87361,7 @@
                                 "rank": 81
                             }
                         ],
-                        "rank": 20
+                        "rank": 21
                     },
                     {
                         "id": 120,
@@ -87186,20 +87374,7 @@
                                 "rank": 95
                             }
                         ],
-                        "rank": 20
-                    },
-                    {
-                        "id": 134,
-                        "count": 1,
-                        "name": "Fuyuka",
-                        "users": [
-                            {
-                                "id": "302262593",
-                                "name": "雪解けのうに",
-                                "rank": 50
-                            }
-                        ],
-                        "rank": 20
+                        "rank": 21
                     },
                     {
                         "id": 150,
@@ -87212,7 +87387,7 @@
                                 "rank": 11
                             }
                         ],
-                        "rank": 20
+                        "rank": 21
                     }
                 ],
                 "all": [
@@ -87652,8 +87827,8 @@
                                 "rank": 99
                             },
                             {
-                                "id": "301953067",
-                                "name": "HoHzuki",
+                                "id": "301049591",
+                                "name": "Flandre",
                                 "rank": 100
                             }
                         ],
@@ -88030,8 +88205,8 @@
                                 "rank": 99
                             },
                             {
-                                "id": "301953067",
-                                "name": "HoHzuki",
+                                "id": "301049591",
+                                "name": "Flandre",
                                 "rank": 100
                             }
                         ],
@@ -88956,7 +89131,7 @@
                     },
                     {
                         "id": 126,
-                        "count": 25,
+                        "count": 26,
                         "name": "Flora",
                         "users": [
                             {
@@ -89083,13 +89258,18 @@
                                 "id": "301169792",
                                 "name": "お菓子屋",
                                 "rank": 96
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre",
+                                "rank": 100
                             }
                         ],
                         "rank": 7
                     },
                     {
                         "id": 158,
-                        "count": 25,
+                        "count": 26,
                         "name": "Laru",
                         "users": [
                             {
@@ -89216,6 +89396,11 @@
                                 "id": "301169792",
                                 "name": "お菓子屋",
                                 "rank": 96
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre",
+                                "rank": 100
                             }
                         ],
                         "rank": 7
@@ -89630,8 +89815,8 @@
                                 "rank": 99
                             },
                             {
-                                "id": "301953067",
-                                "name": "HoHzuki",
+                                "id": "301049591",
+                                "name": "Flandre",
                                 "rank": 100
                             }
                         ],
@@ -90059,6 +90244,49 @@
                         "rank": 19
                     },
                     {
+                        "id": 134,
+                        "count": 7,
+                        "name": "Fuyuka",
+                        "users": [
+                            {
+                                "id": "301066887",
+                                "name": "Jotter",
+                                "rank": 27
+                            },
+                            {
+                                "id": "302429054",
+                                "name": "円",
+                                "rank": 48
+                            },
+                            {
+                                "id": "302262593",
+                                "name": "雪解けのうに",
+                                "rank": 50
+                            },
+                            {
+                                "id": "301509448",
+                                "name": "すむーてぃ",
+                                "rank": 52
+                            },
+                            {
+                                "id": "300398161",
+                                "name": "べるちゃそ",
+                                "rank": 56
+                            },
+                            {
+                                "id": "302529550",
+                                "name": "numumu",
+                                "rank": 71
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre",
+                                "rank": 100
+                            }
+                        ],
+                        "rank": 19
+                    },
+                    {
                         "id": 115,
                         "count": 6,
                         "name": "Firefly",
@@ -90094,45 +90322,7 @@
                                 "rank": 79
                             }
                         ],
-                        "rank": 20
-                    },
-                    {
-                        "id": 134,
-                        "count": 6,
-                        "name": "Fuyuka",
-                        "users": [
-                            {
-                                "id": "301066887",
-                                "name": "Jotter",
-                                "rank": 27
-                            },
-                            {
-                                "id": "302429054",
-                                "name": "円",
-                                "rank": 48
-                            },
-                            {
-                                "id": "302262593",
-                                "name": "雪解けのうに",
-                                "rank": 50
-                            },
-                            {
-                                "id": "301509448",
-                                "name": "すむーてぃ",
-                                "rank": 52
-                            },
-                            {
-                                "id": "300398161",
-                                "name": "べるちゃそ",
-                                "rank": 56
-                            },
-                            {
-                                "id": "302529550",
-                                "name": "numumu",
-                                "rank": 71
-                            }
-                        ],
-                        "rank": 20
+                        "rank": 21
                     },
                     {
                         "id": 142,
@@ -90170,7 +90360,7 @@
                                 "rank": 88
                             }
                         ],
-                        "rank": 20
+                        "rank": 21
                     },
                     {
                         "id": 145,
@@ -90208,7 +90398,7 @@
                                 "rank": 88
                             }
                         ],
-                        "rank": 20
+                        "rank": 21
                     },
                     {
                         "id": 157,
@@ -90246,7 +90436,7 @@
                                 "rank": 88
                             }
                         ],
-                        "rank": 20
+                        "rank": 21
                     },
                     {
                         "id": 140,
@@ -90783,10 +90973,10 @@
                                 "teamScore": 1251075
                             },
                             {
-                                "id": "301953067",
-                                "name": "HoHzuki",
+                                "id": "301049591",
+                                "name": "Flandre",
                                 "rank": 100,
-                                "teamScore": 1200992
+                                "teamScore": 1097379
                             },
                             {
                                 "id": "307614926",
@@ -91908,6 +92098,38 @@
                         "rank": 11
                     },
                     {
+                        "key": "134-126-158",
+                        "main": 134,
+                        "members": [
+                            134,
+                            126,
+                            158
+                        ],
+                        "count": 2,
+                        "name": "Fuyuka • Flora, Laru",
+                        "users": [
+                            {
+                                "id": "302262593",
+                                "name": "雪解けのうに",
+                                "rank": 50,
+                                "teamScore": 257664
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre",
+                                "rank": 100,
+                                "teamScore": 112616
+                            }
+                        ],
+                        "topUser": {
+                            "id": "302262593",
+                            "name": "雪解けのうに",
+                            "rank": 50,
+                            "teamScore": 257664
+                        },
+                        "rank": 11
+                    },
+                    {
                         "key": "113-112-150",
                         "main": 113,
                         "members": [
@@ -91931,7 +92153,7 @@
                             "rank": 11,
                             "teamScore": 1
                         },
-                        "rank": 12
+                        "rank": 13
                     },
                     {
                         "key": "155-115-132",
@@ -91957,33 +92179,7 @@
                             "rank": 18,
                             "teamScore": 780042
                         },
-                        "rank": 12
-                    },
-                    {
-                        "key": "134-126-158",
-                        "main": 134,
-                        "members": [
-                            134,
-                            126,
-                            158
-                        ],
-                        "count": 1,
-                        "name": "Fuyuka • Flora, Laru",
-                        "users": [
-                            {
-                                "id": "302262593",
-                                "name": "雪解けのうに",
-                                "rank": 50,
-                                "teamScore": 257664
-                            }
-                        ],
-                        "topUser": {
-                            "id": "302262593",
-                            "name": "雪解けのうに",
-                            "rank": 50,
-                            "teamScore": 257664
-                        },
-                        "rank": 12
+                        "rank": 13
                     },
                     {
                         "key": "155-107-160",
@@ -92009,7 +92205,7 @@
                             "rank": 53,
                             "teamScore": 938487
                         },
-                        "rank": 12
+                        "rank": 13
                     },
                     {
                         "key": "143-123-133",
@@ -92035,7 +92231,7 @@
                             "rank": 76,
                             "teamScore": 62292
                         },
-                        "rank": 12
+                        "rank": 13
                     },
                     {
                         "key": "132-107-115",
@@ -92061,7 +92257,7 @@
                             "rank": 79,
                             "teamScore": 416236
                         },
-                        "rank": 12
+                        "rank": 13
                     },
                     {
                         "key": "119-123-137",
@@ -92087,7 +92283,7 @@
                             "rank": 81,
                             "teamScore": 568767
                         },
-                        "rank": 12
+                        "rank": 13
                     },
                     {
                         "key": "120-123-137",
@@ -92113,7 +92309,7 @@
                             "rank": 95,
                             "teamScore": 442376
                         },
-                        "rank": 12
+                        "rank": 13
                     }
                 ],
                 "all": [
@@ -92885,10 +93081,10 @@
                                 "teamScore": 1251075
                             },
                             {
-                                "id": "301953067",
-                                "name": "HoHzuki",
+                                "id": "301049591",
+                                "name": "Flandre",
                                 "rank": 100,
-                                "teamScore": 1200992
+                                "teamScore": 1097379
                             },
                             {
                                 "id": "307614926",
@@ -93016,6 +93212,68 @@
                         "rank": 5
                     },
                     {
+                        "key": "134-126-158",
+                        "main": 134,
+                        "members": [
+                            134,
+                            126,
+                            158
+                        ],
+                        "count": 7,
+                        "name": "Fuyuka • Flora, Laru",
+                        "users": [
+                            {
+                                "id": "301509448",
+                                "name": "すむーてぃ",
+                                "rank": 52,
+                                "teamScore": 965495
+                            },
+                            {
+                                "id": "301066887",
+                                "name": "Jotter",
+                                "rank": 27,
+                                "teamScore": 741444
+                            },
+                            {
+                                "id": "302429054",
+                                "name": "円",
+                                "rank": 48,
+                                "teamScore": 669527
+                            },
+                            {
+                                "id": "300398161",
+                                "name": "べるちゃそ",
+                                "rank": 56,
+                                "teamScore": 649141
+                            },
+                            {
+                                "id": "302529550",
+                                "name": "numumu",
+                                "rank": 71,
+                                "teamScore": 503616
+                            },
+                            {
+                                "id": "302262593",
+                                "name": "雪解けのうに",
+                                "rank": 50,
+                                "teamScore": 257664
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre",
+                                "rank": 100,
+                                "teamScore": 112616
+                            }
+                        ],
+                        "topUser": {
+                            "id": "301509448",
+                            "name": "すむーてぃ",
+                            "rank": 52,
+                            "teamScore": 965495
+                        },
+                        "rank": 6
+                    },
+                    {
                         "key": "157-142-145",
                         "main": 157,
                         "members": [
@@ -93069,63 +93327,7 @@
                             "rank": 79,
                             "teamScore": 882392
                         },
-                        "rank": 6
-                    },
-                    {
-                        "key": "134-126-158",
-                        "main": 134,
-                        "members": [
-                            134,
-                            126,
-                            158
-                        ],
-                        "count": 6,
-                        "name": "Fuyuka • Flora, Laru",
-                        "users": [
-                            {
-                                "id": "301509448",
-                                "name": "すむーてぃ",
-                                "rank": 52,
-                                "teamScore": 965495
-                            },
-                            {
-                                "id": "301066887",
-                                "name": "Jotter",
-                                "rank": 27,
-                                "teamScore": 741444
-                            },
-                            {
-                                "id": "302429054",
-                                "name": "円",
-                                "rank": 48,
-                                "teamScore": 669527
-                            },
-                            {
-                                "id": "300398161",
-                                "name": "べるちゃそ",
-                                "rank": 56,
-                                "teamScore": 649141
-                            },
-                            {
-                                "id": "302529550",
-                                "name": "numumu",
-                                "rank": 71,
-                                "teamScore": 503616
-                            },
-                            {
-                                "id": "302262593",
-                                "name": "雪解けのうに",
-                                "rank": 50,
-                                "teamScore": 257664
-                            }
-                        ],
-                        "topUser": {
-                            "id": "301509448",
-                            "name": "すむーてぃ",
-                            "rank": 52,
-                            "teamScore": 965495
-                        },
-                        "rank": 6
+                        "rank": 7
                     },
                     {
                         "key": "140-156-159",
@@ -94532,10 +94734,10 @@
                                 "teamScore": 1251075
                             },
                             {
-                                "id": "301953067",
-                                "name": "HoHzuki",
+                                "id": "301049591",
+                                "name": "Flandre",
                                 "rank": 100,
-                                "teamScore": 1200992
+                                "teamScore": 1097379
                             },
                             {
                                 "id": "307614926",
@@ -94599,12 +94801,12 @@
                                 "p516030": 13,
                                 "p513025": 12,
                                 "p516043": 12,
-                                "p516033": 12,
                                 "p516029": 12,
-                                "p514412": 11,
+                                "p516033": 11,
+                                "p514412": 10,
                                 "p513030": 9,
                                 "p514442": 8,
-                                "p513031": 6,
+                                "p513031": 7,
                                 "p513029": 5,
                                 "p514411": 2,
                                 "p516032": 2,
@@ -94625,9 +94827,9 @@
                                 "p516033": 10,
                                 "p516029": 7,
                                 "p514412": 6,
-                                "p514442": 4,
-                                "p514409": 3,
-                                "p513031": 1,
+                                "p514442": 5,
+                                "p514409": 4,
+                                "p513031": 2,
                                 "p516032": 1,
                                 "p513030": 1,
                                 "p513029": 1
@@ -94639,15 +94841,15 @@
                                 "p513021": 13,
                                 "p516024": 13,
                                 "p516023": 13,
-                                "p514409": 10,
+                                "p514409": 9,
                                 "p513030": 8,
-                                "p514412": 5,
                                 "p513031": 5,
                                 "p516029": 5,
-                                "p514442": 4,
+                                "p514412": 4,
                                 "p513029": 4,
+                                "p514442": 3,
                                 "p514411": 2,
-                                "p516033": 2,
+                                "p516033": 1,
                                 "p513025": 1,
                                 "p516028": 1,
                                 "p516032": 1,
@@ -94662,11 +94864,11 @@
                                 "d214055": 13,
                                 "d214026": 13,
                                 "d214031": 10,
-                                "d214005": 8,
+                                "d214005": 9,
                                 "d214061": 8,
                                 "d214062": 8,
-                                "d214008": 7,
                                 "d214047": 7,
+                                "d214008": 6,
                                 "d214056": 2,
                                 "d214029": 1,
                                 "d214021": 1
@@ -94681,10 +94883,10 @@
                             },
                             "support": {
                                 "d214031": 10,
-                                "d214005": 7,
+                                "d214005": 8,
                                 "d214047": 7,
                                 "d214062": 7,
-                                "d214008": 4,
+                                "d214008": 3,
                                 "d214056": 2,
                                 "d214029": 1,
                                 "d214021": 1
@@ -97926,7 +98128,7 @@
                             126,
                             158
                         ],
-                        "count": 1,
+                        "count": 2,
                         "name": "Fuyuka • Flora, Laru",
                         "users": [
                             {
@@ -97934,6 +98136,12 @@
                                 "name": "雪解けのうに",
                                 "rank": 50,
                                 "teamScore": 257664
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre",
+                                "rank": 100,
+                                "teamScore": 112616
                             }
                         ],
                         "topUser": {
@@ -97945,74 +98153,92 @@
                         "rank": 17,
                         "potentialUsage": {
                             "all": {
-                                "p513403": 1,
-                                "p513404": 1,
-                                "p513442": 1,
-                                "p513413": 1,
-                                "p513408": 1,
-                                "p513443": 1,
-                                "p513411": 1,
+                                "p513403": 2,
+                                "p513404": 2,
+                                "p513442": 2,
+                                "p513413": 2,
+                                "p513408": 2,
+                                "p513443": 2,
+                                "p513411": 2,
+                                "p515822": 2,
+                                "p515821": 2,
+                                "p515830": 2,
+                                "p515843": 2,
+                                "p515831": 2,
+                                "p515825": 2,
+                                "p515833": 2,
+                                "p512621": 2,
+                                "p512625": 2,
+                                "p512629": 2,
+                                "p512641": 2,
+                                "p512627": 2,
+                                "p512631": 2,
                                 "p513441": 1,
-                                "p515822": 1,
-                                "p515821": 1,
-                                "p515830": 1,
-                                "p515843": 1,
-                                "p515831": 1,
-                                "p515825": 1,
-                                "p515833": 1,
-                                "p512621": 1,
                                 "p512623": 1,
-                                "p512625": 1,
-                                "p512629": 1,
-                                "p512641": 1,
-                                "p512627": 1,
-                                "p512631": 1
+                                "p513412": 1,
+                                "p515829": 1,
+                                "p512622": 1
                             },
                             "high": {
-                                "p513442": 1,
-                                "p513413": 1,
-                                "p513443": 1,
+                                "p513442": 2,
+                                "p513413": 2,
+                                "p513443": 2,
+                                "p515843": 2,
+                                "p515831": 2,
+                                "p515833": 2,
+                                "p512625": 2,
+                                "p512629": 2,
+                                "p512641": 2,
                                 "p513411": 1,
                                 "p513441": 1,
-                                "p515843": 1,
-                                "p515831": 1,
-                                "p515833": 1,
-                                "p512625": 1,
-                                "p512629": 1,
-                                "p512641": 1,
-                                "p512627": 1
+                                "p512627": 1,
+                                "p513412": 1,
+                                "p515825": 1
                             },
                             "low": {
-                                "p513403": 1,
-                                "p513404": 1,
-                                "p513408": 1,
-                                "p515822": 1,
-                                "p515821": 1,
-                                "p515830": 1,
+                                "p513403": 2,
+                                "p513404": 2,
+                                "p513408": 2,
+                                "p515822": 2,
+                                "p515821": 2,
+                                "p515830": 2,
+                                "p512621": 2,
+                                "p512631": 2,
                                 "p515825": 1,
-                                "p512621": 1,
                                 "p512623": 1,
-                                "p512631": 1
+                                "p513411": 1,
+                                "p515829": 1,
+                                "p512622": 1,
+                                "p512627": 1
                             }
                         },
                         "discUsage": {
                             "all": {
+                                "d214053": 2,
+                                "d214041": 2,
                                 "d214040": 1,
                                 "d214019": 1,
-                                "d214053": 1,
                                 "d214009": 1,
-                                "d214041": 1,
-                                "d214011": 1
+                                "d214011": 1,
+                                "d214017": 1,
+                                "d214048": 1,
+                                "d214013": 1,
+                                "d214001": 1
                             },
                             "main": {
                                 "d214040": 1,
                                 "d214019": 1,
-                                "d214053": 1
+                                "d214053": 1,
+                                "d214017": 1,
+                                "d214048": 1,
+                                "d214013": 1
                             },
                             "support": {
+                                "d214041": 2,
                                 "d214009": 1,
-                                "d214041": 1,
-                                "d214011": 1
+                                "d214011": 1,
+                                "d214001": 1,
+                                "d214053": 1
                             }
                         }
                     },
@@ -98851,10 +99077,10 @@
                                 "teamScore": 1251075
                             },
                             {
-                                "id": "301953067",
-                                "name": "HoHzuki",
+                                "id": "301049591",
+                                "name": "Flandre",
                                 "rank": 100,
-                                "teamScore": 1200992
+                                "teamScore": 1097379
                             },
                             {
                                 "id": "307614926",
@@ -98918,12 +99144,12 @@
                                 "p516030": 13,
                                 "p513025": 12,
                                 "p516043": 12,
-                                "p516033": 12,
                                 "p516029": 12,
-                                "p514412": 11,
+                                "p516033": 11,
+                                "p514412": 10,
                                 "p513030": 9,
                                 "p514442": 8,
-                                "p513031": 6,
+                                "p513031": 7,
                                 "p513029": 5,
                                 "p514411": 2,
                                 "p516032": 2,
@@ -98944,9 +99170,9 @@
                                 "p516033": 10,
                                 "p516029": 7,
                                 "p514412": 6,
-                                "p514442": 4,
-                                "p514409": 3,
-                                "p513031": 1,
+                                "p514442": 5,
+                                "p514409": 4,
+                                "p513031": 2,
                                 "p516032": 1,
                                 "p513030": 1,
                                 "p513029": 1
@@ -98958,15 +99184,15 @@
                                 "p513021": 13,
                                 "p516024": 13,
                                 "p516023": 13,
-                                "p514409": 10,
+                                "p514409": 9,
                                 "p513030": 8,
-                                "p514412": 5,
                                 "p513031": 5,
                                 "p516029": 5,
-                                "p514442": 4,
+                                "p514412": 4,
                                 "p513029": 4,
+                                "p514442": 3,
                                 "p514411": 2,
-                                "p516033": 2,
+                                "p516033": 1,
                                 "p513025": 1,
                                 "p516028": 1,
                                 "p516032": 1,
@@ -98981,11 +99207,11 @@
                                 "d214055": 13,
                                 "d214026": 13,
                                 "d214031": 10,
-                                "d214005": 8,
+                                "d214005": 9,
                                 "d214061": 8,
                                 "d214062": 8,
-                                "d214008": 7,
                                 "d214047": 7,
+                                "d214008": 6,
                                 "d214056": 2,
                                 "d214029": 1,
                                 "d214021": 1
@@ -99000,10 +99226,10 @@
                             },
                             "support": {
                                 "d214031": 10,
-                                "d214005": 7,
+                                "d214005": 8,
                                 "d214047": 7,
                                 "d214062": 7,
-                                "d214008": 4,
+                                "d214008": 3,
                                 "d214056": 2,
                                 "d214029": 1,
                                 "d214021": 1
@@ -100020,7 +100246,7 @@
                             126,
                             158
                         ],
-                        "count": 6,
+                        "count": 7,
                         "name": "Fuyuka • Flora, Laru",
                         "users": [
                             {
@@ -100058,6 +100284,12 @@
                                 "name": "雪解けのうに",
                                 "rank": 50,
                                 "teamScore": 257664
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre",
+                                "rank": 100,
+                                "teamScore": 112616
                             }
                         ],
                         "topUser": {
@@ -100069,101 +100301,108 @@
                         "rank": 11,
                         "potentialUsage": {
                             "all": {
-                                "p513404": 6,
-                                "p513403": 6,
-                                "p513442": 6,
-                                "p513443": 6,
-                                "p513413": 6,
-                                "p513408": 6,
-                                "p513411": 6,
-                                "p512621": 6,
-                                "p512641": 6,
-                                "p512631": 6,
-                                "p512629": 6,
-                                "p512625": 6,
-                                "p512627": 6,
-                                "p515821": 6,
-                                "p515822": 6,
-                                "p515833": 6,
-                                "p515831": 6,
-                                "p515843": 6,
-                                "p513412": 5,
+                                "p513404": 7,
+                                "p513403": 7,
+                                "p513442": 7,
+                                "p513443": 7,
+                                "p513413": 7,
+                                "p513408": 7,
+                                "p513411": 7,
+                                "p512621": 7,
+                                "p512641": 7,
+                                "p512631": 7,
+                                "p512629": 7,
+                                "p512625": 7,
+                                "p512627": 7,
+                                "p515821": 7,
+                                "p515822": 7,
+                                "p515833": 7,
+                                "p515831": 7,
+                                "p515843": 7,
+                                "p513412": 6,
+                                "p515825": 6,
                                 "p512623": 5,
-                                "p515825": 5,
+                                "p512622": 2,
+                                "p515830": 2,
                                 "p512628": 1,
-                                "p512622": 1,
                                 "p513441": 1,
-                                "p515830": 1
+                                "p515829": 1
                             },
                             "high": {
-                                "p513442": 6,
-                                "p513443": 6,
-                                "p513413": 6,
-                                "p512641": 6,
-                                "p512625": 6,
+                                "p513442": 7,
+                                "p513443": 7,
+                                "p513413": 7,
+                                "p512641": 7,
+                                "p512625": 7,
+                                "p515833": 7,
+                                "p515831": 7,
+                                "p515843": 7,
+                                "p513412": 6,
+                                "p512629": 6,
                                 "p512627": 6,
-                                "p515833": 6,
-                                "p515831": 6,
-                                "p515843": 6,
-                                "p513412": 5,
-                                "p512629": 5,
                                 "p513411": 4,
                                 "p512631": 3,
-                                "p513441": 1
+                                "p513441": 1,
+                                "p515825": 1
                             },
                             "low": {
-                                "p513404": 6,
-                                "p513403": 6,
-                                "p513408": 6,
-                                "p512621": 6,
-                                "p515821": 6,
-                                "p515822": 6,
+                                "p513404": 7,
+                                "p513403": 7,
+                                "p513408": 7,
+                                "p512621": 7,
+                                "p515821": 7,
+                                "p515822": 7,
                                 "p512623": 5,
                                 "p515825": 5,
-                                "p512631": 3,
-                                "p513411": 2,
+                                "p512631": 4,
+                                "p513411": 3,
+                                "p512622": 2,
+                                "p515830": 2,
                                 "p512628": 1,
                                 "p512629": 1,
-                                "p512622": 1,
-                                "p515830": 1
+                                "p515829": 1,
+                                "p512627": 1
                             }
                         },
                         "discUsage": {
                             "all": {
                                 "d214019": 6,
                                 "d214027": 5,
-                                "d214048": 4,
+                                "d214048": 5,
+                                "d214017": 4,
                                 "d214040": 4,
-                                "d214017": 3,
-                                "d214041": 3,
-                                "d214001": 2,
-                                "d214053": 2,
+                                "d214041": 4,
+                                "d214001": 3,
+                                "d214053": 3,
                                 "d214056": 1,
                                 "d214049": 1,
                                 "d214006": 1,
                                 "d214026": 1,
                                 "d214029": 1,
                                 "d214009": 1,
-                                "d214011": 1
+                                "d214011": 1,
+                                "d214013": 1
                             },
                             "main": {
                                 "d214019": 6,
                                 "d214027": 5,
-                                "d214048": 4,
+                                "d214048": 5,
                                 "d214001": 1,
                                 "d214040": 1,
-                                "d214053": 1
+                                "d214053": 1,
+                                "d214017": 1,
+                                "d214013": 1
                             },
                             "support": {
+                                "d214041": 4,
                                 "d214017": 3,
                                 "d214040": 3,
-                                "d214041": 3,
-                                "d214053": 1,
+                                "d214053": 2,
+                                "d214001": 2,
                                 "d214056": 1,
                                 "d214049": 1,
                                 "d214006": 1,
                                 "d214026": 1,
-                                "d214001": 1,
                                 "d214029": 1,
                                 "d214009": 1,
                                 "d214011": 1
@@ -152479,7 +152718,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1791369636",
+            "LastRefreshTime": "1791370237",
             "Rank": [
                 {
                     "Id": "904798180",
@@ -185559,7 +185798,7 @@
                     ]
                 }
             ],
-            "Total": 3772,
+            "Total": 3774,
             "UsageByFloor": {
                 "26": [
                     {
@@ -202974,7 +203213,7 @@
             }
         },
         "cn": {
-            "LastRefreshTime": "1791369076",
+            "LastRefreshTime": "1791369676",
             "Rank": [
                 {
                     "Id": "100391766",
@@ -236205,7 +236444,7 @@
                     ]
                 }
             ],
-            "Total": 14417,
+            "Total": 14420,
             "UsageByFloor": {
                 "26": [
                     {
@@ -332566,11 +332805,345 @@
                     ]
                 },
                 {
+                    "Id": "301049591",
+                    "NickName": "Flandre (JP)",
+                    "HeadIcon": 101,
+                    "Score": 1209995,
+                    "Rank": 245,
+                    "TitlePrefix": 1,
+                    "TitleSuffix": 2,
+                    "Teams": [
+                        {
+                            "BuildScore": 10725,
+                            "Chars": [
+                                {
+                                    "Id": 144,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 1097379,
+                            "LevelId": 26,
+                            "Discs": [
+                                214026,
+                                214061,
+                                214055,
+                                214031,
+                                214005,
+                                214062
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514409,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514408,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514442,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514410,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514413,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513031,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 513030,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 5
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 56
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 47
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 13
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 50
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 10
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 1
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 3
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 15
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4026103,
+                                4026203,
+                                4061103,
+                                4061203,
+                                4055103,
+                                4055203
+                            ],
+                            "RecordRank": "36",
+                            "BuildCode": "AAAAkAAAAIIAAACgMAbCYDDLgFgMADAGwGAF"
+                        },
+                        {
+                            "BuildScore": 9405,
+                            "Chars": [
+                                {
+                                    "Id": 134,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 158,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 126,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 112616,
+                            "LevelId": 27,
+                            "Discs": [
+                                214017,
+                                214048,
+                                214013,
+                                214001,
+                                214041,
+                                214053
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 513403,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513404,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513443,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513412,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513442,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513408,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 513413,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513411,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 515822,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515821,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 515833,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515831,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515843,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515825,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515829,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 515830,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 512622,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512621,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512641,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512625,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512629,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512627,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 512631,
+                                    "Level": 3
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 34
+                                },
+                                {
+                                    "Tid": 90019,
+                                    "Qty": 34
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 32
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 10
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 19
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 12
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 25
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 17
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4017101,
+                                4017201,
+                                4048101,
+                                4048201,
+                                4013101,
+                                4013201
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAhgAAAJ4AAAB+MAIPDDbMAFgsBswYDGGA"
+                        }
+                    ],
+                    "Honors": [
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                {
                     "Id": "100363725",
                     "NickName": "Chitose (CN)",
                     "HeadIcon": 130007,
                     "Score": 1209161,
-                    "Rank": 245,
+                    "Rank": 246,
                     "TitlePrefix": 9,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -332899,7 +333472,7 @@
                     "NickName": "환상비늘 (KR)",
                     "HeadIcon": 130007,
                     "Score": 1207907,
-                    "Rank": 246,
+                    "Rank": 247,
                     "TitlePrefix": 9,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -333232,7 +333805,7 @@
                     "NickName": "서눅 (KR)",
                     "HeadIcon": 15502,
                     "Score": 1206961,
-                    "Rank": 247,
+                    "Rank": 248,
                     "TitlePrefix": 23,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -333563,7 +334136,7 @@
                     "NickName": "푸른상자 (KR)",
                     "HeadIcon": 16002,
                     "Score": 1205900,
-                    "Rank": 248,
+                    "Rank": 249,
                     "TitlePrefix": 39,
                     "TitleSuffix": 40,
                     "Teams": [
@@ -333895,7 +334468,7 @@
                     "NickName": "瑟之律者瑟莉姆 (CN)",
                     "HeadIcon": 101,
                     "Score": 1205108,
-                    "Rank": 249,
+                    "Rank": 250,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -334239,7 +334812,7 @@
                     "NickName": "함성 (KR)",
                     "HeadIcon": 130012,
                     "Score": 1203027,
-                    "Rank": 250,
+                    "Rank": 251,
                     "TitlePrefix": 13,
                     "TitleSuffix": 10,
                     "Teams": [
@@ -334573,7 +335146,7 @@
                     "NickName": "별하 (KR)",
                     "HeadIcon": 14301,
                     "Score": 1202325,
-                    "Rank": 251,
+                    "Rank": 252,
                     "TitlePrefix": 11,
                     "TitleSuffix": 26,
                     "Teams": [
@@ -334904,7 +335477,7 @@
                     "NickName": "Saladz (EN)",
                     "HeadIcon": 16001,
                     "Score": 1201136,
-                    "Rank": 252,
+                    "Rank": 253,
                     "TitlePrefix": 23,
                     "TitleSuffix": 16,
                     "Teams": [
@@ -335229,180 +335802,6 @@
                         },
                         {
                             "Id": 118101
-                        }
-                    ]
-                },
-                {
-                    "Id": "301953067",
-                    "NickName": "HoHzuki (JP)",
-                    "HeadIcon": 14402,
-                    "Score": 1200992,
-                    "Rank": 253,
-                    "TitlePrefix": 23,
-                    "TitleSuffix": 30,
-                    "Teams": [
-                        {
-                            "BuildScore": 10890,
-                            "Chars": [
-                                {
-                                    "Id": 144,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 1200992,
-                            "LevelId": 26,
-                            "Discs": [
-                                214061,
-                                214026,
-                                214055,
-                                214008,
-                                214031,
-                                214062
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514403,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514404,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514413,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514410,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514408,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514409,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514412,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 514442,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513030,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 3
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 82
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 61
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 57
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 4
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 4
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 2
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4061104,
-                                4061203,
-                                4026104,
-                                4026203,
-                                4055104,
-                                4055203
-                            ],
-                            "RecordRank": "36",
-                            "BuildCode": "AAAAkAAAAIIAAACgMAZDZBDNgGAMADAGoGYE"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 112144,
-                            "AffinityLV": 50
-                        },
-                        {
-                            "Id": 112130,
-                            "AffinityLV": 44
-                        },
-                        {
-                            "Id": 112160,
-                            "AffinityLV": 34
                         }
                     ]
                 },
@@ -417101,8 +417500,8 @@
                     ]
                 }
             ],
-            "Total": 42208,
-            "LastRefreshTime": "1791369763",
+            "Total": 42220,
+            "LastRefreshTime": "1791370237",
             "UsageByFloor": {
                 "26": [
                     {
@@ -418166,48 +418565,48 @@
                                 "rank": 244
                             },
                             {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245
+                            },
+                            {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245
+                                "rank": 246
                             },
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246
+                                "rank": 247
                             },
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247
+                                "rank": 248
                             },
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248
+                                "rank": 249
                             },
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249
+                                "rank": 250
                             },
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250
+                                "rank": 251
                             },
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251
+                                "rank": 252
                             },
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252
-                            },
-                            {
-                                "id": "301953067",
-                                "name": "HoHzuki (JP)",
                                 "rank": 253
                             },
                             {
@@ -420224,39 +420623,39 @@
                                 "rank": 244
                             },
                             {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245
+                            },
+                            {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245
+                                "rank": 246
                             },
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246
+                                "rank": 247
                             },
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247
+                                "rank": 248
                             },
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248
+                                "rank": 249
                             },
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249
+                                "rank": 250
                             },
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251
-                            },
-                            {
-                                "id": "301953067",
-                                "name": "HoHzuki (JP)",
-                                "rank": 253
+                                "rank": 252
                             },
                             {
                                 "id": "502790993",
@@ -422044,22 +422443,22 @@
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248
+                                "rank": 249
                             },
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250
+                                "rank": 251
                             },
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251
+                                "rank": 252
                             },
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252
+                                "rank": 253
                             },
                             {
                                 "id": "502790993",
@@ -423040,29 +423439,29 @@
                                 "rank": 244
                             },
                             {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245
+                            },
+                            {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245
+                                "rank": 246
                             },
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246
+                                "rank": 247
                             },
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247
+                                "rank": 248
                             },
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249
-                            },
-                            {
-                                "id": "301953067",
-                                "name": "HoHzuki (JP)",
-                                "rank": 253
+                                "rank": 250
                             },
                             {
                                 "id": "500519041",
@@ -423951,12 +424350,12 @@
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250
+                                "rank": 251
                             },
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252
+                                "rank": 253
                             },
                             {
                                 "id": "500915113",
@@ -425248,22 +425647,22 @@
                             {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245
+                                "rank": 246
                             },
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246
+                                "rank": 247
                             },
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248
+                                "rank": 249
                             },
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250
+                                "rank": 251
                             },
                             {
                                 "id": "502790993",
@@ -426096,22 +426495,22 @@
                             {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245
+                                "rank": 246
                             },
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246
+                                "rank": 247
                             },
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248
+                                "rank": 249
                             },
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250
+                                "rank": 251
                             },
                             {
                                 "id": "502790993",
@@ -426899,17 +427298,17 @@
                             {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245
+                                "rank": 246
                             },
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248
+                                "rank": 249
                             },
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250
+                                "rank": 251
                             },
                             {
                                 "id": "502790993",
@@ -427552,12 +427951,12 @@
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251
+                                "rank": 252
                             },
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252
+                                "rank": 253
                             },
                             {
                                 "id": "500363365",
@@ -428200,12 +428599,12 @@
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251
+                                "rank": 252
                             },
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252
+                                "rank": 253
                             },
                             {
                                 "id": "500363365",
@@ -428843,12 +429242,12 @@
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251
+                                "rank": 252
                             },
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252
+                                "rank": 253
                             },
                             {
                                 "id": "903666484",
@@ -429401,17 +429800,17 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246
+                                "rank": 247
                             },
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247
+                                "rank": 248
                             },
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249
+                                "rank": 250
                             },
                             {
                                 "id": "101001404",
@@ -429653,7 +430052,7 @@
                     },
                     {
                         "id": 126,
-                        "count": 75,
+                        "count": 76,
                         "name": "Flora",
                         "users": [
                             {
@@ -429872,6 +430271,11 @@
                                 "rank": 241
                             },
                             {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245
+                            },
+                            {
                                 "id": "101681292",
                                 "name": "卑鄙的外乡人 (CN)",
                                 "rank": 263
@@ -430036,7 +430440,7 @@
                     },
                     {
                         "id": 158,
-                        "count": 72,
+                        "count": 73,
                         "name": "Laru",
                         "users": [
                             {
@@ -430253,6 +430657,11 @@
                                 "id": "900413430",
                                 "name": "Spyce (TW)",
                                 "rank": 241
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245
                             },
                             {
                                 "id": "900795542",
@@ -430883,12 +431292,12 @@
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247
+                                "rank": 248
                             },
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249
+                                "rank": 250
                             },
                             {
                                 "id": "101001404",
@@ -431434,7 +431843,7 @@
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249
+                                "rank": 250
                             },
                             {
                                 "id": "900851547",
@@ -431612,7 +432021,7 @@
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247
+                                "rank": 248
                             },
                             {
                                 "id": "101001404",
@@ -431884,6 +432293,64 @@
                         "rank": 16
                     },
                     {
+                        "id": 134,
+                        "count": 10,
+                        "name": "Fuyuka",
+                        "users": [
+                            {
+                                "id": "100585538",
+                                "name": "福生玄黄天尊 (CN)",
+                                "rank": 18
+                            },
+                            {
+                                "id": "701421784",
+                                "name": "Grimm (EN)",
+                                "rank": 33
+                            },
+                            {
+                                "id": "701485352",
+                                "name": "nekosama (EN)",
+                                "rank": 101
+                            },
+                            {
+                                "id": "302262593",
+                                "name": "雪解けのうに (JP)",
+                                "rank": 121
+                            },
+                            {
+                                "id": "506431221",
+                                "name": "미카 (KR)",
+                                "rank": 183
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245
+                            },
+                            {
+                                "id": "100403256",
+                                "name": "月饼 (CN)",
+                                "rank": 300
+                            },
+                            {
+                                "id": "100502228",
+                                "name": "伪善的小渔包 (CN)",
+                                "rank": 314
+                            },
+                            {
+                                "id": "901103767",
+                                "name": "祝福のかぜ (TW)",
+                                "rank": 330
+                            },
+                            {
+                                "id": "500335094",
+                                "name": "Irony (KR)",
+                                "rank": 414
+                            }
+                        ],
+                        "rank": 17
+                    },
+                    {
                         "id": 125,
                         "count": 9,
                         "name": "Freesia",
@@ -431934,60 +432401,7 @@
                                 "rank": 267
                             }
                         ],
-                        "rank": 17
-                    },
-                    {
-                        "id": 134,
-                        "count": 9,
-                        "name": "Fuyuka",
-                        "users": [
-                            {
-                                "id": "100585538",
-                                "name": "福生玄黄天尊 (CN)",
-                                "rank": 18
-                            },
-                            {
-                                "id": "701421784",
-                                "name": "Grimm (EN)",
-                                "rank": 33
-                            },
-                            {
-                                "id": "701485352",
-                                "name": "nekosama (EN)",
-                                "rank": 101
-                            },
-                            {
-                                "id": "302262593",
-                                "name": "雪解けのうに (JP)",
-                                "rank": 121
-                            },
-                            {
-                                "id": "506431221",
-                                "name": "미카 (KR)",
-                                "rank": 183
-                            },
-                            {
-                                "id": "100403256",
-                                "name": "月饼 (CN)",
-                                "rank": 300
-                            },
-                            {
-                                "id": "100502228",
-                                "name": "伪善的小渔包 (CN)",
-                                "rank": 314
-                            },
-                            {
-                                "id": "901103767",
-                                "name": "祝福のかぜ (TW)",
-                                "rank": 330
-                            },
-                            {
-                                "id": "500335094",
-                                "name": "Irony (KR)",
-                                "rank": 414
-                            }
-                        ],
-                        "rank": 17
+                        "rank": 18
                     },
                     {
                         "id": 144,
@@ -433355,48 +433769,48 @@
                                 "rank": 244
                             },
                             {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245
+                            },
+                            {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245
+                                "rank": 246
                             },
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246
+                                "rank": 247
                             },
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247
+                                "rank": 248
                             },
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248
+                                "rank": 249
                             },
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249
+                                "rank": 250
                             },
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250
+                                "rank": 251
                             },
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251
+                                "rank": 252
                             },
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252
-                            },
-                            {
-                                "id": "301953067",
-                                "name": "HoHzuki (JP)",
                                 "rank": 253
                             },
                             {
@@ -435458,39 +435872,39 @@
                                 "rank": 244
                             },
                             {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245
+                            },
+                            {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245
+                                "rank": 246
                             },
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246
+                                "rank": 247
                             },
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247
+                                "rank": 248
                             },
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248
+                                "rank": 249
                             },
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249
+                                "rank": 250
                             },
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251
-                            },
-                            {
-                                "id": "301953067",
-                                "name": "HoHzuki (JP)",
-                                "rank": 253
+                                "rank": 252
                             },
                             {
                                 "id": "502790993",
@@ -437278,22 +437692,22 @@
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248
+                                "rank": 249
                             },
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250
+                                "rank": 251
                             },
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251
+                                "rank": 252
                             },
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252
+                                "rank": 253
                             },
                             {
                                 "id": "502790993",
@@ -438581,22 +438995,22 @@
                             {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245
+                                "rank": 246
                             },
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246
+                                "rank": 247
                             },
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248
+                                "rank": 249
                             },
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250
+                                "rank": 251
                             },
                             {
                                 "id": "502790993",
@@ -439429,22 +439843,22 @@
                             {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245
+                                "rank": 246
                             },
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246
+                                "rank": 247
                             },
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248
+                                "rank": 249
                             },
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250
+                                "rank": 251
                             },
                             {
                                 "id": "502790993",
@@ -440232,17 +440646,17 @@
                             {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245
+                                "rank": 246
                             },
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248
+                                "rank": 249
                             },
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250
+                                "rank": 251
                             },
                             {
                                 "id": "502790993",
@@ -440624,7 +441038,7 @@
                     },
                     {
                         "id": 126,
-                        "count": 129,
+                        "count": 130,
                         "name": "Flora",
                         "users": [
                             {
@@ -440966,6 +441380,11 @@
                                 "id": "700343526",
                                 "name": "Aeros (EN)",
                                 "rank": 243
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245
                             },
                             {
                                 "id": "903666484",
@@ -441543,12 +441962,12 @@
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251
+                                "rank": 252
                             },
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252
+                                "rank": 253
                             },
                             {
                                 "id": "500363365",
@@ -442206,12 +442625,12 @@
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251
+                                "rank": 252
                             },
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252
+                                "rank": 253
                             },
                             {
                                 "id": "903666484",
@@ -442824,12 +443243,12 @@
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251
+                                "rank": 252
                             },
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252
+                                "rank": 253
                             },
                             {
                                 "id": "500363365",
@@ -443191,7 +443610,7 @@
                     },
                     {
                         "id": 158,
-                        "count": 123,
+                        "count": 124,
                         "name": "Laru",
                         "users": [
                             {
@@ -443533,6 +443952,11 @@
                                 "id": "700343526",
                                 "name": "Aeros (EN)",
                                 "rank": 243
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245
                             },
                             {
                                 "id": "903666484",
@@ -444070,17 +444494,17 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246
+                                "rank": 247
                             },
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247
+                                "rank": 248
                             },
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249
+                                "rank": 250
                             },
                             {
                                 "id": "101001404",
@@ -445064,29 +445488,29 @@
                                 "rank": 244
                             },
                             {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245
+                            },
+                            {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245
+                                "rank": 246
                             },
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246
+                                "rank": 247
                             },
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247
+                                "rank": 248
                             },
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249
-                            },
-                            {
-                                "id": "301953067",
-                                "name": "HoHzuki (JP)",
-                                "rank": 253
+                                "rank": 250
                             },
                             {
                                 "id": "500519041",
@@ -445509,12 +445933,12 @@
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247
+                                "rank": 248
                             },
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249
+                                "rank": 250
                             },
                             {
                                 "id": "101001404",
@@ -446065,12 +446489,12 @@
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250
+                                "rank": 251
                             },
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252
+                                "rank": 253
                             },
                             {
                                 "id": "500482396",
@@ -446328,7 +446752,7 @@
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249
+                                "rank": 250
                             },
                             {
                                 "id": "900851547",
@@ -446449,6 +446873,149 @@
                         "rank": 18
                     },
                     {
+                        "id": 134,
+                        "count": 27,
+                        "name": "Fuyuka",
+                        "users": [
+                            {
+                                "id": "100585538",
+                                "name": "福生玄黄天尊 (CN)",
+                                "rank": 18
+                            },
+                            {
+                                "id": "701421784",
+                                "name": "Grimm (EN)",
+                                "rank": 33
+                            },
+                            {
+                                "id": "301066887",
+                                "name": "Jotter (JP)",
+                                "rank": 64
+                            },
+                            {
+                                "id": "504180898",
+                                "name": "카린 (KR)",
+                                "rank": 77
+                            },
+                            {
+                                "id": "701485352",
+                                "name": "nekosama (EN)",
+                                "rank": 101
+                            },
+                            {
+                                "id": "302429054",
+                                "name": "円 (JP)",
+                                "rank": 109
+                            },
+                            {
+                                "id": "700369210",
+                                "name": "Nerua (EN)",
+                                "rank": 113
+                            },
+                            {
+                                "id": "302262593",
+                                "name": "雪解けのうに (JP)",
+                                "rank": 121
+                            },
+                            {
+                                "id": "301509448",
+                                "name": "すむーてぃ (JP)",
+                                "rank": 128
+                            },
+                            {
+                                "id": "300398161",
+                                "name": "べるちゃそ (JP)",
+                                "rank": 141
+                            },
+                            {
+                                "id": "302529550",
+                                "name": "numumu (JP)",
+                                "rank": 173
+                            },
+                            {
+                                "id": "506431221",
+                                "name": "미카 (KR)",
+                                "rank": 183
+                            },
+                            {
+                                "id": "500334045",
+                                "name": "전국장린협회 (KR)",
+                                "rank": 196
+                            },
+                            {
+                                "id": "701326336",
+                                "name": "Nemesis (EN)",
+                                "rank": 236
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245
+                            },
+                            {
+                                "id": "903666484",
+                                "name": "Uc207Pr4f57t9 (TW)",
+                                "rank": 254
+                            },
+                            {
+                                "id": "700412730",
+                                "name": "threeyu (EN)",
+                                "rank": 270
+                            },
+                            {
+                                "id": "100403256",
+                                "name": "月饼 (CN)",
+                                "rank": 300
+                            },
+                            {
+                                "id": "100502228",
+                                "name": "伪善的小渔包 (CN)",
+                                "rank": 314
+                            },
+                            {
+                                "id": "901103767",
+                                "name": "祝福のかぜ (TW)",
+                                "rank": 330
+                            },
+                            {
+                                "id": "700949658",
+                                "name": "fonfon (EN)",
+                                "rank": 331
+                            },
+                            {
+                                "id": "500356952",
+                                "name": "마지 (KR)",
+                                "rank": 370
+                            },
+                            {
+                                "id": "900438734",
+                                "name": "dooge (TW)",
+                                "rank": 399
+                            },
+                            {
+                                "id": "500335094",
+                                "name": "Irony (KR)",
+                                "rank": 414
+                            },
+                            {
+                                "id": "910944993",
+                                "name": "楉 (TW)",
+                                "rank": 433
+                            },
+                            {
+                                "id": "700499434",
+                                "name": "Isuroh (EN)",
+                                "rank": 438
+                            },
+                            {
+                                "id": "700849845",
+                                "name": "Olivia (EN)",
+                                "rank": 452
+                            }
+                        ],
+                        "rank": 19
+                    },
+                    {
                         "id": 132,
                         "count": 26,
                         "name": "Minova",
@@ -446506,7 +447073,7 @@
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247
+                                "rank": 248
                             },
                             {
                                 "id": "101001404",
@@ -446584,145 +447151,7 @@
                                 "rank": 476
                             }
                         ],
-                        "rank": 19
-                    },
-                    {
-                        "id": 134,
-                        "count": 26,
-                        "name": "Fuyuka",
-                        "users": [
-                            {
-                                "id": "100585538",
-                                "name": "福生玄黄天尊 (CN)",
-                                "rank": 18
-                            },
-                            {
-                                "id": "701421784",
-                                "name": "Grimm (EN)",
-                                "rank": 33
-                            },
-                            {
-                                "id": "301066887",
-                                "name": "Jotter (JP)",
-                                "rank": 64
-                            },
-                            {
-                                "id": "504180898",
-                                "name": "카린 (KR)",
-                                "rank": 77
-                            },
-                            {
-                                "id": "701485352",
-                                "name": "nekosama (EN)",
-                                "rank": 101
-                            },
-                            {
-                                "id": "302429054",
-                                "name": "円 (JP)",
-                                "rank": 109
-                            },
-                            {
-                                "id": "700369210",
-                                "name": "Nerua (EN)",
-                                "rank": 113
-                            },
-                            {
-                                "id": "302262593",
-                                "name": "雪解けのうに (JP)",
-                                "rank": 121
-                            },
-                            {
-                                "id": "301509448",
-                                "name": "すむーてぃ (JP)",
-                                "rank": 128
-                            },
-                            {
-                                "id": "300398161",
-                                "name": "べるちゃそ (JP)",
-                                "rank": 141
-                            },
-                            {
-                                "id": "302529550",
-                                "name": "numumu (JP)",
-                                "rank": 173
-                            },
-                            {
-                                "id": "506431221",
-                                "name": "미카 (KR)",
-                                "rank": 183
-                            },
-                            {
-                                "id": "500334045",
-                                "name": "전국장린협회 (KR)",
-                                "rank": 196
-                            },
-                            {
-                                "id": "701326336",
-                                "name": "Nemesis (EN)",
-                                "rank": 236
-                            },
-                            {
-                                "id": "903666484",
-                                "name": "Uc207Pr4f57t9 (TW)",
-                                "rank": 254
-                            },
-                            {
-                                "id": "700412730",
-                                "name": "threeyu (EN)",
-                                "rank": 270
-                            },
-                            {
-                                "id": "100403256",
-                                "name": "月饼 (CN)",
-                                "rank": 300
-                            },
-                            {
-                                "id": "100502228",
-                                "name": "伪善的小渔包 (CN)",
-                                "rank": 314
-                            },
-                            {
-                                "id": "901103767",
-                                "name": "祝福のかぜ (TW)",
-                                "rank": 330
-                            },
-                            {
-                                "id": "700949658",
-                                "name": "fonfon (EN)",
-                                "rank": 331
-                            },
-                            {
-                                "id": "500356952",
-                                "name": "마지 (KR)",
-                                "rank": 370
-                            },
-                            {
-                                "id": "900438734",
-                                "name": "dooge (TW)",
-                                "rank": 399
-                            },
-                            {
-                                "id": "500335094",
-                                "name": "Irony (KR)",
-                                "rank": 414
-                            },
-                            {
-                                "id": "910944993",
-                                "name": "楉 (TW)",
-                                "rank": 433
-                            },
-                            {
-                                "id": "700499434",
-                                "name": "Isuroh (EN)",
-                                "rank": 438
-                            },
-                            {
-                                "id": "700849845",
-                                "name": "Olivia (EN)",
-                                "rank": 452
-                            }
-                        ],
-                        "rank": 19
+                        "rank": 20
                     },
                     {
                         "id": 125,
@@ -448117,7 +448546,7 @@
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248,
+                                "rank": 249,
                                 "teamScore": 960867
                             },
                             {
@@ -448429,7 +448858,7 @@
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251,
+                                "rank": 252,
                                 "teamScore": 827474
                             },
                             {
@@ -449113,12 +449542,6 @@
                                 "teamScore": 1237829
                             },
                             {
-                                "id": "301953067",
-                                "name": "HoHzuki (JP)",
-                                "rank": 253,
-                                "teamScore": 1200992
-                            },
-                            {
                                 "id": "900346613",
                                 "name": "月詠星 (TW)",
                                 "rank": 202,
@@ -449127,7 +449550,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246,
+                                "rank": 247,
                                 "teamScore": 1144801
                             },
                             {
@@ -449141,6 +449564,12 @@
                                 "name": "Gooningmaster (EN)",
                                 "rank": 189,
                                 "teamScore": 1104215
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245,
+                                "teamScore": 1097379
                             },
                             {
                                 "id": "501188500",
@@ -449247,7 +449676,7 @@
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249,
+                                "rank": 250,
                                 "teamScore": 862992
                             },
                             {
@@ -449277,7 +449706,7 @@
                             {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245,
+                                "rank": 246,
                                 "teamScore": 827269
                             },
                             {
@@ -449421,7 +449850,7 @@
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247,
+                                "rank": 248,
                                 "teamScore": 664579
                             },
                             {
@@ -449657,7 +450086,7 @@
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252,
+                                "rank": 253,
                                 "teamScore": 887957
                             },
                             {
@@ -449759,7 +450188,7 @@
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250,
+                                "rank": 251,
                                 "teamScore": 621968
                             },
                             {
@@ -450783,7 +451212,7 @@
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250,
+                                "rank": 251,
                                 "teamScore": 581059
                             },
                             {
@@ -451023,7 +451452,7 @@
                             {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245,
+                                "rank": 246,
                                 "teamScore": 381892
                             },
                             {
@@ -451269,7 +451698,7 @@
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248,
+                                "rank": 249,
                                 "teamScore": 245033
                             },
                             {
@@ -451721,7 +452150,7 @@
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251,
+                                "rank": 252,
                                 "teamScore": 374851
                             },
                             {
@@ -451829,7 +452258,7 @@
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252,
+                                "rank": 253,
                                 "teamScore": 313179
                             },
                             {
@@ -452547,7 +452976,7 @@
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249,
+                                "rank": 250,
                                 "teamScore": 342116
                             },
                             {
@@ -452899,7 +453328,7 @@
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247,
+                                "rank": 248,
                                 "teamScore": 542382
                             },
                             {
@@ -453165,7 +453594,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246,
+                                "rank": 247,
                                 "teamScore": 63106
                             }
                         ],
@@ -453381,7 +453810,7 @@
                             126,
                             158
                         ],
-                        "count": 9,
+                        "count": 10,
                         "name": "Fuyuka • Flora, Laru",
                         "users": [
                             {
@@ -453431,6 +453860,12 @@
                                 "name": "月饼 (CN)",
                                 "rank": 300,
                                 "teamScore": 207016
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245,
+                                "teamScore": 112616
                             },
                             {
                                 "id": "100502228",
@@ -455019,7 +455454,7 @@
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248,
+                                "rank": 249,
                                 "teamScore": 960867
                             },
                             {
@@ -455331,7 +455766,7 @@
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251,
+                                "rank": 252,
                                 "teamScore": 827474
                             },
                             {
@@ -456107,7 +456542,7 @@
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250,
+                                "rank": 251,
                                 "teamScore": 581059
                             },
                             {
@@ -456347,7 +456782,7 @@
                             {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245,
+                                "rank": 246,
                                 "teamScore": 381892
                             },
                             {
@@ -456593,7 +457028,7 @@
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248,
+                                "rank": 249,
                                 "teamScore": 245033
                             },
                             {
@@ -457653,7 +458088,7 @@
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251,
+                                "rank": 252,
                                 "teamScore": 374851
                             },
                             {
@@ -457761,7 +458196,7 @@
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252,
+                                "rank": 253,
                                 "teamScore": 313179
                             },
                             {
@@ -458043,12 +458478,6 @@
                                 "teamScore": 1237829
                             },
                             {
-                                "id": "301953067",
-                                "name": "HoHzuki (JP)",
-                                "rank": 253,
-                                "teamScore": 1200992
-                            },
-                            {
                                 "id": "900346613",
                                 "name": "月詠星 (TW)",
                                 "rank": 202,
@@ -458057,7 +458486,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246,
+                                "rank": 247,
                                 "teamScore": 1144801
                             },
                             {
@@ -458071,6 +458500,12 @@
                                 "name": "Gooningmaster (EN)",
                                 "rank": 189,
                                 "teamScore": 1104215
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245,
+                                "teamScore": 1097379
                             },
                             {
                                 "id": "501188500",
@@ -458177,7 +458612,7 @@
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249,
+                                "rank": 250,
                                 "teamScore": 862992
                             },
                             {
@@ -458207,7 +458642,7 @@
                             {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245,
+                                "rank": 246,
                                 "teamScore": 827269
                             },
                             {
@@ -458351,7 +458786,7 @@
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247,
+                                "rank": 248,
                                 "teamScore": 664579
                             },
                             {
@@ -458593,7 +459028,7 @@
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252,
+                                "rank": 253,
                                 "teamScore": 887957
                             },
                             {
@@ -458695,7 +459130,7 @@
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250,
+                                "rank": 251,
                                 "teamScore": 621968
                             },
                             {
@@ -458841,7 +459276,7 @@
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249,
+                                "rank": 250,
                                 "teamScore": 342116
                             },
                             {
@@ -459005,7 +459440,7 @@
                             126,
                             158
                         ],
-                        "count": 25,
+                        "count": 26,
                         "name": "Fuyuka • Flora, Laru",
                         "users": [
                             {
@@ -459151,6 +459586,12 @@
                                 "name": "月饼 (CN)",
                                 "rank": 300,
                                 "teamScore": 207016
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245,
+                                "teamScore": 112616
                             },
                             {
                                 "id": "100502228",
@@ -459335,7 +459776,7 @@
                             "rank": 136,
                             "teamScore": 301647
                         },
-                        "rank": 8
+                        "rank": 9
                     },
                     {
                         "key": "155-107-132",
@@ -459363,7 +459804,7 @@
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247,
+                                "rank": 248,
                                 "teamScore": 542382
                             },
                             {
@@ -459629,7 +460070,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246,
+                                "rank": 247,
                                 "teamScore": 63106
                             }
                         ],
@@ -461821,7 +462262,7 @@
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248,
+                                "rank": 249,
                                 "teamScore": 960867
                             },
                             {
@@ -462133,7 +462574,7 @@
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251,
+                                "rank": 252,
                                 "teamScore": 827474
                             },
                             {
@@ -463193,7 +463634,7 @@
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252,
+                                "rank": 253,
                                 "teamScore": 887957
                             },
                             {
@@ -463295,7 +463736,7 @@
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250,
+                                "rank": 251,
                                 "teamScore": 621968
                             },
                             {
@@ -463548,12 +463989,6 @@
                                 "teamScore": 1237829
                             },
                             {
-                                "id": "301953067",
-                                "name": "HoHzuki (JP)",
-                                "rank": 253,
-                                "teamScore": 1200992
-                            },
-                            {
                                 "id": "900346613",
                                 "name": "月詠星 (TW)",
                                 "rank": 202,
@@ -463562,7 +463997,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246,
+                                "rank": 247,
                                 "teamScore": 1144801
                             },
                             {
@@ -463576,6 +464011,12 @@
                                 "name": "Gooningmaster (EN)",
                                 "rank": 189,
                                 "teamScore": 1104215
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245,
+                                "teamScore": 1097379
                             },
                             {
                                 "id": "501188500",
@@ -463682,7 +464123,7 @@
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249,
+                                "rank": 250,
                                 "teamScore": 862992
                             },
                             {
@@ -463712,7 +464153,7 @@
                             {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245,
+                                "rank": 246,
                                 "teamScore": 827269
                             },
                             {
@@ -463856,7 +464297,7 @@
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247,
+                                "rank": 248,
                                 "teamScore": 664579
                             },
                             {
@@ -464010,13 +464451,13 @@
                                 "p514409": 78,
                                 "p513025": 78,
                                 "p516043": 78,
-                                "p516033": 78,
                                 "p514408": 77,
+                                "p516033": 77,
                                 "p516029": 77,
-                                "p514412": 71,
+                                "p514412": 70,
                                 "p513030": 55,
                                 "p513029": 37,
-                                "p513031": 35,
+                                "p513031": 36,
                                 "p514442": 32,
                                 "p514411": 21,
                                 "p516032": 7,
@@ -464048,10 +464489,10 @@
                                 "p516033": 68,
                                 "p516029": 60,
                                 "p514412": 51,
-                                "p514409": 23,
-                                "p513031": 13,
+                                "p514409": 24,
+                                "p513031": 14,
                                 "p513029": 11,
-                                "p514442": 9,
+                                "p514442": 10,
                                 "p513030": 4,
                                 "p516032": 2,
                                 "p514405": 2,
@@ -464065,17 +464506,17 @@
                                 "p516023": 80,
                                 "p514403": 78,
                                 "p514404": 78,
-                                "p514409": 55,
+                                "p514409": 54,
                                 "p513030": 51,
                                 "p513029": 26,
-                                "p514442": 23,
                                 "p513031": 22,
+                                "p514442": 22,
                                 "p514411": 21,
-                                "p514412": 20,
+                                "p514412": 19,
                                 "p516029": 17,
                                 "p516028": 11,
-                                "p516033": 10,
                                 "p516043": 10,
+                                "p516033": 9,
                                 "p513025": 7,
                                 "p513033": 6,
                                 "p516032": 5,
@@ -464101,8 +464542,8 @@
                             "all": {
                                 "d214055": 80,
                                 "d214026": 72,
-                                "d214005": 62,
-                                "d214008": 57,
+                                "d214005": 63,
+                                "d214008": 56,
                                 "d214031": 55,
                                 "d214047": 55,
                                 "d214061": 31,
@@ -464126,10 +464567,10 @@
                             "support": {
                                 "d214031": 55,
                                 "d214047": 55,
-                                "d214005": 52,
+                                "d214005": 53,
                                 "d214062": 25,
                                 "d214056": 25,
-                                "d214008": 13,
+                                "d214008": 12,
                                 "d214021": 7,
                                 "d214026": 3,
                                 "d214029": 2,
@@ -466570,7 +467011,7 @@
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251,
+                                "rank": 252,
                                 "teamScore": 374851
                             },
                             {
@@ -466678,7 +467119,7 @@
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252,
+                                "rank": 253,
                                 "teamScore": 313179
                             },
                             {
@@ -467359,7 +467800,7 @@
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249,
+                                "rank": 250,
                                 "teamScore": 342116
                             },
                             {
@@ -468789,7 +469230,7 @@
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250,
+                                "rank": 251,
                                 "teamScore": 581059
                             },
                             {
@@ -469029,7 +469470,7 @@
                             {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245,
+                                "rank": 246,
                                 "teamScore": 381892
                             },
                             {
@@ -469275,7 +469716,7 @@
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248,
+                                "rank": 249,
                                 "teamScore": 245033
                             },
                             {
@@ -470027,7 +470468,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246,
+                                "rank": 247,
                                 "teamScore": 63106
                             }
                         ],
@@ -470445,7 +470886,7 @@
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247,
+                                "rank": 248,
                                 "teamScore": 542382
                             },
                             {
@@ -470807,7 +471248,7 @@
                             126,
                             158
                         ],
-                        "count": 9,
+                        "count": 10,
                         "name": "Fuyuka • Flora, Laru",
                         "users": [
                             {
@@ -470859,6 +471300,12 @@
                                 "teamScore": 207016
                             },
                             {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245,
+                                "teamScore": 112616
+                            },
+                            {
                                 "id": "100502228",
                                 "name": "伪善的小渔包 (CN)",
                                 "rank": 314,
@@ -470874,117 +471321,117 @@
                         "rank": 18,
                         "potentialUsage": {
                             "all": {
-                                "p513404": 9,
-                                "p513403": 9,
-                                "p513413": 9,
-                                "p513408": 9,
-                                "p515822": 9,
-                                "p515821": 9,
-                                "p515831": 9,
-                                "p515843": 9,
-                                "p515833": 9,
-                                "p512629": 9,
-                                "p512625": 9,
-                                "p512641": 9,
-                                "p513442": 8,
-                                "p513443": 8,
-                                "p513412": 8,
-                                "p515825": 8,
-                                "p512621": 8,
+                                "p513404": 10,
+                                "p513403": 10,
+                                "p513413": 10,
+                                "p513408": 10,
+                                "p515822": 10,
+                                "p515821": 10,
+                                "p515831": 10,
+                                "p515843": 10,
+                                "p515833": 10,
+                                "p512629": 10,
+                                "p512625": 10,
+                                "p512641": 10,
+                                "p513442": 9,
+                                "p513443": 9,
+                                "p513412": 9,
+                                "p515825": 9,
+                                "p512621": 9,
+                                "p512631": 9,
                                 "p512623": 8,
-                                "p512631": 8,
-                                "p512627": 7,
-                                "p513411": 6,
+                                "p512627": 8,
+                                "p513411": 7,
                                 "p513409": 3,
-                                "p515830": 2,
-                                "p512622": 2,
+                                "p515830": 3,
+                                "p512622": 3,
                                 "p512643": 2,
                                 "p513441": 2,
+                                "p515829": 2,
                                 "p515832": 1,
                                 "p515828": 1,
-                                "p515829": 1,
                                 "p512628": 1
                             },
                             "high": {
-                                "p513413": 9,
-                                "p515831": 9,
-                                "p515843": 9,
-                                "p515833": 9,
-                                "p512629": 9,
-                                "p512625": 9,
-                                "p513442": 8,
-                                "p513443": 8,
-                                "p512641": 8,
+                                "p513413": 10,
+                                "p515831": 10,
+                                "p515843": 10,
+                                "p515833": 10,
+                                "p512629": 10,
+                                "p512625": 10,
+                                "p513442": 9,
+                                "p513443": 9,
+                                "p512641": 9,
+                                "p513412": 7,
                                 "p512631": 6,
-                                "p513412": 6,
                                 "p512627": 5,
                                 "p513411": 2,
                                 "p513408": 2,
+                                "p515825": 2,
                                 "p513441": 1,
-                                "p515825": 1,
                                 "p513409": 1,
                                 "p512628": 1
                             },
                             "low": {
-                                "p513404": 9,
-                                "p513403": 9,
-                                "p515822": 9,
-                                "p515821": 9,
-                                "p512621": 8,
+                                "p513404": 10,
+                                "p513403": 10,
+                                "p515822": 10,
+                                "p515821": 10,
+                                "p512621": 9,
+                                "p513408": 8,
                                 "p512623": 8,
-                                "p513408": 7,
                                 "p515825": 7,
-                                "p513411": 4,
+                                "p513411": 5,
+                                "p515830": 3,
+                                "p512627": 3,
+                                "p512622": 3,
+                                "p512631": 3,
                                 "p513412": 2,
                                 "p513409": 2,
-                                "p515830": 2,
-                                "p512627": 2,
-                                "p512622": 2,
                                 "p512643": 2,
-                                "p512631": 2,
+                                "p515829": 2,
                                 "p515832": 1,
                                 "p515828": 1,
                                 "p513441": 1,
-                                "p512641": 1,
-                                "p515829": 1
+                                "p512641": 1
                             }
                         },
                         "discUsage": {
                             "all": {
-                                "d214041": 9,
+                                "d214041": 10,
+                                "d214048": 8,
                                 "d214019": 8,
                                 "d214040": 8,
-                                "d214048": 7,
-                                "d214001": 5,
-                                "d214017": 5,
+                                "d214001": 6,
+                                "d214017": 6,
+                                "d214013": 4,
                                 "d214027": 4,
-                                "d214013": 3,
-                                "d214053": 2,
+                                "d214053": 3,
                                 "d214009": 1,
                                 "d214011": 1,
                                 "d214029": 1
                             },
                             "main": {
-                                "d214048": 7,
+                                "d214048": 8,
                                 "d214019": 6,
                                 "d214001": 4,
                                 "d214027": 3,
+                                "d214017": 3,
+                                "d214013": 3,
                                 "d214040": 2,
-                                "d214017": 2,
-                                "d214013": 2,
                                 "d214053": 1
                             },
                             "support": {
-                                "d214041": 9,
+                                "d214041": 10,
                                 "d214040": 6,
                                 "d214017": 3,
+                                "d214001": 2,
                                 "d214019": 2,
+                                "d214053": 2,
                                 "d214013": 1,
-                                "d214001": 1,
                                 "d214009": 1,
                                 "d214011": 1,
                                 "d214029": 1,
-                                "d214053": 1,
                                 "d214027": 1
                             }
                         }
@@ -473560,7 +474007,7 @@
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248,
+                                "rank": 249,
                                 "teamScore": 960867
                             },
                             {
@@ -473872,7 +474319,7 @@
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251,
+                                "rank": 252,
                                 "teamScore": 827474
                             },
                             {
@@ -474938,7 +475385,7 @@
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252,
+                                "rank": 253,
                                 "teamScore": 887957
                             },
                             {
@@ -475040,7 +475487,7 @@
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250,
+                                "rank": 251,
                                 "teamScore": 621968
                             },
                             {
@@ -475293,12 +475740,6 @@
                                 "teamScore": 1237829
                             },
                             {
-                                "id": "301953067",
-                                "name": "HoHzuki (JP)",
-                                "rank": 253,
-                                "teamScore": 1200992
-                            },
-                            {
                                 "id": "900346613",
                                 "name": "月詠星 (TW)",
                                 "rank": 202,
@@ -475307,7 +475748,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246,
+                                "rank": 247,
                                 "teamScore": 1144801
                             },
                             {
@@ -475321,6 +475762,12 @@
                                 "name": "Gooningmaster (EN)",
                                 "rank": 189,
                                 "teamScore": 1104215
+                            },
+                            {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245,
+                                "teamScore": 1097379
                             },
                             {
                                 "id": "501188500",
@@ -475427,7 +475874,7 @@
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249,
+                                "rank": 250,
                                 "teamScore": 862992
                             },
                             {
@@ -475457,7 +475904,7 @@
                             {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245,
+                                "rank": 246,
                                 "teamScore": 827269
                             },
                             {
@@ -475601,7 +476048,7 @@
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247,
+                                "rank": 248,
                                 "teamScore": 664579
                             },
                             {
@@ -475761,13 +476208,13 @@
                                 "p514409": 79,
                                 "p513025": 79,
                                 "p516043": 79,
-                                "p516033": 79,
                                 "p514408": 78,
+                                "p516033": 78,
                                 "p516029": 78,
-                                "p514412": 72,
+                                "p514412": 71,
                                 "p513030": 56,
                                 "p513029": 38,
-                                "p513031": 35,
+                                "p513031": 36,
                                 "p514442": 32,
                                 "p514411": 22,
                                 "p516032": 8,
@@ -475799,10 +476246,10 @@
                                 "p516033": 69,
                                 "p516029": 61,
                                 "p514412": 51,
-                                "p514409": 23,
-                                "p513031": 13,
+                                "p514409": 24,
+                                "p513031": 14,
                                 "p513029": 12,
-                                "p514442": 9,
+                                "p514442": 10,
                                 "p513030": 4,
                                 "p516032": 2,
                                 "p514405": 2,
@@ -475816,17 +476263,17 @@
                                 "p516023": 81,
                                 "p514403": 79,
                                 "p514404": 79,
-                                "p514409": 56,
+                                "p514409": 55,
                                 "p513030": 52,
                                 "p513029": 26,
-                                "p514442": 23,
                                 "p513031": 22,
                                 "p514411": 22,
-                                "p514412": 21,
+                                "p514442": 22,
+                                "p514412": 20,
                                 "p516029": 17,
                                 "p516028": 11,
-                                "p516033": 10,
                                 "p516043": 10,
+                                "p516033": 9,
                                 "p513025": 7,
                                 "p516032": 6,
                                 "p513033": 6,
@@ -475852,8 +476299,8 @@
                             "all": {
                                 "d214055": 81,
                                 "d214026": 73,
-                                "d214005": 63,
-                                "d214008": 58,
+                                "d214005": 64,
+                                "d214008": 57,
                                 "d214031": 56,
                                 "d214047": 56,
                                 "d214061": 31,
@@ -475877,10 +476324,10 @@
                             "support": {
                                 "d214031": 56,
                                 "d214047": 56,
-                                "d214005": 53,
+                                "d214005": 54,
                                 "d214062": 25,
                                 "d214056": 25,
-                                "d214008": 13,
+                                "d214008": 12,
                                 "d214021": 7,
                                 "d214026": 3,
                                 "d214029": 2,
@@ -477288,7 +477735,7 @@
                             {
                                 "id": "500347979",
                                 "name": "별하 (KR)",
-                                "rank": 251,
+                                "rank": 252,
                                 "teamScore": 374851
                             },
                             {
@@ -477396,7 +477843,7 @@
                             {
                                 "id": "700536731",
                                 "name": "Saladz (EN)",
-                                "rank": 252,
+                                "rank": 253,
                                 "teamScore": 313179
                             },
                             {
@@ -478242,7 +478689,7 @@
                             {
                                 "id": "100341270",
                                 "name": "瑟之律者瑟莉姆 (CN)",
-                                "rank": 249,
+                                "rank": 250,
                                 "teamScore": 342116
                             },
                             {
@@ -478695,7 +479142,7 @@
                             126,
                             158
                         ],
-                        "count": 25,
+                        "count": 26,
                         "name": "Fuyuka • Flora, Laru",
                         "users": [
                             {
@@ -478843,6 +479290,12 @@
                                 "teamScore": 207016
                             },
                             {
+                                "id": "301049591",
+                                "name": "Flandre (JP)",
+                                "rank": 245,
+                                "teamScore": 112616
+                            },
+                            {
                                 "id": "100502228",
                                 "name": "伪善的小渔包 (CN)",
                                 "rank": 314,
@@ -478858,95 +479311,95 @@
                         "rank": 14,
                         "potentialUsage": {
                             "all": {
-                                "p513404": 25,
-                                "p513403": 25,
-                                "p513413": 25,
-                                "p512641": 25,
-                                "p512629": 25,
-                                "p512625": 25,
-                                "p515821": 25,
-                                "p515822": 25,
-                                "p515833": 25,
-                                "p515831": 25,
-                                "p515843": 25,
-                                "p513442": 24,
-                                "p513443": 24,
-                                "p513408": 24,
-                                "p513412": 24,
+                                "p513404": 26,
+                                "p513403": 26,
+                                "p513413": 26,
+                                "p512641": 26,
+                                "p512629": 26,
+                                "p512625": 26,
+                                "p515821": 26,
+                                "p515822": 26,
+                                "p515833": 26,
+                                "p515831": 26,
+                                "p515843": 26,
+                                "p513442": 25,
+                                "p513443": 25,
+                                "p513408": 25,
+                                "p513412": 25,
+                                "p512631": 24,
+                                "p512627": 24,
                                 "p512623": 23,
-                                "p512631": 23,
-                                "p512627": 23,
-                                "p512621": 22,
-                                "p515825": 22,
-                                "p513411": 19,
-                                "p515830": 7,
+                                "p512621": 23,
+                                "p515825": 23,
+                                "p513411": 20,
+                                "p515830": 8,
                                 "p513441": 6,
+                                "p512622": 6,
                                 "p513409": 5,
-                                "p512622": 5,
                                 "p512628": 3,
                                 "p515828": 3,
                                 "p512643": 3,
                                 "p515832": 2,
-                                "p515829": 1
+                                "p515829": 2
                             },
                             "high": {
-                                "p513413": 25,
-                                "p512625": 25,
-                                "p515833": 25,
-                                "p515831": 25,
-                                "p515843": 25,
-                                "p513443": 24,
-                                "p512641": 24,
-                                "p512629": 24,
-                                "p513442": 23,
-                                "p513412": 21,
+                                "p513413": 26,
+                                "p512625": 26,
+                                "p515833": 26,
+                                "p515831": 26,
+                                "p515843": 26,
+                                "p513443": 25,
+                                "p512641": 25,
+                                "p512629": 25,
+                                "p513442": 24,
+                                "p513412": 22,
                                 "p512627": 19,
                                 "p512631": 16,
                                 "p513411": 11,
                                 "p513441": 3,
                                 "p513408": 3,
-                                "p515825": 1,
+                                "p515825": 2,
                                 "p513409": 1,
                                 "p512628": 1
                             },
                             "low": {
-                                "p513404": 25,
-                                "p513403": 25,
-                                "p515821": 25,
-                                "p515822": 25,
+                                "p513404": 26,
+                                "p513403": 26,
+                                "p515821": 26,
+                                "p515822": 26,
                                 "p512623": 23,
-                                "p512621": 22,
-                                "p513408": 21,
+                                "p512621": 23,
+                                "p513408": 22,
                                 "p515825": 21,
-                                "p513411": 8,
-                                "p515830": 7,
-                                "p512631": 7,
-                                "p512622": 5,
+                                "p513411": 9,
+                                "p515830": 8,
+                                "p512631": 8,
+                                "p512622": 6,
+                                "p512627": 5,
                                 "p513409": 4,
-                                "p512627": 4,
                                 "p513412": 3,
                                 "p515828": 3,
                                 "p513441": 3,
                                 "p512643": 3,
                                 "p512628": 2,
                                 "p515832": 2,
+                                "p515829": 2,
                                 "p512629": 1,
                                 "p513442": 1,
-                                "p512641": 1,
-                                "p515829": 1
+                                "p512641": 1
                             }
                         },
                         "discUsage": {
                             "all": {
-                                "d214041": 22,
+                                "d214041": 23,
+                                "d214048": 22,
                                 "d214019": 21,
-                                "d214048": 21,
                                 "d214040": 21,
                                 "d214027": 15,
-                                "d214001": 13,
-                                "d214017": 13,
-                                "d214053": 6,
-                                "d214013": 6,
+                                "d214001": 14,
+                                "d214017": 14,
+                                "d214053": 7,
+                                "d214013": 7,
                                 "d214029": 3,
                                 "d214056": 1,
                                 "d214049": 1,
@@ -478959,24 +479412,24 @@
                                 "d214011": 1
                             },
                             "main": {
-                                "d214048": 21,
+                                "d214048": 22,
                                 "d214019": 19,
                                 "d214027": 11,
                                 "d214001": 11,
-                                "d214013": 4,
+                                "d214013": 5,
                                 "d214040": 4,
-                                "d214017": 3,
+                                "d214017": 4,
                                 "d214041": 1,
                                 "d214053": 1
                             },
                             "support": {
-                                "d214041": 21,
+                                "d214041": 22,
                                 "d214040": 17,
                                 "d214017": 10,
-                                "d214053": 5,
+                                "d214053": 6,
                                 "d214027": 4,
                                 "d214029": 3,
-                                "d214001": 2,
+                                "d214001": 3,
                                 "d214013": 2,
                                 "d214019": 2,
                                 "d214056": 1,
@@ -479661,7 +480114,7 @@
                             {
                                 "id": "500687309",
                                 "name": "함성 (KR)",
-                                "rank": 250,
+                                "rank": 251,
                                 "teamScore": 581059
                             },
                             {
@@ -479901,7 +480354,7 @@
                             {
                                 "id": "100363725",
                                 "name": "Chitose (CN)",
-                                "rank": 245,
+                                "rank": 246,
                                 "teamScore": 381892
                             },
                             {
@@ -480147,7 +480600,7 @@
                             {
                                 "id": "500359056",
                                 "name": "푸른상자 (KR)",
-                                "rank": 248,
+                                "rank": 249,
                                 "teamScore": 245033
                             },
                             {
@@ -481040,7 +481493,7 @@
                             {
                                 "id": "500666969",
                                 "name": "환상비늘 (KR)",
-                                "rank": 246,
+                                "rank": 247,
                                 "teamScore": 63106
                             }
                         ],
@@ -481546,7 +481999,7 @@
                             {
                                 "id": "500598223",
                                 "name": "서눅 (KR)",
-                                "rank": 247,
+                                "rank": 248,
                                 "teamScore": 542382
                             },
                             {
