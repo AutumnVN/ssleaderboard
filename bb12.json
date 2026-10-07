@@ -1,13 +1,13 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1791384125",
+            "LastRefreshTime": "1791384726",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "HeadIcon": 15602,
                 "Score": 522507,
-                "Rank": 447,
+                "Rank": 448,
                 "TitlePrefix": 35,
                 "TitleSuffix": 36,
                 "Teams": [
@@ -29478,7 +29478,7 @@
                     "Id": "700349472",
                     "NickName": "Detalerous",
                     "HeadIcon": 14501,
-                    "Score": 852390,
+                    "Score": 856457,
                     "Rank": 88,
                     "TitlePrefix": 39,
                     "TitleSuffix": 30,
@@ -29499,7 +29499,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 542614,
+                            "LevelScore": 546681,
                             "LevelId": 26,
                             "Discs": [
                                 214055,
@@ -33785,7 +33785,7 @@
                     ]
                 }
             ],
-            "Total": 10080,
+            "Total": 10087,
             "UsageByFloor": {
                 "26": [
                     {
@@ -40491,7 +40491,7 @@
                                 "id": "700349472",
                                 "name": "Detalerous",
                                 "rank": 88,
-                                "teamScore": 542614
+                                "teamScore": 546681
                             },
                             {
                                 "id": "700560775",
@@ -42255,7 +42255,7 @@
                                 "id": "700349472",
                                 "name": "Detalerous",
                                 "rank": 88,
-                                "teamScore": 542614
+                                "teamScore": 546681
                             },
                             {
                                 "id": "700560775",
@@ -44288,7 +44288,7 @@
                                 "id": "700349472",
                                 "name": "Detalerous",
                                 "rank": 88,
-                                "teamScore": 542614
+                                "teamScore": 546681
                             },
                             {
                                 "id": "700560775",
@@ -48636,7 +48636,7 @@
                                 "id": "700349472",
                                 "name": "Detalerous",
                                 "rank": 88,
-                                "teamScore": 542614
+                                "teamScore": 546681
                             },
                             {
                                 "id": "700560775",
@@ -102797,7 +102797,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1791384167",
+            "LastRefreshTime": "1791384767",
             "Rank": [
                 {
                     "Id": "507501904",
@@ -135709,7 +135709,7 @@
                     ]
                 }
             ],
-            "Total": 2650,
+            "Total": 2654,
             "UsageByFloor": {
                 "26": [
                     {
@@ -203538,7 +203538,7 @@
             }
         },
         "cn": {
-            "LastRefreshTime": "1791383478",
+            "LastRefreshTime": "1791384078",
             "Rank": [
                 {
                     "Id": "100391766",
@@ -236793,7 +236793,7 @@
                     ]
                 }
             ],
-            "Total": 14612,
+            "Total": 14624,
             "UsageByFloor": {
                 "26": [
                     {
@@ -403574,11 +403574,331 @@
                     ]
                 },
                 {
+                    "Id": "700349472",
+                    "NickName": "Detalerous (EN)",
+                    "HeadIcon": 14501,
+                    "Score": 856457,
+                    "Rank": 458,
+                    "TitlePrefix": 39,
+                    "TitleSuffix": 30,
+                    "Teams": [
+                        {
+                            "BuildScore": 9270,
+                            "Chars": [
+                                {
+                                    "Id": 139,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 546681,
+                            "LevelId": 26,
+                            "Discs": [
+                                214055,
+                                214062,
+                                214061,
+                                214047,
+                                214057,
+                                214006
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 513904,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513903,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513908,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513942,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513909,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 513910,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513913,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513912,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 516022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516025,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 6
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 34
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 7
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 33
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 40
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 35
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 5
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4055102,
+                                4055202,
+                                4062102,
+                                4062202,
+                                4061102,
+                                4061202
+                            ],
+                            "RecordRank": "31",
+                            "BuildCode": "AAAAiwAAAKAAAACCMAajZjDNhgACBc2AAAwA"
+                        },
+                        {
+                            "BuildScore": 9480,
+                            "Chars": [
+                                {
+                                    "Id": 143,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 137,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 123,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 309776,
+                            "LevelId": 27,
+                            "Discs": [
+                                214016,
+                                214028,
+                                214018,
+                                214060,
+                                214024,
+                                214055
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 514301,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514302,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 514306,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514305,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514313,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514312,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 514343,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 513723,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513724,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513729,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513732,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513728,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513731,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513730,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 512323,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512321,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512330,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512333,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512326,
+                                    "Level": 3
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90020,
+                                    "Qty": 29
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 22
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 8
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 41
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 10
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 43
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 25
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 7
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 31
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4016102,
+                                4016201,
+                                4028102,
+                                4028201,
+                                4018102,
+                                4018201
+                            ],
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAjwAAAIkAAAB7zYADDAMwBltgAKDAwAwA"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 115001
+                        },
+                        {
+                            "Id": 118002
+                        },
+                        {
+                            "Id": 117001
+                        }
+                    ]
+                },
+                {
                     "Id": "900377895",
                     "NickName": "百鬼的椅子 (TW)",
                     "HeadIcon": 130011,
                     "Score": 855675,
-                    "Rank": 458,
+                    "Rank": 459,
                     "TitlePrefix": 3,
                     "TitleSuffix": 36,
                     "Teams": [
@@ -403896,326 +404216,6 @@
                         },
                         {
                             "Id": 117061
-                        }
-                    ]
-                },
-                {
-                    "Id": "700349472",
-                    "NickName": "Detalerous (EN)",
-                    "HeadIcon": 14501,
-                    "Score": 852390,
-                    "Rank": 459,
-                    "TitlePrefix": 39,
-                    "TitleSuffix": 30,
-                    "Teams": [
-                        {
-                            "BuildScore": 9270,
-                            "Chars": [
-                                {
-                                    "Id": 139,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 542614,
-                            "LevelId": 26,
-                            "Discs": [
-                                214055,
-                                214062,
-                                214061,
-                                214047,
-                                214057,
-                                214006
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 513904,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513903,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513908,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513942,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513909,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 513910,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513913,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513912,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 516022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516025,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 34
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 7
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 33
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 40
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 35
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 5
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4055102,
-                                4055202,
-                                4062102,
-                                4062202,
-                                4061102,
-                                4061202
-                            ],
-                            "RecordRank": "31",
-                            "BuildCode": "AAAAiwAAAKAAAACCMAajZjDNhgACBc2AAAwA"
-                        },
-                        {
-                            "BuildScore": 9480,
-                            "Chars": [
-                                {
-                                    "Id": 143,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 137,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 123,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 309776,
-                            "LevelId": 27,
-                            "Discs": [
-                                214016,
-                                214028,
-                                214018,
-                                214060,
-                                214024,
-                                214055
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 514301,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514302,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 514306,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514305,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514313,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514312,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514343,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 513723,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513724,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513729,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513732,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513728,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513731,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513730,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 512323,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512321,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512330,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512333,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512326,
-                                    "Level": 3
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90020,
-                                    "Qty": 29
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 22
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 8
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 41
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 10
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 43
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 25
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 7
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 31
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4016102,
-                                4016201,
-                                4028102,
-                                4028201,
-                                4018102,
-                                4018201
-                            ],
-                            "RecordRank": "32",
-                            "BuildCode": "AAAAjwAAAIkAAAB7zYADDAMwBltgAKDAwAwA"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 115001
-                        },
-                        {
-                            "Id": 118002
-                        },
-                        {
-                            "Id": 117001
                         }
                     ]
                 },
@@ -417950,8 +417950,8 @@
                     ]
                 }
             ],
-            "Total": 42829,
-            "LastRefreshTime": "1791384638",
+            "Total": 42852,
+            "LastRefreshTime": "1791384767",
             "UsageByFloor": {
                 "26": [
                     {
@@ -419950,13 +419950,13 @@
                                 "rank": 454
                             },
                             {
-                                "id": "900377895",
-                                "name": "百鬼的椅子 (TW)",
+                                "id": "700349472",
+                                "name": "Detalerous (EN)",
                                 "rank": 458
                             },
                             {
-                                "id": "700349472",
-                                "name": "Detalerous (EN)",
+                                "id": "900377895",
+                                "name": "百鬼的椅子 (TW)",
                                 "rank": 459
                             },
                             {
@@ -421863,13 +421863,13 @@
                                 "rank": 454
                             },
                             {
-                                "id": "900377895",
-                                "name": "百鬼的椅子 (TW)",
+                                "id": "700349472",
+                                "name": "Detalerous (EN)",
                                 "rank": 458
                             },
                             {
-                                "id": "700349472",
-                                "name": "Detalerous (EN)",
+                                "id": "900377895",
+                                "name": "百鬼的椅子 (TW)",
                                 "rank": 459
                             },
                             {
@@ -423561,13 +423561,13 @@
                                 "rank": 454
                             },
                             {
-                                "id": "900377895",
-                                "name": "百鬼的椅子 (TW)",
+                                "id": "700349472",
+                                "name": "Detalerous (EN)",
                                 "rank": 458
                             },
                             {
-                                "id": "700349472",
-                                "name": "Detalerous (EN)",
+                                "id": "900377895",
+                                "name": "百鬼的椅子 (TW)",
                                 "rank": 459
                             },
                             {
@@ -426452,7 +426452,7 @@
                             {
                                 "id": "900377895",
                                 "name": "百鬼的椅子 (TW)",
-                                "rank": 458
+                                "rank": 459
                             },
                             {
                                 "id": "900490758",
@@ -427250,7 +427250,7 @@
                             {
                                 "id": "900377895",
                                 "name": "百鬼的椅子 (TW)",
-                                "rank": 458
+                                "rank": 459
                             },
                             {
                                 "id": "900490758",
@@ -428013,7 +428013,7 @@
                             {
                                 "id": "900377895",
                                 "name": "百鬼的椅子 (TW)",
-                                "rank": 458
+                                "rank": 459
                             },
                             {
                                 "id": "900490758",
@@ -428701,7 +428701,7 @@
                             {
                                 "id": "700349472",
                                 "name": "Detalerous (EN)",
-                                "rank": 459
+                                "rank": 458
                             },
                             {
                                 "id": "700382195",
@@ -429329,7 +429329,7 @@
                             {
                                 "id": "700349472",
                                 "name": "Detalerous (EN)",
-                                "rank": 459
+                                "rank": 458
                             },
                             {
                                 "id": "700382195",
@@ -429967,7 +429967,7 @@
                             {
                                 "id": "700349472",
                                 "name": "Detalerous (EN)",
-                                "rank": 459
+                                "rank": 458
                             },
                             {
                                 "id": "700382195",
@@ -435189,13 +435189,13 @@
                                 "rank": 454
                             },
                             {
-                                "id": "900377895",
-                                "name": "百鬼的椅子 (TW)",
+                                "id": "700349472",
+                                "name": "Detalerous (EN)",
                                 "rank": 458
                             },
                             {
-                                "id": "700349472",
-                                "name": "Detalerous (EN)",
+                                "id": "900377895",
+                                "name": "百鬼的椅子 (TW)",
                                 "rank": 459
                             },
                             {
@@ -437112,13 +437112,13 @@
                                 "rank": 454
                             },
                             {
-                                "id": "900377895",
-                                "name": "百鬼的椅子 (TW)",
+                                "id": "700349472",
+                                "name": "Detalerous (EN)",
                                 "rank": 458
                             },
                             {
-                                "id": "700349472",
-                                "name": "Detalerous (EN)",
+                                "id": "900377895",
+                                "name": "百鬼的椅子 (TW)",
                                 "rank": 459
                             },
                             {
@@ -438810,13 +438810,13 @@
                                 "rank": 454
                             },
                             {
-                                "id": "900377895",
-                                "name": "百鬼的椅子 (TW)",
+                                "id": "700349472",
+                                "name": "Detalerous (EN)",
                                 "rank": 458
                             },
                             {
-                                "id": "700349472",
-                                "name": "Detalerous (EN)",
+                                "id": "900377895",
+                                "name": "百鬼的椅子 (TW)",
                                 "rank": 459
                             },
                             {
@@ -439815,7 +439815,7 @@
                             {
                                 "id": "900377895",
                                 "name": "百鬼的椅子 (TW)",
-                                "rank": 458
+                                "rank": 459
                             },
                             {
                                 "id": "900490758",
@@ -440613,7 +440613,7 @@
                             {
                                 "id": "900377895",
                                 "name": "百鬼的椅子 (TW)",
-                                "rank": 458
+                                "rank": 459
                             },
                             {
                                 "id": "900490758",
@@ -441376,7 +441376,7 @@
                             {
                                 "id": "900377895",
                                 "name": "百鬼的椅子 (TW)",
-                                "rank": 458
+                                "rank": 459
                             },
                             {
                                 "id": "900490758",
@@ -442727,7 +442727,7 @@
                             {
                                 "id": "700349472",
                                 "name": "Detalerous (EN)",
-                                "rank": 459
+                                "rank": 458
                             },
                             {
                                 "id": "700382195",
@@ -443360,7 +443360,7 @@
                             {
                                 "id": "700349472",
                                 "name": "Detalerous (EN)",
-                                "rank": 459
+                                "rank": 458
                             },
                             {
                                 "id": "700382195",
@@ -443998,7 +443998,7 @@
                             {
                                 "id": "700349472",
                                 "name": "Detalerous (EN)",
-                                "rank": 459
+                                "rank": 458
                             },
                             {
                                 "id": "700382195",
@@ -449668,7 +449668,7 @@
                             {
                                 "id": "900377895",
                                 "name": "百鬼的椅子 (TW)",
-                                "rank": 458,
+                                "rank": 459,
                                 "teamScore": 667459
                             },
                             {
@@ -449878,8 +449878,8 @@
                             {
                                 "id": "700349472",
                                 "name": "Detalerous (EN)",
-                                "rank": 459,
-                                "teamScore": 542614
+                                "rank": 458,
+                                "teamScore": 546681
                             },
                             {
                                 "id": "900610140",
@@ -452256,7 +452256,7 @@
                             {
                                 "id": "900377895",
                                 "name": "百鬼的椅子 (TW)",
-                                "rank": 458,
+                                "rank": 459,
                                 "teamScore": 188216
                             },
                             {
@@ -452708,7 +452708,7 @@
                             {
                                 "id": "700349472",
                                 "name": "Detalerous (EN)",
-                                "rank": 459,
+                                "rank": 458,
                                 "teamScore": 309776
                             },
                             {
@@ -456596,7 +456596,7 @@
                             {
                                 "id": "900377895",
                                 "name": "百鬼的椅子 (TW)",
-                                "rank": 458,
+                                "rank": 459,
                                 "teamScore": 667459
                             },
                             {
@@ -456806,8 +456806,8 @@
                             {
                                 "id": "700349472",
                                 "name": "Detalerous (EN)",
-                                "rank": 459,
-                                "teamScore": 542614
+                                "rank": 458,
+                                "teamScore": 546681
                             },
                             {
                                 "id": "900610140",
@@ -457624,7 +457624,7 @@
                             {
                                 "id": "900377895",
                                 "name": "百鬼的椅子 (TW)",
-                                "rank": 458,
+                                "rank": 459,
                                 "teamScore": 188216
                             },
                             {
@@ -458690,7 +458690,7 @@
                             {
                                 "id": "700349472",
                                 "name": "Detalerous (EN)",
-                                "rank": 459,
+                                "rank": 458,
                                 "teamScore": 309776
                             },
                             {
@@ -463404,7 +463404,7 @@
                             {
                                 "id": "900377895",
                                 "name": "百鬼的椅子 (TW)",
-                                "rank": 458,
+                                "rank": 459,
                                 "teamScore": 667459
                             },
                             {
@@ -463614,8 +463614,8 @@
                             {
                                 "id": "700349472",
                                 "name": "Detalerous (EN)",
-                                "rank": 459,
-                                "teamScore": 542614
+                                "rank": 458,
+                                "teamScore": 546681
                             },
                             {
                                 "id": "900610140",
@@ -467599,7 +467599,7 @@
                             {
                                 "id": "700349472",
                                 "name": "Detalerous (EN)",
-                                "rank": 459,
+                                "rank": 458,
                                 "teamScore": 309776
                             },
                             {
@@ -470320,7 +470320,7 @@
                             {
                                 "id": "900377895",
                                 "name": "百鬼的椅子 (TW)",
-                                "rank": 458,
+                                "rank": 459,
                                 "teamScore": 188216
                             },
                             {
@@ -475251,7 +475251,7 @@
                             {
                                 "id": "900377895",
                                 "name": "百鬼的椅子 (TW)",
-                                "rank": 458,
+                                "rank": 459,
                                 "teamScore": 667459
                             },
                             {
@@ -475461,8 +475461,8 @@
                             {
                                 "id": "700349472",
                                 "name": "Detalerous (EN)",
-                                "rank": 459,
-                                "teamScore": 542614
+                                "rank": 458,
+                                "teamScore": 546681
                             },
                             {
                                 "id": "900610140",
@@ -478468,7 +478468,7 @@
                             {
                                 "id": "700349472",
                                 "name": "Detalerous (EN)",
-                                "rank": 459,
+                                "rank": 458,
                                 "teamScore": 309776
                             },
                             {
@@ -481330,7 +481330,7 @@
                             {
                                 "id": "900377895",
                                 "name": "百鬼的椅子 (TW)",
-                                "rank": 458,
+                                "rank": 459,
                                 "teamScore": 188216
                             },
                             {
