@@ -20,8 +20,15 @@ const STARTOWERBUILDRANK_URL = 'https://raw.githubusercontent.com/AutumnVN/ss-da
 const POTENTIAL_URL = 'https://raw.githubusercontent.com/AutumnVN/ss-data/refs/heads/main/EN/bin/CharPotential.json';
 const ACTIVITY_URL = 'https://raw.githubusercontent.com/AutumnVN/ss-data/refs/heads/main/EN/bin/Activity.json';
 const SCOREBOSSCONTROL_URL = 'https://raw.githubusercontent.com/AutumnVN/ss-data/refs/heads/main/CN/bin/ScoreBossControl.json';
+const GACHA_BANNERS_URL = 'https://raw.githubusercontent.com/AutumnVN/ss-data/refs/heads/main/EN/bin/Gacha.json';
+const GACHA_STORAGES_URL = 'https://raw.githubusercontent.com/AutumnVN/ss-data/refs/heads/main/EN/bin/GachaStorage.json';
+const GACHA_BANNER_LANG_URL = 'https://raw.githubusercontent.com/AutumnVN/ss-data/refs/heads/main/EN/language/en_US/Gacha.json';
+const GACHA_STORAGE_LANG_URL = 'https://raw.githubusercontent.com/AutumnVN/ss-data/refs/heads/main/EN/language/en_US/GachaStorage.json';
+const GACHA_EXTRA_URL = 'https://raw.githubusercontent.com/AutumnVN/ss-data/refs/heads/main/gacha.json';
+const ITEM_URL = 'https://raw.githubusercontent.com/AutumnVN/ss-data/refs/heads/main/item.json';
 
 const VERSION = '727.727.727.7272727';
+const SPARK_THRESHOLD = 120;
 const SDK_URL_EN = 'https://en-sdk-api.yostarplat.com';
 const SDK_URL_JP = 'https://jp-sdk-api.yostarplat.com';
 const SDK_URL_KR = 'https://jp-sdk-api.yostarplat.com';
@@ -182,6 +189,37 @@ message PlayerInfo {
     optional bytes NextPackage = 2047;
 }
 
+message UI32 {
+    optional uint32 Value = 1;
+}
+
+message GachaHistory {
+    repeated uint32 Ids = 1;
+    optional int64 Time = 2;
+    optional uint32 Gid = 3;
+}
+
+message GachaHistories {
+    repeated GachaHistory List = 1;
+}
+
+message GachaInfo {
+    optional uint32 Id = 1;
+    optional uint32 DaysCount = 2;
+    optional uint32 AupMissTimes = 3;
+    optional uint32 AMissTimes = 4;
+    optional bytes RewardsRecords = 10;
+    optional bool ReveFirstTenReward = 11;
+    optional bool RecvGuaranteeReward = 12;
+    optional uint32 GachaTotalTimes = 13;
+    optional uint32 TotalTimes = 14;
+    optional uint32 AupGuaranteeTimes = 15;
+}
+
+message GachaInformationResp {
+    repeated GachaInfo Information = 1;
+}
+
 message OfficialOverseas {
     optional string Uid = 1;
     optional string Token = 2;
@@ -231,6 +269,9 @@ const JointDrillRankInfo = root.lookupType('proto.JointDrillRankInfo');
 const PlayerInfoType = root.lookupType('proto.PlayerInfo');
 const LoginReq = root.lookupType('proto.LoginReq');
 const LoginResp = root.lookupType('proto.LoginResp');
+const UI32 = root.lookupType('proto.UI32');
+const GachaHistories = root.lookupType('proto.GachaHistories');
+const GachaInformationResp = root.lookupType('proto.GachaInformationResp');
 
 function encryptGCM(plaintext, key) {
     const args = Array.prototype.slice.call(arguments);
@@ -708,6 +749,465 @@ function saveInventoryToFile(info, filename) {
 
     fs.writeFileSync(filename, JSON.stringify({ Items: items, Res: res }, null, 4), { encoding: 'utf8' });
     console.log('Inventory saved to', filename);
+}
+
+async function fetchJson(url, label) {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`Failed to fetch ${label}: ${res.status} ${res.statusText}`);
+    return res.json();
+}
+
+async function loadGachaMetadata() {
+    console.log('Fetching gacha metadata...');
+    const [rawBanners, rawStorages, bannerLang, storageLang, extraBanners, itemData] = await Promise.all([
+        fetchJson(GACHA_BANNERS_URL, 'EN Gacha.json'),
+        fetchJson(GACHA_STORAGES_URL, 'EN GachaStorage.json'),
+        fetchJson(GACHA_BANNER_LANG_URL, 'EN Gacha language'),
+        fetchJson(GACHA_STORAGE_LANG_URL, 'EN GachaStorage language'),
+        fetchJson(GACHA_EXTRA_URL, 'gacha.json'),
+        fetchJson(ITEM_URL, 'item.json'),
+    ]);
+    return { rawBanners, rawStorages, bannerLang, storageLang, extraBanners, itemData };
+}
+
+function basename(value) {
+    if (!value || typeof value !== 'string') return null;
+    return value.split('/').pop();
+}
+
+function storageKeyFromName(name) {
+    if (!name || typeof name !== 'string') return null;
+    const parts = name.split('.');
+    return parts.length >= 2 ? parts.slice(1, -1).join('.') : name;
+}
+
+function isBannerActive(startTime, endTime) {
+    const now = Date.now();
+    if (startTime) {
+        const start = Date.parse(startTime);
+        if (Number.isFinite(start) && now < start) return false;
+    }
+    if (endTime) {
+        const end = Date.parse(endTime);
+        if (Number.isFinite(end) && now > end) return false;
+    }
+    return true;
+}
+
+function buildGachaCatalog(metadata) {
+    const { rawBanners, rawStorages, bannerLang, storageLang, extraBanners } = metadata;
+    const extraById = extraBanners;
+
+    const storages = new Map();
+    for (const [id, raw] of Object.entries(rawStorages)) {
+        const key = storageKeyFromName(raw.Name);
+        const name = storageLang[raw.Name] || key || `Pool ${id}`;
+        const type = /disc/i.test(key) ? 'disc' : 'character';
+        storages.set(Number(id), {
+            id: Number(id),
+            key,
+            name,
+            type,
+        });
+    }
+
+    const banners = [];
+    const bannerById = new Map();
+    for (const [idText, raw] of Object.entries(rawBanners)) {
+        const id = Number(idText);
+        const extra = extraById[idText];
+        const storageId = Number(raw.StorageId);
+        const storage = storages.get(storageId);
+        const name = bannerLang[raw.Name] || extra?.name || `Banner ${id}`;
+        const type = extra?.type || storage.type;
+        const banner = {
+            id,
+            storageId,
+            storageKey: storage.key,
+            storageName: storage.name,
+            type,
+            name,
+            icon: extra?.icon || basename(raw.Icon),
+            image: raw.Image,
+            startTime: raw.StartTime,
+            endTime: raw.EndTime,
+            active: isBannerActive(raw.StartTime, raw.EndTime),
+            rateUp5Star: extra?.rateUp5Star || [],
+            rateUp4Star: extra?.rateUp4Star || [],
+        };
+        banners.push(banner);
+        bannerById.set(id, banner);
+    }
+
+    return { banners, bannerById, storages };
+}
+
+async function sendGameRequest(token, cipher, sessionKey, msgId, body, expectedAck, serverUrl = SERVER_URL_EN, serverGarbleKey = SERVER_GARBLE_KEY_EN) {
+    const payload = buildNovaMessage(msgId, body, cipher, sessionKey, false, serverGarbleKey);
+    const respBuf = await postBuffer(serverUrl + '/agent-zone-1/', payload, { 'X-Token': token });
+    const decPlain = cipher === 1
+        ? decryptChaCha(respBuf, sessionKey, _useAad)
+        : decryptGCM(respBuf, sessionKey, _useAad);
+    const respMsgId = decPlain.readUInt16BE(0);
+    if (respMsgId === expectedAck) return decPlain.slice(2);
+    if (respMsgId === 10000) {
+        const ErrType = root.lookupType('proto.Error');
+        const errObj = ErrType.decode(decPlain.slice(2));
+        throw new Error(`Server returned system_failed_ack (10000): ${JSON.stringify(errObj)}`);
+    }
+    throw new Error(`Expected response ${expectedAck}, got ${respMsgId}`);
+}
+
+async function getGachaHistories(token, storageId, cipher, sessionKey) {
+    const body = UI32.encode(UI32.create({ Value: storageId })).finish();
+    const respBuf = await sendGameRequest(token, cipher, sessionKey, 6007, body, 6008);
+    return GachaHistories.decode(respBuf);
+}
+
+async function getGachaInformation(token, cipher, sessionKey) {
+    const respBuf = await sendGameRequest(token, cipher, sessionKey, 6004, Buffer.alloc(0), 6005);
+    return GachaInformationResp.decode(respBuf);
+}
+
+async function fetchGachaHistory(uid, token, cipher, sessionKey, metadata) {
+    const { banners, bannerById, storages } = buildGachaCatalog(metadata);
+    const storageIds = [...new Set([
+        ...storages.keys(),
+        ...banners.map((banner) => banner.storageId),
+    ])].filter((id) => Number.isFinite(id) && id > 0).sort((a, b) => a - b);
+
+    console.log(`Requesting gacha histories (EN, ${storageIds.length} storages)...`);
+    const pulls = [];
+    const errors = [];
+    for (const storageId of storageIds) {
+        try {
+            const histories = await getGachaHistories(token, storageId, cipher, sessionKey);
+            for (const history of histories.List || []) {
+                if (!history || !Array.isArray(history.Ids)) continue;
+                pulls.push({
+                    bannerId: Number(history.Gid),
+                    storageId,
+                    time: Number(history.Time),
+                    ids: history.Ids.map(Number),
+                });
+            }
+        } catch (err) {
+            errors.push({ storageId, error: err.message });
+            console.error(`  storage ${storageId}: ${err.message}`);
+        }
+    }
+
+    let gachaInfo = [];
+    try {
+        gachaInfo = (await getGachaInformation(token, cipher, sessionKey)).Information || [];
+    } catch (err) {
+        errors.push({ storageId: 'information', error: err.message });
+        console.warn(`Gacha information failed: ${err.message}`);
+    }
+
+    return { uid, banners, bannerById, storages, pulls, gachaInfo, errors };
+}
+
+function zeroCounts() {
+    return { pulls: 0, items: 0, rateUpItems: 0, rateUpSSR: 0, byRarity: {}, byType: {} };
+}
+
+function isSparkable(banner) {
+    return banner.type === 'character' && Boolean(banner.rateUp5Star?.length);
+}
+
+function buildSparkInfo(banner, stats, pity) {
+    const sparkable = isSparkable(banner);
+    const bannerPulls = pity ? pity.gachaTotalTimes : null;
+    const countedPulls = sparkable
+        ? Math.max(stats.items, bannerPulls || 0)
+        : stats.items;
+    return {
+        sparkable,
+        threshold: SPARK_THRESHOLD,
+        countedPulls,
+        historyItems: stats.items,
+        bannerPulls,
+        sparked: sparkable && countedPulls >= SPARK_THRESHOLD,
+    };
+}
+
+function addCounts(target, item) {
+    target.items += 1;
+    if (item.rarity) target.byRarity[item.rarity] = (target.byRarity[item.rarity] || 0) + 1;
+    if (item.type) target.byType[item.type] = (target.byType[item.type] || 0) + 1;
+    if (item.rateUp) target.rateUpItems += 1;
+    if (item.rateUp >= 5) target.rateUpSSR += 1;
+}
+
+function sortObjectByKey(obj) {
+    return Object.fromEntries(Object.entries(obj).sort(([a], [b]) => a.localeCompare(b)));
+}
+
+function withSums(target, source) {
+    target.pulls += source.pulls;
+    target.items += source.items;
+    target.rateUpItems += source.rateUpItems;
+    target.rateUpSSR += source.rateUpSSR;
+    for (const [key, value] of Object.entries(source.byRarity)) {
+        target.byRarity[key] = (target.byRarity[key] || 0) + value;
+    }
+    for (const [key, value] of Object.entries(source.byType)) {
+        target.byType[key] = (target.byType[key] || 0) + value;
+    }
+}
+
+function pullKey(pull) {
+    return `${pull.bannerId}|${pull.storageId}|${pull.time}|${pull.ids.join(',')}`;
+}
+
+function mergePulls(existingPulls, freshPulls) {
+    if (!Array.isArray(existingPulls) || existingPulls.length === 0) return freshPulls;
+
+    const remaining = new Map();
+    for (const pull of existingPulls) {
+        if (!Array.isArray(pull.ids)) continue;
+        const key = pullKey(pull);
+        remaining.set(key, (remaining.get(key) || 0) + 1);
+    }
+
+    const merged = [];
+    for (const pull of freshPulls) {
+        merged.push(pull);
+        const key = pullKey(pull);
+        const count = remaining.get(key) || 0;
+        if (count > 0) remaining.set(key, count - 1);
+    }
+    for (const pull of existingPulls) {
+        if (!Array.isArray(pull.ids)) continue;
+        const key = pullKey(pull);
+        const count = remaining.get(key) || 0;
+        if (count > 0) {
+            merged.push(pull);
+            remaining.set(key, count - 1);
+        }
+    }
+    return merged;
+}
+
+function buildGachaOutput(regionKey, fetched, existingRegion, itemData) {
+    const { banners, bannerById, storages } = fetched;
+
+    const existingPulls = existingRegion && String(existingRegion.uid) === String(fetched.uid)
+        && Array.isArray(existingRegion.history)
+        ? existingRegion.history
+            .filter((entry) => Array.isArray(entry.ids))
+            .map((entry) => ({
+                bannerId: Number(entry.bannerId),
+                storageId: Number(entry.storageId),
+                time: Number(entry.time),
+                ids: entry.ids.map(Number),
+            }))
+        : [];
+
+    const pulls = mergePulls(existingPulls, fetched.pulls);
+
+    const allBanners = banners.slice();
+    for (const pull of pulls) {
+        if (!bannerById.has(pull.bannerId)) {
+            const storage = storages.get(pull.storageId);
+            const banner = {
+                id: pull.bannerId,
+                storageId: pull.storageId,
+                storageKey: storage?.key,
+                storageName: storage?.name,
+                type: storage?.type,
+                name: `Unknown Banner ${pull.bannerId}`,
+                icon: null,
+                image: null,
+                startTime: null,
+                endTime: null,
+                active: false,
+                rateUp5Star: [],
+                rateUp4Star: [],
+                unknown: true,
+            };
+            allBanners.push(banner);
+            bannerById.set(banner.id, banner);
+        }
+    }
+
+    const infoById = new Map();
+    for (const info of fetched.gachaInfo) {
+        if (info && info.Id) infoById.set(Number(info.Id), info);
+    }
+
+    const itemsById = {};
+    const perBanner = new Map();
+    for (const banner of allBanners) {
+        perBanner.set(banner.id, []);
+    }
+
+    const rateUp5 = new Map();
+    const rateUp4 = new Map();
+    for (const banner of allBanners) {
+        rateUp5.set(banner.id, new Set(banner.rateUp5Star.map((entry) => Number(entry.id))));
+        rateUp4.set(banner.id, new Set(banner.rateUp4Star.map((entry) => Number(entry.id))));
+    }
+
+    function getItem(id, bannerId) {
+        const raw = itemData[String(id)];
+        const rateUp = rateUp5.get(bannerId)?.has(id)
+            ? 5
+            : (rateUp4.get(bannerId)?.has(id) ? 4 : null);
+        const item = {
+            id,
+            name: raw?.name,
+            type: raw?.type,
+            rarity: raw?.rarity,
+        };
+        if (rateUp) item.rateUp = rateUp;
+        if (!itemsById[id]) itemsById[id] = { ...item };
+        else if (rateUp && !itemsById[id].rateUp) itemsById[id].rateUp = rateUp;
+        return item;
+    }
+
+    for (const pull of pulls) {
+        const items = pull.ids.map((id) => getItem(id, pull.bannerId));
+        const entry = {
+            time: pull.time,
+            timeISO: new Date(pull.time * 1000).toISOString(),
+            ids: pull.ids,
+            items,
+        };
+        perBanner.get(pull.bannerId).push(entry);
+    }
+
+    const totals = zeroCounts();
+    const storageStats = new Map();
+    for (const storage of storages.values()) {
+        storageStats.set(storage.id, {
+            ...storage,
+            bannerIds: [],
+            pulls: 0,
+            items: 0,
+            rateUpItems: 0,
+            rateUpSSR: 0,
+            byRarity: {},
+            byType: {},
+        });
+    }
+
+    const outputBanners = [];
+    for (const banner of allBanners) {
+        const history = perBanner.get(banner.id);
+        history.sort((a, b) => b.time - a.time);
+
+        const stats = zeroCounts();
+        for (const entry of history) {
+            stats.pulls += entry.items.length || entry.ids.length || 1;
+            for (const item of entry.items) addCounts(stats, item);
+        }
+        stats.byRarity = sortObjectByKey(stats.byRarity);
+        stats.byType = sortObjectByKey(stats.byType);
+        if (history.length) {
+            stats.firstPullTime = history[history.length - 1].time;
+            stats.lastPullTime = history[0].time;
+        } else {
+            stats.firstPullTime = null;
+            stats.lastPullTime = null;
+        }
+
+        const info = infoById.get(banner.id);
+        const pity = info ? {
+            totalTimes: Number(info.TotalTimes) || 0,
+            gachaTotalTimes: Number(info.GachaTotalTimes) || 0,
+            daysCount: Number(info.DaysCount) || 0,
+            aupMissTimes: Number(info.AupMissTimes) || 0,
+            amissTimes: Number(info.AMissTimes) || 0,
+            aupGuaranteeTimes: Number(info.AupGuaranteeTimes) || 0,
+            receivedFirstTenReward: Boolean(info.ReveFirstTenReward),
+            receivedGuaranteeReward: Boolean(info.RecvGuaranteeReward),
+        } : null;
+
+        outputBanners.push({
+            ...banner,
+            stats,
+            pity,
+            spark: buildSparkInfo(banner, stats, pity),
+            history,
+        });
+
+        withSums(totals, stats);
+
+        const storage = storageStats.get(banner.storageId);
+        if (storage) {
+            storage.bannerIds.push(banner.id);
+            withSums(storage, stats);
+        }
+    }
+
+    for (const storage of storageStats.values()) {
+        storage.byRarity = sortObjectByKey(storage.byRarity);
+        storage.byType = sortObjectByKey(storage.byType);
+        storage.bannerIds.sort((a, b) => a - b);
+    }
+
+    totals.byRarity = sortObjectByKey(totals.byRarity);
+    totals.byType = sortObjectByKey(totals.byType);
+    totals.banners = outputBanners.length;
+    totals.activeBanners = outputBanners.filter((banner) => banner.active).length;
+    totals.bannersWithHistory = outputBanners.filter((banner) => banner.history.length > 0).length;
+    totals.sparks = outputBanners.filter((banner) => banner.spark.sparked).length;
+    totals.sparkedBannerIds = outputBanners
+        .filter((banner) => banner.spark.sparked)
+        .map((banner) => banner.id);
+
+    const history = pulls
+        .filter((pull) => pull.time)
+        .sort((a, b) => b.time - a.time || a.bannerId - b.bannerId)
+        .map((pull) => ({
+            bannerId: pull.bannerId,
+            bannerName: bannerById.get(pull.bannerId)?.name,
+            storageId: pull.storageId,
+            time: pull.time,
+            timeISO: new Date(pull.time * 1000).toISOString(),
+            count: pull.ids.length,
+            ids: pull.ids,
+        }));
+
+    outputBanners.sort((a, b) => a.storageId - b.storageId || a.id - b.id);
+
+    return {
+        region: regionKey,
+        uid: fetched.uid,
+        updatedAt: new Date().toISOString(),
+        totals,
+        storages: [...storageStats.values()].sort((a, b) => a.id - b.id),
+        banners: outputBanners,
+        items: Object.fromEntries(Object.entries(itemsById).sort(([a], [b]) => Number(a) - Number(b))),
+        history,
+        errors: fetched.errors,
+    };
+}
+
+function loadExistingGacha() {
+    const file = path.join(__dirname, 'gacha.json');
+    if (!fs.existsSync(file)) return null;
+    try {
+        return JSON.parse(fs.readFileSync(file, 'utf8'));
+    } catch {
+        return null;
+    }
+}
+
+function saveGachaToFile(data, existing) {
+    const file = path.join(__dirname, 'gacha.json');
+    if (existing) {
+        const next = JSON.stringify({ ...data, updatedAt: undefined });
+        const previous = JSON.stringify({ ...existing, updatedAt: undefined });
+        if (next === previous) {
+            console.log('Gacha history unchanged');
+            return;
+        }
+    }
+    fs.writeFileSync(file, JSON.stringify(data, null, 4), { encoding: 'utf8' });
+    console.log('Gacha history saved to', file);
 }
 
 async function getScoreBossRank(token, cipher, sessionKey, serverUrl = SERVER_URL_EN, serverGarbleKey = SERVER_GARBLE_KEY_EN) {
@@ -1450,6 +1950,17 @@ function loadLocalDataToRegionData() {
             console.log('Requesting JointDrillRank (EN)...');
             const feEN = await getJointDrillRank(newToken, cipher, sessionKey, SERVER_URL_EN, SERVER_GARBLE_KEY_EN);
             storeJointDrillRank(feEN, 'en');
+
+            console.log('Requesting Gacha history (EN)...');
+            try {
+                const metadata = await loadGachaMetadata();
+                const gacha = await fetchGachaHistory(accountUid, newToken, cipher, sessionKey, metadata);
+                const existingGacha = loadExistingGacha();
+                const output = buildGachaOutput('en', gacha, existingGacha, metadata.itemData);
+                saveGachaToFile(output, existingGacha);
+            } catch (err) {
+                console.error('Gacha history failed:', err.message);
+            }
         }
 
         if (EMAIL_JP || TOKEN_JP) {
