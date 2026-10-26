@@ -183,7 +183,13 @@ message Item {
     optional bytes NextPackage = 2047;
 }
 
+message AccInfo {
+    optional uint64 Id = 1;
+    optional string NickName = 2;
+}
+
 message PlayerInfo {
+    optional AccInfo Acc = 1;
     repeated Res Res = 2;
     repeated Item Items = 3;
     optional bytes NextPackage = 2047;
@@ -1966,9 +1972,10 @@ function loadLocalDataToRegionData() {
             console.log('Requesting Gacha history (EN)...');
             try {
                 const metadata = await loadGachaMetadata();
-                const self = bbEN?.Self || feEN?.Self;
-                const gameUid = self?.Id != null ? String(self.Id) : null;
-                const gameName = self?.NickName ? String(self.NickName) : null;
+                const acc = playerInfoEN?.Acc;
+                const gameUid = acc?.Id != null ? String(acc.Id) : null;
+                if (!gameUid || gameUid === '0') throw new Error('PlayerData has no game UID');
+                const gameName = acc?.NickName ? String(acc.NickName) : null;
                 const gacha = await fetchGachaHistory(
                     accountUid,
                     newToken,
