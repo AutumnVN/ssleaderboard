@@ -1,20 +1,20 @@
 {
     "region": "en",
     "uid": "14291125765",
-    "updatedAt": "2026-10-26T01:16:40.137Z",
+    "updatedAt": "2026-10-26T04:35:30.113Z",
     "totals": {
-        "pulls": 803,
-        "items": 803,
+        "pulls": 813,
+        "items": 813,
         "rateUpItems": 39,
         "rateUpSSR": 8,
         "byRarity": {
-            "R": 674,
-            "SR": 110,
+            "R": 683,
+            "SR": 111,
             "SSR": 19
         },
         "byType": {
-            "Char": 86,
-            "Disc": 717
+            "Char": 87,
+            "Disc": 726
         },
         "banners": 70,
         "activeBanners": 8,
@@ -198,18 +198,18 @@
             "bannerIds": [
                 1001
             ],
-            "pulls": 60,
-            "items": 60,
+            "pulls": 70,
+            "items": 70,
             "rateUpItems": 0,
             "rateUpSSR": 0,
             "byRarity": {
-                "R": 53,
-                "SR": 6,
+                "R": 62,
+                "SR": 7,
                 "SSR": 1
             },
             "byType": {
-                "Char": 7,
-                "Disc": 53
+                "Char": 8,
+                "Disc": 62
             }
         }
     ],
@@ -13021,28 +13021,28 @@
             "rateUp5Star": [],
             "rateUp4Star": [],
             "stats": {
-                "pulls": 60,
-                "items": 60,
+                "pulls": 70,
+                "items": 70,
                 "rateUpItems": 0,
                 "rateUpSSR": 0,
                 "byRarity": {
-                    "R": 53,
-                    "SR": 6,
+                    "R": 62,
+                    "SR": 7,
                     "SSR": 1
                 },
                 "byType": {
-                    "Char": 7,
-                    "Disc": 53
+                    "Char": 8,
+                    "Disc": 62
                 },
                 "firstPullTime": 1792501486,
-                "lastPullTime": 1792889795
+                "lastPullTime": 1792989152
             },
             "pity": {
-                "totalTimes": 60,
-                "gachaTotalTimes": 60,
-                "daysCount": 0,
+                "totalTimes": 70,
+                "gachaTotalTimes": 70,
+                "daysCount": 10,
                 "aupMissTimes": 0,
-                "amissTimes": 13,
+                "amissTimes": 23,
                 "aupGuaranteeTimes": 0,
                 "receivedFirstTenReward": false,
                 "receivedGuaranteeReward": false
@@ -13050,12 +13050,90 @@
             "spark": {
                 "sparkable": false,
                 "threshold": 120,
-                "countedPulls": 60,
-                "historyItems": 60,
-                "bannerPulls": 60,
+                "countedPulls": 70,
+                "historyItems": 70,
+                "bannerPulls": 70,
                 "sparked": false
             },
             "history": [
+                {
+                    "time": 1792989152,
+                    "timeISO": "2026-10-26T04:32:32.000Z",
+                    "ids": [
+                        211001,
+                        212003,
+                        211008,
+                        211005,
+                        123,
+                        212008,
+                        212007,
+                        211003,
+                        211008,
+                        212006
+                    ],
+                    "items": [
+                        {
+                            "id": 211001,
+                            "name": "Crisp Morning",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212003,
+                            "name": "Elysium",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211008,
+                            "name": "Homeward Path",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211005,
+                            "name": "Lonely Dunes",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 123,
+                            "name": "Ann",
+                            "type": "Char",
+                            "rarity": "SR"
+                        },
+                        {
+                            "id": 212008,
+                            "name": "Bubbles",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212007,
+                            "name": "Brave the Wind",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211003,
+                            "name": "Indigo Sunset",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211008,
+                            "name": "Homeward Path",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212006,
+                            "name": "Auspicious Glow",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
                 {
                     "time": 1792889795,
                     "timeISO": "2026-10-25T00:56:35.000Z",
@@ -13932,6 +14010,26 @@
         }
     },
     "history": [
+        {
+            "bannerId": 1001,
+            "bannerName": "One Starlit Year, One Destined Reunion",
+            "storageId": 6,
+            "time": 1792989152,
+            "timeISO": "2026-10-26T04:32:32.000Z",
+            "count": 10,
+            "ids": [
+                211001,
+                212003,
+                211008,
+                211005,
+                123,
+                212008,
+                212007,
+                211003,
+                211008,
+                212006
+            ]
+        },
         {
             "bannerId": 10162,
             "bannerName": "At the First Piercing Light",
