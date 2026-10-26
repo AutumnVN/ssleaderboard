@@ -869,7 +869,7 @@ async function getGachaInformation(token, cipher, sessionKey) {
     return GachaInformationResp.decode(respBuf);
 }
 
-async function fetchGachaHistory(uid, token, cipher, sessionKey, metadata) {
+async function fetchGachaHistory(uid, token, cipher, sessionKey, metadata, profile = {}) {
     const { banners, bannerById, storages } = buildGachaCatalog(metadata);
     const storageIds = [...new Set([
         ...storages.keys(),
@@ -905,7 +905,17 @@ async function fetchGachaHistory(uid, token, cipher, sessionKey, metadata) {
         console.warn(`Gacha information failed: ${err.message}`);
     }
 
-    return { uid, banners, bannerById, storages, pulls, gachaInfo, errors };
+    return {
+        uid,
+        gameUid: profile.gameUid || null,
+        gameName: profile.gameName || null,
+        banners,
+        bannerById,
+        storages,
+        pulls,
+        gachaInfo,
+        errors,
+    };
 }
 
 function zeroCounts() {
@@ -1176,6 +1186,8 @@ function buildGachaOutput(regionKey, fetched, existingRegion, itemData) {
     return {
         region: regionKey,
         uid: fetched.uid,
+        gameUid: fetched.gameUid,
+        gameName: fetched.gameName,
         updatedAt: new Date().toISOString(),
         totals,
         storages: [...storageStats.values()].sort((a, b) => a.id - b.id),
@@ -1954,7 +1966,17 @@ function loadLocalDataToRegionData() {
             console.log('Requesting Gacha history (EN)...');
             try {
                 const metadata = await loadGachaMetadata();
-                const gacha = await fetchGachaHistory(accountUid, newToken, cipher, sessionKey, metadata);
+                const self = bbEN?.Self || feEN?.Self;
+                const gameUid = self?.Id != null ? String(self.Id) : null;
+                const gameName = self?.NickName ? String(self.NickName) : null;
+                const gacha = await fetchGachaHistory(
+                    accountUid,
+                    newToken,
+                    cipher,
+                    sessionKey,
+                    metadata,
+                    { gameUid, gameName },
+                );
                 const existingGacha = loadExistingGacha();
                 const output = buildGachaOutput('en', gacha, existingGacha, metadata.itemData);
                 saveGachaToFile(output, existingGacha);
