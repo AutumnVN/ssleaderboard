@@ -3,23 +3,23 @@
     "uid": "14291125765",
     "gameUid": "701427440",
     "gameName": "AutumnVN",
-    "updatedAt": "2026-10-26T20:00:46.599Z",
+    "updatedAt": "2026-10-27T03:30:36.517Z",
     "totals": {
-        "pulls": 813,
-        "items": 813,
+        "pulls": 823,
+        "items": 823,
         "rateUpItems": 39,
         "rateUpSSR": 8,
         "byRarity": {
-            "R": 683,
-            "SR": 111,
+            "R": 691,
+            "SR": 113,
             "SSR": 19
         },
         "byType": {
-            "Char": 87,
-            "Disc": 726
+            "Char": 88,
+            "Disc": 735
         },
         "banners": 70,
-        "activeBanners": 8,
+        "activeBanners": 6,
         "bannersWithHistory": 15,
         "sparks": 1,
         "sparkedBannerIds": [
@@ -200,18 +200,18 @@
             "bannerIds": [
                 1001
             ],
-            "pulls": 70,
-            "items": 70,
+            "pulls": 80,
+            "items": 80,
             "rateUpItems": 0,
             "rateUpSSR": 0,
             "byRarity": {
-                "R": 62,
-                "SR": 7,
+                "R": 70,
+                "SR": 9,
                 "SSR": 1
             },
             "byType": {
-                "Char": 8,
-                "Disc": 62
+                "Char": 9,
+                "Disc": 71
             }
         }
     ],
@@ -7008,7 +7008,7 @@
             "image": "Cover_11110",
             "startTime": "2026-10-06T12:00:00+08:00",
             "endTime": "2026-10-27T10:59:59+08:00",
-            "active": true,
+            "active": false,
             "rateUp5Star": [
                 {
                     "id": 110,
@@ -7038,22 +7038,13 @@
                 "firstPullTime": null,
                 "lastPullTime": null
             },
-            "pity": {
-                "totalTimes": 897,
-                "gachaTotalTimes": 0,
-                "daysCount": 0,
-                "aupMissTimes": 0,
-                "amissTimes": 0,
-                "aupGuaranteeTimes": 17,
-                "receivedFirstTenReward": false,
-                "receivedGuaranteeReward": false
-            },
+            "pity": null,
             "spark": {
                 "sparkable": true,
                 "threshold": 120,
                 "countedPulls": 0,
                 "historyItems": 0,
-                "bannerPulls": 0,
+                "bannerPulls": null,
                 "sparked": false
             },
             "history": []
@@ -11552,7 +11543,7 @@
             "image": "Cover_21110",
             "startTime": "2026-10-06T12:00:00+08:00",
             "endTime": "2026-10-27T10:59:59+08:00",
-            "active": true,
+            "active": false,
             "rateUp5Star": [
                 {
                     "id": 214004,
@@ -11582,22 +11573,13 @@
                 "firstPullTime": null,
                 "lastPullTime": null
             },
-            "pity": {
-                "totalTimes": 177,
-                "gachaTotalTimes": 0,
-                "daysCount": 0,
-                "aupMissTimes": 51,
-                "amissTimes": 51,
-                "aupGuaranteeTimes": 2,
-                "receivedFirstTenReward": false,
-                "receivedGuaranteeReward": false
-            },
+            "pity": null,
             "spark": {
                 "sparkable": false,
                 "threshold": 120,
                 "countedPulls": 0,
                 "historyItems": 0,
-                "bannerPulls": 0,
+                "bannerPulls": null,
                 "sparked": false
             },
             "history": []
@@ -13023,28 +13005,28 @@
             "rateUp5Star": [],
             "rateUp4Star": [],
             "stats": {
-                "pulls": 70,
-                "items": 70,
+                "pulls": 80,
+                "items": 80,
                 "rateUpItems": 0,
                 "rateUpSSR": 0,
                 "byRarity": {
-                    "R": 62,
-                    "SR": 7,
+                    "R": 70,
+                    "SR": 9,
                     "SSR": 1
                 },
                 "byType": {
-                    "Char": 8,
-                    "Disc": 62
+                    "Char": 9,
+                    "Disc": 71
                 },
                 "firstPullTime": 1792501486,
-                "lastPullTime": 1792989152
+                "lastPullTime": 1793069059
             },
             "pity": {
-                "totalTimes": 70,
-                "gachaTotalTimes": 70,
-                "daysCount": 0,
+                "totalTimes": 80,
+                "gachaTotalTimes": 80,
+                "daysCount": 10,
                 "aupMissTimes": 0,
-                "amissTimes": 23,
+                "amissTimes": 33,
                 "aupGuaranteeTimes": 0,
                 "receivedFirstTenReward": false,
                 "receivedGuaranteeReward": false
@@ -13052,12 +13034,90 @@
             "spark": {
                 "sparkable": false,
                 "threshold": 120,
-                "countedPulls": 70,
-                "historyItems": 70,
-                "bannerPulls": 70,
+                "countedPulls": 80,
+                "historyItems": 80,
+                "bannerPulls": 80,
                 "sparked": false
             },
             "history": [
+                {
+                    "time": 1793069059,
+                    "timeISO": "2026-10-27T02:44:19.000Z",
+                    "ids": [
+                        212010,
+                        213003,
+                        211005,
+                        107,
+                        212003,
+                        212001,
+                        212006,
+                        212006,
+                        212010,
+                        211008
+                    ],
+                    "items": [
+                        {
+                            "id": 212010,
+                            "name": "Fortitude",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 213003,
+                            "name": "Scorching Night's End",
+                            "type": "Disc",
+                            "rarity": "SR"
+                        },
+                        {
+                            "id": 211005,
+                            "name": "Lonely Dunes",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 107,
+                            "name": "Tilia",
+                            "type": "Char",
+                            "rarity": "SR"
+                        },
+                        {
+                            "id": 212003,
+                            "name": "Elysium",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212001,
+                            "name": "Grand Feast",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212006,
+                            "name": "Auspicious Glow",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212006,
+                            "name": "Auspicious Glow",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212010,
+                            "name": "Fortitude",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211008,
+                            "name": "Homeward Path",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
                 {
                     "time": 1792989152,
                     "timeISO": "2026-10-26T04:32:32.000Z",
@@ -14012,6 +14072,26 @@
         }
     },
     "history": [
+        {
+            "bannerId": 1001,
+            "bannerName": "One Starlit Year, One Destined Reunion",
+            "storageId": 6,
+            "time": 1793069059,
+            "timeISO": "2026-10-27T02:44:19.000Z",
+            "count": 10,
+            "ids": [
+                212010,
+                213003,
+                211005,
+                107,
+                212003,
+                212001,
+                212006,
+                212006,
+                212010,
+                211008
+            ]
+        },
         {
             "bannerId": 1001,
             "bannerName": "One Starlit Year, One Destined Reunion",
