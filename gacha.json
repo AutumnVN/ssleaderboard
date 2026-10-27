@@ -3,7 +3,7 @@
     "uid": "14291125765",
     "gameUid": "701427440",
     "gameName": "AutumnVN",
-    "updatedAt": "2026-10-27T03:30:36.517Z",
+    "updatedAt": "2026-10-27T04:00:41.795Z",
     "totals": {
         "pulls": 823,
         "items": 823,
@@ -19,7 +19,7 @@
             "Disc": 735
         },
         "banners": 70,
-        "activeBanners": 6,
+        "activeBanners": 8,
         "bannersWithHistory": 15,
         "sparks": 1,
         "sparkedBannerIds": [
@@ -7060,7 +7060,7 @@
             "image": "Cover_11115",
             "startTime": "2026-10-27T12:00:00+08:00",
             "endTime": "2026-11-17T10:59:59+08:00",
-            "active": false,
+            "active": true,
             "rateUp5Star": [
                 {
                     "id": 115,
@@ -7090,13 +7090,22 @@
                 "firstPullTime": null,
                 "lastPullTime": null
             },
-            "pity": null,
+            "pity": {
+                "totalTimes": 897,
+                "gachaTotalTimes": 0,
+                "daysCount": 0,
+                "aupMissTimes": 0,
+                "amissTimes": 0,
+                "aupGuaranteeTimes": 17,
+                "receivedFirstTenReward": false,
+                "receivedGuaranteeReward": false
+            },
             "spark": {
                 "sparkable": true,
                 "threshold": 120,
                 "countedPulls": 0,
                 "historyItems": 0,
-                "bannerPulls": null,
+                "bannerPulls": 0,
                 "sparked": false
             },
             "history": []
@@ -11595,7 +11604,7 @@
             "image": "Cover_21115",
             "startTime": "2026-10-27T12:00:00+08:00",
             "endTime": "2026-11-17T10:59:59+08:00",
-            "active": false,
+            "active": true,
             "rateUp5Star": [
                 {
                     "id": 214051,
@@ -11625,13 +11634,22 @@
                 "firstPullTime": null,
                 "lastPullTime": null
             },
-            "pity": null,
+            "pity": {
+                "totalTimes": 177,
+                "gachaTotalTimes": 0,
+                "daysCount": 0,
+                "aupMissTimes": 51,
+                "amissTimes": 51,
+                "aupGuaranteeTimes": 2,
+                "receivedFirstTenReward": false,
+                "receivedGuaranteeReward": false
+            },
             "spark": {
                 "sparkable": false,
                 "threshold": 120,
                 "countedPulls": 0,
                 "historyItems": 0,
-                "bannerPulls": null,
+                "bannerPulls": 0,
                 "sparked": false
             },
             "history": []
