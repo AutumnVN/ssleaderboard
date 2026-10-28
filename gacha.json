@@ -3,20 +3,20 @@
     "uid": "14291125765",
     "gameUid": "701427440",
     "gameName": "AutumnVN",
-    "updatedAt": "2026-10-27T20:00:42.687Z",
+    "updatedAt": "2026-10-28T09:40:30.238Z",
     "totals": {
-        "pulls": 823,
-        "items": 823,
+        "pulls": 833,
+        "items": 833,
         "rateUpItems": 39,
         "rateUpSSR": 8,
         "byRarity": {
-            "R": 691,
-            "SR": 113,
+            "R": 700,
+            "SR": 114,
             "SSR": 19
         },
         "byType": {
-            "Char": 88,
-            "Disc": 735
+            "Char": 89,
+            "Disc": 744
         },
         "banners": 70,
         "activeBanners": 8,
@@ -200,18 +200,18 @@
             "bannerIds": [
                 1001
             ],
-            "pulls": 80,
-            "items": 80,
+            "pulls": 90,
+            "items": 90,
             "rateUpItems": 0,
             "rateUpSSR": 0,
             "byRarity": {
-                "R": 70,
-                "SR": 9,
+                "R": 79,
+                "SR": 10,
                 "SSR": 1
             },
             "byType": {
-                "Char": 9,
-                "Disc": 71
+                "Char": 10,
+                "Disc": 80
             }
         }
     ],
@@ -13023,28 +13023,28 @@
             "rateUp5Star": [],
             "rateUp4Star": [],
             "stats": {
-                "pulls": 80,
-                "items": 80,
+                "pulls": 90,
+                "items": 90,
                 "rateUpItems": 0,
                 "rateUpSSR": 0,
                 "byRarity": {
-                    "R": 70,
-                    "SR": 9,
+                    "R": 79,
+                    "SR": 10,
                     "SSR": 1
                 },
                 "byType": {
-                    "Char": 9,
-                    "Disc": 71
+                    "Char": 10,
+                    "Disc": 80
                 },
                 "firstPullTime": 1792501486,
-                "lastPullTime": 1793069059
+                "lastPullTime": 1793180178
             },
             "pity": {
-                "totalTimes": 80,
-                "gachaTotalTimes": 80,
-                "daysCount": 0,
+                "totalTimes": 90,
+                "gachaTotalTimes": 90,
+                "daysCount": 10,
                 "aupMissTimes": 0,
-                "amissTimes": 33,
+                "amissTimes": 43,
                 "aupGuaranteeTimes": 0,
                 "receivedFirstTenReward": false,
                 "receivedGuaranteeReward": false
@@ -13052,12 +13052,90 @@
             "spark": {
                 "sparkable": false,
                 "threshold": 120,
-                "countedPulls": 80,
-                "historyItems": 80,
-                "bannerPulls": 80,
+                "countedPulls": 90,
+                "historyItems": 90,
+                "bannerPulls": 90,
                 "sparked": false
             },
             "history": [
+                {
+                    "time": 1793180178,
+                    "timeISO": "2026-10-28T09:36:18.000Z",
+                    "ids": [
+                        211005,
+                        212008,
+                        212010,
+                        107,
+                        212007,
+                        212007,
+                        212010,
+                        211008,
+                        212008,
+                        211008
+                    ],
+                    "items": [
+                        {
+                            "id": 211005,
+                            "name": "Lonely Dunes",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212008,
+                            "name": "Bubbles",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212010,
+                            "name": "Fortitude",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 107,
+                            "name": "Tilia",
+                            "type": "Char",
+                            "rarity": "SR"
+                        },
+                        {
+                            "id": 212007,
+                            "name": "Brave the Wind",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212007,
+                            "name": "Brave the Wind",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212010,
+                            "name": "Fortitude",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211008,
+                            "name": "Homeward Path",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212008,
+                            "name": "Bubbles",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211008,
+                            "name": "Homeward Path",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
                 {
                     "time": 1793069059,
                     "timeISO": "2026-10-27T02:44:19.000Z",
@@ -14090,6 +14168,26 @@
         }
     },
     "history": [
+        {
+            "bannerId": 1001,
+            "bannerName": "One Starlit Year, One Destined Reunion",
+            "storageId": 6,
+            "time": 1793180178,
+            "timeISO": "2026-10-28T09:36:18.000Z",
+            "count": 10,
+            "ids": [
+                211005,
+                212008,
+                212010,
+                107,
+                212007,
+                212007,
+                212010,
+                211008,
+                212008,
+                211008
+            ]
+        },
         {
             "bannerId": 1001,
             "bannerName": "One Starlit Year, One Destined Reunion",
