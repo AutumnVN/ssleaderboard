@@ -3,20 +3,20 @@
     "uid": "14291125765",
     "gameUid": "701427440",
     "gameName": "AutumnVN",
-    "updatedAt": "2026-10-28T20:00:52.092Z",
+    "updatedAt": "2026-10-29T00:25:26.977Z",
     "totals": {
-        "pulls": 833,
-        "items": 833,
+        "pulls": 843,
+        "items": 843,
         "rateUpItems": 39,
         "rateUpSSR": 8,
         "byRarity": {
-            "R": 700,
-            "SR": 114,
+            "R": 709,
+            "SR": 115,
             "SSR": 19
         },
         "byType": {
-            "Char": 89,
-            "Disc": 744
+            "Char": 90,
+            "Disc": 753
         },
         "banners": 70,
         "activeBanners": 8,
@@ -200,18 +200,18 @@
             "bannerIds": [
                 1001
             ],
-            "pulls": 90,
-            "items": 90,
+            "pulls": 100,
+            "items": 100,
             "rateUpItems": 0,
             "rateUpSSR": 0,
             "byRarity": {
-                "R": 79,
-                "SR": 10,
+                "R": 88,
+                "SR": 11,
                 "SSR": 1
             },
             "byType": {
-                "Char": 10,
-                "Disc": 80
+                "Char": 11,
+                "Disc": 89
             }
         }
     ],
@@ -13023,28 +13023,28 @@
             "rateUp5Star": [],
             "rateUp4Star": [],
             "stats": {
-                "pulls": 90,
-                "items": 90,
+                "pulls": 100,
+                "items": 100,
                 "rateUpItems": 0,
                 "rateUpSSR": 0,
                 "byRarity": {
-                    "R": 79,
-                    "SR": 10,
+                    "R": 88,
+                    "SR": 11,
                     "SSR": 1
                 },
                 "byType": {
-                    "Char": 10,
-                    "Disc": 80
+                    "Char": 11,
+                    "Disc": 89
                 },
                 "firstPullTime": 1792501486,
-                "lastPullTime": 1793180178
+                "lastPullTime": 1793233149
             },
             "pity": {
-                "totalTimes": 90,
-                "gachaTotalTimes": 90,
-                "daysCount": 0,
+                "totalTimes": 100,
+                "gachaTotalTimes": 100,
+                "daysCount": 10,
                 "aupMissTimes": 0,
-                "amissTimes": 43,
+                "amissTimes": 53,
                 "aupGuaranteeTimes": 0,
                 "receivedFirstTenReward": false,
                 "receivedGuaranteeReward": false
@@ -13052,12 +13052,90 @@
             "spark": {
                 "sparkable": false,
                 "threshold": 120,
-                "countedPulls": 90,
-                "historyItems": 90,
-                "bannerPulls": 90,
+                "countedPulls": 100,
+                "historyItems": 100,
+                "bannerPulls": 100,
                 "sparked": false
             },
             "history": [
+                {
+                    "time": 1793233149,
+                    "timeISO": "2026-10-29T00:19:09.000Z",
+                    "ids": [
+                        211007,
+                        211004,
+                        212007,
+                        120,
+                        212001,
+                        212008,
+                        211005,
+                        212009,
+                        211006,
+                        212001
+                    ],
+                    "items": [
+                        {
+                            "id": 211007,
+                            "name": "Starlit Hope",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211004,
+                            "name": "Pink Dream",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212007,
+                            "name": "Brave the Wind",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 120,
+                            "name": "Canace",
+                            "type": "Char",
+                            "rarity": "SR"
+                        },
+                        {
+                            "id": 212001,
+                            "name": "Grand Feast",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212008,
+                            "name": "Bubbles",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211005,
+                            "name": "Lonely Dunes",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212009,
+                            "name": "Eclipse",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211006,
+                            "name": "Sweet Creek",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212001,
+                            "name": "Grand Feast",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
                 {
                     "time": 1793180178,
                     "timeISO": "2026-10-28T09:36:18.000Z",
@@ -14168,6 +14246,26 @@
         }
     },
     "history": [
+        {
+            "bannerId": 1001,
+            "bannerName": "One Starlit Year, One Destined Reunion",
+            "storageId": 6,
+            "time": 1793233149,
+            "timeISO": "2026-10-29T00:19:09.000Z",
+            "count": 10,
+            "ids": [
+                211007,
+                211004,
+                212007,
+                120,
+                212001,
+                212008,
+                211005,
+                212009,
+                211006,
+                212001
+            ]
+        },
         {
             "bannerId": 1001,
             "bannerName": "One Starlit Year, One Destined Reunion",
