@@ -3,20 +3,20 @@
     "uid": "14291125765",
     "gameUid": "701427440",
     "gameName": "AutumnVN",
-    "updatedAt": "2026-10-29T20:00:43.221Z",
+    "updatedAt": "2026-10-30T10:30:34.299Z",
     "totals": {
-        "pulls": 843,
-        "items": 843,
+        "pulls": 895,
+        "items": 895,
         "rateUpItems": 39,
         "rateUpSSR": 8,
         "byRarity": {
-            "R": 709,
-            "SR": 115,
-            "SSR": 19
+            "R": 755,
+            "SR": 120,
+            "SSR": 20
         },
         "byType": {
             "Char": 90,
-            "Disc": 753
+            "Disc": 805
         },
         "banners": 70,
         "activeBanners": 8,
@@ -164,17 +164,17 @@
             "bannerIds": [
                 2
             ],
-            "pulls": 97,
-            "items": 97,
+            "pulls": 149,
+            "items": 149,
             "rateUpItems": 0,
             "rateUpSSR": 0,
             "byRarity": {
-                "R": 85,
-                "SR": 11,
-                "SSR": 1
+                "R": 131,
+                "SR": 16,
+                "SSR": 2
             },
             "byType": {
-                "Disc": 97
+                "Disc": 149
             }
         },
         {
@@ -11979,27 +11979,27 @@
             "rateUp5Star": [],
             "rateUp4Star": [],
             "stats": {
-                "pulls": 97,
-                "items": 97,
+                "pulls": 149,
+                "items": 149,
                 "rateUpItems": 0,
                 "rateUpSSR": 0,
                 "byRarity": {
-                    "R": 85,
-                    "SR": 11,
-                    "SSR": 1
+                    "R": 131,
+                    "SR": 16,
+                    "SSR": 2
                 },
                 "byType": {
-                    "Disc": 97
+                    "Disc": 149
                 },
                 "firstPullTime": 1777683119,
-                "lastPullTime": 1787064811
+                "lastPullTime": 1793348851
             },
             "pity": {
-                "totalTimes": 341,
-                "gachaTotalTimes": 341,
-                "daysCount": 0,
+                "totalTimes": 393,
+                "gachaTotalTimes": 393,
+                "daysCount": 52,
                 "aupMissTimes": 0,
-                "amissTimes": 92,
+                "amissTimes": 24,
                 "aupGuaranteeTimes": 0,
                 "receivedFirstTenReward": false,
                 "receivedGuaranteeReward": false
@@ -12007,12 +12007,432 @@
             "spark": {
                 "sparkable": false,
                 "threshold": 120,
-                "countedPulls": 97,
-                "historyItems": 97,
-                "bannerPulls": 341,
+                "countedPulls": 149,
+                "historyItems": 149,
+                "bannerPulls": 393,
                 "sparked": false
             },
             "history": [
+                {
+                    "time": 1793348851,
+                    "timeISO": "2026-10-30T08:27:31.000Z",
+                    "ids": [
+                        212008
+                    ],
+                    "items": [
+                        {
+                            "id": 212008,
+                            "name": "Bubbles",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1793348846,
+                    "timeISO": "2026-10-30T08:27:26.000Z",
+                    "ids": [
+                        212005
+                    ],
+                    "items": [
+                        {
+                            "id": 212005,
+                            "name": "Flare Frenzy",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1793348839,
+                    "timeISO": "2026-10-30T08:27:19.000Z",
+                    "ids": [
+                        211002,
+                        212008,
+                        212006,
+                        211008,
+                        211005,
+                        211008,
+                        212002,
+                        213009,
+                        212001,
+                        212008
+                    ],
+                    "items": [
+                        {
+                            "id": 211002,
+                            "name": "Sunny Breeze",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212008,
+                            "name": "Bubbles",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212006,
+                            "name": "Auspicious Glow",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211008,
+                            "name": "Homeward Path",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211005,
+                            "name": "Lonely Dunes",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211008,
+                            "name": "Homeward Path",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212002,
+                            "name": "Whoopla",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 213009,
+                            "name": "Rainy Tune",
+                            "type": "Disc",
+                            "rarity": "SR"
+                        },
+                        {
+                            "id": 212001,
+                            "name": "Grand Feast",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212008,
+                            "name": "Bubbles",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1793348828,
+                    "timeISO": "2026-10-30T08:27:08.000Z",
+                    "ids": [
+                        212007,
+                        212003,
+                        211007,
+                        212010,
+                        211001,
+                        211004,
+                        212010,
+                        213005,
+                        212008,
+                        212009
+                    ],
+                    "items": [
+                        {
+                            "id": 212007,
+                            "name": "Brave the Wind",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212003,
+                            "name": "Elysium",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211007,
+                            "name": "Starlit Hope",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212010,
+                            "name": "Fortitude",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211001,
+                            "name": "Crisp Morning",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211004,
+                            "name": "Pink Dream",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212010,
+                            "name": "Fortitude",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 213005,
+                            "name": "★Bam Bam Girl★",
+                            "type": "Disc",
+                            "rarity": "SR"
+                        },
+                        {
+                            "id": 212008,
+                            "name": "Bubbles",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212009,
+                            "name": "Eclipse",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1793348797,
+                    "timeISO": "2026-10-30T08:26:37.000Z",
+                    "ids": [
+                        211002,
+                        212010,
+                        213015,
+                        212007,
+                        212008,
+                        212006,
+                        211002,
+                        214005,
+                        212006,
+                        211002
+                    ],
+                    "items": [
+                        {
+                            "id": 211002,
+                            "name": "Sunny Breeze",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212010,
+                            "name": "Fortitude",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 213015,
+                            "name": "Unknown Fragrance",
+                            "type": "Disc",
+                            "rarity": "SR"
+                        },
+                        {
+                            "id": 212007,
+                            "name": "Brave the Wind",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212008,
+                            "name": "Bubbles",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212006,
+                            "name": "Auspicious Glow",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211002,
+                            "name": "Sunny Breeze",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 214005,
+                            "name": "Sunlit Blossom",
+                            "type": "Disc",
+                            "rarity": "SSR"
+                        },
+                        {
+                            "id": 212006,
+                            "name": "Auspicious Glow",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211002,
+                            "name": "Sunny Breeze",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1793348769,
+                    "timeISO": "2026-10-30T08:26:09.000Z",
+                    "ids": [
+                        211005,
+                        212002,
+                        213013,
+                        211002,
+                        212002,
+                        211001,
+                        212005,
+                        211004,
+                        212008,
+                        211005
+                    ],
+                    "items": [
+                        {
+                            "id": 211005,
+                            "name": "Lonely Dunes",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212002,
+                            "name": "Whoopla",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 213013,
+                            "name": "Leaf Her to Me",
+                            "type": "Disc",
+                            "rarity": "SR"
+                        },
+                        {
+                            "id": 211002,
+                            "name": "Sunny Breeze",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212002,
+                            "name": "Whoopla",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211001,
+                            "name": "Crisp Morning",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212005,
+                            "name": "Flare Frenzy",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211004,
+                            "name": "Pink Dream",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212008,
+                            "name": "Bubbles",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211005,
+                            "name": "Lonely Dunes",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1793348755,
+                    "timeISO": "2026-10-30T08:25:55.000Z",
+                    "ids": [
+                        212009,
+                        212003,
+                        213011,
+                        212009,
+                        212007,
+                        212010,
+                        212003,
+                        211003,
+                        212007,
+                        211002
+                    ],
+                    "items": [
+                        {
+                            "id": 212009,
+                            "name": "Eclipse",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212003,
+                            "name": "Elysium",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 213011,
+                            "name": "Meow Rhythm",
+                            "type": "Disc",
+                            "rarity": "SR"
+                        },
+                        {
+                            "id": 212009,
+                            "name": "Eclipse",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212007,
+                            "name": "Brave the Wind",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212010,
+                            "name": "Fortitude",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212003,
+                            "name": "Elysium",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211003,
+                            "name": "Indigo Sunset",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212007,
+                            "name": "Brave the Wind",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211002,
+                            "name": "Sunny Breeze",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
                 {
                     "time": 1787064811,
                     "timeISO": "2026-08-18T14:53:31.000Z",
@@ -14194,6 +14614,12 @@
             "type": "Disc",
             "rarity": "SR"
         },
+        "213013": {
+            "id": 213013,
+            "name": "Leaf Her to Me",
+            "type": "Disc",
+            "rarity": "SR"
+        },
         "213014": {
             "id": 213014,
             "name": "The Knight's Smith",
@@ -14231,6 +14657,12 @@
             "type": "Disc",
             "rarity": "SR"
         },
+        "214005": {
+            "id": 214005,
+            "name": "Sunlit Blossom",
+            "type": "Disc",
+            "rarity": "SSR"
+        },
         "214028": {
             "id": 214028,
             "name": "Daylight Garden",
@@ -14246,6 +14678,128 @@
         }
     },
     "history": [
+        {
+            "bannerId": 2,
+            "bannerName": "Memories Rewind",
+            "storageId": 4,
+            "time": 1793348851,
+            "timeISO": "2026-10-30T08:27:31.000Z",
+            "count": 1,
+            "ids": [
+                212008
+            ]
+        },
+        {
+            "bannerId": 2,
+            "bannerName": "Memories Rewind",
+            "storageId": 4,
+            "time": 1793348846,
+            "timeISO": "2026-10-30T08:27:26.000Z",
+            "count": 1,
+            "ids": [
+                212005
+            ]
+        },
+        {
+            "bannerId": 2,
+            "bannerName": "Memories Rewind",
+            "storageId": 4,
+            "time": 1793348839,
+            "timeISO": "2026-10-30T08:27:19.000Z",
+            "count": 10,
+            "ids": [
+                211002,
+                212008,
+                212006,
+                211008,
+                211005,
+                211008,
+                212002,
+                213009,
+                212001,
+                212008
+            ]
+        },
+        {
+            "bannerId": 2,
+            "bannerName": "Memories Rewind",
+            "storageId": 4,
+            "time": 1793348828,
+            "timeISO": "2026-10-30T08:27:08.000Z",
+            "count": 10,
+            "ids": [
+                212007,
+                212003,
+                211007,
+                212010,
+                211001,
+                211004,
+                212010,
+                213005,
+                212008,
+                212009
+            ]
+        },
+        {
+            "bannerId": 2,
+            "bannerName": "Memories Rewind",
+            "storageId": 4,
+            "time": 1793348797,
+            "timeISO": "2026-10-30T08:26:37.000Z",
+            "count": 10,
+            "ids": [
+                211002,
+                212010,
+                213015,
+                212007,
+                212008,
+                212006,
+                211002,
+                214005,
+                212006,
+                211002
+            ]
+        },
+        {
+            "bannerId": 2,
+            "bannerName": "Memories Rewind",
+            "storageId": 4,
+            "time": 1793348769,
+            "timeISO": "2026-10-30T08:26:09.000Z",
+            "count": 10,
+            "ids": [
+                211005,
+                212002,
+                213013,
+                211002,
+                212002,
+                211001,
+                212005,
+                211004,
+                212008,
+                211005
+            ]
+        },
+        {
+            "bannerId": 2,
+            "bannerName": "Memories Rewind",
+            "storageId": 4,
+            "time": 1793348755,
+            "timeISO": "2026-10-30T08:25:55.000Z",
+            "count": 10,
+            "ids": [
+                212009,
+                212003,
+                213011,
+                212009,
+                212007,
+                212010,
+                212003,
+                211003,
+                212007,
+                211002
+            ]
+        },
         {
             "bannerId": 1001,
             "bannerName": "One Starlit Year, One Destined Reunion",
