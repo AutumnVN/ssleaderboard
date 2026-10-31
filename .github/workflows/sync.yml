@@ -49,6 +49,7 @@ jobs:
         season_changed=false
         pnpm install
         node index.js
+        node player.js
         if [ -n "$(git ls-files --others --exclude-standard -- 'bb*.json' 'fe*.json')" ]; then
           season_changed=true
         fi
