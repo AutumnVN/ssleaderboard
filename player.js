@@ -95,22 +95,21 @@ function main() {
         const entries = new Map();
         const namedEntries = new Map();
 
+        const addEntry = (entry, prefer = false) => {
+            if (!entry || entry.Id == null) return;
+            const id = String(entry.Id);
+            if (prefer || !entries.has(id)) entries.set(id, entry);
+            if (prefer || !namedEntries.has(id)) namedEntries.set(id, entry);
+        };
+
         for (const [regionKey, regionData] of Object.entries(region)) {
-            if (regionKey === 'all' || !Array.isArray(regionData?.Rank)) continue;
-            for (const entry of regionData.Rank) {
-                if (!entry || entry.Id == null) continue;
-                const id = String(entry.Id);
-                if (!entries.has(id)) entries.set(id, entry);
-                if (!namedEntries.has(id)) namedEntries.set(id, entry);
-            }
+            if (regionKey === 'all') continue;
+            for (const entry of regionData?.Rank || []) addEntry(entry);
+            addEntry(regionData?.Self, true);
         }
 
-        const allRank = Array.isArray(region.all?.Rank) ? region.all.Rank : [];
-        for (const entry of allRank) {
-            if (!entry || entry.Id == null) continue;
-            const id = String(entry.Id);
-            if (!entries.has(id)) entries.set(id, entry);
-        }
+        for (const entry of region.all?.Rank || []) addEntry(entry);
+        addEntry(region.all?.Self);
 
         for (const [id, entry] of entries) {
             let player = players.get(id);
