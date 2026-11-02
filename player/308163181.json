@@ -3,13 +3,13 @@
         "Id": "308163181",
         "NickName": "りゅ",
         "HeadIcon": 14404,
-        "Score": 2355716,
-        "Rank": 83,
+        "Score": 2470735,
+        "Rank": 71,
         "TitlePrefix": 1,
         "TitleSuffix": 2,
         "Teams": [
             {
-                "BuildScore": 11490,
+                "BuildScore": 12000,
                 "Chars": [
                     {
                         "Id": 139,
@@ -24,7 +24,7 @@
                         "Level": 90
                     }
                 ],
-                "LevelScore": 1332916,
+                "LevelScore": 1447935,
                 "LevelId": 28,
                 "Discs": [
                     214026,
@@ -48,15 +48,7 @@
                         "Level": 6
                     },
                     {
-                        "PotentialId": 513907,
-                        "Level": 6
-                    },
-                    {
                         "PotentialId": 513913,
-                        "Level": 6
-                    },
-                    {
-                        "PotentialId": 513905,
                         "Level": 6
                     },
                     {
@@ -64,8 +56,16 @@
                         "Level": 6
                     },
                     {
+                        "PotentialId": 513905,
+                        "Level": 6
+                    },
+                    {
+                        "PotentialId": 513907,
+                        "Level": 6
+                    },
+                    {
                         "PotentialId": 513912,
-                        "Level": 2
+                        "Level": 3
                     },
                     {
                         "PotentialId": 512522,
@@ -80,19 +80,15 @@
                         "Level": 6
                     },
                     {
-                        "PotentialId": 512530,
+                        "PotentialId": 512541,
                         "Level": 1
                     },
                     {
-                        "PotentialId": 512541,
+                        "PotentialId": 512531,
                         "Level": 2
                     },
                     {
-                        "PotentialId": 512532,
-                        "Level": 1
-                    },
-                    {
-                        "PotentialId": 516024,
+                        "PotentialId": 512542,
                         "Level": 1
                     },
                     {
@@ -100,19 +96,23 @@
                         "Level": 1
                     },
                     {
-                        "PotentialId": 516028,
-                        "Level": 6
+                        "PotentialId": 516024,
+                        "Level": 1
                     },
                     {
                         "PotentialId": 516030,
                         "Level": 6
                     },
                     {
-                        "PotentialId": 516043,
+                        "PotentialId": 516033,
                         "Level": 6
                     },
                     {
-                        "PotentialId": 516033,
+                        "PotentialId": 516028,
+                        "Level": 6
+                    },
+                    {
+                        "PotentialId": 516043,
                         "Level": 6
                     },
                     {
@@ -121,6 +121,10 @@
                     }
                 ],
                 "Notes": [
+                    {
+                        "Tid": 90017,
+                        "Qty": 1
+                    },
                     {
                         "Tid": 90018,
                         "Qty": 70
@@ -131,27 +135,31 @@
                     },
                     {
                         "Tid": 90012,
-                        "Qty": 46
+                        "Qty": 60
+                    },
+                    {
+                        "Tid": 90015,
+                        "Qty": 9
                     },
                     {
                         "Tid": 90016,
-                        "Qty": 25
+                        "Qty": 3
                     },
                     {
                         "Tid": 90013,
-                        "Qty": 3
+                        "Qty": 7
                     }
                 ],
                 "ActiveSecondaryIds": [
                     4026105,
-                    4026203,
+                    4026204,
                     4061105,
-                    4061203,
+                    4061204,
                     4055105,
-                    4055203
+                    4055204
                 ],
-                "RecordRank": "38",
-                "BuildCode": "AAAAiwAAAH0AAACgzbADBAZsACCAgDAGwGwG"
+                "RecordRank": "40",
+                "BuildCode": "AAAAiwAAAH0AAACgzbADBgZsAAgASDAGwGwG"
             },
             {
                 "BuildScore": 10665,
