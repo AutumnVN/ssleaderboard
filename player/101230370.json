@@ -3,13 +3,13 @@
         "Id": "101230370",
         "NickName": "荡舟",
         "HeadIcon": 1310011,
-        "Score": 2032856,
-        "Rank": 72,
+        "Score": 2082665,
+        "Rank": 66,
         "TitlePrefix": 1,
         "TitleSuffix": 2,
         "Teams": [
             {
-                "BuildScore": 10425,
+                "BuildScore": 10785,
                 "Chars": [
                     {
                         "Id": 162,
@@ -24,24 +24,28 @@
                         "Level": 90
                     }
                 ],
-                "LevelScore": 1122887,
+                "LevelScore": 1172696,
                 "LevelId": 29,
                 "Discs": [
-                    214038,
                     214066,
+                    214038,
                     214039,
                     214067,
-                    214007,
+                    214005,
                     214030
                 ],
                 "Potentials": [
+                    {
+                        "PotentialId": 516201,
+                        "Level": 1
+                    },
                     {
                         "PotentialId": 516202,
                         "Level": 1
                     },
                     {
-                        "PotentialId": 516201,
-                        "Level": 1
+                        "PotentialId": 516206,
+                        "Level": 6
                     },
                     {
                         "PotentialId": 516212,
@@ -49,10 +53,6 @@
                     },
                     {
                         "PotentialId": 516241,
-                        "Level": 6
-                    },
-                    {
-                        "PotentialId": 516207,
                         "Level": 6
                     },
                     {
@@ -64,16 +64,12 @@
                         "Level": 6
                     },
                     {
+                        "PotentialId": 516207,
+                        "Level": 6
+                    },
+                    {
                         "PotentialId": 516243,
                         "Level": 6
-                    },
-                    {
-                        "PotentialId": 516206,
-                        "Level": 6
-                    },
-                    {
-                        "PotentialId": 516213,
-                        "Level": 3
                     },
                     {
                         "PotentialId": 510723,
@@ -90,6 +86,10 @@
                     {
                         "PotentialId": 510733,
                         "Level": 3
+                    },
+                    {
+                        "PotentialId": 510726,
+                        "Level": 1
                     },
                     {
                         "PotentialId": 511522,
@@ -123,19 +123,15 @@
                     },
                     {
                         "Tid": 90017,
-                        "Qty": 15
+                        "Qty": 33
                     },
                     {
                         "Tid": 90012,
-                        "Qty": 21
-                    },
-                    {
-                        "Tid": 90011,
-                        "Qty": 8
+                        "Qty": 30
                     },
                     {
                         "Tid": 90013,
-                        "Qty": 9
+                        "Qty": 3
                     },
                     {
                         "Tid": 90015,
@@ -143,19 +139,19 @@
                     },
                     {
                         "Tid": 90014,
-                        "Qty": 1
+                        "Qty": 4
                     }
                 ],
                 "ActiveSecondaryIds": [
-                    4038105,
-                    4038201,
                     4066105,
-                    4066201,
+                    4066202,
+                    4038105,
+                    4038202,
                     4039105,
                     4039201
                 ],
-                "RecordRank": "35",
-                "BuildCode": "AAAAogAAAGsAAABzzbADZ4ZsAAAGAMGAIAwA"
+                "RecordRank": "36",
+                "BuildCode": "AAAAogAAAGsAAABzzbADYYZsQAAGAMGAIAwA"
             },
             {
                 "BuildScore": 9945,
