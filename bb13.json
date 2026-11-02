@@ -1,13 +1,13 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1793658038",
+            "LastRefreshTime": "1793658638",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "HeadIcon": 15602,
                 "Score": 912374,
-                "Rank": 703,
+                "Rank": 704,
                 "TitlePrefix": 35,
                 "TitleSuffix": 36,
                 "Teams": [
@@ -28303,11 +28303,317 @@
                     ]
                 },
                 {
+                    "Id": "701903872",
+                    "NickName": "Gabriel",
+                    "HeadIcon": 1310012,
+                    "Score": 1628569,
+                    "Rank": 88,
+                    "TitlePrefix": 13,
+                    "TitleSuffix": 26,
+                    "Teams": [
+                        {
+                            "BuildScore": 11070,
+                            "Chars": [
+                                {
+                                    "Id": 139,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 127,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 591571,
+                            "LevelId": 28,
+                            "Discs": [
+                                214061,
+                                214026,
+                                214055,
+                                214062,
+                                214012,
+                                214017
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 513902,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513901,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513906,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 513913,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513905,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513907,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513943,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513912,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 512722,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512721,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512742,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512741,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512733,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512725,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 60
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 78
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 45
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 7
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4061104,
+                                4061203,
+                                4026104,
+                                4026203,
+                                4055104,
+                                4055203
+                            ],
+                            "RecordRank": "37",
+                            "BuildCode": "AAAAiwAAAH8AAACgzXADBgbMAAANsDAGwGIC"
+                        },
+                        {
+                            "BuildScore": 10350,
+                            "Chars": [
+                                {
+                                    "Id": 162,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 107,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 115,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 1036998,
+                            "LevelId": 29,
+                            "Discs": [
+                                214066,
+                                214039,
+                                214038,
+                                214067,
+                                214004,
+                                214017
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 516201,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516202,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516211,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516243,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516241,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516212,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516206,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516213,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516207,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 516205,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 510723,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 510722,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 510727,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 510725,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511522,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511521,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511533,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511526,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511527,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 511525,
+                                    "Level": 3
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90022,
+                                    "Qty": 55
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 69
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 45
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 15
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 10
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4066104,
+                                4066203,
+                                4039104,
+                                4038104,
+                                4038203
+                            ],
+                            "RecordRank": "35",
+                            "BuildCode": "AAAAogAAAGsAAABzzaADbYZsCAAAAMeQAAwA"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 140001,
+                            "AffinityLV": 7
+                        },
+                        {
+                            "Id": 119902,
+                            "AffinityLV": 18
+                        },
+                        {
+                            "Id": 119901,
+                            "AffinityLV": 18
+                        }
+                    ]
+                },
+                {
                     "Id": "701194751",
                     "NickName": "Tome",
                     "HeadIcon": 1310011,
                     "Score": 1627178,
-                    "Rank": 88,
+                    "Rank": 89,
                     "TitlePrefix": 11,
                     "TitleSuffix": 8,
                     "Teams": [
@@ -28623,7 +28929,7 @@
                     "NickName": "Riri",
                     "HeadIcon": 11303,
                     "Score": 1624327,
-                    "Rank": 89,
+                    "Rank": 90,
                     "TitlePrefix": 17,
                     "TitleSuffix": 22,
                     "Teams": [
@@ -28941,7 +29247,7 @@
                     "NickName": "Nosu",
                     "HeadIcon": 16202,
                     "Score": 1620876,
-                    "Rank": 90,
+                    "Rank": 91,
                     "TitlePrefix": 3,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -29279,312 +29585,6 @@
                         {
                             "Id": 112130,
                             "AffinityLV": 26
-                        }
-                    ]
-                },
-                {
-                    "Id": "701903872",
-                    "NickName": "Gabriel",
-                    "HeadIcon": 1310012,
-                    "Score": 1616928,
-                    "Rank": 91,
-                    "TitlePrefix": 13,
-                    "TitleSuffix": 26,
-                    "Teams": [
-                        {
-                            "BuildScore": 11070,
-                            "Chars": [
-                                {
-                                    "Id": 139,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 127,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 591571,
-                            "LevelId": 28,
-                            "Discs": [
-                                214061,
-                                214026,
-                                214055,
-                                214062,
-                                214012,
-                                214017
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 513902,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513901,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513906,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 513913,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513905,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513907,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513943,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513912,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 512722,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512721,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512742,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512741,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512733,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512725,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 60
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 78
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 45
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 7
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4061104,
-                                4061203,
-                                4026104,
-                                4026203,
-                                4055104,
-                                4055203
-                            ],
-                            "RecordRank": "37",
-                            "BuildCode": "AAAAiwAAAH8AAACgzXADBgbMAAANsDAGwGIC"
-                        },
-                        {
-                            "BuildScore": 10350,
-                            "Chars": [
-                                {
-                                    "Id": 162,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 107,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 115,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 1025357,
-                            "LevelId": 29,
-                            "Discs": [
-                                214066,
-                                214039,
-                                214038,
-                                214067,
-                                214004,
-                                214017
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 516201,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516202,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516211,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516243,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516241,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516212,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516206,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516213,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516207,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 516205,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 510723,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 510722,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 510727,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 510725,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511522,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511521,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511533,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511526,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511527,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 511525,
-                                    "Level": 3
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90022,
-                                    "Qty": 55
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 69
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 45
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 15
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 10
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4066104,
-                                4066203,
-                                4039104,
-                                4038104,
-                                4038203
-                            ],
-                            "RecordRank": "35",
-                            "BuildCode": "AAAAogAAAGsAAABzzaADbYZsCAAAAMeQAAwA"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 140001,
-                            "AffinityLV": 7
-                        },
-                        {
-                            "Id": 119902,
-                            "AffinityLV": 18
-                        },
-                        {
-                            "Id": 119901,
-                            "AffinityLV": 18
                         }
                     ]
                 },
@@ -32406,7 +32406,7 @@
                     ]
                 }
             ],
-            "Total": 14147,
+            "Total": 14166,
             "UsageByFloor": {
                 "28": [
                     {
@@ -32710,18 +32710,18 @@
                                 "rank": 87
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel",
+                                "rank": 88
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88
+                                "rank": 89
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel",
                                 "rank": 91
                             },
                             {
@@ -32993,14 +32993,14 @@
                                 "rank": 87
                             },
                             {
-                                "id": "701194751",
-                                "name": "Tome",
+                                "id": "701903872",
+                                "name": "Gabriel",
                                 "rank": 88
                             },
                             {
-                                "id": "701903872",
-                                "name": "Gabriel",
-                                "rank": 91
+                                "id": "701194751",
+                                "name": "Tome",
+                                "rank": 89
                             },
                             {
                                 "id": "700697437",
@@ -33233,12 +33233,12 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88
+                                "rank": 89
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90
+                                "rank": 91
                             },
                             {
                                 "id": "700590521",
@@ -33815,7 +33815,7 @@
                             {
                                 "id": "701903872",
                                 "name": "Gabriel",
-                                "rank": 91
+                                "rank": 88
                             }
                         ],
                         "rank": 7
@@ -33873,7 +33873,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90
+                                "rank": 91
                             },
                             {
                                 "id": "700590521",
@@ -33939,7 +33939,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89
+                                "rank": 90
                             }
                         ],
                         "rank": 10
@@ -33985,7 +33985,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89
+                                "rank": 90
                             }
                         ],
                         "rank": 10
@@ -34003,7 +34003,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89
+                                "rank": 90
                             }
                         ],
                         "rank": 13
@@ -34299,23 +34299,23 @@
                                 "rank": 87
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel",
+                                "rank": 88
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88
+                                "rank": 89
                             },
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89
+                                "rank": 90
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel",
                                 "rank": 91
                             },
                             {
@@ -34612,18 +34612,18 @@
                                 "rank": 87
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel",
+                                "rank": 88
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88
+                                "rank": 89
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel",
                                 "rank": 91
                             },
                             {
@@ -34895,18 +34895,18 @@
                                 "rank": 85
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel",
+                                "rank": 88
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88
+                                "rank": 89
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel",
                                 "rank": 91
                             },
                             {
@@ -35050,7 +35050,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89
+                                "rank": 90
                             },
                             {
                                 "id": "700590521",
@@ -35203,7 +35203,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89
+                                "rank": 90
                             },
                             {
                                 "id": "700590521",
@@ -36069,23 +36069,23 @@
                                 "rank": 87
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel",
+                                "rank": 88
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88
+                                "rank": 89
                             },
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89
+                                "rank": 90
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel",
                                 "rank": 91
                             },
                             {
@@ -36532,18 +36532,18 @@
                                 "rank": 87
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel",
+                                "rank": 88
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88
+                                "rank": 89
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel",
                                 "rank": 91
                             },
                             {
@@ -36960,18 +36960,18 @@
                                 "rank": 86
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel",
+                                "rank": 88
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88
+                                "rank": 89
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel",
                                 "rank": 91
                             },
                             {
@@ -37323,18 +37323,18 @@
                                 "rank": 87
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel",
+                                "rank": 88
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88
+                                "rank": 89
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel",
                                 "rank": 91
                             },
                             {
@@ -37611,14 +37611,14 @@
                                 "rank": 87
                             },
                             {
-                                "id": "701194751",
-                                "name": "Tome",
+                                "id": "701903872",
+                                "name": "Gabriel",
                                 "rank": 88
                             },
                             {
-                                "id": "701903872",
-                                "name": "Gabriel",
-                                "rank": 91
+                                "id": "701194751",
+                                "name": "Tome",
+                                "rank": 89
                             },
                             {
                                 "id": "700697437",
@@ -37856,12 +37856,12 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88
+                                "rank": 89
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90
+                                "rank": 91
                             },
                             {
                                 "id": "700590521",
@@ -38014,7 +38014,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89
+                                "rank": 90
                             },
                             {
                                 "id": "700590521",
@@ -38167,7 +38167,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89
+                                "rank": 90
                             },
                             {
                                 "id": "700590521",
@@ -38408,7 +38408,7 @@
                             {
                                 "id": "701903872",
                                 "name": "Gabriel",
-                                "rank": 91
+                                "rank": 88
                             }
                         ],
                         "rank": 10
@@ -38471,7 +38471,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90
+                                "rank": 91
                             },
                             {
                                 "id": "700590521",
@@ -38615,7 +38615,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89
+                                "rank": 90
                             }
                         ],
                         "rank": 14
@@ -38684,7 +38684,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89
+                                "rank": 90
                             }
                         ],
                         "rank": 14
@@ -38720,7 +38720,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89
+                                "rank": 90
                             }
                         ],
                         "rank": 18
@@ -39043,7 +39043,7 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88,
+                                "rank": 89,
                                 "teamScore": 488771
                             }
                         ],
@@ -39311,7 +39311,7 @@
                             {
                                 "id": "701903872",
                                 "name": "Gabriel",
-                                "rank": 91,
+                                "rank": 88,
                                 "teamScore": 591571
                             },
                             {
@@ -39391,7 +39391,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90,
+                                "rank": 91,
                                 "teamScore": 530854
                             },
                             {
@@ -39473,7 +39473,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89,
+                                "rank": 90,
                                 "teamScore": 799669
                             },
                             {
@@ -39486,7 +39486,7 @@
                         "topUser": {
                             "id": "700632942",
                             "name": "Riri",
-                            "rank": 89,
+                            "rank": 90,
                             "teamScore": 799669
                         },
                         "rank": 6
@@ -39763,7 +39763,7 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88,
+                                "rank": 89,
                                 "teamScore": 1138407
                             },
                             {
@@ -39793,7 +39793,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90,
+                                "rank": 91,
                                 "teamScore": 1090022
                             },
                             {
@@ -39827,16 +39827,16 @@
                                 "teamScore": 1043567
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel",
+                                "rank": 88,
+                                "teamScore": 1036998
+                            },
+                            {
                                 "id": "700940013",
                                 "name": "LuzF2P",
                                 "rank": 38,
                                 "teamScore": 1031499
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel",
-                                "rank": 91,
-                                "teamScore": 1025357
                             },
                             {
                                 "id": "700680212",
@@ -40145,7 +40145,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89,
+                                "rank": 90,
                                 "teamScore": 824658
                             },
                             {
@@ -40703,7 +40703,7 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88,
+                                "rank": 89,
                                 "teamScore": 1138407
                             },
                             {
@@ -40739,7 +40739,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90,
+                                "rank": 91,
                                 "teamScore": 1090022
                             },
                             {
@@ -40797,16 +40797,16 @@
                                 "teamScore": 1043567
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel",
+                                "rank": 88,
+                                "teamScore": 1036998
+                            },
+                            {
                                 "id": "700940013",
                                 "name": "LuzF2P",
                                 "rank": 38,
                                 "teamScore": 1031499
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel",
-                                "rank": 91,
-                                "teamScore": 1025357
                             },
                             {
                                 "id": "700680212",
@@ -41191,7 +41191,7 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88,
+                                "rank": 89,
                                 "teamScore": 488771
                             }
                         ],
@@ -41447,7 +41447,7 @@
                             {
                                 "id": "701903872",
                                 "name": "Gabriel",
-                                "rank": 91,
+                                "rank": 88,
                                 "teamScore": 591571
                             },
                             {
@@ -41527,7 +41527,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90,
+                                "rank": 91,
                                 "teamScore": 530854
                             },
                             {
@@ -41739,7 +41739,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89,
+                                "rank": 90,
                                 "teamScore": 824658
                             },
                             {
@@ -41771,7 +41771,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89,
+                                "rank": 90,
                                 "teamScore": 799669
                             },
                             {
@@ -41784,7 +41784,7 @@
                         "topUser": {
                             "id": "700632942",
                             "name": "Riri",
-                            "rank": 89,
+                            "rank": 90,
                             "teamScore": 799669
                         },
                         "rank": 10
@@ -42441,7 +42441,7 @@
                             {
                                 "id": "701903872",
                                 "name": "Gabriel",
-                                "rank": 91,
+                                "rank": 88,
                                 "teamScore": 591571
                             },
                             {
@@ -42822,7 +42822,7 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88,
+                                "rank": 89,
                                 "teamScore": 488771
                             }
                         ],
@@ -43264,7 +43264,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90,
+                                "rank": 91,
                                 "teamScore": 530854
                             },
                             {
@@ -43612,7 +43612,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89,
+                                "rank": 90,
                                 "teamScore": 799669
                             },
                             {
@@ -43625,7 +43625,7 @@
                         "topUser": {
                             "id": "700632942",
                             "name": "Riri",
-                            "rank": 89,
+                            "rank": 90,
                             "teamScore": 799669
                         },
                         "rank": 9,
@@ -44037,7 +44037,7 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88,
+                                "rank": 89,
                                 "teamScore": 1138407
                             },
                             {
@@ -44067,7 +44067,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90,
+                                "rank": 91,
                                 "teamScore": 1090022
                             },
                             {
@@ -44101,16 +44101,16 @@
                                 "teamScore": 1043567
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel",
+                                "rank": 88,
+                                "teamScore": 1036998
+                            },
+                            {
                                 "id": "700940013",
                                 "name": "LuzF2P",
                                 "rank": 38,
                                 "teamScore": 1031499
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel",
-                                "rank": 91,
-                                "teamScore": 1025357
                             },
                             {
                                 "id": "700680212",
@@ -44834,7 +44834,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89,
+                                "rank": 90,
                                 "teamScore": 824658
                             },
                             {
@@ -46097,7 +46097,7 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88,
+                                "rank": 89,
                                 "teamScore": 1138407
                             },
                             {
@@ -46133,7 +46133,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90,
+                                "rank": 91,
                                 "teamScore": 1090022
                             },
                             {
@@ -46191,16 +46191,16 @@
                                 "teamScore": 1043567
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel",
+                                "rank": 88,
+                                "teamScore": 1036998
+                            },
+                            {
                                 "id": "700940013",
                                 "name": "LuzF2P",
                                 "rank": 38,
                                 "teamScore": 1031499
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel",
-                                "rank": 91,
-                                "teamScore": 1025357
                             },
                             {
                                 "id": "700680212",
@@ -46584,7 +46584,7 @@
                             {
                                 "id": "701903872",
                                 "name": "Gabriel",
-                                "rank": 91,
+                                "rank": 88,
                                 "teamScore": 591571
                             },
                             {
@@ -46965,7 +46965,7 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome",
-                                "rank": 88,
+                                "rank": 89,
                                 "teamScore": 488771
                             }
                         ],
@@ -47896,7 +47896,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89,
+                                "rank": 90,
                                 "teamScore": 824658
                             },
                             {
@@ -48063,7 +48063,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu",
-                                "rank": 90,
+                                "rank": 91,
                                 "teamScore": 530854
                             },
                             {
@@ -48393,7 +48393,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri",
-                                "rank": 89,
+                                "rank": 90,
                                 "teamScore": 799669
                             },
                             {
@@ -48406,7 +48406,7 @@
                         "topUser": {
                             "id": "700632942",
                             "name": "Riri",
-                            "rank": 89,
+                            "rank": 90,
                             "teamScore": 799669
                         },
                         "rank": 12,
@@ -144176,7 +144176,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1793658012",
+            "LastRefreshTime": "1793658612",
             "Rank": [
                 {
                     "Id": "900334820",
@@ -389503,11 +389503,317 @@
                     ]
                 },
                 {
+                    "Id": "701903872",
+                    "NickName": "Gabriel (EN)",
+                    "HeadIcon": 1310012,
+                    "Score": 1628569,
+                    "Rank": 470,
+                    "TitlePrefix": 13,
+                    "TitleSuffix": 26,
+                    "Teams": [
+                        {
+                            "BuildScore": 11070,
+                            "Chars": [
+                                {
+                                    "Id": 139,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 127,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 591571,
+                            "LevelId": 28,
+                            "Discs": [
+                                214061,
+                                214026,
+                                214055,
+                                214062,
+                                214012,
+                                214017
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 513902,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513901,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513906,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 513913,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513905,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513907,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513943,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513912,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 512722,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512721,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 512742,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512741,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512733,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 512725,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 60
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 78
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 45
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 7
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4061104,
+                                4061203,
+                                4026104,
+                                4026203,
+                                4055104,
+                                4055203
+                            ],
+                            "RecordRank": "37",
+                            "BuildCode": "AAAAiwAAAH8AAACgzXADBgbMAAANsDAGwGIC"
+                        },
+                        {
+                            "BuildScore": 10350,
+                            "Chars": [
+                                {
+                                    "Id": 162,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 107,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 115,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 1036998,
+                            "LevelId": 29,
+                            "Discs": [
+                                214066,
+                                214039,
+                                214038,
+                                214067,
+                                214004,
+                                214017
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 516201,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516202,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516211,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516243,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516241,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516212,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516206,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516213,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516207,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 516205,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 510723,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 510722,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 510727,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 510725,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511522,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511521,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511533,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511526,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511527,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 511525,
+                                    "Level": 3
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90022,
+                                    "Qty": 55
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 69
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 45
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 15
+                                },
+                                {
+                                    "Tid": 90017,
+                                    "Qty": 10
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4066104,
+                                4066203,
+                                4039104,
+                                4038104,
+                                4038203
+                            ],
+                            "RecordRank": "35",
+                            "BuildCode": "AAAAogAAAGsAAABzzaADbYZsCAAAAMeQAAwA"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 140001,
+                            "AffinityLV": 7
+                        },
+                        {
+                            "Id": 119902,
+                            "AffinityLV": 18
+                        },
+                        {
+                            "Id": 119901,
+                            "AffinityLV": 18
+                        }
+                    ]
+                },
+                {
                     "Id": "701194751",
                     "NickName": "Tome (EN)",
                     "HeadIcon": 1310011,
                     "Score": 1627178,
-                    "Rank": 470,
+                    "Rank": 471,
                     "TitlePrefix": 11,
                     "TitleSuffix": 8,
                     "Teams": [
@@ -389823,7 +390129,7 @@
                     "NickName": "轩辕 (TW)",
                     "HeadIcon": 14502,
                     "Score": 1625900,
-                    "Rank": 471,
+                    "Rank": 472,
                     "TitlePrefix": 45,
                     "TitleSuffix": 4,
                     "Teams": [
@@ -390146,7 +390452,7 @@
                     "NickName": "Riri (EN)",
                     "HeadIcon": 11303,
                     "Score": 1624327,
-                    "Rank": 472,
+                    "Rank": 473,
                     "TitlePrefix": 17,
                     "TitleSuffix": 22,
                     "Teams": [
@@ -390464,7 +390770,7 @@
                     "NickName": "Nosu (EN)",
                     "HeadIcon": 16202,
                     "Score": 1620876,
-                    "Rank": 473,
+                    "Rank": 474,
                     "TitlePrefix": 3,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -390802,312 +391108,6 @@
                         {
                             "Id": 112130,
                             "AffinityLV": 26
-                        }
-                    ]
-                },
-                {
-                    "Id": "701903872",
-                    "NickName": "Gabriel (EN)",
-                    "HeadIcon": 1310012,
-                    "Score": 1616928,
-                    "Rank": 474,
-                    "TitlePrefix": 13,
-                    "TitleSuffix": 26,
-                    "Teams": [
-                        {
-                            "BuildScore": 11070,
-                            "Chars": [
-                                {
-                                    "Id": 139,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 127,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 591571,
-                            "LevelId": 28,
-                            "Discs": [
-                                214061,
-                                214026,
-                                214055,
-                                214062,
-                                214012,
-                                214017
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 513902,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513901,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513906,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 513913,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513905,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513907,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513943,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513912,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 512722,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512721,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 512742,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512741,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512733,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 512725,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 60
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 78
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 45
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 7
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4061104,
-                                4061203,
-                                4026104,
-                                4026203,
-                                4055104,
-                                4055203
-                            ],
-                            "RecordRank": "37",
-                            "BuildCode": "AAAAiwAAAH8AAACgzXADBgbMAAANsDAGwGIC"
-                        },
-                        {
-                            "BuildScore": 10350,
-                            "Chars": [
-                                {
-                                    "Id": 162,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 107,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 115,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 1025357,
-                            "LevelId": 29,
-                            "Discs": [
-                                214066,
-                                214039,
-                                214038,
-                                214067,
-                                214004,
-                                214017
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 516201,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516202,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516211,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516243,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516241,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516212,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516206,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516213,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516207,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 516205,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 510723,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 510722,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 510727,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 510725,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511522,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511521,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511533,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511526,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511527,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 511525,
-                                    "Level": 3
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90022,
-                                    "Qty": 55
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 69
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 45
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 15
-                                },
-                                {
-                                    "Tid": 90017,
-                                    "Qty": 10
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4066104,
-                                4066203,
-                                4039104,
-                                4038104,
-                                4038203
-                            ],
-                            "RecordRank": "35",
-                            "BuildCode": "AAAAogAAAGsAAABzzaADbYZsCAAAAMeQAAwA"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 140001,
-                            "AffinityLV": 7
-                        },
-                        {
-                            "Id": 119902,
-                            "AffinityLV": 18
-                        },
-                        {
-                            "Id": 119901,
-                            "AffinityLV": 18
                         }
                     ]
                 },
@@ -399624,8 +399624,8 @@
                     ]
                 }
             ],
-            "Total": 56681,
-            "LastRefreshTime": "1793658117",
+            "Total": 56700,
+            "LastRefreshTime": "1793658638",
             "UsageByFloor": {
                 "28": [
                     {
@@ -401539,23 +401539,23 @@
                                 "rank": 469
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel (EN)",
+                                "rank": 470
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470
+                                "rank": 471
                             },
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471
+                                "rank": 472
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel (EN)",
                                 "rank": 474
                             },
                             {
@@ -403299,12 +403299,12 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470
+                                "rank": 471
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473
+                                "rank": 474
                             },
                             {
                                 "id": "700590521",
@@ -404960,19 +404960,19 @@
                                 "rank": 469
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel (EN)",
+                                "rank": 470
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470
+                                "rank": 471
                             },
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel (EN)",
-                                "rank": 474
+                                "rank": 472
                             },
                             {
                                 "id": "700697437",
@@ -406769,7 +406769,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473
+                                "rank": 474
                             },
                             {
                                 "id": "700590521",
@@ -406985,14 +406985,14 @@
                                 "rank": 454
                             },
                             {
-                                "id": "910336217",
-                                "name": "轩辕 (TW)",
-                                "rank": 471
-                            },
-                            {
                                 "id": "701903872",
                                 "name": "Gabriel (EN)",
-                                "rank": 474
+                                "rank": 470
+                            },
+                            {
+                                "id": "910336217",
+                                "name": "轩辕 (TW)",
+                                "rank": 472
                             },
                             {
                                 "id": "910866580",
@@ -407156,7 +407156,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472
+                                "rank": 473
                             }
                         ],
                         "rank": 11
@@ -407184,7 +407184,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472
+                                "rank": 473
                             }
                         ],
                         "rank": 11
@@ -407207,7 +407207,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472
+                                "rank": 473
                             }
                         ],
                         "rank": 13
@@ -409048,23 +409048,23 @@
                                 "rank": 469
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel (EN)",
+                                "rank": 470
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470
+                                "rank": 471
                             },
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471
+                                "rank": 472
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel (EN)",
                                 "rank": 474
                             },
                             {
@@ -410951,28 +410951,28 @@
                                 "rank": 469
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel (EN)",
+                                "rank": 470
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470
+                                "rank": 471
                             },
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471
+                                "rank": 472
                             },
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472
+                                "rank": 473
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel (EN)",
                                 "rank": 474
                             },
                             {
@@ -412804,18 +412804,18 @@
                                 "rank": 468
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel (EN)",
+                                "rank": 470
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470
+                                "rank": 471
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel (EN)",
                                 "rank": 474
                             },
                             {
@@ -413304,7 +413304,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472
+                                "rank": 473
                             },
                             {
                                 "id": "700590521",
@@ -413742,7 +413742,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472
+                                "rank": 473
                             },
                             {
                                 "id": "700590521",
@@ -414348,7 +414348,7 @@
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471
+                                "rank": 472
                             },
                             {
                                 "id": "900517391",
@@ -417077,28 +417077,28 @@
                                 "rank": 469
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel (EN)",
+                                "rank": 470
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470
+                                "rank": 471
                             },
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471
+                                "rank": 472
                             },
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472
+                                "rank": 473
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel (EN)",
                                 "rank": 474
                             },
                             {
@@ -419460,23 +419460,23 @@
                                 "rank": 469
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel (EN)",
+                                "rank": 470
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470
+                                "rank": 471
                             },
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471
+                                "rank": 472
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel (EN)",
                                 "rank": 474
                             },
                             {
@@ -421768,18 +421768,18 @@
                                 "rank": 468
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel (EN)",
+                                "rank": 470
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470
+                                "rank": 471
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel (EN)",
                                 "rank": 474
                             },
                             {
@@ -423831,23 +423831,23 @@
                                 "rank": 469
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel (EN)",
+                                "rank": 470
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470
+                                "rank": 471
                             },
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471
+                                "rank": 472
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel (EN)",
                                 "rank": 474
                             },
                             {
@@ -425611,12 +425611,12 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470
+                                "rank": 471
                             },
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473
+                                "rank": 474
                             },
                             {
                                 "id": "700590521",
@@ -427282,19 +427282,19 @@
                                 "rank": 469
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel (EN)",
+                                "rank": 470
+                            },
+                            {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470
+                                "rank": 471
                             },
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel (EN)",
-                                "rank": 474
+                                "rank": 472
                             },
                             {
                                 "id": "700697437",
@@ -427787,7 +427787,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472
+                                "rank": 473
                             },
                             {
                                 "id": "700590521",
@@ -428225,7 +428225,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472
+                                "rank": 473
                             },
                             {
                                 "id": "700590521",
@@ -429016,7 +429016,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473
+                                "rank": 474
                             },
                             {
                                 "id": "700590521",
@@ -429257,14 +429257,14 @@
                                 "rank": 454
                             },
                             {
-                                "id": "910336217",
-                                "name": "轩辕 (TW)",
-                                "rank": 471
-                            },
-                            {
                                 "id": "701903872",
                                 "name": "Gabriel (EN)",
-                                "rank": 474
+                                "rank": 470
+                            },
+                            {
+                                "id": "910336217",
+                                "name": "轩辕 (TW)",
+                                "rank": 472
                             },
                             {
                                 "id": "901103767",
@@ -429432,7 +429432,7 @@
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471
+                                "rank": 472
                             },
                             {
                                 "id": "704760210",
@@ -429740,7 +429740,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472
+                                "rank": 473
                             }
                         ],
                         "rank": 18
@@ -429768,7 +429768,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472
+                                "rank": 473
                             }
                         ],
                         "rank": 18
@@ -429791,7 +429791,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472
+                                "rank": 473
                             }
                         ],
                         "rank": 20
@@ -431648,7 +431648,7 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470,
+                                "rank": 471,
                                 "teamScore": 488771
                             },
                             {
@@ -432534,7 +432534,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473,
+                                "rank": 474,
                                 "teamScore": 530854
                             },
                             {
@@ -432788,7 +432788,7 @@
                             {
                                 "id": "701903872",
                                 "name": "Gabriel (EN)",
-                                "rank": 474,
+                                "rank": 470,
                                 "teamScore": 591571
                             },
                             {
@@ -432806,7 +432806,7 @@
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471,
+                                "rank": 472,
                                 "teamScore": 462968
                             },
                             {
@@ -432992,7 +432992,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472,
+                                "rank": 473,
                                 "teamScore": 799669
                             },
                             {
@@ -434406,7 +434406,7 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470,
+                                "rank": 471,
                                 "teamScore": 1138407
                             },
                             {
@@ -434622,7 +434622,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473,
+                                "rank": 474,
                                 "teamScore": 1090022
                             },
                             {
@@ -434770,6 +434770,12 @@
                                 "teamScore": 1037295
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel (EN)",
+                                "rank": 470,
+                                "teamScore": 1036998
+                            },
+                            {
                                 "id": "500693299",
                                 "name": "플로로 (KR)",
                                 "rank": 362,
@@ -434804,12 +434810,6 @@
                                 "name": "miya (TW)",
                                 "rank": 412,
                                 "teamScore": 1027158
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel (EN)",
-                                "rank": 474,
-                                "teamScore": 1025357
                             },
                             {
                                 "id": "500420112",
@@ -435844,7 +435844,7 @@
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471,
+                                "rank": 472,
                                 "teamScore": 1162932
                             },
                             {
@@ -436046,7 +436046,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472,
+                                "rank": 473,
                                 "teamScore": 824658
                             },
                             {
@@ -438156,7 +438156,7 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470,
+                                "rank": 471,
                                 "teamScore": 1138407
                             },
                             {
@@ -438396,7 +438396,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473,
+                                "rank": 474,
                                 "teamScore": 1090022
                             },
                             {
@@ -438568,6 +438568,12 @@
                                 "teamScore": 1037295
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel (EN)",
+                                "rank": 470,
+                                "teamScore": 1036998
+                            },
+                            {
                                 "id": "500693299",
                                 "name": "플로로 (KR)",
                                 "rank": 362,
@@ -438608,12 +438614,6 @@
                                 "name": "miya (TW)",
                                 "rank": 412,
                                 "teamScore": 1027158
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel (EN)",
-                                "rank": 474,
-                                "teamScore": 1025357
                             },
                             {
                                 "id": "500420112",
@@ -440930,7 +440930,7 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470,
+                                "rank": 471,
                                 "teamScore": 488771
                             },
                             {
@@ -441768,7 +441768,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473,
+                                "rank": 474,
                                 "teamScore": 530854
                             },
                             {
@@ -442040,7 +442040,7 @@
                             {
                                 "id": "701903872",
                                 "name": "Gabriel (EN)",
-                                "rank": 474,
+                                "rank": 470,
                                 "teamScore": 591571
                             },
                             {
@@ -442058,7 +442058,7 @@
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471,
+                                "rank": 472,
                                 "teamScore": 462968
                             },
                             {
@@ -442108,7 +442108,7 @@
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471,
+                                "rank": 472,
                                 "teamScore": 1162932
                             },
                             {
@@ -442438,7 +442438,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472,
+                                "rank": 473,
                                 "teamScore": 824658
                             },
                             {
@@ -442582,7 +442582,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472,
+                                "rank": 473,
                                 "teamScore": 799669
                             },
                             {
@@ -444780,7 +444780,7 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470,
+                                "rank": 471,
                                 "teamScore": 488771
                             },
                             {
@@ -446200,7 +446200,7 @@
                             {
                                 "id": "701903872",
                                 "name": "Gabriel (EN)",
-                                "rank": 474,
+                                "rank": 470,
                                 "teamScore": 591571
                             },
                             {
@@ -446218,7 +446218,7 @@
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471,
+                                "rank": 472,
                                 "teamScore": 462968
                             },
                             {
@@ -446723,7 +446723,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473,
+                                "rank": 474,
                                 "teamScore": 530854
                             },
                             {
@@ -447107,7 +447107,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472,
+                                "rank": 473,
                                 "teamScore": 799669
                             },
                             {
@@ -448840,7 +448840,7 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470,
+                                "rank": 471,
                                 "teamScore": 1138407
                             },
                             {
@@ -449056,7 +449056,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473,
+                                "rank": 474,
                                 "teamScore": 1090022
                             },
                             {
@@ -449204,6 +449204,12 @@
                                 "teamScore": 1037295
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel (EN)",
+                                "rank": 470,
+                                "teamScore": 1036998
+                            },
+                            {
                                 "id": "500693299",
                                 "name": "플로로 (KR)",
                                 "rank": 362,
@@ -449238,12 +449244,6 @@
                                 "name": "miya (TW)",
                                 "rank": 412,
                                 "teamScore": 1027158
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel (EN)",
-                                "rank": 474,
-                                "teamScore": 1025357
                             },
                             {
                                 "id": "500420112",
@@ -450943,7 +450943,7 @@
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471,
+                                "rank": 472,
                                 "teamScore": 1162932
                             },
                             {
@@ -451193,7 +451193,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472,
+                                "rank": 473,
                                 "teamScore": 824658
                             },
                             {
@@ -454534,7 +454534,7 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470,
+                                "rank": 471,
                                 "teamScore": 488771
                             },
                             {
@@ -456347,7 +456347,7 @@
                             {
                                 "id": "701194751",
                                 "name": "Tome (EN)",
-                                "rank": 470,
+                                "rank": 471,
                                 "teamScore": 1138407
                             },
                             {
@@ -456587,7 +456587,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473,
+                                "rank": 474,
                                 "teamScore": 1090022
                             },
                             {
@@ -456759,6 +456759,12 @@
                                 "teamScore": 1037295
                             },
                             {
+                                "id": "701903872",
+                                "name": "Gabriel (EN)",
+                                "rank": 470,
+                                "teamScore": 1036998
+                            },
+                            {
                                 "id": "500693299",
                                 "name": "플로로 (KR)",
                                 "rank": 362,
@@ -456799,12 +456805,6 @@
                                 "name": "miya (TW)",
                                 "rank": 412,
                                 "teamScore": 1027158
-                            },
-                            {
-                                "id": "701903872",
-                                "name": "Gabriel (EN)",
-                                "rank": 474,
-                                "teamScore": 1025357
                             },
                             {
                                 "id": "500420112",
@@ -458212,7 +458212,7 @@
                             {
                                 "id": "701903872",
                                 "name": "Gabriel (EN)",
-                                "rank": 474,
+                                "rank": 470,
                                 "teamScore": 591571
                             },
                             {
@@ -458230,7 +458230,7 @@
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471,
+                                "rank": 472,
                                 "teamScore": 462968
                             },
                             {
@@ -458735,7 +458735,7 @@
                             {
                                 "id": "700464236",
                                 "name": "Nosu (EN)",
-                                "rank": 473,
+                                "rank": 474,
                                 "teamScore": 530854
                             },
                             {
@@ -458940,7 +458940,7 @@
                             {
                                 "id": "910336217",
                                 "name": "轩辕 (TW)",
-                                "rank": 471,
+                                "rank": 472,
                                 "teamScore": 1162932
                             },
                             {
@@ -460073,7 +460073,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472,
+                                "rank": 473,
                                 "teamScore": 799669
                             },
                             {
@@ -460222,7 +460222,7 @@
                             {
                                 "id": "700632942",
                                 "name": "Riri (EN)",
-                                "rank": 472,
+                                "rank": 473,
                                 "teamScore": 824658
                             },
                             {
