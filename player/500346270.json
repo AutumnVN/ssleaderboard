@@ -3,13 +3,13 @@
         "Id": "500346270",
         "NickName": "머트",
         "HeadIcon": 130007,
-        "Score": 4607233,
+        "Score": 4673644,
         "Rank": 2,
         "TitlePrefix": 7,
         "TitleSuffix": 14,
         "Teams": [
             {
-                "BuildScore": 10905,
+                "BuildScore": 12210,
                 "Chars": [
                     {
                         "Id": 139,
@@ -24,7 +24,7 @@
                         "Level": 90
                     }
                 ],
-                "LevelScore": 2715289,
+                "LevelScore": 2781700,
                 "LevelId": 28,
                 "Discs": [
                     214055,
@@ -32,16 +32,20 @@
                     214026,
                     214008,
                     214005,
-                    214031
+                    214062
                 ],
                 "Potentials": [
+                    {
+                        "PotentialId": 513902,
+                        "Level": 1
+                    },
                     {
                         "PotentialId": 513901,
                         "Level": 1
                     },
                     {
-                        "PotentialId": 513902,
-                        "Level": 1
+                        "PotentialId": 513906,
+                        "Level": 6
                     },
                     {
                         "PotentialId": 513907,
@@ -52,12 +56,8 @@
                         "Level": 6
                     },
                     {
-                        "PotentialId": 513906,
-                        "Level": 6
-                    },
-                    {
                         "PotentialId": 513913,
-                        "Level": 6
+                        "Level": 5
                     },
                     {
                         "PotentialId": 513905,
@@ -65,14 +65,14 @@
                     },
                     {
                         "PotentialId": 513912,
-                        "Level": 2
-                    },
-                    {
-                        "PotentialId": 516023,
-                        "Level": 1
+                        "Level": 3
                     },
                     {
                         "PotentialId": 516024,
+                        "Level": 1
+                    },
+                    {
+                        "PotentialId": 516023,
                         "Level": 1
                     },
                     {
@@ -88,20 +88,28 @@
                         "Level": 6
                     },
                     {
-                        "PotentialId": 516028,
-                        "Level": 4
+                        "PotentialId": 516029,
+                        "Level": 6
                     },
                     {
-                        "PotentialId": 516029,
+                        "PotentialId": 516028,
                         "Level": 5
+                    },
+                    {
+                        "PotentialId": 513021,
+                        "Level": 1
                     },
                     {
                         "PotentialId": 513022,
                         "Level": 1
                     },
                     {
-                        "PotentialId": 513021,
+                        "PotentialId": 513025,
                         "Level": 1
+                    },
+                    {
+                        "PotentialId": 513033,
+                        "Level": 5
                     },
                     {
                         "PotentialId": 513026,
@@ -110,48 +118,40 @@
                     {
                         "PotentialId": 513031,
                         "Level": 1
-                    },
-                    {
-                        "PotentialId": 513033,
-                        "Level": 6
-                    },
-                    {
-                        "PotentialId": 513025,
-                        "Level": 5
-                    },
-                    {
-                        "PotentialId": 513029,
-                        "Level": 2
                     }
                 ],
                 "Notes": [
                     {
                         "Tid": 90012,
-                        "Qty": 30
+                        "Qty": 60
                     },
                     {
                         "Tid": 90011,
-                        "Qty": 70
+                        "Qty": 72
                     },
                     {
                         "Tid": 90018,
-                        "Qty": 70
+                        "Qty": 76
+                    },
+                    {
+                        "Tid": 90016,
+                        "Qty": 17
                     },
                     {
                         "Tid": 90013,
-                        "Qty": 1
+                        "Qty": 5
                     }
                 ],
                 "ActiveSecondaryIds": [
                     4055105,
-                    4055202,
+                    4055204,
                     4061105,
-                    4061202,
+                    4061204,
                     4026105,
-                    4026202
+                    4026204
                 ],
-                "RecordRank": "36",
-                "BuildCode": "AAAAiwAAAKAAAACCzbADBAYwBMBcBsuABCwA"
+                "RecordRank": "40",
+                "BuildCode": "AAAAiwAAAKAAAACCzbAChgYwBcBsBsOABAoA"
             },
             {
                 "BuildScore": 11235,
