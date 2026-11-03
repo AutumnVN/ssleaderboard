@@ -757,21 +757,15 @@ function saveInventoryToFile(info, filename) {
     console.log('Inventory saved to', filename);
 }
 
-async function fetchJson(url, label) {
-    const res = await fetch(url);
-    if (!res.ok) throw new Error(`Failed to fetch ${label}: ${res.status} ${res.statusText}`);
-    return res.json();
-}
-
 async function loadGachaMetadata() {
     console.log('Fetching gacha metadata...');
     const [rawBanners, rawStorages, bannerLang, storageLang, extraBanners, itemData] = await Promise.all([
-        fetchJson(GACHA_BANNERS_URL, 'EN Gacha.json'),
-        fetchJson(GACHA_STORAGES_URL, 'EN GachaStorage.json'),
-        fetchJson(GACHA_BANNER_LANG_URL, 'EN Gacha language'),
-        fetchJson(GACHA_STORAGE_LANG_URL, 'EN GachaStorage language'),
-        fetchJson(GACHA_EXTRA_URL, 'gacha.json'),
-        fetchJson(ITEM_URL, 'item.json'),
+        fetch(GACHA_BANNERS_URL).then((res) => res.json()),
+        fetch(GACHA_STORAGES_URL).then((res) => res.json()),
+        fetch(GACHA_BANNER_LANG_URL).then((res) => res.json()),
+        fetch(GACHA_STORAGE_LANG_URL).then((res) => res.json()),
+        fetch(GACHA_EXTRA_URL).then((res) => res.json()),
+        fetch(ITEM_URL).then((res) => res.json()),
     ]);
     return { rawBanners, rawStorages, bannerLang, storageLang, extraBanners, itemData };
 }

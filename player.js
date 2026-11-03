@@ -89,6 +89,13 @@ function main() {
 
     const seasons = getSeasonOrder(meta, seasonData);
     const players = new Map();
+    const playerRegions = new Map();
+
+    const addRegion = (entry, region) => {
+        if (!entry || entry.Id == null) return;
+        const id = String(entry.Id);
+        if (!playerRegions.has(id)) playerRegions.set(id, region);
+    };
 
     for (const season of seasons) {
         const region = seasonData.get(season)?.region || {};
@@ -104,8 +111,12 @@ function main() {
 
         for (const [regionKey, regionData] of Object.entries(region)) {
             if (regionKey === 'all') continue;
-            for (const entry of regionData?.Rank || []) addEntry(entry);
+            for (const entry of regionData?.Rank || []) {
+                addEntry(entry);
+                addRegion(entry, regionKey);
+            }
             addEntry(regionData?.Self, true);
+            addRegion(regionData?.Self, regionKey);
         }
 
         for (const entry of region.all?.Rank || []) addEntry(entry);
@@ -151,6 +162,7 @@ function main() {
             name: player.name,
             pastname: player.pastname,
             icon: player.icon,
+            region: playerRegions.get(id),
         };
         writeJson(path.join(PLAYER_DIR, `${id}.json`), player.seasons);
     }
