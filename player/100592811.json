@@ -3,13 +3,13 @@
         "Id": "100592811",
         "NickName": "面包",
         "HeadIcon": 13001,
-        "Score": 2806194,
-        "Rank": 24,
+        "Score": 2814430,
+        "Rank": 23,
         "TitlePrefix": 1,
         "TitleSuffix": 8,
         "Teams": [
             {
-                "BuildScore": 10815,
+                "BuildScore": 10755,
                 "Chars": [
                     {
                         "Id": 162,
@@ -24,7 +24,7 @@
                         "Level": 90
                     }
                 ],
-                "LevelScore": 1238680,
+                "LevelScore": 1246916,
                 "LevelId": 29,
                 "Discs": [
                     214066,
@@ -32,31 +32,19 @@
                     214039,
                     214030,
                     214067,
-                    214005
+                    214007
                 ],
                 "Potentials": [
-                    {
-                        "PotentialId": 516202,
-                        "Level": 1
-                    },
                     {
                         "PotentialId": 516201,
                         "Level": 1
                     },
                     {
-                        "PotentialId": 516207,
-                        "Level": 6
+                        "PotentialId": 516202,
+                        "Level": 1
                     },
                     {
                         "PotentialId": 516243,
-                        "Level": 6
-                    },
-                    {
-                        "PotentialId": 516241,
-                        "Level": 6
-                    },
-                    {
-                        "PotentialId": 516211,
                         "Level": 6
                     },
                     {
@@ -72,6 +60,22 @@
                         "Level": 6
                     },
                     {
+                        "PotentialId": 516207,
+                        "Level": 6
+                    },
+                    {
+                        "PotentialId": 516211,
+                        "Level": 6
+                    },
+                    {
+                        "PotentialId": 516241,
+                        "Level": 6
+                    },
+                    {
+                        "PotentialId": 516213,
+                        "Level": 6
+                    },
+                    {
                         "PotentialId": 511521,
                         "Level": 1
                     },
@@ -80,15 +84,15 @@
                         "Level": 1
                     },
                     {
-                        "PotentialId": 511533,
-                        "Level": 6
-                    },
-                    {
                         "PotentialId": 511526,
                         "Level": 6
                     },
                     {
-                        "PotentialId": 511542,
+                        "PotentialId": 511533,
+                        "Level": 6
+                    },
+                    {
+                        "PotentialId": 511543,
                         "Level": 1
                     },
                     {
@@ -96,26 +100,22 @@
                         "Level": 1
                     },
                     {
-                        "PotentialId": 510721,
+                        "PotentialId": 510723,
                         "Level": 1
+                    },
+                    {
+                        "PotentialId": 510726,
+                        "Level": 4
                     },
                     {
                         "PotentialId": 510725,
                         "Level": 6
-                    },
-                    {
-                        "PotentialId": 510730,
-                        "Level": 6
-                    },
-                    {
-                        "PotentialId": 510729,
-                        "Level": 1
                     }
                 ],
                 "Notes": [
                     {
                         "Tid": 90012,
-                        "Qty": 41
+                        "Qty": 30
                     },
                     {
                         "Tid": 90022,
@@ -123,19 +123,19 @@
                     },
                     {
                         "Tid": 90016,
-                        "Qty": 73
+                        "Qty": 70
                     },
                     {
                         "Tid": 90017,
-                        "Qty": 21
+                        "Qty": 15
+                    },
+                    {
+                        "Tid": 90015,
+                        "Qty": 15
                     },
                     {
                         "Tid": 90014,
-                        "Qty": 16
-                    },
-                    {
-                        "Tid": 90013,
-                        "Qty": 4
+                        "Qty": 1
                     }
                 ],
                 "ActiveSecondaryIds": [
@@ -143,10 +143,11 @@
                     4066202,
                     4038105,
                     4038202,
-                    4039105
+                    4039105,
+                    4039201
                 ],
                 "RecordRank": "36",
-                "BuildCode": "AAAAogAAAHMAAABrzbADYYbBgAAMCMwAwBAA"
+                "BuildCode": "AAAAogAAAHMAAABrzbADbYbBgAAMAW0AAAAA"
             },
             {
                 "BuildScore": 11040,
