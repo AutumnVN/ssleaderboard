@@ -26,8 +26,8 @@ function getSeasonFiles() {
 function getSeasonTimestamp(season, seasonData) {
     const data = seasonData.get(season);
     let latest = 0;
-    for (const region of Object.values(data?.region || {})) {
-        const time = Number(region?.LastRefreshTime) || 0;
+    for (const region of Object.values(data.region)) {
+        const time = Number(region.LastRefreshTime);
         if (time > latest) latest = time;
     }
     return latest;
@@ -98,7 +98,7 @@ function main() {
     };
 
     for (const season of seasons) {
-        const region = seasonData.get(season)?.region || {};
+        const region = seasonData.get(season).region;
         const entries = new Map();
         const namedEntries = new Map();
 

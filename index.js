@@ -381,13 +381,12 @@ function generateSessionKey(sharedKey, serverPub, clientPub) {
     const count = Math.min(sharedKey.length, 32);
     sharedKey.copy(ikm, 32 - count, 0, count);
 
-    const salt = Buffer.from(serverPub || []);
-    const srvLen = salt.length || 1;
-    const clientBuf = Buffer.from(clientPub || []);
+    const salt = Buffer.from(serverPub);
+    const clientBuf = Buffer.from(clientPub);
     const info = Buffer.alloc(clientBuf.length);
     for (let i = 0; i < clientBuf.length; i++) {
         const c = clientBuf[i] & 0xff;
-        let s = salt[i % srvLen] & 0xff;
+        let s = salt[i % salt.length] & 0xff;
         if (c > s) {
             s = (s << 1) & 0xff;
         } else {
@@ -630,7 +629,7 @@ function makeHeader10() {
 }
 
 function buildNovaMessage(msgId, bodyBuf, cipher, sessionKey, useServerGarble = false, serverGarbleKey = SERVER_GARBLE_KEY_EN) {
-    if (!Buffer.isBuffer(bodyBuf)) bodyBuf = Buffer.from(bodyBuf || []);
+    if (!Buffer.isBuffer(bodyBuf)) bodyBuf = Buffer.from(bodyBuf);
     const pkt = Buffer.alloc(2 + bodyBuf.length);
     pkt.writeUInt16BE(msgId, 0);
     if (bodyBuf.length) bodyBuf.copy(pkt, 2);
@@ -1110,7 +1109,7 @@ function buildGachaOutput(regionKey, fetched, existingRegion, itemData) {
 
         const stats = zeroCounts();
         for (const entry of history) {
-            stats.pulls += entry.items.length || entry.ids.length || 1;
+            stats.pulls += entry.ids.length;
             for (const item of entry.items) addCounts(stats, item);
         }
         stats.byRarity = sortObjectByKey(stats.byRarity);
@@ -1201,11 +1200,7 @@ function buildGachaOutput(regionKey, fetched, existingRegion, itemData) {
 function loadExistingGacha() {
     const file = path.join(__dirname, 'gacha.json');
     if (!fs.existsSync(file)) return null;
-    try {
-        return JSON.parse(fs.readFileSync(file, 'utf8'));
-    } catch {
-        return null;
-    }
+    return JSON.parse(fs.readFileSync(file, 'utf8'));
 }
 
 function saveGachaToFile(data, existing) {
@@ -1263,12 +1258,12 @@ function storeScoreBossRank(info, region, isJson = false) {
         if (prevRegion && Array.isArray(prevRegion.Rank)) oldRank = prevRegion.Rank;
     }
 
-    const newRank = obj.Rank || [];
+    const newRank = obj.Rank;
     const newIds = new Set(newRank.map(r => r.Id));
-    const lastNewScore = newRank.length ? newRank[newRank.length - 1].Score : 0;
+    const lastNewScore = newRank[newRank.length - 1].Score;
 
     const removed = [];
-    for (const oldEntry of oldRank || []) {
+    for (const oldEntry of oldRank) {
         const oldId = oldEntry.Id;
         if (!newIds.has(oldId)) {
             const oldScore = oldEntry.Score;
@@ -1326,12 +1321,12 @@ function storeJointDrillRank(info, region, isJson = false) {
         if (prevRegion && Array.isArray(prevRegion.Rank)) oldRank = prevRegion.Rank;
     }
 
-    const newRank = obj.Rank || [];
+    const newRank = obj.Rank;
     const newIds = new Set(newRank.map(r => r.Id));
-    const lastNewScore = newRank.length ? newRank[newRank.length - 1].Score : 0;
+    const lastNewScore = newRank[newRank.length - 1].Score;
 
     const removed = [];
-    for (const oldEntry of oldRank || []) {
+    for (const oldEntry of oldRank) {
         const oldId = oldEntry.Id;
         if (!newIds.has(oldId)) {
             const oldScore = oldEntry.Score;
@@ -1447,14 +1442,14 @@ async function processSeason(season) {
         if (rd.Rank) {
             for (const entry of rd.Rank) {
                 for (const team of entry.Teams || []) {
-                    team.RecordRank = computeRecordRank(team.BuildScore, starTowerBuildRankData || {});
+                    team.RecordRank = computeRecordRank(team.BuildScore, starTowerBuildRankData);
                 }
             }
         }
 
         if (rd.Self?.Teams) {
             for (const team of rd.Self.Teams) {
-                team.RecordRank = computeRecordRank(team.BuildScore, starTowerBuildRankData || {});
+                team.RecordRank = computeRecordRank(team.BuildScore, starTowerBuildRankData);
             }
         }
 
@@ -1501,7 +1496,7 @@ async function processSeason(season) {
             const list = Object.keys(counts)
                 .map((k) => {
                     const idNum = +k;
-                    const name = (characterIdData && characterIdData[idNum]) || undefined;
+                    const name = characterIdData[idNum];
                     const us = (users[k] || []).map((u) => ({ id: u.id, name: u.name, rank: u.rank }));
                     return { id: idNum, count: counts[k], name, users: us };
                 })
@@ -1519,7 +1514,7 @@ async function processSeason(season) {
         const usageAll = Object.keys(charCountsAll)
             .map((k) => {
                 const idNum = +k;
-                const name = (characterIdData && characterIdData[idNum]) || undefined;
+                const name = characterIdData[idNum];
                 const users = (charUsersAll[k] || []).map((u) => ({ id: u.id, name: u.name, rank: u.rank }));
                 return { id: idNum, count: charCountsAll[k], name, users };
             })
@@ -1584,9 +1579,9 @@ async function processSeason(season) {
                 const support1 = parts[2];
                 const us = (users[k] || []).map((u) => ({ id: u.id, name: u.name, rank: u.rank, teamScore: u.teamScore }));
                 const topUser = us.length ? us.reduce((best, u) => (!best || (u.teamScore || 0) > (best.teamScore || 0) ? u : best), null) : null;
-                const mainName = (characterIdData && characterIdData[mainId]) || undefined;
-                const supportName0 = (characterIdData && characterIdData[support0]) || undefined;
-                const supportName1 = (characterIdData && characterIdData[support1]) || undefined;
+                const mainName = characterIdData[mainId];
+                const supportName0 = characterIdData[support0];
+                const supportName1 = characterIdData[support1];
                 const displayName = `${mainName || mainId} • ${supportName0 || support0}, ${supportName1 || support1}`;
                 return { key: k, main: mainId, members: [mainId, support0, support1], count: counts[k], name: displayName, users: us, topUser };
             });
@@ -1608,9 +1603,9 @@ async function processSeason(season) {
             const support1 = parts[2];
             const users = (teamUsersAll[k] || []).map((u) => ({ id: u.id, name: u.name, rank: u.rank, teamScore: u.teamScore }))
             const topUser = users.length ? users.reduce((best, u) => (!best || (u.teamScore || 0) > (best.teamScore || 0) ? u : best), null) : null;
-            const mainName = (characterIdData && characterIdData[mainId]) || undefined;
-            const supportName0 = (characterIdData && characterIdData[support0]) || undefined;
-            const supportName1 = (characterIdData && characterIdData[support1]) || undefined;
+            const mainName = characterIdData[mainId];
+            const supportName0 = characterIdData[support0];
+            const supportName1 = characterIdData[support1];
             const displayName = `${mainName || mainId} • ${supportName0 || support0}, ${supportName1 || support1}`;
             return { key: k, main: mainId, members: [mainId, support0, support1], count: teamCountsAll[k], name: displayName, users: users, topUser };
         });
@@ -1823,17 +1818,14 @@ function packPotentialData(tbCharPotential, charCfgMap = {}) {
         for (let i = numBits - 1; i >= 0; i--) addBit((value >>> i) & 1);
     };
     const toUint32 = (num) => {
-        num = Math.floor(num || 0);
+        num = Math.floor(num);
         if (num < 0) num = 0;
         if (num > 0xffffffff) num = 0xffffffff;
         return num >>> 0;
     };
     const getLevelFromPotentials = (tbPotential, nId) => {
-        if (!Array.isArray(tbPotential)) return 0;
         for (const p of tbPotential) {
-            if ((p.nId ?? p.Id ?? p.id) === nId) {
-                return (p.nLevel ?? p.Level ?? p.level ?? 0) | 0;
-            }
+            if (p.Id === nId) return p.Level | 0;
         }
         return 0;
     };
@@ -1846,26 +1838,23 @@ function packPotentialData(tbCharPotential, charCfgMap = {}) {
     };
 
     for (const v of tbCharPotential) {
-        const nCharId = v.nCharId ?? v.CharId ?? v.charId;
-        if (!nCharId || nCharId === 0) return null;
-        writeBits(toUint32(nCharId), 32);
+        if (!v.CharId) return null;
+        writeBits(toUint32(v.CharId), 32);
     }
 
-    tbCharPotential.forEach((v, idx) => {
-        const nCharId = v.nCharId ?? v.CharId ?? v.charId;
-        const potentials = v.tbPotential ?? v.Potentials ?? v.potentials ?? [];
-        const cfg = charCfgMap[nCharId];
+    for (const [idx, v] of tbCharPotential.entries()) {
+        const cfg = charCfgMap[v.CharId];
         if (!cfg) return null;
         if (idx === 0) {
-            pack_potential(cfg.MasterSpecificPotentialIds || [], potentials, true);
-            pack_potential(cfg.MasterNormalPotentialIds || [], potentials, false);
-            pack_potential(cfg.CommonPotentialIds || [], potentials, false);
+            pack_potential(cfg.MasterSpecificPotentialIds || [], v.Potentials, true);
+            pack_potential(cfg.MasterNormalPotentialIds || [], v.Potentials, false);
+            pack_potential(cfg.CommonPotentialIds || [], v.Potentials, false);
         } else {
-            pack_potential(cfg.AssistSpecificPotentialIds || [], potentials, true);
-            pack_potential(cfg.AssistNormalPotentialIds || [], potentials, false);
-            pack_potential(cfg.CommonPotentialIds || [], potentials, false);
+            pack_potential(cfg.AssistSpecificPotentialIds || [], v.Potentials, true);
+            pack_potential(cfg.AssistNormalPotentialIds || [], v.Potentials, false);
+            pack_potential(cfg.CommonPotentialIds || [], v.Potentials, false);
         }
-    });
+    }
 
     const bytes = [];
     for (let i = 0; i < bitBuffer.length; i += 8) {
@@ -1878,7 +1867,7 @@ function packPotentialData(tbCharPotential, charCfgMap = {}) {
 
 function mapTeamPotentials(team) {
     const teamPots = team.Potentials || [];
-    const mappedPots = teamPots.map((p) => ({ Id: p.PotentialId ?? p.Id ?? p.id, Level: p.Level ?? p.nLevel ?? p.level }));
+    const mappedPots = teamPots.map((p) => ({ Id: p.PotentialId, Level: p.Level }));
     const chars = team.Chars || [];
     const tb = [];
     for (let i = 0; i < 3; i++) {
@@ -2193,11 +2182,11 @@ function loadLocalDataToRegionData() {
                 fetch(BLITZ_URL).then(res => res.json()),
                 fetch(RAID_URL).then(res => res.json())
             ]);
-            const remoteMap = isBBSeason ? (blitzData || {}) : (raidData || {});
+            const remoteMap = isBBSeason ? blitzData : raidData;
 
             meta.floor = Array.from(levelSet).sort((a, b) => a - b).reduce((m, lid) => {
-                const fd = remoteMap[lid] || remoteMap[String(lid)] || {};
-                m[String(lid)] = { name: fd.name || fd.Name || String(lid), icon: fd.icon || fd.Icon || null };
+                const fd = remoteMap[lid];
+                m[String(lid)] = { name: fd?.name ?? String(lid), icon: fd?.icon ?? null };
                 return m;
             }, {});
         }
@@ -2223,7 +2212,7 @@ function loadLocalDataToRegionData() {
             if (Array.isArray(obj.Rank)) {
                 for (const r of obj.Rank) {
                     if (!r) continue;
-                    const id = Number(r.Id || r.id || 0) || 0;
+                    const id = Number(r.Id);
                     if (id) present.add(id);
                 }
             } else if (obj.region && typeof obj.region === 'object') {
@@ -2232,7 +2221,7 @@ function loadLocalDataToRegionData() {
                     if (!rr || !Array.isArray(rr.Rank)) continue;
                     for (const r of rr.Rank) {
                         if (!r) continue;
-                        const id = Number(r.Id || r.id || 0) || 0;
+                        const id = Number(r.Id);
                         if (id) present.add(id);
                     }
                 }
