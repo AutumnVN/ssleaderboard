@@ -73,9 +73,9 @@ message IKEReq {
 
 message IKEResp {
     optional int64 ServerTs = 3;
-    optional int32 Cipher = 2;
-    optional bytes PubKey = 4;
-    optional string Token = 1;
+    required int32 Cipher = 2;
+    required bytes PubKey = 4;
+    required string Token = 1;
 }
 
 message HonorInfo {
@@ -184,12 +184,12 @@ message Item {
 }
 
 message AccInfo {
-    optional uint64 Id = 1;
+    required uint64 Id = 1;
     optional string NickName = 2;
 }
 
 message PlayerInfo {
-    optional AccInfo Acc = 1;
+    required AccInfo Acc = 1;
     repeated Res Res = 2;
     repeated Item Items = 3;
     optional bytes NextPackage = 2047;
@@ -201,8 +201,8 @@ message UI32 {
 
 message GachaHistory {
     repeated uint32 Ids = 1;
-    optional int64 Time = 2;
-    optional uint32 Gid = 3;
+    required int64 Time = 2;
+    required uint32 Gid = 3;
 }
 
 message GachaHistories {
@@ -256,7 +256,7 @@ message LoginReq {
 }
 
 message LoginResp {
-    optional string Token = 1;
+    required string Token = 1;
 }
 
 message Error {
@@ -486,7 +486,6 @@ async function doIkeHandshake(serverUrl = SERVER_URL_EN, serverGarbleKey = SERVE
     const token = resp.Token;
     const cipher = resp.Cipher;
     const serverPub = resp.PubKey;
-    if (!serverPub || serverPub.length === 0) throw new Error('No server public key received');
 
     const shared = ecdh.computeSecret(Buffer.from(serverPub));
     const sessionKey = generateSessionKey(shared, Buffer.from(serverPub), clientPub);
@@ -882,12 +881,11 @@ async function fetchGachaHistory(uid, token, cipher, sessionKey, metadata, profi
         try {
             const histories = await getGachaHistories(token, storageId, cipher, sessionKey);
             for (const history of histories.List || []) {
-                if (!history || !Array.isArray(history.Ids)) continue;
                 pulls.push({
                     bannerId: Number(history.Gid),
                     storageId,
                     time: Number(history.Time),
-                    ids: history.Ids.map(Number),
+                    ids: (history.Ids || []).map(Number),
                 });
             }
         } catch (err) {
@@ -1955,10 +1953,9 @@ function loadLocalDataToRegionData() {
             console.log('Requesting Gacha history (EN)...');
             try {
                 const metadata = await loadGachaMetadata();
-                const acc = playerInfoEN?.Acc;
-                const gameUid = acc?.Id != null ? String(acc.Id) : null;
-                if (!gameUid || gameUid === '0') throw new Error('PlayerData has no game UID');
-                const gameName = acc?.NickName ? String(acc.NickName) : null;
+                const acc = playerInfoEN.Acc;
+                const gameUid = String(acc.Id);
+                const gameName = acc.NickName ? String(acc.NickName) : null;
                 const gacha = await fetchGachaHistory(
                     accountUid,
                     newToken,
