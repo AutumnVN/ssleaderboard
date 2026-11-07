@@ -1,13 +1,13 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1794040927",
+            "LastRefreshTime": "1794041527",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "HeadIcon": 15602,
                 "Score": 912374,
-                "Rank": 956,
+                "Rank": 958,
                 "TitlePrefix": 35,
                 "TitleSuffix": 36,
                 "Teams": [
@@ -3271,7 +3271,7 @@
                     "Id": "706720015",
                     "NickName": "Riri22",
                     "HeadIcon": 15701,
-                    "Score": 2673599,
+                    "Score": 2698673,
                     "Rank": 10,
                     "TitlePrefix": 35,
                     "TitleSuffix": 10,
@@ -3421,7 +3421,7 @@
                             "BuildCode": "AAAAogAAAHMAAACbzbADXYbBiAAMADABAAwA"
                         },
                         {
-                            "BuildScore": 10260,
+                            "BuildScore": 9510,
                             "Chars": [
                                 {
                                     "Id": 156,
@@ -3436,7 +3436,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 779060,
+                            "LevelScore": 804134,
                             "LevelId": 29,
                             "Discs": [
                                 214033,
@@ -3456,12 +3456,20 @@
                                     "Level": 1
                                 },
                                 {
+                                    "PotentialId": 515612,
+                                    "Level": 6
+                                },
+                                {
                                     "PotentialId": 515606,
                                     "Level": 6
                                 },
                                 {
                                     "PotentialId": 515611,
-                                    "Level": 5
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515643,
+                                    "Level": 6
                                 },
                                 {
                                     "PotentialId": 515613,
@@ -3472,23 +3480,15 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 515612,
-                                    "Level": 6
-                                },
-                                {
                                     "PotentialId": 515608,
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 515643,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514923,
+                                    "PotentialId": 514922,
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 514922,
+                                    "PotentialId": 514923,
                                     "Level": 1
                                 },
                                 {
@@ -3500,15 +3500,11 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 514930,
-                                    "Level": 1
-                                },
-                                {
                                     "PotentialId": 514933,
-                                    "Level": 4
+                                    "Level": 6
                                 },
                                 {
-                                    "PotentialId": 510721,
+                                    "PotentialId": 514930,
                                     "Level": 1
                                 },
                                 {
@@ -3516,7 +3512,15 @@
                                     "Level": 1
                                 },
                                 {
+                                    "PotentialId": 510721,
+                                    "Level": 1
+                                },
+                                {
                                     "PotentialId": 510726,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 510743,
                                     "Level": 6
                                 },
                                 {
@@ -3524,54 +3528,53 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 510743,
-                                    "Level": 6
+                                    "PotentialId": 510742,
+                                    "Level": 2
                                 }
                             ],
                             "Notes": [
                                 {
                                     "Tid": 90021,
-                                    "Qty": 56
+                                    "Qty": 40
                                 },
                                 {
                                     "Tid": 90013,
-                                    "Qty": 8
+                                    "Qty": 16
                                 },
                                 {
                                     "Tid": 90017,
-                                    "Qty": 25
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 25
-                                },
-                                {
-                                    "Tid": 90012,
                                     "Qty": 27
                                 },
                                 {
+                                    "Tid": 90015,
+                                    "Qty": 22
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 23
+                                },
+                                {
                                     "Tid": 90011,
-                                    "Qty": 34
+                                    "Qty": 11
                                 },
                                 {
                                     "Tid": 90014,
-                                    "Qty": 2
+                                    "Qty": 18
                                 },
                                 {
                                     "Tid": 90016,
-                                    "Qty": 55
+                                    "Qty": 45
                                 }
                             ],
                             "ActiveSecondaryIds": [
-                                4033102,
+                                4033101,
                                 4033201,
-                                4023102,
-                                4023202,
-                                4037104,
+                                4023101,
+                                4037103,
                                 4037201
                             ],
-                            "RecordRank": "34",
-                            "BuildCode": "AAAAnAAAAJUAAABrUYEXbAZgADsIAMGAAGAG"
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAnAAAAJUAAABrUYEbbAZgADsMAMGAAGAW"
                         }
                     ],
                     "Honors": [
@@ -32334,7 +32337,7 @@
                     ]
                 }
             ],
-            "Total": 20965,
+            "Total": 20974,
             "UsageByFloor": {
                 "28": [
                     {
@@ -40044,7 +40047,7 @@
                                 "id": "706720015",
                                 "name": "Riri22",
                                 "rank": 10,
-                                "teamScore": 779060
+                                "teamScore": 804134
                             },
                             {
                                 "id": "706720549",
@@ -41524,7 +41527,7 @@
                                 "id": "706720015",
                                 "name": "Riri22",
                                 "rank": 10,
-                                "teamScore": 779060
+                                "teamScore": 804134
                             },
                             {
                                 "id": "706720549",
@@ -44659,7 +44662,7 @@
                                 "id": "706720015",
                                 "name": "Riri22",
                                 "rank": 10,
-                                "teamScore": 779060
+                                "teamScore": 804134
                             },
                             {
                                 "id": "706720549",
@@ -44699,6 +44702,7 @@
                                 "p515611": 4,
                                 "p510733": 2,
                                 "p514943": 1,
+                                "p510742": 1,
                                 "p515601": 1
                             },
                             "high": {
@@ -44727,6 +44731,7 @@
                                 "p510733": 2,
                                 "p515611": 2,
                                 "p514943": 1,
+                                "p510742": 1,
                                 "p515601": 1
                             }
                         },
@@ -47467,7 +47472,7 @@
                                 "id": "706720015",
                                 "name": "Riri22",
                                 "rank": 10,
-                                "teamScore": 779060
+                                "teamScore": 804134
                             },
                             {
                                 "id": "706720549",
@@ -47507,6 +47512,7 @@
                                 "p515611": 4,
                                 "p510733": 2,
                                 "p514943": 1,
+                                "p510742": 1,
                                 "p515601": 1
                             },
                             "high": {
@@ -47535,6 +47541,7 @@
                                 "p510733": 2,
                                 "p515611": 2,
                                 "p514943": 1,
+                                "p510742": 1,
                                 "p515601": 1
                             }
                         },
@@ -97026,7 +97033,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1794040946",
+            "LastRefreshTime": "1794041546",
             "Rank": [
                 {
                     "Id": "507501904",
@@ -128875,7 +128882,7 @@
                     ]
                 }
             ],
-            "Total": 6517,
+            "Total": 6519,
             "UsageByFloor": {
                 "28": [
                     {
@@ -143382,7 +143389,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1794040839",
+            "LastRefreshTime": "1794041439",
             "Rank": [
                 {
                     "Id": "900334820",
@@ -176063,7 +176070,7 @@
                     ]
                 }
             ],
-            "Total": 7241,
+            "Total": 7247,
             "UsageByFloor": {
                 "28": [
                     {
@@ -284636,7 +284643,7 @@
                     "Id": "706720015",
                     "NickName": "Riri22 (EN)",
                     "HeadIcon": 15701,
-                    "Score": 2673599,
+                    "Score": 2698673,
                     "Rank": 149,
                     "TitlePrefix": 35,
                     "TitleSuffix": 10,
@@ -284786,7 +284793,7 @@
                             "BuildCode": "AAAAogAAAHMAAACbzbADXYbBiAAMADABAAwA"
                         },
                         {
-                            "BuildScore": 10260,
+                            "BuildScore": 9510,
                             "Chars": [
                                 {
                                     "Id": 156,
@@ -284801,7 +284808,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 779060,
+                            "LevelScore": 804134,
                             "LevelId": 29,
                             "Discs": [
                                 214033,
@@ -284821,12 +284828,20 @@
                                     "Level": 1
                                 },
                                 {
+                                    "PotentialId": 515612,
+                                    "Level": 6
+                                },
+                                {
                                     "PotentialId": 515606,
                                     "Level": 6
                                 },
                                 {
                                     "PotentialId": 515611,
-                                    "Level": 5
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 515643,
+                                    "Level": 6
                                 },
                                 {
                                     "PotentialId": 515613,
@@ -284837,23 +284852,15 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 515612,
-                                    "Level": 6
-                                },
-                                {
                                     "PotentialId": 515608,
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 515643,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 514923,
+                                    "PotentialId": 514922,
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 514922,
+                                    "PotentialId": 514923,
                                     "Level": 1
                                 },
                                 {
@@ -284865,15 +284872,11 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 514930,
-                                    "Level": 1
-                                },
-                                {
                                     "PotentialId": 514933,
-                                    "Level": 4
+                                    "Level": 6
                                 },
                                 {
-                                    "PotentialId": 510721,
+                                    "PotentialId": 514930,
                                     "Level": 1
                                 },
                                 {
@@ -284881,7 +284884,15 @@
                                     "Level": 1
                                 },
                                 {
+                                    "PotentialId": 510721,
+                                    "Level": 1
+                                },
+                                {
                                     "PotentialId": 510726,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 510743,
                                     "Level": 6
                                 },
                                 {
@@ -284889,54 +284900,53 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 510743,
-                                    "Level": 6
+                                    "PotentialId": 510742,
+                                    "Level": 2
                                 }
                             ],
                             "Notes": [
                                 {
                                     "Tid": 90021,
-                                    "Qty": 56
+                                    "Qty": 40
                                 },
                                 {
                                     "Tid": 90013,
-                                    "Qty": 8
+                                    "Qty": 16
                                 },
                                 {
                                     "Tid": 90017,
-                                    "Qty": 25
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 25
-                                },
-                                {
-                                    "Tid": 90012,
                                     "Qty": 27
                                 },
                                 {
+                                    "Tid": 90015,
+                                    "Qty": 22
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 23
+                                },
+                                {
                                     "Tid": 90011,
-                                    "Qty": 34
+                                    "Qty": 11
                                 },
                                 {
                                     "Tid": 90014,
-                                    "Qty": 2
+                                    "Qty": 18
                                 },
                                 {
                                     "Tid": 90016,
-                                    "Qty": 55
+                                    "Qty": 45
                                 }
                             ],
                             "ActiveSecondaryIds": [
-                                4033102,
+                                4033101,
                                 4033201,
-                                4023102,
-                                4023202,
-                                4037104,
+                                4023101,
+                                4037103,
                                 4037201
                             ],
-                            "RecordRank": "34",
-                            "BuildCode": "AAAAnAAAAJUAAABrUYEXbAZgADsIAMGAAGAG"
+                            "RecordRank": "32",
+                            "BuildCode": "AAAAnAAAAJUAAABrUYEbbAZgADsMAMGAAGAW"
                         }
                     ],
                     "Honors": [
@@ -397768,8 +397778,8 @@
                     ]
                 }
             ],
-            "Total": 84189,
-            "LastRefreshTime": "1794041183",
+            "Total": 84206,
+            "LastRefreshTime": "1794041546",
             "UsageByFloor": {
                 "28": [
                     {
@@ -434303,7 +434313,7 @@
                                 "id": "706720015",
                                 "name": "Riri22 (EN)",
                                 "rank": 149,
-                                "teamScore": 779060
+                                "teamScore": 804134
                             },
                             {
                                 "id": "706720549",
@@ -440721,7 +440731,7 @@
                                 "id": "706720015",
                                 "name": "Riri22 (EN)",
                                 "rank": 149,
-                                "teamScore": 779060
+                                "teamScore": 804134
                             },
                             {
                                 "id": "706720549",
@@ -449589,7 +449599,7 @@
                                 "id": "706720015",
                                 "name": "Riri22 (EN)",
                                 "rank": 149,
-                                "teamScore": 779060
+                                "teamScore": 804134
                             },
                             {
                                 "id": "706720549",
@@ -449631,6 +449641,7 @@
                                 "p510725": 1,
                                 "p514943": 1,
                                 "p510730": 1,
+                                "p510742": 1,
                                 "p515601": 1
                             },
                             "high": {
@@ -449662,6 +449673,7 @@
                                 "p510725": 1,
                                 "p514943": 1,
                                 "p510730": 1,
+                                "p510742": 1,
                                 "p515601": 1
                             }
                         },
@@ -458667,7 +458679,7 @@
                                 "id": "706720015",
                                 "name": "Riri22 (EN)",
                                 "rank": 149,
-                                "teamScore": 779060
+                                "teamScore": 804134
                             },
                             {
                                 "id": "706720549",
@@ -458709,6 +458721,7 @@
                                 "p510725": 1,
                                 "p514943": 1,
                                 "p510730": 1,
+                                "p510742": 1,
                                 "p515601": 1
                             },
                             "high": {
@@ -458740,6 +458753,7 @@
                                 "p510725": 1,
                                 "p514943": 1,
                                 "p510730": 1,
+                                "p510742": 1,
                                 "p515601": 1
                             }
                         },
