@@ -3,13 +3,13 @@
         "Id": "101463116",
         "NickName": "没有协奏5停氪",
         "HeadIcon": 16001,
-        "Score": 2348863,
-        "Rank": 57,
+        "Score": 2487226,
+        "Rank": 46,
         "TitlePrefix": 3,
         "TitleSuffix": 2,
         "Teams": [
             {
-                "BuildScore": 10425,
+                "BuildScore": 10365,
                 "Chars": [
                     {
                         "Id": 162,
@@ -24,47 +24,35 @@
                         "Level": 90
                     }
                 ],
-                "LevelScore": 1865225,
+                "LevelScore": 2003588,
                 "LevelId": 29,
                 "Discs": [
                     214066,
-                    214067,
+                    214039,
                     214038,
                     214005,
                     214030,
-                    214010
+                    214067
                 ],
                 "Potentials": [
+                    {
+                        "PotentialId": 516202,
+                        "Level": 1
+                    },
                     {
                         "PotentialId": 516201,
                         "Level": 1
                     },
                     {
-                        "PotentialId": 516202,
-                        "Level": 1
+                        "PotentialId": 516213,
+                        "Level": 6
                     },
                     {
                         "PotentialId": 516205,
                         "Level": 6
                     },
                     {
-                        "PotentialId": 516241,
-                        "Level": 6
-                    },
-                    {
-                        "PotentialId": 516213,
-                        "Level": 3
-                    },
-                    {
-                        "PotentialId": 516212,
-                        "Level": 6
-                    },
-                    {
                         "PotentialId": 516211,
-                        "Level": 6
-                    },
-                    {
-                        "PotentialId": 516243,
                         "Level": 6
                     },
                     {
@@ -76,11 +64,23 @@
                         "Level": 6
                     },
                     {
-                        "PotentialId": 511522,
-                        "Level": 1
+                        "PotentialId": 516241,
+                        "Level": 6
+                    },
+                    {
+                        "PotentialId": 516243,
+                        "Level": 6
+                    },
+                    {
+                        "PotentialId": 516212,
+                        "Level": 6
                     },
                     {
                         "PotentialId": 511521,
+                        "Level": 1
+                    },
+                    {
+                        "PotentialId": 511522,
                         "Level": 1
                     },
                     {
@@ -92,7 +92,7 @@
                         "Level": 6
                     },
                     {
-                        "PotentialId": 511531,
+                        "PotentialId": 510723,
                         "Level": 1
                     },
                     {
@@ -100,12 +100,16 @@
                         "Level": 1
                     },
                     {
-                        "PotentialId": 510723,
+                        "PotentialId": 510725,
+                        "Level": 6
+                    },
+                    {
+                        "PotentialId": 510730,
                         "Level": 1
                     },
                     {
-                        "PotentialId": 510725,
-                        "Level": 6
+                        "PotentialId": 510727,
+                        "Level": 1
                     },
                     {
                         "PotentialId": 510733,
@@ -115,43 +119,42 @@
                 "Notes": [
                     {
                         "Tid": 90017,
-                        "Qty": 17
+                        "Qty": 12
                     },
                     {
                         "Tid": 90012,
-                        "Qty": 30
+                        "Qty": 15
                     },
                     {
                         "Tid": 90022,
-                        "Qty": 77
+                        "Qty": 70
                     },
                     {
                         "Tid": 90016,
-                        "Qty": 71
-                    },
-                    {
-                        "Tid": 90014,
-                        "Qty": 26
+                        "Qty": 72
                     },
                     {
                         "Tid": 90015,
-                        "Qty": 3
+                        "Qty": 17
+                    },
+                    {
+                        "Tid": 90014,
+                        "Qty": 17
                     },
                     {
                         "Tid": 90013,
-                        "Qty": 3
+                        "Qty": 4
                     }
                 ],
                 "ActiveSecondaryIds": [
                     4066105,
-                    4066202,
-                    4067102,
-                    4067201,
+                    4066201,
+                    4039105,
                     4038105,
-                    4038202
+                    4038201
                 ],
                 "RecordRank": "35",
-                "BuildCode": "AAAAogAAAHMAAABrzbADZ4bBgAQMAGwAAAIA"
+                "BuildCode": "AAAAogAAAHMAAABrzbADbYbBgAAMAGwIIAIA"
             },
             {
                 "BuildScore": 10230,
