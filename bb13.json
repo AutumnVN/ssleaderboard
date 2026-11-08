@@ -1,13 +1,13 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1794171159",
+            "LastRefreshTime": "1794171759",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
                 "HeadIcon": 15602,
                 "Score": 912374,
-                "Rank": 1016,
+                "Rank": 1018,
                 "TitlePrefix": 35,
                 "TitleSuffix": 36,
                 "Teams": [
@@ -3195,7 +3195,7 @@
                     "Id": "700913340",
                     "NickName": "Tyri",
                     "HeadIcon": 11501,
-                    "Score": 2910455,
+                    "Score": 2940687,
                     "Rank": 10,
                     "TitlePrefix": 33,
                     "TitleSuffix": 46,
@@ -3216,7 +3216,7 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 1996434,
+                            "LevelScore": 2026666,
                             "LevelId": 29,
                             "Discs": [
                                 214066,
@@ -32260,7 +32260,7 @@
                     ]
                 }
             ],
-            "Total": 22777,
+            "Total": 22785,
             "UsageByFloor": {
                 "28": [
                     {
@@ -39602,7 +39602,7 @@
                                 "id": "700913340",
                                 "name": "Tyri",
                                 "rank": 10,
-                                "teamScore": 1996434
+                                "teamScore": 2026666
                             },
                             {
                                 "id": "700949658",
@@ -40487,16 +40487,16 @@
                                 "teamScore": 2028534
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri",
+                                "rank": 10,
+                                "teamScore": 2026666
+                            },
+                            {
                                 "id": "701316401",
                                 "name": "clone-nekosama",
                                 "rank": 50,
                                 "teamScore": 2018067
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri",
-                                "rank": 10,
-                                "teamScore": 1996434
                             },
                             {
                                 "id": "700483621",
@@ -44178,7 +44178,7 @@
                                 "id": "700913340",
                                 "name": "Tyri",
                                 "rank": 10,
-                                "teamScore": 1996434
+                                "teamScore": 2026666
                             },
                             {
                                 "id": "700949658",
@@ -46302,16 +46302,16 @@
                                 "teamScore": 2028534
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri",
+                                "rank": 10,
+                                "teamScore": 2026666
+                            },
+                            {
                                 "id": "701316401",
                                 "name": "clone-nekosama",
                                 "rank": 50,
                                 "teamScore": 2018067
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri",
-                                "rank": 10,
-                                "teamScore": 1996434
                             },
                             {
                                 "id": "700483621",
@@ -46812,8 +46812,8 @@
                                 "p511531": 9,
                                 "p511532": 8,
                                 "p516213": 6,
-                                "p510741": 6,
                                 "p510743": 6,
+                                "p510741": 6,
                                 "p510731": 5,
                                 "p511530": 5,
                                 "p516211": 4,
@@ -97783,7 +97783,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1794171180",
+            "LastRefreshTime": "1794171780",
             "Rank": [
                 {
                     "Id": "507501904",
@@ -129689,7 +129689,7 @@
                     ]
                 }
             ],
-            "Total": 7346,
+            "Total": 7347,
             "UsageByFloor": {
                 "28": [
                     {
@@ -144160,7 +144160,7 @@
             }
         },
         "tw": {
-            "LastRefreshTime": "1794171048",
+            "LastRefreshTime": "1794171648",
             "Rank": [
                 {
                     "Id": "900334820",
@@ -161924,11 +161924,11 @@
                         },
                         {
                             "Id": 112139,
-                            "AffinityLV": 27
+                            "AffinityLV": 28
                         },
                         {
                             "Id": 112162,
-                            "AffinityLV": 26
+                            "AffinityLV": 27
                         }
                     ]
                 },
@@ -191226,7 +191226,7 @@
             }
         },
         "cn": {
-            "LastRefreshTime": "1794170547",
+            "LastRefreshTime": "1794171147",
             "Rank": [
                 {
                     "Id": "100391766",
@@ -223163,7 +223163,7 @@
                     ]
                 }
             ],
-            "Total": 28030,
+            "Total": 28031,
             "UsageByFloor": {
                 "28": [
                     {
@@ -272321,11 +272321,315 @@
                     ]
                 },
                 {
+                    "Id": "700913340",
+                    "NickName": "Tyri (EN)",
+                    "HeadIcon": 11501,
+                    "Score": 2940687,
+                    "Rank": 111,
+                    "TitlePrefix": 33,
+                    "TitleSuffix": 46,
+                    "Teams": [
+                        {
+                            "BuildScore": 11445,
+                            "Chars": [
+                                {
+                                    "Id": 162,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 115,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 107,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 2026666,
+                            "LevelId": 29,
+                            "Discs": [
+                                214066,
+                                214067,
+                                214038,
+                                214030,
+                                214051,
+                                214010
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 516201,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516202,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516211,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516241,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516207,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516206,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516205,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516243,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516212,
+                                    "Level": 5
+                                },
+                                {
+                                    "PotentialId": 511522,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511521,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511527,
+                                    "Level": 4
+                                },
+                                {
+                                    "PotentialId": 511533,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511526,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 510722,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 510723,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 510725,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 510733,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 510729,
+                                    "Level": 2
+                                },
+                                {
+                                    "PotentialId": 510742,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 510743,
+                                    "Level": 1
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 60
+                                },
+                                {
+                                    "Tid": 90022,
+                                    "Qty": 60
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 60
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 55
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4066104,
+                                4066204,
+                                4067104,
+                                4067203,
+                                4038104,
+                                4038204
+                            ],
+                            "RecordRank": "38",
+                            "BuildCode": "AAAAogAAAHMAAABrzbADUYbBoAAMAGwAACIJ"
+                        },
+                        {
+                            "BuildScore": 11430,
+                            "Chars": [
+                                {
+                                    "Id": 139,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 914021,
+                            "LevelId": 28,
+                            "Discs": [
+                                214026,
+                                214055,
+                                214061,
+                                214031,
+                                214005,
+                                214062
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 513902,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513901,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513906,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513907,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513943,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513905,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513913,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513031,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 1
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 60
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 60
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 66
+                                },
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 14
+                                },
+                                {
+                                    "Tid": 90015,
+                                    "Qty": 3
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 11
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4026104,
+                                4026204,
+                                4055104,
+                                4055204,
+                                4061104,
+                                4061204
+                            ],
+                            "RecordRank": "38",
+                            "BuildCode": "AAAAiwAAAKAAAACCzbADAAYwBsBmBsOABAwA"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 111001
+                        },
+                        {},
+                        {}
+                    ]
+                },
+                {
                     "Id": "302662100",
                     "NickName": "N (JP)",
                     "HeadIcon": 101,
                     "Score": 2937986,
-                    "Rank": 111,
+                    "Rank": 112,
                     "TitlePrefix": 1,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -272650,7 +272954,7 @@
                     "NickName": "琴纱月 (CN)",
                     "HeadIcon": 11203,
                     "Score": 2925003,
-                    "Rank": 112,
+                    "Rank": 113,
                     "TitlePrefix": 45,
                     "TitleSuffix": 44,
                     "Teams": [
@@ -272989,7 +273293,7 @@
                     "NickName": "오더풀스윗드림 (KR)",
                     "HeadIcon": 1310011,
                     "Score": 2924772,
-                    "Rank": 113,
+                    "Rank": 114,
                     "TitlePrefix": 21,
                     "TitleSuffix": 44,
                     "Teams": [
@@ -273325,7 +273629,7 @@
                     "NickName": "魔王 (CN)",
                     "HeadIcon": 1310011,
                     "Score": 2920363,
-                    "Rank": 114,
+                    "Rank": 115,
                     "TitlePrefix": 3,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -273652,7 +273956,7 @@
                     "NickName": "표화묘 (KR)",
                     "HeadIcon": 13901,
                     "Score": 2920260,
-                    "Rank": 115,
+                    "Rank": 116,
                     "TitlePrefix": 37,
                     "TitleSuffix": 38,
                     "Teams": [
@@ -273985,7 +274289,7 @@
                     "NickName": "wiki (KR)",
                     "HeadIcon": 1310012,
                     "Score": 2912885,
-                    "Rank": 116,
+                    "Rank": 117,
                     "TitlePrefix": 43,
                     "TitleSuffix": 46,
                     "Teams": [
@@ -274290,310 +274594,6 @@
                         {
                             "Id": 118111
                         }
-                    ]
-                },
-                {
-                    "Id": "700913340",
-                    "NickName": "Tyri (EN)",
-                    "HeadIcon": 11501,
-                    "Score": 2910455,
-                    "Rank": 117,
-                    "TitlePrefix": 33,
-                    "TitleSuffix": 46,
-                    "Teams": [
-                        {
-                            "BuildScore": 11445,
-                            "Chars": [
-                                {
-                                    "Id": 162,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 115,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 107,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 1996434,
-                            "LevelId": 29,
-                            "Discs": [
-                                214066,
-                                214067,
-                                214038,
-                                214030,
-                                214051,
-                                214010
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 516201,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516202,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516211,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516241,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516207,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516206,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516205,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516243,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516212,
-                                    "Level": 5
-                                },
-                                {
-                                    "PotentialId": 511522,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511521,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511527,
-                                    "Level": 4
-                                },
-                                {
-                                    "PotentialId": 511533,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511526,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 510722,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 510723,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 510725,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 510733,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 510729,
-                                    "Level": 2
-                                },
-                                {
-                                    "PotentialId": 510742,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 510743,
-                                    "Level": 1
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 60
-                                },
-                                {
-                                    "Tid": 90022,
-                                    "Qty": 60
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 60
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 55
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4066104,
-                                4066204,
-                                4067104,
-                                4067203,
-                                4038104,
-                                4038204
-                            ],
-                            "RecordRank": "38",
-                            "BuildCode": "AAAAogAAAHMAAABrzbADUYbBoAAMAGwAACIJ"
-                        },
-                        {
-                            "BuildScore": 11430,
-                            "Chars": [
-                                {
-                                    "Id": 139,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 914021,
-                            "LevelId": 28,
-                            "Discs": [
-                                214026,
-                                214055,
-                                214061,
-                                214031,
-                                214005,
-                                214062
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 513902,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513901,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513906,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513907,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513943,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513905,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513913,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513031,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 1
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 60
-                                },
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 60
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 66
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 14
-                                },
-                                {
-                                    "Tid": 90015,
-                                    "Qty": 3
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 11
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4026104,
-                                4026204,
-                                4055104,
-                                4055204,
-                                4061104,
-                                4061204
-                            ],
-                            "RecordRank": "38",
-                            "BuildCode": "AAAAiwAAAKAAAACCzbADAAYwBsBmBsOABAwA"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 111001
-                        },
-                        {},
-                        {}
                     ]
                 },
                 {
@@ -373801,11 +373801,11 @@
                         },
                         {
                             "Id": 112139,
-                            "AffinityLV": 27
+                            "AffinityLV": 28
                         },
                         {
                             "Id": 112162,
-                            "AffinityLV": 26
+                            "AffinityLV": 27
                         }
                     ]
                 },
@@ -397832,8 +397832,8 @@
                     ]
                 }
             ],
-            "Total": 94033,
-            "LastRefreshTime": "1794171476",
+            "Total": 94043,
+            "LastRefreshTime": "1794171780",
             "UsageByFloor": {
                 "28": [
                     {
@@ -398292,33 +398292,33 @@
                                 "rank": 108
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri (EN)",
+                                "rank": 111
+                            },
+                            {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111
+                                "rank": 112
                             },
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113
+                                "rank": 114
                             },
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114
+                                "rank": 115
                             },
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115
+                                "rank": 116
                             },
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri (EN)",
                                 "rank": 117
                             },
                             {
@@ -400265,33 +400265,33 @@
                                 "rank": 108
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri (EN)",
+                                "rank": 111
+                            },
+                            {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111
+                                "rank": 112
                             },
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113
+                                "rank": 114
                             },
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114
+                                "rank": 115
                             },
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115
+                                "rank": 116
                             },
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri (EN)",
                                 "rank": 117
                             },
                             {
@@ -401988,33 +401988,33 @@
                                 "rank": 107
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri (EN)",
+                                "rank": 111
+                            },
+                            {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111
+                                "rank": 112
                             },
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113
+                                "rank": 114
                             },
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114
+                                "rank": 115
                             },
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115
+                                "rank": 116
                             },
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri (EN)",
                                 "rank": 117
                             },
                             {
@@ -403368,7 +403368,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112
+                                "rank": 113
                             },
                             {
                                 "id": "701421784",
@@ -403851,7 +403851,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112
+                                "rank": 113
                             },
                             {
                                 "id": "300442053",
@@ -404319,7 +404319,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112
+                                "rank": 113
                             },
                             {
                                 "id": "300442053",
@@ -405901,33 +405901,33 @@
                                 "rank": 108
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri (EN)",
+                                "rank": 111
+                            },
+                            {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111
+                                "rank": 112
                             },
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113
+                                "rank": 114
                             },
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114
+                                "rank": 115
                             },
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115
+                                "rank": 116
                             },
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri (EN)",
                                 "rank": 117
                             },
                             {
@@ -407804,33 +407804,33 @@
                                 "rank": 108
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri (EN)",
+                                "rank": 111
+                            },
+                            {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111
+                                "rank": 112
                             },
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113
+                                "rank": 114
                             },
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114
+                                "rank": 115
                             },
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115
+                                "rank": 116
                             },
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri (EN)",
                                 "rank": 117
                             },
                             {
@@ -409732,33 +409732,33 @@
                                 "rank": 108
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri (EN)",
+                                "rank": 111
+                            },
+                            {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111
+                                "rank": 112
                             },
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113
+                                "rank": 114
                             },
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114
+                                "rank": 115
                             },
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115
+                                "rank": 116
                             },
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri (EN)",
                                 "rank": 117
                             },
                             {
@@ -411282,7 +411282,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112
+                                "rank": 113
                             },
                             {
                                 "id": "300472246",
@@ -411710,7 +411710,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112
+                                "rank": 113
                             },
                             {
                                 "id": "300511011",
@@ -412148,7 +412148,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112
+                                "rank": 113
                             },
                             {
                                 "id": "300472246",
@@ -413599,38 +413599,38 @@
                                 "rank": 110
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri (EN)",
+                                "rank": 111
+                            },
+                            {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111
+                                "rank": 112
                             },
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112
+                                "rank": 113
                             },
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113
+                                "rank": 114
                             },
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114
+                                "rank": 115
                             },
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115
+                                "rank": 116
                             },
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri (EN)",
                                 "rank": 117
                             },
                             {
@@ -416012,38 +416012,38 @@
                                 "rank": 110
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri (EN)",
+                                "rank": 111
+                            },
+                            {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111
+                                "rank": 112
                             },
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112
+                                "rank": 113
                             },
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113
+                                "rank": 114
                             },
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114
+                                "rank": 115
                             },
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115
+                                "rank": 116
                             },
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri (EN)",
                                 "rank": 117
                             },
                             {
@@ -418385,38 +418385,38 @@
                                 "rank": 110
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri (EN)",
+                                "rank": 111
+                            },
+                            {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111
+                                "rank": 112
                             },
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112
+                                "rank": 113
                             },
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113
+                                "rank": 114
                             },
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114
+                                "rank": 115
                             },
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115
+                                "rank": 116
                             },
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri (EN)",
                                 "rank": 117
                             },
                             {
@@ -420673,33 +420673,33 @@
                                 "rank": 108
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri (EN)",
+                                "rank": 111
+                            },
+                            {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111
+                                "rank": 112
                             },
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113
+                                "rank": 114
                             },
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114
+                                "rank": 115
                             },
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115
+                                "rank": 116
                             },
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri (EN)",
                                 "rank": 117
                             },
                             {
@@ -422686,33 +422686,33 @@
                                 "rank": 108
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri (EN)",
+                                "rank": 111
+                            },
+                            {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111
+                                "rank": 112
                             },
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113
+                                "rank": 114
                             },
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114
+                                "rank": 115
                             },
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115
+                                "rank": 116
                             },
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri (EN)",
                                 "rank": 117
                             },
                             {
@@ -424429,33 +424429,33 @@
                                 "rank": 107
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri (EN)",
+                                "rank": 111
+                            },
+                            {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111
+                                "rank": 112
                             },
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113
+                                "rank": 114
                             },
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114
+                                "rank": 115
                             },
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115
+                                "rank": 116
                             },
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri (EN)",
                                 "rank": 117
                             },
                             {
@@ -425794,7 +425794,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112
+                                "rank": 113
                             },
                             {
                                 "id": "300472246",
@@ -426222,7 +426222,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112
+                                "rank": 113
                             },
                             {
                                 "id": "300511011",
@@ -426660,7 +426660,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112
+                                "rank": 113
                             },
                             {
                                 "id": "300472246",
@@ -428562,7 +428562,7 @@
                             {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111,
+                                "rank": 112,
                                 "teamScore": 1630453
                             },
                             {
@@ -428604,7 +428604,7 @@
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115,
+                                "rank": 116,
                                 "teamScore": 1579492
                             },
                             {
@@ -428646,7 +428646,7 @@
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113,
+                                "rank": 114,
                                 "teamScore": 1530166
                             },
                             {
@@ -428664,7 +428664,7 @@
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114,
+                                "rank": 115,
                                 "teamScore": 1480926
                             },
                             {
@@ -428970,7 +428970,7 @@
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116,
+                                "rank": 117,
                                 "teamScore": 1215121
                             },
                             {
@@ -429558,7 +429558,7 @@
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 117,
+                                "rank": 111,
                                 "teamScore": 914021
                             },
                             {
@@ -430268,7 +430268,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112,
+                                "rank": 113,
                                 "teamScore": 1714525
                             },
                             {
@@ -431708,6 +431708,12 @@
                                 "teamScore": 2028534
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri (EN)",
+                                "rank": 111,
+                                "teamScore": 2026666
+                            },
+                            {
                                 "id": "507501904",
                                 "name": "루체 (KR)",
                                 "rank": 5,
@@ -431742,12 +431748,6 @@
                                 "name": "武藤遊戯 (JP)",
                                 "rank": 6,
                                 "teamScore": 1997459
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri (EN)",
-                                "rank": 117,
-                                "teamScore": 1996434
                             },
                             {
                                 "id": "500510283",
@@ -432016,7 +432016,7 @@
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116,
+                                "rank": 117,
                                 "teamScore": 1697764
                             },
                             {
@@ -432376,7 +432376,7 @@
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114,
+                                "rank": 115,
                                 "teamScore": 1439437
                             },
                             {
@@ -432424,7 +432424,7 @@
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113,
+                                "rank": 114,
                                 "teamScore": 1394606
                             },
                             {
@@ -432604,7 +432604,7 @@
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115,
+                                "rank": 116,
                                 "teamScore": 1340768
                             },
                             {
@@ -432706,7 +432706,7 @@
                             {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111,
+                                "rank": 112,
                                 "teamScore": 1307533
                             },
                             {
@@ -433788,7 +433788,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112,
+                                "rank": 113,
                                 "teamScore": 1210478
                             },
                             {
@@ -435272,6 +435272,12 @@
                                 "teamScore": 2028534
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri (EN)",
+                                "rank": 111,
+                                "teamScore": 2026666
+                            },
+                            {
                                 "id": "507501904",
                                 "name": "루체 (KR)",
                                 "rank": 5,
@@ -435324,12 +435330,6 @@
                                 "name": "武藤遊戯 (JP)",
                                 "rank": 6,
                                 "teamScore": 1997459
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri (EN)",
-                                "rank": 117,
-                                "teamScore": 1996434
                             },
                             {
                                 "id": "100395617",
@@ -435664,7 +435664,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112,
+                                "rank": 113,
                                 "teamScore": 1714525
                             },
                             {
@@ -435688,7 +435688,7 @@
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116,
+                                "rank": 117,
                                 "teamScore": 1697764
                             },
                             {
@@ -436120,7 +436120,7 @@
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114,
+                                "rank": 115,
                                 "teamScore": 1439437
                             },
                             {
@@ -436168,7 +436168,7 @@
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113,
+                                "rank": 114,
                                 "teamScore": 1394606
                             },
                             {
@@ -436360,7 +436360,7 @@
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115,
+                                "rank": 116,
                                 "teamScore": 1340768
                             },
                             {
@@ -436486,7 +436486,7 @@
                             {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111,
+                                "rank": 112,
                                 "teamScore": 1307533
                             },
                             {
@@ -438006,7 +438006,7 @@
                             {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111,
+                                "rank": 112,
                                 "teamScore": 1630453
                             },
                             {
@@ -438048,7 +438048,7 @@
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115,
+                                "rank": 116,
                                 "teamScore": 1579492
                             },
                             {
@@ -438090,7 +438090,7 @@
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113,
+                                "rank": 114,
                                 "teamScore": 1530166
                             },
                             {
@@ -438108,7 +438108,7 @@
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114,
+                                "rank": 115,
                                 "teamScore": 1480926
                             },
                             {
@@ -438414,7 +438414,7 @@
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116,
+                                "rank": 117,
                                 "teamScore": 1215121
                             },
                             {
@@ -439002,7 +439002,7 @@
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 117,
+                                "rank": 111,
                                 "teamScore": 914021
                             },
                             {
@@ -439490,7 +439490,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112,
+                                "rank": 113,
                                 "teamScore": 1210478
                             },
                             {
@@ -442010,7 +442010,7 @@
                             {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111,
+                                "rank": 112,
                                 "teamScore": 1630453
                             },
                             {
@@ -442052,7 +442052,7 @@
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115,
+                                "rank": 116,
                                 "teamScore": 1579492
                             },
                             {
@@ -442094,7 +442094,7 @@
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113,
+                                "rank": 114,
                                 "teamScore": 1530166
                             },
                             {
@@ -442112,7 +442112,7 @@
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114,
+                                "rank": 115,
                                 "teamScore": 1480926
                             },
                             {
@@ -442418,7 +442418,7 @@
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116,
+                                "rank": 117,
                                 "teamScore": 1215121
                             },
                             {
@@ -443006,7 +443006,7 @@
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 117,
+                                "rank": 111,
                                 "teamScore": 914021
                             },
                             {
@@ -443888,7 +443888,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112,
+                                "rank": 113,
                                 "teamScore": 1714525
                             },
                             {
@@ -446626,6 +446626,12 @@
                                 "teamScore": 2028534
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri (EN)",
+                                "rank": 111,
+                                "teamScore": 2026666
+                            },
+                            {
                                 "id": "507501904",
                                 "name": "루체 (KR)",
                                 "rank": 5,
@@ -446660,12 +446666,6 @@
                                 "name": "武藤遊戯 (JP)",
                                 "rank": 6,
                                 "teamScore": 1997459
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri (EN)",
-                                "rank": 117,
-                                "teamScore": 1996434
                             },
                             {
                                 "id": "500510283",
@@ -446934,7 +446934,7 @@
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116,
+                                "rank": 117,
                                 "teamScore": 1697764
                             },
                             {
@@ -447294,7 +447294,7 @@
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114,
+                                "rank": 115,
                                 "teamScore": 1439437
                             },
                             {
@@ -447342,7 +447342,7 @@
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113,
+                                "rank": 114,
                                 "teamScore": 1394606
                             },
                             {
@@ -447522,7 +447522,7 @@
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115,
+                                "rank": 116,
                                 "teamScore": 1340768
                             },
                             {
@@ -447624,7 +447624,7 @@
                             {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111,
+                                "rank": 112,
                                 "teamScore": 1307533
                             },
                             {
@@ -449387,7 +449387,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112,
+                                "rank": 113,
                                 "teamScore": 1210478
                             },
                             {
@@ -452300,7 +452300,7 @@
                             {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111,
+                                "rank": 112,
                                 "teamScore": 1630453
                             },
                             {
@@ -452342,7 +452342,7 @@
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115,
+                                "rank": 116,
                                 "teamScore": 1579492
                             },
                             {
@@ -452384,7 +452384,7 @@
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113,
+                                "rank": 114,
                                 "teamScore": 1530166
                             },
                             {
@@ -452402,7 +452402,7 @@
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114,
+                                "rank": 115,
                                 "teamScore": 1480926
                             },
                             {
@@ -452708,7 +452708,7 @@
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116,
+                                "rank": 117,
                                 "teamScore": 1215121
                             },
                             {
@@ -453296,7 +453296,7 @@
                             {
                                 "id": "700913340",
                                 "name": "Tyri (EN)",
-                                "rank": 117,
+                                "rank": 111,
                                 "teamScore": 914021
                             },
                             {
@@ -454218,6 +454218,12 @@
                                 "teamScore": 2028534
                             },
                             {
+                                "id": "700913340",
+                                "name": "Tyri (EN)",
+                                "rank": 111,
+                                "teamScore": 2026666
+                            },
+                            {
                                 "id": "507501904",
                                 "name": "루체 (KR)",
                                 "rank": 5,
@@ -454270,12 +454276,6 @@
                                 "name": "武藤遊戯 (JP)",
                                 "rank": 6,
                                 "teamScore": 1997459
-                            },
-                            {
-                                "id": "700913340",
-                                "name": "Tyri (EN)",
-                                "rank": 117,
-                                "teamScore": 1996434
                             },
                             {
                                 "id": "100395617",
@@ -454610,7 +454610,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112,
+                                "rank": 113,
                                 "teamScore": 1714525
                             },
                             {
@@ -454634,7 +454634,7 @@
                             {
                                 "id": "502790993",
                                 "name": "wiki (KR)",
-                                "rank": 116,
+                                "rank": 117,
                                 "teamScore": 1697764
                             },
                             {
@@ -455066,7 +455066,7 @@
                             {
                                 "id": "101473592",
                                 "name": "魔王 (CN)",
-                                "rank": 114,
+                                "rank": 115,
                                 "teamScore": 1439437
                             },
                             {
@@ -455114,7 +455114,7 @@
                             {
                                 "id": "501225828",
                                 "name": "오더풀스윗드림 (KR)",
-                                "rank": 113,
+                                "rank": 114,
                                 "teamScore": 1394606
                             },
                             {
@@ -455306,7 +455306,7 @@
                             {
                                 "id": "500645360",
                                 "name": "표화묘 (KR)",
-                                "rank": 115,
+                                "rank": 116,
                                 "teamScore": 1340768
                             },
                             {
@@ -455432,7 +455432,7 @@
                             {
                                 "id": "302662100",
                                 "name": "N (JP)",
-                                "rank": 111,
+                                "rank": 112,
                                 "teamScore": 1307533
                             },
                             {
@@ -458594,7 +458594,7 @@
                             {
                                 "id": "100511151",
                                 "name": "琴纱月 (CN)",
-                                "rank": 112,
+                                "rank": 113,
                                 "teamScore": 1210478
                             },
                             {
