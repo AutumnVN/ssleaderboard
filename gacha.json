@@ -3,7 +3,7 @@
     "uid": "14291125765",
     "gameUid": "701427440",
     "gameName": "AutumnVN",
-    "updatedAt": "2026-10-30T20:00:41.809Z",
+    "updatedAt": "2026-11-10T03:00:41.463Z",
     "totals": {
         "pulls": 895,
         "items": 895,
@@ -19,7 +19,7 @@
             "Disc": 805
         },
         "banners": 70,
-        "activeBanners": 8,
+        "activeBanners": 5,
         "bannersWithHistory": 15,
         "sparks": 1,
         "sparkedBannerIds": [
@@ -5853,7 +5853,7 @@
             "image": "Cover_10162",
             "startTime": "2026-10-20T12:00:00+08:00",
             "endTime": "2026-11-10T10:59:59+08:00",
-            "active": true,
+            "active": false,
             "rateUp5Star": [
                 {
                     "id": 162,
@@ -5890,22 +5890,13 @@
                 "firstPullTime": 1792488184,
                 "lastPullTime": 1792890311
             },
-            "pity": {
-                "totalTimes": 897,
-                "gachaTotalTimes": 77,
-                "daysCount": 0,
-                "aupMissTimes": 0,
-                "amissTimes": 0,
-                "aupGuaranteeTimes": 17,
-                "receivedFirstTenReward": true,
-                "receivedGuaranteeReward": false
-            },
+            "pity": null,
             "spark": {
                 "sparkable": true,
                 "threshold": 120,
                 "countedPulls": 77,
                 "historyItems": 77,
-                "bannerPulls": 77,
+                "bannerPulls": null,
                 "sparked": false
             },
             "history": [
@@ -11255,7 +11246,7 @@
             "image": "Cover_20162",
             "startTime": "2026-10-20T12:00:00+08:00",
             "endTime": "2026-11-10T10:59:59+08:00",
-            "active": true,
+            "active": false,
             "rateUp5Star": [
                 {
                     "id": 214066,
@@ -11290,22 +11281,13 @@
                 "firstPullTime": 1792501533,
                 "lastPullTime": 1792889826
             },
-            "pity": {
-                "totalTimes": 177,
-                "gachaTotalTimes": 20,
-                "daysCount": 0,
-                "aupMissTimes": 51,
-                "amissTimes": 51,
-                "aupGuaranteeTimes": 2,
-                "receivedFirstTenReward": false,
-                "receivedGuaranteeReward": false
-            },
+            "pity": null,
             "spark": {
                 "sparkable": false,
                 "threshold": 120,
                 "countedPulls": 20,
                 "historyItems": 20,
-                "bannerPulls": 20,
+                "bannerPulls": null,
                 "sparked": false
             },
             "history": [
@@ -13439,7 +13421,7 @@
             "image": "Cover_1001",
             "startTime": "2026-10-20T12:00:00+08:00",
             "endTime": "2026-11-10T10:59:59+08:00",
-            "active": true,
+            "active": false,
             "rateUp5Star": [],
             "rateUp4Star": [],
             "stats": {
@@ -13459,22 +13441,13 @@
                 "firstPullTime": 1792501486,
                 "lastPullTime": 1793233149
             },
-            "pity": {
-                "totalTimes": 100,
-                "gachaTotalTimes": 100,
-                "daysCount": 0,
-                "aupMissTimes": 0,
-                "amissTimes": 53,
-                "aupGuaranteeTimes": 0,
-                "receivedFirstTenReward": false,
-                "receivedGuaranteeReward": false
-            },
+            "pity": null,
             "spark": {
                 "sparkable": false,
                 "threshold": 120,
                 "countedPulls": 100,
                 "historyItems": 100,
-                "bannerPulls": 100,
+                "bannerPulls": null,
                 "sparked": false
             },
             "history": [
