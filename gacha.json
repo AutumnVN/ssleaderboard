@@ -3,24 +3,24 @@
     "uid": "14291125765",
     "gameUid": "701427440",
     "gameName": "AutumnVN",
-    "updatedAt": "2026-11-13T09:00:37.868Z",
+    "updatedAt": "2026-11-13T10:15:26.873Z",
     "totals": {
-        "pulls": 895,
-        "items": 895,
-        "rateUpItems": 39,
-        "rateUpSSR": 8,
+        "pulls": 938,
+        "items": 938,
+        "rateUpItems": 41,
+        "rateUpSSR": 9,
         "byRarity": {
-            "R": 755,
-            "SR": 120,
-            "SSR": 20
+            "R": 792,
+            "SR": 124,
+            "SSR": 22
         },
         "byType": {
-            "Char": 90,
-            "Disc": 805
+            "Char": 95,
+            "Disc": 843
         },
         "banners": 74,
         "activeBanners": 7,
-        "bannersWithHistory": 15,
+        "bannersWithHistory": 16,
         "sparks": 1,
         "sparkedBannerIds": [
             10115
@@ -69,18 +69,18 @@
                 11144,
                 11155
             ],
-            "pulls": 397,
-            "items": 397,
-            "rateUpItems": 31,
-            "rateUpSSR": 7,
+            "pulls": 440,
+            "items": 440,
+            "rateUpItems": 33,
+            "rateUpSSR": 8,
             "byRarity": {
-                "R": 331,
-                "SR": 55,
-                "SSR": 11
+                "R": 368,
+                "SR": 59,
+                "SSR": 13
             },
             "byType": {
-                "Char": 54,
-                "Disc": 343
+                "Char": 59,
+                "Disc": 381
             }
         },
         {
@@ -5878,34 +5878,617 @@
                 }
             ],
             "stats": {
-                "pulls": 0,
-                "items": 0,
-                "rateUpItems": 0,
-                "rateUpSSR": 0,
-                "byRarity": {},
-                "byType": {},
-                "firstPullTime": null,
-                "lastPullTime": null
+                "pulls": 43,
+                "items": 43,
+                "rateUpItems": 2,
+                "rateUpSSR": 1,
+                "byRarity": {
+                    "R": 37,
+                    "SR": 4,
+                    "SSR": 2
+                },
+                "byType": {
+                    "Char": 5,
+                    "Disc": 38
+                },
+                "firstPullTime": 1794564425,
+                "lastPullTime": 1794564673
             },
             "pity": {
-                "totalTimes": 897,
-                "gachaTotalTimes": 0,
-                "daysCount": 0,
+                "totalTimes": 940,
+                "gachaTotalTimes": 43,
+                "daysCount": 43,
                 "aupMissTimes": 0,
                 "amissTimes": 0,
-                "aupGuaranteeTimes": 17,
-                "receivedFirstTenReward": false,
+                "aupGuaranteeTimes": 18,
+                "receivedFirstTenReward": true,
                 "receivedGuaranteeReward": false
             },
             "spark": {
                 "sparkable": true,
                 "threshold": 120,
-                "countedPulls": 0,
-                "historyItems": 0,
-                "bannerPulls": 0,
+                "countedPulls": 43,
+                "historyItems": 43,
+                "bannerPulls": 43,
                 "sparked": false
             },
-            "history": []
+            "history": [
+                {
+                    "time": 1794564673,
+                    "timeISO": "2026-11-13T10:11:13.000Z",
+                    "ids": [
+                        161
+                    ],
+                    "items": [
+                        {
+                            "id": 161,
+                            "name": "Leafia",
+                            "type": "Char",
+                            "rarity": "SSR",
+                            "rateUp": 5
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564668,
+                    "timeISO": "2026-11-13T10:11:08.000Z",
+                    "ids": [
+                        211004
+                    ],
+                    "items": [
+                        {
+                            "id": 211004,
+                            "name": "Pink Dream",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564663,
+                    "timeISO": "2026-11-13T10:11:03.000Z",
+                    "ids": [
+                        211001
+                    ],
+                    "items": [
+                        {
+                            "id": 211001,
+                            "name": "Crisp Morning",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564658,
+                    "timeISO": "2026-11-13T10:10:58.000Z",
+                    "ids": [
+                        212005
+                    ],
+                    "items": [
+                        {
+                            "id": 212005,
+                            "name": "Flare Frenzy",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564652,
+                    "timeISO": "2026-11-13T10:10:52.000Z",
+                    "ids": [
+                        123
+                    ],
+                    "items": [
+                        {
+                            "id": 123,
+                            "name": "Ann",
+                            "type": "Char",
+                            "rarity": "SR"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564648,
+                    "timeISO": "2026-11-13T10:10:48.000Z",
+                    "ids": [
+                        211002
+                    ],
+                    "items": [
+                        {
+                            "id": 211002,
+                            "name": "Sunny Breeze",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564644,
+                    "timeISO": "2026-11-13T10:10:44.000Z",
+                    "ids": [
+                        212003
+                    ],
+                    "items": [
+                        {
+                            "id": 212003,
+                            "name": "Elysium",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564637,
+                    "timeISO": "2026-11-13T10:10:37.000Z",
+                    "ids": [
+                        211002
+                    ],
+                    "items": [
+                        {
+                            "id": 211002,
+                            "name": "Sunny Breeze",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564632,
+                    "timeISO": "2026-11-13T10:10:32.000Z",
+                    "ids": [
+                        212007
+                    ],
+                    "items": [
+                        {
+                            "id": 212007,
+                            "name": "Brave the Wind",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564628,
+                    "timeISO": "2026-11-13T10:10:28.000Z",
+                    "ids": [
+                        212008
+                    ],
+                    "items": [
+                        {
+                            "id": 212008,
+                            "name": "Bubbles",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564623,
+                    "timeISO": "2026-11-13T10:10:23.000Z",
+                    "ids": [
+                        212007
+                    ],
+                    "items": [
+                        {
+                            "id": 212007,
+                            "name": "Brave the Wind",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564617,
+                    "timeISO": "2026-11-13T10:10:17.000Z",
+                    "ids": [
+                        211007
+                    ],
+                    "items": [
+                        {
+                            "id": 211007,
+                            "name": "Starlit Hope",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564589,
+                    "timeISO": "2026-11-13T10:09:49.000Z",
+                    "ids": [
+                        211004
+                    ],
+                    "items": [
+                        {
+                            "id": 211004,
+                            "name": "Pink Dream",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564584,
+                    "timeISO": "2026-11-13T10:09:44.000Z",
+                    "ids": [
+                        211008
+                    ],
+                    "items": [
+                        {
+                            "id": 211008,
+                            "name": "Homeward Path",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564579,
+                    "timeISO": "2026-11-13T10:09:39.000Z",
+                    "ids": [
+                        113
+                    ],
+                    "items": [
+                        {
+                            "id": 113,
+                            "name": "Shimiao",
+                            "type": "Char",
+                            "rarity": "SR"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564575,
+                    "timeISO": "2026-11-13T10:09:35.000Z",
+                    "ids": [
+                        211001
+                    ],
+                    "items": [
+                        {
+                            "id": 211001,
+                            "name": "Crisp Morning",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564571,
+                    "timeISO": "2026-11-13T10:09:31.000Z",
+                    "ids": [
+                        212008
+                    ],
+                    "items": [
+                        {
+                            "id": 212008,
+                            "name": "Bubbles",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564566,
+                    "timeISO": "2026-11-13T10:09:26.000Z",
+                    "ids": [
+                        212005
+                    ],
+                    "items": [
+                        {
+                            "id": 212005,
+                            "name": "Flare Frenzy",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564562,
+                    "timeISO": "2026-11-13T10:09:22.000Z",
+                    "ids": [
+                        212005
+                    ],
+                    "items": [
+                        {
+                            "id": 212005,
+                            "name": "Flare Frenzy",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564557,
+                    "timeISO": "2026-11-13T10:09:17.000Z",
+                    "ids": [
+                        212002
+                    ],
+                    "items": [
+                        {
+                            "id": 212002,
+                            "name": "Whoopla",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564553,
+                    "timeISO": "2026-11-13T10:09:13.000Z",
+                    "ids": [
+                        212002
+                    ],
+                    "items": [
+                        {
+                            "id": 212002,
+                            "name": "Whoopla",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564548,
+                    "timeISO": "2026-11-13T10:09:08.000Z",
+                    "ids": [
+                        211006
+                    ],
+                    "items": [
+                        {
+                            "id": 211006,
+                            "name": "Sweet Creek",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564544,
+                    "timeISO": "2026-11-13T10:09:04.000Z",
+                    "ids": [
+                        211007
+                    ],
+                    "items": [
+                        {
+                            "id": 211007,
+                            "name": "Starlit Hope",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564540,
+                    "timeISO": "2026-11-13T10:09:00.000Z",
+                    "ids": [
+                        211006
+                    ],
+                    "items": [
+                        {
+                            "id": 211006,
+                            "name": "Sweet Creek",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564535,
+                    "timeISO": "2026-11-13T10:08:55.000Z",
+                    "ids": [
+                        103
+                    ],
+                    "items": [
+                        {
+                            "id": 103,
+                            "name": "Amber",
+                            "type": "Char",
+                            "rarity": "SR",
+                            "rateUp": 4
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564531,
+                    "timeISO": "2026-11-13T10:08:51.000Z",
+                    "ids": [
+                        211005
+                    ],
+                    "items": [
+                        {
+                            "id": 211005,
+                            "name": "Lonely Dunes",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564527,
+                    "timeISO": "2026-11-13T10:08:47.000Z",
+                    "ids": [
+                        212010
+                    ],
+                    "items": [
+                        {
+                            "id": 212010,
+                            "name": "Fortitude",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564523,
+                    "timeISO": "2026-11-13T10:08:43.000Z",
+                    "ids": [
+                        212006
+                    ],
+                    "items": [
+                        {
+                            "id": 212006,
+                            "name": "Auspicious Glow",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564517,
+                    "timeISO": "2026-11-13T10:08:37.000Z",
+                    "ids": [
+                        212010
+                    ],
+                    "items": [
+                        {
+                            "id": 212010,
+                            "name": "Fortitude",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564513,
+                    "timeISO": "2026-11-13T10:08:33.000Z",
+                    "ids": [
+                        211003
+                    ],
+                    "items": [
+                        {
+                            "id": 211003,
+                            "name": "Indigo Sunset",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564508,
+                    "timeISO": "2026-11-13T10:08:28.000Z",
+                    "ids": [
+                        212010
+                    ],
+                    "items": [
+                        {
+                            "id": 212010,
+                            "name": "Fortitude",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564503,
+                    "timeISO": "2026-11-13T10:08:23.000Z",
+                    "ids": [
+                        213004
+                    ],
+                    "items": [
+                        {
+                            "id": 213004,
+                            "name": "Twin Moon Mischief",
+                            "type": "Disc",
+                            "rarity": "SR"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564498,
+                    "timeISO": "2026-11-13T10:08:18.000Z",
+                    "ids": [
+                        212007
+                    ],
+                    "items": [
+                        {
+                            "id": 212007,
+                            "name": "Brave the Wind",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1794564425,
+                    "timeISO": "2026-11-13T10:07:05.000Z",
+                    "ids": [
+                        211002,
+                        211004,
+                        212010,
+                        212010,
+                        212003,
+                        211001,
+                        212009,
+                        211001,
+                        155,
+                        212003
+                    ],
+                    "items": [
+                        {
+                            "id": 211002,
+                            "name": "Sunny Breeze",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211004,
+                            "name": "Pink Dream",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212010,
+                            "name": "Fortitude",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212010,
+                            "name": "Fortitude",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212003,
+                            "name": "Elysium",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211001,
+                            "name": "Crisp Morning",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212009,
+                            "name": "Eclipse",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211001,
+                            "name": "Crisp Morning",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 155,
+                            "name": "Shia",
+                            "type": "Char",
+                            "rarity": "SSR"
+                        },
+                        {
+                            "id": 212003,
+                            "name": "Elysium",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": 10162,
@@ -7147,12 +7730,12 @@
                 "lastPullTime": null
             },
             "pity": {
-                "totalTimes": 897,
+                "totalTimes": 940,
                 "gachaTotalTimes": 0,
                 "daysCount": 0,
                 "aupMissTimes": 0,
                 "amissTimes": 0,
-                "aupGuaranteeTimes": 17,
+                "aupGuaranteeTimes": 18,
                 "receivedFirstTenReward": false,
                 "receivedGuaranteeReward": false
             },
@@ -14469,7 +15052,8 @@
             "id": 103,
             "name": "Amber",
             "type": "Char",
-            "rarity": "SR"
+            "rarity": "SR",
+            "rateUp": 4
         },
         "107": {
             "id": 107,
@@ -14632,6 +15216,12 @@
             "type": "Char",
             "rarity": "SR"
         },
+        "155": {
+            "id": 155,
+            "name": "Shia",
+            "type": "Char",
+            "rarity": "SSR"
+        },
         "157": {
             "id": 157,
             "name": "Karin",
@@ -14642,6 +15232,13 @@
         "160": {
             "id": 160,
             "name": "Suntide Willow",
+            "type": "Char",
+            "rarity": "SSR",
+            "rateUp": 5
+        },
+        "161": {
+            "id": 161,
+            "name": "Leafia",
             "type": "Char",
             "rarity": "SSR",
             "rateUp": 5
@@ -14881,6 +15478,389 @@
         }
     },
     "history": [
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564673,
+            "timeISO": "2026-11-13T10:11:13.000Z",
+            "count": 1,
+            "ids": [
+                161
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564668,
+            "timeISO": "2026-11-13T10:11:08.000Z",
+            "count": 1,
+            "ids": [
+                211004
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564663,
+            "timeISO": "2026-11-13T10:11:03.000Z",
+            "count": 1,
+            "ids": [
+                211001
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564658,
+            "timeISO": "2026-11-13T10:10:58.000Z",
+            "count": 1,
+            "ids": [
+                212005
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564652,
+            "timeISO": "2026-11-13T10:10:52.000Z",
+            "count": 1,
+            "ids": [
+                123
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564648,
+            "timeISO": "2026-11-13T10:10:48.000Z",
+            "count": 1,
+            "ids": [
+                211002
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564644,
+            "timeISO": "2026-11-13T10:10:44.000Z",
+            "count": 1,
+            "ids": [
+                212003
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564637,
+            "timeISO": "2026-11-13T10:10:37.000Z",
+            "count": 1,
+            "ids": [
+                211002
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564632,
+            "timeISO": "2026-11-13T10:10:32.000Z",
+            "count": 1,
+            "ids": [
+                212007
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564628,
+            "timeISO": "2026-11-13T10:10:28.000Z",
+            "count": 1,
+            "ids": [
+                212008
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564623,
+            "timeISO": "2026-11-13T10:10:23.000Z",
+            "count": 1,
+            "ids": [
+                212007
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564617,
+            "timeISO": "2026-11-13T10:10:17.000Z",
+            "count": 1,
+            "ids": [
+                211007
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564589,
+            "timeISO": "2026-11-13T10:09:49.000Z",
+            "count": 1,
+            "ids": [
+                211004
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564584,
+            "timeISO": "2026-11-13T10:09:44.000Z",
+            "count": 1,
+            "ids": [
+                211008
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564579,
+            "timeISO": "2026-11-13T10:09:39.000Z",
+            "count": 1,
+            "ids": [
+                113
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564575,
+            "timeISO": "2026-11-13T10:09:35.000Z",
+            "count": 1,
+            "ids": [
+                211001
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564571,
+            "timeISO": "2026-11-13T10:09:31.000Z",
+            "count": 1,
+            "ids": [
+                212008
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564566,
+            "timeISO": "2026-11-13T10:09:26.000Z",
+            "count": 1,
+            "ids": [
+                212005
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564562,
+            "timeISO": "2026-11-13T10:09:22.000Z",
+            "count": 1,
+            "ids": [
+                212005
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564557,
+            "timeISO": "2026-11-13T10:09:17.000Z",
+            "count": 1,
+            "ids": [
+                212002
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564553,
+            "timeISO": "2026-11-13T10:09:13.000Z",
+            "count": 1,
+            "ids": [
+                212002
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564548,
+            "timeISO": "2026-11-13T10:09:08.000Z",
+            "count": 1,
+            "ids": [
+                211006
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564544,
+            "timeISO": "2026-11-13T10:09:04.000Z",
+            "count": 1,
+            "ids": [
+                211007
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564540,
+            "timeISO": "2026-11-13T10:09:00.000Z",
+            "count": 1,
+            "ids": [
+                211006
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564535,
+            "timeISO": "2026-11-13T10:08:55.000Z",
+            "count": 1,
+            "ids": [
+                103
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564531,
+            "timeISO": "2026-11-13T10:08:51.000Z",
+            "count": 1,
+            "ids": [
+                211005
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564527,
+            "timeISO": "2026-11-13T10:08:47.000Z",
+            "count": 1,
+            "ids": [
+                212010
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564523,
+            "timeISO": "2026-11-13T10:08:43.000Z",
+            "count": 1,
+            "ids": [
+                212006
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564517,
+            "timeISO": "2026-11-13T10:08:37.000Z",
+            "count": 1,
+            "ids": [
+                212010
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564513,
+            "timeISO": "2026-11-13T10:08:33.000Z",
+            "count": 1,
+            "ids": [
+                211003
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564508,
+            "timeISO": "2026-11-13T10:08:28.000Z",
+            "count": 1,
+            "ids": [
+                212010
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564503,
+            "timeISO": "2026-11-13T10:08:23.000Z",
+            "count": 1,
+            "ids": [
+                213004
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564498,
+            "timeISO": "2026-11-13T10:08:18.000Z",
+            "count": 1,
+            "ids": [
+                212007
+            ]
+        },
+        {
+            "bannerId": 10161,
+            "bannerName": "Boundless Journey, Endless Romance",
+            "storageId": 1,
+            "time": 1794564425,
+            "timeISO": "2026-11-13T10:07:05.000Z",
+            "count": 10,
+            "ids": [
+                211002,
+                211004,
+                212010,
+                212010,
+                212003,
+                211001,
+                212009,
+                211001,
+                155,
+                212003
+            ]
+        },
         {
             "bannerId": 2,
             "bannerName": "Memories Rewind",
