@@ -3,20 +3,20 @@
     "uid": "14291125765",
     "gameUid": "701427440",
     "gameName": "AutumnVN",
-    "updatedAt": "2026-11-17T04:00:34.002Z",
+    "updatedAt": "2026-11-19T12:45:46.498Z",
     "totals": {
-        "pulls": 938,
-        "items": 938,
+        "pulls": 958,
+        "items": 958,
         "rateUpItems": 41,
         "rateUpSSR": 9,
         "byRarity": {
-            "R": 792,
-            "SR": 124,
+            "R": 810,
+            "SR": 126,
             "SSR": 22
         },
         "byType": {
             "Char": 95,
-            "Disc": 843
+            "Disc": 863
         },
         "banners": 74,
         "activeBanners": 7,
@@ -168,17 +168,17 @@
             "bannerIds": [
                 2
             ],
-            "pulls": 149,
-            "items": 149,
+            "pulls": 169,
+            "items": 169,
             "rateUpItems": 0,
             "rateUpSSR": 0,
             "byRarity": {
-                "R": 131,
-                "SR": 16,
+                "R": 149,
+                "SR": 18,
                 "SSR": 2
             },
             "byType": {
-                "Disc": 149
+                "Disc": 169
             }
         },
         {
@@ -12774,27 +12774,27 @@
             "rateUp5Star": [],
             "rateUp4Star": [],
             "stats": {
-                "pulls": 149,
-                "items": 149,
+                "pulls": 169,
+                "items": 169,
                 "rateUpItems": 0,
                 "rateUpSSR": 0,
                 "byRarity": {
-                    "R": 131,
-                    "SR": 16,
+                    "R": 149,
+                    "SR": 18,
                     "SSR": 2
                 },
                 "byType": {
-                    "Disc": 149
+                    "Disc": 169
                 },
                 "firstPullTime": 1777683119,
-                "lastPullTime": 1793348851
+                "lastPullTime": 1795092287
             },
             "pity": {
-                "totalTimes": 393,
-                "gachaTotalTimes": 393,
-                "daysCount": 0,
+                "totalTimes": 413,
+                "gachaTotalTimes": 413,
+                "daysCount": 20,
                 "aupMissTimes": 0,
-                "amissTimes": 24,
+                "amissTimes": 44,
                 "aupGuaranteeTimes": 0,
                 "receivedFirstTenReward": false,
                 "receivedGuaranteeReward": false
@@ -12802,12 +12802,168 @@
             "spark": {
                 "sparkable": false,
                 "threshold": 120,
-                "countedPulls": 149,
-                "historyItems": 149,
-                "bannerPulls": 393,
+                "countedPulls": 169,
+                "historyItems": 169,
+                "bannerPulls": 413,
                 "sparked": false
             },
             "history": [
+                {
+                    "time": 1795092287,
+                    "timeISO": "2026-11-19T12:44:47.000Z",
+                    "ids": [
+                        211005,
+                        211002,
+                        211005,
+                        213005,
+                        212006,
+                        211006,
+                        211006,
+                        211002,
+                        212001,
+                        212008
+                    ],
+                    "items": [
+                        {
+                            "id": 211005,
+                            "name": "Lonely Dunes",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211002,
+                            "name": "Sunny Breeze",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211005,
+                            "name": "Lonely Dunes",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 213005,
+                            "name": "★Bam Bam Girl★",
+                            "type": "Disc",
+                            "rarity": "SR"
+                        },
+                        {
+                            "id": 212006,
+                            "name": "Auspicious Glow",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211006,
+                            "name": "Sweet Creek",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211006,
+                            "name": "Sweet Creek",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211002,
+                            "name": "Sunny Breeze",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212001,
+                            "name": "Grand Feast",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212008,
+                            "name": "Bubbles",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
+                {
+                    "time": 1795092278,
+                    "timeISO": "2026-11-19T12:44:38.000Z",
+                    "ids": [
+                        212002,
+                        212003,
+                        211001,
+                        212009,
+                        212006,
+                        213020,
+                        212009,
+                        212008,
+                        212003,
+                        211006
+                    ],
+                    "items": [
+                        {
+                            "id": 212002,
+                            "name": "Whoopla",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212003,
+                            "name": "Elysium",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211001,
+                            "name": "Crisp Morning",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212009,
+                            "name": "Eclipse",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212006,
+                            "name": "Auspicious Glow",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 213020,
+                            "name": "The Shining",
+                            "type": "Disc",
+                            "rarity": "SR"
+                        },
+                        {
+                            "id": 212009,
+                            "name": "Eclipse",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212008,
+                            "name": "Bubbles",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 212003,
+                            "name": "Elysium",
+                            "type": "Disc",
+                            "rarity": "R"
+                        },
+                        {
+                            "id": 211006,
+                            "name": "Sweet Creek",
+                            "type": "Disc",
+                            "rarity": "R"
+                        }
+                    ]
+                },
                 {
                     "time": 1793348851,
                     "timeISO": "2026-10-30T08:27:31.000Z",
@@ -15478,6 +15634,46 @@
         }
     },
     "history": [
+        {
+            "bannerId": 2,
+            "bannerName": "Memories Rewind",
+            "storageId": 4,
+            "time": 1795092287,
+            "timeISO": "2026-11-19T12:44:47.000Z",
+            "count": 10,
+            "ids": [
+                211005,
+                211002,
+                211005,
+                213005,
+                212006,
+                211006,
+                211006,
+                211002,
+                212001,
+                212008
+            ]
+        },
+        {
+            "bannerId": 2,
+            "bannerName": "Memories Rewind",
+            "storageId": 4,
+            "time": 1795092278,
+            "timeISO": "2026-11-19T12:44:38.000Z",
+            "count": 10,
+            "ids": [
+                212002,
+                212003,
+                211001,
+                212009,
+                212006,
+                213020,
+                212009,
+                212008,
+                212003,
+                211006
+            ]
+        },
         {
             "bannerId": 10161,
             "bannerName": "Boundless Journey, Endless Romance",
