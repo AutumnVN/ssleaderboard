@@ -1,5 +1,6 @@
 const crypto = require('crypto');
 const readline = require('readline');
+const zlib = require('zlib');
 const { URL } = require('url');
 const fs = require('fs');
 const path = require('path');
@@ -41,6 +42,23 @@ const SERVER_GARBLE_KEY_EN = Buffer.from('xNdVF^XTa6T3HCUATMQ@sKMLzAw&%L!3', 'as
 const SERVER_GARBLE_KEY_JP = Buffer.from('yX5Gt64PVvVH6$qwBXaPJC*LZKoK5mYh', 'ascii');
 const SERVER_GARBLE_KEY_KR = Buffer.from('25hdume9H#*6hHn@d9hSF7tekTwN#JYj', 'ascii');
 const SERVER_GARBLE_KEY_TW = Buffer.from('N&mfco452ZH5!nE3s&o5uxB57UGPENVo', 'ascii');
+const SERVER_META_URL_EN = 'https://nova-static.stellasora.global/meta/serverlist.html';
+const SERVER_META_URL_JP = 'https://nova-static.stellasora.jp/meta/serverlist.html';
+const SERVER_META_URL_KR = 'https://nova-static.stellasora.kr/meta/serverlist.html';
+const SERVER_META_URL_TW = 'https://nova-static.stargazer-games.com/meta/serverlist.html';
+const SERVER_META_URL_CN = 'https://nova-static.yostar.cn/meta/serverlist.html';
+const SERVER_META_KEY_EN = 'ma5Dn2FhC*Xhxy%c';
+const SERVER_META_KEY_JP = 'ZnUFA@S9%4KyoryM';
+const SERVER_META_KEY_KR = 'U9cjHuwGDDx&$drn';
+const SERVER_META_KEY_TW = 'owGYVDmfHrxi^4pm';
+const SERVER_META_KEY_CN = 'Xf&FRcsYm48cJ2A@';
+const SERVER_META = {
+    en: { url: SERVER_META_URL_EN, key: SERVER_META_KEY_EN },
+    jp: { url: SERVER_META_URL_JP, key: SERVER_META_KEY_JP },
+    kr: { url: SERVER_META_URL_KR, key: SERVER_META_KEY_KR },
+    tw: { url: SERVER_META_URL_TW, key: SERVER_META_KEY_TW },
+    cn: { url: SERVER_META_URL_CN, key: SERVER_META_KEY_CN },
+};
 const DEVICE = process.env.DEVICE;
 const EMAIL_EN = process.env.EMAIL_EN;
 const EMAIL_JP = process.env.EMAIL_JP;
@@ -60,6 +78,8 @@ const REGIONS = ['en', 'jp', 'kr', 'tw', 'cn'];
 
 const regionData = {};
 const removedData = {};
+const MESSAGE_FILE = path.join(__dirname, 'message.json');
+let regionMessages = {};
 
 const protoText = `
 syntax = "proto2";
@@ -1414,14 +1434,18 @@ async function processSeason(season) {
         const fname = getSeasonRegionKey(season, rk);
         regionMap[rk] = regionData[fname] || null;
     }
-    const missingRegions = REGIONS.filter((rk) => {
-        if (rk === 'cn') return false;
-        const region = regionMap[rk];
-        return !region || !Array.isArray(region.Rank) || region.Rank.length === 0;
-    });
-    if (missingRegions.length > 0) {
-        console.warn(`Skipping processing ${season}; missing region data: ${missingRegions.join(', ')}`);
+    const hasRegionData = (region) => {
+        if (!region) return false;
+        if (Array.isArray(region.Rank) && region.Rank.length > 0) return true;
+        return !!region.Self && Object.keys(region.Self).length > 0;
+    };
+    const missingRegions = REGIONS.filter((rk) => !hasRegionData(regionMap[rk]));
+    if (missingRegions.length === REGIONS.length) {
+        console.warn(`Skipping processing ${season}; no region data`);
         return;
+    }
+    if (missingRegions.length > 0) {
+        console.warn(`Processing ${season} without region data: ${missingRegions.join(', ')}`);
     }
 
     const [characterIdData, starTowerBuildRankData, potentialData] = await Promise.all([
@@ -1892,11 +1916,155 @@ function loadLocalDataToRegionData() {
     }
 }
 
+function loadStaleRegionData() {
+    for (const season of SEASONS) {
+        const file = path.join(__dirname, `${season}.json`);
+        if (!fs.existsSync(file)) continue;
+        const content = JSON.parse(fs.readFileSync(file, 'utf8'));
+        const prevRegions = content && content.region ? content.region : {};
+        for (const region of REGIONS) {
+            const key = getSeasonRegionKey(season, region);
+            if (regionData[key] || !prevRegions[region]) continue;
+            regionData[key] = prevRegions[region];
+            console.log(`Keeping stale data for ${season} ${region.toUpperCase()}`);
+        }
+    }
+}
+
+function loadRegionMessages() {
+    if (!fs.existsSync(MESSAGE_FILE)) return {};
+    return JSON.parse(fs.readFileSync(MESSAGE_FILE, 'utf8'));
+}
+
+function saveRegionMessages() {
+    fs.writeFileSync(MESSAGE_FILE, JSON.stringify(regionMessages, null, 4), { encoding: 'utf8' });
+}
+
+function setRegionMessage(region, message) {
+    if (!message) return;
+    regionMessages[region] = message;
+    console.warn(`Message for ${region.toUpperCase()}: ${message}`);
+}
+
+function firstSentence(text) {
+    const clean = `${text}`.replace(/\s+/g, ' ').trim();
+    const match = clean.match(/^.*?[.!?](?=\s+[A-Z]|$)/);
+    return (match ? match[0] : clean).trim();
+}
+
+function collectStrings(value, out) {
+    if (typeof value === 'string') out.push(value);
+    else if (Array.isArray(value)) value.forEach((item) => collectStrings(item, out));
+    else if (value && typeof value === 'object') Object.values(value).forEach((item) => collectStrings(item, out));
+}
+
+function longestString(values) {
+    return values.sort((a, b) => b.length - a.length)[0];
+}
+
+function readVarint(buf, offset) {
+    let value = 0;
+    let shift = 0;
+    let index = offset;
+    while (index < buf.length) {
+        const byte = buf[index++];
+        value += (byte & 0x7f) * 2 ** shift;
+        if ((byte & 0x80) === 0) break;
+        shift += 7;
+    }
+    return [value, index];
+}
+
+function decryptServerMeta(buf, key) {
+    const data = buf[0] === 0x1f && buf[1] === 0x8b ? zlib.gunzipSync(buf) : buf;
+    const decipher = crypto.createDecipheriv('aes-128-cbc', Buffer.from(key, 'ascii'), data.subarray(0, 16));
+    decipher.setAutoPadding(false);
+    const plain = Buffer.concat([decipher.update(data.subarray(16)), decipher.final()]);
+
+    const pad = plain[plain.length - 1];
+    if (pad >= 1 && pad <= 16 && plain.subarray(-pad).every((byte) => byte === pad)) {
+        return plain.subarray(0, -pad);
+    }
+
+    let end = plain.length;
+    while (end > 0 && plain[end - 1] === 0) end--;
+    return plain.subarray(0, end);
+}
+
+function parseServerListMessage(buf) {
+    let index = 0;
+    let message = '';
+
+    while (index < buf.length) {
+        let tag;
+        [tag, index] = readVarint(buf, index);
+        const field = Math.floor(tag / 8);
+        const wire = tag % 8;
+
+        if (wire === 0) {
+            [, index] = readVarint(buf, index);
+        } else if (wire === 2) {
+            let length;
+            [length, index] = readVarint(buf, index);
+            if (field === 4) message = buf.toString('utf8', index, index + length);
+            index += length;
+        } else if (wire === 1) {
+            index += 8;
+        } else if (wire === 5) {
+            index += 4;
+        } else {
+            break;
+        }
+    }
+
+    return message.trim();
+}
+
+async function getServerStatusMessage(region) {
+    try {
+        const meta = SERVER_META[region];
+        const response = await fetch(meta.url, { headers: { 'Accept-Encoding': 'identity' } });
+        if (!response.ok) return null;
+        const message = firstSentence(parseServerListMessage(decryptServerMeta(Buffer.from(await response.arrayBuffer()), meta.key)));
+        return message || null;
+    } catch (err) {
+        console.error(`Server status message failed (${region.toUpperCase()}):`, err.message);
+        return null;
+    }
+}
+
+function getRegionErrorMessage(err) {
+    const raw = err && err.message ? err.message : `${err}`;
+
+    const jsonStart = raw.search(/[[{]/);
+    let parsed = null;
+    if (jsonStart !== -1) {
+        try {
+            parsed = JSON.parse(raw.slice(jsonStart));
+        } catch {}
+    }
+
+    if (parsed && typeof parsed === 'object') {
+        const strings = [];
+        collectStrings(parsed, strings);
+        const texts = strings.filter((text) => text.trim());
+        if (texts.length > 0) return firstSentence(longestString(texts));
+        return null;
+    }
+
+    const bodyPrefix = raw.match(/^POST \S+ failed with [^:]*: /);
+    const body = bodyPrefix ? raw.slice(bodyPrefix[0].length) : raw;
+    return firstSentence(body.replace(/<(script|style)[^>]*>[\s\S]*?<\/\1>/gi, ' ').replace(/<[^>]*>/g, ' '));
+}
+
 (async () => {
+    regionMessages = loadRegionMessages();
+
     if (!USE_LOCAL_DATA) {
-        if (await isAutumnPlayingStellaSoraRightNow()) {
-            console.log('Autumn is playing Stella Sora; skipping');
-            return;
+        const skipEn = await isAutumnPlayingStellaSoraRightNow();
+        if (skipEn) {
+            console.log('Autumn is playing Stella Sora; skipping EN');
+            setRegionMessage('en', 'Autumn is playing Stella Sora; EN leaderboard update is paused in the meantime.');
         }
 
         await getLatestSeason();
@@ -1904,232 +2072,277 @@ function loadLocalDataToRegionData() {
         const CN_BB_URL = `https://raw.githubusercontent.com/MakoStar/ssleaderboard/refs/heads/main/${BB_SEASON}_cn.json`;
         const CN_FE_URL = `https://raw.githubusercontent.com/MakoStar/ssleaderboard/refs/heads/main/${FE_SEASON}_cn.json`;
 
-        if (EMAIL_EN || TOKEN_EN) {
-            console.log('Starting IKE handshake (EN)...');
-            const { token, cipher, sessionKey } = await doIkeHandshake();
-            console.log('Cipher:', cipher === 1 ? 'ChaCha20-Poly1305' : 'AES-GCM');
-
-            _httpSeq = 1;
-
-            let accountLoginToken = null;
-            let accountUid = null;
-
-            if (TOKEN_EN) {
-                console.log('Found saved Yostar token; attempting quick-login (EN)...');
-                const quickLoginObj = await quickLogin(TOKEN_EN);
-                accountLoginToken = quickLoginObj.accountLoginToken;
-                accountUid = quickLoginObj.accountUid;
-                console.log('quick-login successed (EN)');
-            }
-
-            if (!accountLoginToken) {
-                console.log('Requesting Yostar to send code (EN)...');
-                await sendAuthCodeRequest(EMAIL_EN);
-                const code = await askQuestion('Enter code (EN): ');
-                const webLoginObj = await getWebLoginToken(EMAIL_EN, code);
-                accountLoginToken = webLoginObj.accountLoginToken;
-                accountUid = webLoginObj.accountUid;
-                saveYostarToken(accountLoginToken);
-            }
-
-            console.log('Sending player login request (EN)...');
-            const loginResp = await doPlayerLogin(token, cipher, sessionKey, accountLoginToken, accountUid);
-
-            const newToken = loginResp.Token;
-
-            console.log('Requesting PlayerData (EN)...');
-            const playerInfoEN = await getPlayerData(newToken, cipher, sessionKey, SERVER_URL_EN, SERVER_GARBLE_KEY_EN);
-            const invFile = path.join(__dirname, 'inv.json');
-            saveInventoryToFile(playerInfoEN, invFile);
-
-            console.log('Requesting ScoreBossRank (EN)...');
-            const bbEN = await getScoreBossRank(newToken, cipher, sessionKey, SERVER_URL_EN, SERVER_GARBLE_KEY_EN);
-            storeScoreBossRank(bbEN, 'en');
-
-            console.log('Requesting JointDrillRank (EN)...');
-            const feEN = await getJointDrillRank(newToken, cipher, sessionKey, SERVER_URL_EN, SERVER_GARBLE_KEY_EN);
-            storeJointDrillRank(feEN, 'en');
-
-            console.log('Requesting Gacha history (EN)...');
+        if (!skipEn && (EMAIL_EN || TOKEN_EN)) {
             try {
-                const metadata = await loadGachaMetadata();
-                const acc = playerInfoEN.Acc;
-                const gameUid = String(acc.Id);
-                const gameName = acc.NickName ? String(acc.NickName) : null;
-                const gacha = await fetchGachaHistory(
-                    accountUid,
-                    newToken,
-                    cipher,
-                    sessionKey,
-                    metadata,
-                    { gameUid, gameName },
-                );
-                const existingGacha = loadExistingGacha();
-                const output = buildGachaOutput('en', gacha, existingGacha, metadata.itemData);
-                saveGachaToFile(output, existingGacha);
+                console.log('Starting IKE handshake (EN)...');
+                const { token, cipher, sessionKey } = await doIkeHandshake();
+                console.log('Cipher:', cipher === 1 ? 'ChaCha20-Poly1305' : 'AES-GCM');
+
+                _httpSeq = 1;
+
+                let accountLoginToken = null;
+                let accountUid = null;
+
+                if (TOKEN_EN) {
+                    console.log('Found saved Yostar token; attempting quick-login (EN)...');
+                    const quickLoginObj = await quickLogin(TOKEN_EN);
+                    accountLoginToken = quickLoginObj.accountLoginToken;
+                    accountUid = quickLoginObj.accountUid;
+                    console.log('quick-login successed (EN)');
+                }
+
+                if (!accountLoginToken) {
+                    console.log('Requesting Yostar to send code (EN)...');
+                    await sendAuthCodeRequest(EMAIL_EN);
+                    const code = await askQuestion('Enter code (EN): ');
+                    const webLoginObj = await getWebLoginToken(EMAIL_EN, code);
+                    accountLoginToken = webLoginObj.accountLoginToken;
+                    accountUid = webLoginObj.accountUid;
+                    saveYostarToken(accountLoginToken);
+                }
+
+                console.log('Sending player login request (EN)...');
+                const loginResp = await doPlayerLogin(token, cipher, sessionKey, accountLoginToken, accountUid);
+
+                const newToken = loginResp.Token;
+
+                console.log('Requesting PlayerData (EN)...');
+                const playerInfoEN = await getPlayerData(newToken, cipher, sessionKey, SERVER_URL_EN, SERVER_GARBLE_KEY_EN);
+                const invFile = path.join(__dirname, 'inv.json');
+                saveInventoryToFile(playerInfoEN, invFile);
+
+                console.log('Requesting ScoreBossRank (EN)...');
+                const bbEN = await getScoreBossRank(newToken, cipher, sessionKey, SERVER_URL_EN, SERVER_GARBLE_KEY_EN);
+                storeScoreBossRank(bbEN, 'en');
+
+                console.log('Requesting JointDrillRank (EN)...');
+                const feEN = await getJointDrillRank(newToken, cipher, sessionKey, SERVER_URL_EN, SERVER_GARBLE_KEY_EN);
+                storeJointDrillRank(feEN, 'en');
+
+                console.log('Requesting Gacha history (EN)...');
+                try {
+                    const metadata = await loadGachaMetadata();
+                    const acc = playerInfoEN.Acc;
+                    const gameUid = String(acc.Id);
+                    const gameName = acc.NickName ? String(acc.NickName) : null;
+                    const gacha = await fetchGachaHistory(
+                        accountUid,
+                        newToken,
+                        cipher,
+                        sessionKey,
+                        metadata,
+                        { gameUid, gameName },
+                    );
+                    const existingGacha = loadExistingGacha();
+                    const output = buildGachaOutput('en', gacha, existingGacha, metadata.itemData);
+                    saveGachaToFile(output, existingGacha);
+                } catch (err) {
+                    console.error('Gacha history failed:', err.message);
+                }
+
+                delete regionMessages.en;
             } catch (err) {
-                console.error('Gacha history failed:', err.message);
+                console.error('EN region failed:', err.message);
+                setRegionMessage('en', (await getServerStatusMessage('en')) || getRegionErrorMessage(err));
             }
         }
 
         if (EMAIL_JP || TOKEN_JP) {
-            console.log('Starting IKE handshake (JP)...');
-            const { token: tokenJpIke, cipher: cipherJp, sessionKey: sessionKeyJp } = await doIkeHandshake(SERVER_URL_JP, SERVER_GARBLE_KEY_JP);
-            console.log('Cipher:', cipherJp === 1 ? 'ChaCha20-Poly1305' : 'AES-GCM');
+            try {
+                console.log('Starting IKE handshake (JP)...');
+                const { token: tokenJpIke, cipher: cipherJp, sessionKey: sessionKeyJp } = await doIkeHandshake(SERVER_URL_JP, SERVER_GARBLE_KEY_JP);
+                console.log('Cipher:', cipherJp === 1 ? 'ChaCha20-Poly1305' : 'AES-GCM');
 
-            let accountLoginTokenJp = null;
-            let accountUidJp = null;
+                let accountLoginTokenJp = null;
+                let accountUidJp = null;
 
-            const jpHead = {
-                UID: UID_JP,
-                Version: VERSION,
-                Lang: 'ja',
-                PID: 'JP-NOVA',
-                DeviceID: DEVICE
-            };
+                const jpHead = {
+                    UID: UID_JP,
+                    Version: VERSION,
+                    Lang: 'ja',
+                    PID: 'JP-NOVA',
+                    DeviceID: DEVICE
+                };
 
-            if (TOKEN_JP) {
-                console.log('Found saved Yostar token; attempting quick-login (JP)...');
-                const quickLoginObjJp = await quickLogin(TOKEN_JP, SDK_URL_JP, jpHead);
-                accountLoginTokenJp = quickLoginObjJp.accountLoginToken;
-                accountUidJp = quickLoginObjJp.accountUid;
-                console.log('quick-login succeeded (JP)');
+                if (TOKEN_JP) {
+                    console.log('Found saved Yostar token; attempting quick-login (JP)...');
+                    const quickLoginObjJp = await quickLogin(TOKEN_JP, SDK_URL_JP, jpHead);
+                    accountLoginTokenJp = quickLoginObjJp.accountLoginToken;
+                    accountUidJp = quickLoginObjJp.accountUid;
+                    console.log('quick-login succeeded (JP)');
+                }
+
+                if (!accountLoginTokenJp) {
+                    console.log('Requesting Yostar to send code (JP)...');
+                    await sendAuthCodeRequest(EMAIL_JP, SDK_URL_JP, jpHead);
+                    const codeJp = await askQuestion('Enter code (JP): ');
+                    const webLoginObjJp = await getWebLoginToken(EMAIL_JP, codeJp, SDK_URL_JP, jpHead);
+                    accountLoginTokenJp = webLoginObjJp.accountLoginToken;
+                    accountUidJp = webLoginObjJp.accountUid;
+                    saveYostarToken(accountLoginTokenJp, 'TOKEN_JP');
+                }
+
+                console.log('Sending player login request (JP)...');
+                const loginRespJp = await doPlayerLogin(tokenJpIke, cipherJp, sessionKeyJp, accountLoginTokenJp, accountUidJp, SERVER_URL_JP, SERVER_GARBLE_KEY_JP, { version: VERSION, language: 'ja_JP', device: DEVICE });
+                const newTokenJp = loginRespJp.Token;
+
+                console.log('Requesting ScoreBossRank (JP)...');
+                const bbJP = await getScoreBossRank(newTokenJp, cipherJp, sessionKeyJp, SERVER_URL_JP, SERVER_GARBLE_KEY_JP);
+                storeScoreBossRank(bbJP, 'jp');
+
+                console.log('Requesting JointDrillRank (JP)...');
+                const feJP = await getJointDrillRank(newTokenJp, cipherJp, sessionKeyJp, SERVER_URL_JP, SERVER_GARBLE_KEY_JP);
+                storeJointDrillRank(feJP, 'jp');
+
+                delete regionMessages.jp;
+            } catch (err) {
+                console.error('JP region failed:', err.message);
+                setRegionMessage('jp', (await getServerStatusMessage('jp')) || getRegionErrorMessage(err));
             }
-
-            if (!accountLoginTokenJp) {
-                console.log('Requesting Yostar to send code (JP)...');
-                await sendAuthCodeRequest(EMAIL_JP, SDK_URL_JP, jpHead);
-                const codeJp = await askQuestion('Enter code (JP): ');
-                const webLoginObjJp = await getWebLoginToken(EMAIL_JP, codeJp, SDK_URL_JP, jpHead);
-                accountLoginTokenJp = webLoginObjJp.accountLoginToken;
-                accountUidJp = webLoginObjJp.accountUid;
-                saveYostarToken(accountLoginTokenJp, 'TOKEN_JP');
-            }
-
-            console.log('Sending player login request (JP)...');
-            const loginRespJp = await doPlayerLogin(tokenJpIke, cipherJp, sessionKeyJp, accountLoginTokenJp, accountUidJp, SERVER_URL_JP, SERVER_GARBLE_KEY_JP, { version: VERSION, language: 'ja_JP', device: DEVICE });
-            const newTokenJp = loginRespJp.Token;
-
-            console.log('Requesting ScoreBossRank (JP)...');
-            const bbJP = await getScoreBossRank(newTokenJp, cipherJp, sessionKeyJp, SERVER_URL_JP, SERVER_GARBLE_KEY_JP);
-            storeScoreBossRank(bbJP, 'jp');
-
-            console.log('Requesting JointDrillRank (JP)...');
-            const feJP = await getJointDrillRank(newTokenJp, cipherJp, sessionKeyJp, SERVER_URL_JP, SERVER_GARBLE_KEY_JP);
-            storeJointDrillRank(feJP, 'jp');
         }
 
         if (EMAIL_KR || TOKEN_KR) {
-            console.log('Starting IKE handshake (KR)...');
-            const { token: tokenKrIke, cipher: cipherKr, sessionKey: sessionKeyKr } = await doIkeHandshake(SERVER_URL_KR, SERVER_GARBLE_KEY_KR);
-            console.log('Cipher:', cipherKr === 1 ? 'ChaCha20-Poly1305' : 'AES-GCM');
+            try {
+                console.log('Starting IKE handshake (KR)...');
+                const { token: tokenKrIke, cipher: cipherKr, sessionKey: sessionKeyKr } = await doIkeHandshake(SERVER_URL_KR, SERVER_GARBLE_KEY_KR);
+                console.log('Cipher:', cipherKr === 1 ? 'ChaCha20-Poly1305' : 'AES-GCM');
 
-            let accountLoginTokenKr = null;
-            let accountUidKr = null;
+                let accountLoginTokenKr = null;
+                let accountUidKr = null;
 
-            const krHead = {
-                UID: UID_KR,
-                Version: VERSION,
-                Lang: 'ko',
-                PID: 'KR-NOVA',
-                DeviceID: DEVICE
-            };
+                const krHead = {
+                    UID: UID_KR,
+                    Version: VERSION,
+                    Lang: 'ko',
+                    PID: 'KR-NOVA',
+                    DeviceID: DEVICE
+                };
 
-            if (TOKEN_KR) {
-                console.log('Found saved Yostar token; attempting quick-login (KR)...');
-                const quickLoginObjKr = await quickLogin(TOKEN_KR, SDK_URL_KR, krHead);
-                accountLoginTokenKr = quickLoginObjKr.accountLoginToken;
-                accountUidKr = quickLoginObjKr.accountUid;
-                console.log('quick-login succeeded (KR)');
+                if (TOKEN_KR) {
+                    console.log('Found saved Yostar token; attempting quick-login (KR)...');
+                    const quickLoginObjKr = await quickLogin(TOKEN_KR, SDK_URL_KR, krHead);
+                    accountLoginTokenKr = quickLoginObjKr.accountLoginToken;
+                    accountUidKr = quickLoginObjKr.accountUid;
+                    console.log('quick-login succeeded (KR)');
+                }
+
+                if (!accountLoginTokenKr) {
+                    console.log('Requesting Yostar to send code (KR)...');
+                    await sendAuthCodeRequest(EMAIL_KR, SDK_URL_KR, krHead);
+                    const codeKr = await askQuestion('Enter code (KR): ');
+                    const webLoginObjKr = await getWebLoginToken(EMAIL_KR, codeKr, SDK_URL_KR, krHead);
+                    accountLoginTokenKr = webLoginObjKr.accountLoginToken;
+                    accountUidKr = webLoginObjKr.accountUid;
+                    saveYostarToken(accountLoginTokenKr, 'TOKEN_KR');
+                }
+
+                console.log('Sending player login request (KR)...');
+                const loginRespKr = await doPlayerLogin(tokenKrIke, cipherKr, sessionKeyKr, accountLoginTokenKr, accountUidKr, SERVER_URL_KR, SERVER_GARBLE_KEY_KR, { version: VERSION, language: 'ko_KR', device: DEVICE });
+                const newTokenKr = loginRespKr.Token;
+
+                console.log('Requesting ScoreBossRank (KR)...');
+                const bbKR = await getScoreBossRank(newTokenKr, cipherKr, sessionKeyKr, SERVER_URL_KR, SERVER_GARBLE_KEY_KR);
+                storeScoreBossRank(bbKR, 'kr');
+
+
+                console.log('Requesting JointDrillRank (KR)...');
+                const feKR = await getJointDrillRank(newTokenKr, cipherKr, sessionKeyKr, SERVER_URL_KR, SERVER_GARBLE_KEY_KR);
+                storeJointDrillRank(feKR, 'kr');
+
+                delete regionMessages.kr;
+            } catch (err) {
+                console.error('KR region failed:', err.message);
+                setRegionMessage('kr', (await getServerStatusMessage('kr')) || getRegionErrorMessage(err));
             }
-
-            if (!accountLoginTokenKr) {
-                console.log('Requesting Yostar to send code (KR)...');
-                await sendAuthCodeRequest(EMAIL_KR, SDK_URL_KR, krHead);
-                const codeKr = await askQuestion('Enter code (KR): ');
-                const webLoginObjKr = await getWebLoginToken(EMAIL_KR, codeKr, SDK_URL_KR, krHead);
-                accountLoginTokenKr = webLoginObjKr.accountLoginToken;
-                accountUidKr = webLoginObjKr.accountUid;
-                saveYostarToken(accountLoginTokenKr, 'TOKEN_KR');
-            }
-
-            console.log('Sending player login request (KR)...');
-            const loginRespKr = await doPlayerLogin(tokenKrIke, cipherKr, sessionKeyKr, accountLoginTokenKr, accountUidKr, SERVER_URL_KR, SERVER_GARBLE_KEY_KR, { version: VERSION, language: 'ko_KR', device: DEVICE });
-            const newTokenKr = loginRespKr.Token;
-
-            console.log('Requesting ScoreBossRank (KR)...');
-            const bbKR = await getScoreBossRank(newTokenKr, cipherKr, sessionKeyKr, SERVER_URL_KR, SERVER_GARBLE_KEY_KR);
-            storeScoreBossRank(bbKR, 'kr');
-
-
-            console.log('Requesting JointDrillRank (KR)...');
-            const feKR = await getJointDrillRank(newTokenKr, cipherKr, sessionKeyKr, SERVER_URL_KR, SERVER_GARBLE_KEY_KR);
-            storeJointDrillRank(feKR, 'kr');
         }
 
         if (EMAIL_TW || TOKEN_TW) {
-            console.log('Starting IKE handshake (TW)...');
-            const { token: tokenTwIke, cipher: cipherTw, sessionKey: sessionKeyTw } = await doIkeHandshake(SERVER_URL_TW, SERVER_GARBLE_KEY_TW);
-            console.log('Cipher:', cipherTw === 1 ? 'ChaCha20-Poly1305' : 'AES-GCM');
+            try {
+                console.log('Starting IKE handshake (TW)...');
+                const { token: tokenTwIke, cipher: cipherTw, sessionKey: sessionKeyTw } = await doIkeHandshake(SERVER_URL_TW, SERVER_GARBLE_KEY_TW);
+                console.log('Cipher:', cipherTw === 1 ? 'ChaCha20-Poly1305' : 'AES-GCM');
 
-            let accountLoginTokenTw = null;
-            let accountUidTw = null;
+                let accountLoginTokenTw = null;
+                let accountUidTw = null;
 
-            const twHead = {
-                UID: UID_TW,
-                Version: VERSION,
-                Lang: 'zh-TW',
-                PID: 'TW-NOVA',
-                DeviceID: DEVICE
-            };
+                const twHead = {
+                    UID: UID_TW,
+                    Version: VERSION,
+                    Lang: 'zh-TW',
+                    PID: 'TW-NOVA',
+                    DeviceID: DEVICE
+                };
 
-            if (TOKEN_TW) {
-                console.log('Found saved Yostar token; attempting quick-login (TW)...');
-                const quickLoginObjTw = await quickLogin(TOKEN_TW, SDK_URL_TW, twHead);
-                accountLoginTokenTw = quickLoginObjTw.accountLoginToken;
-                accountUidTw = quickLoginObjTw.accountUid;
-                console.log('quick-login succeeded (TW)');
+                if (TOKEN_TW) {
+                    console.log('Found saved Yostar token; attempting quick-login (TW)...');
+                    const quickLoginObjTw = await quickLogin(TOKEN_TW, SDK_URL_TW, twHead);
+                    accountLoginTokenTw = quickLoginObjTw.accountLoginToken;
+                    accountUidTw = quickLoginObjTw.accountUid;
+                    console.log('quick-login succeeded (TW)');
+                }
+
+                if (!accountLoginTokenTw) {
+                    console.log('Requesting Yostar to send code (TW)...');
+                    await sendAuthCodeRequest(EMAIL_TW, SDK_URL_TW, twHead);
+                    const codeTw = await askQuestion('Enter code (TW): ');
+                    const webLoginObjTw = await getWebLoginToken(EMAIL_TW, codeTw, SDK_URL_TW, twHead);
+                    accountLoginTokenTw = webLoginObjTw.accountLoginToken;
+                    accountUidTw = webLoginObjTw.accountUid;
+                    saveYostarToken(accountLoginTokenTw, 'TOKEN_TW');
+                }
+
+                console.log('Sending player login request (TW)...');
+                const loginRespTw = await doPlayerLogin(tokenTwIke, cipherTw, sessionKeyTw, accountLoginTokenTw, accountUidTw, SERVER_URL_TW, SERVER_GARBLE_KEY_TW, { version: VERSION, language: 'zh_TW', device: DEVICE });
+                const newTokenTw = loginRespTw.Token;
+
+                console.log('Requesting ScoreBossRank (TW)...');
+                const bbTW = await getScoreBossRank(newTokenTw, cipherTw, sessionKeyTw, SERVER_URL_TW, SERVER_GARBLE_KEY_TW);
+                storeScoreBossRank(bbTW, 'tw');
+
+                console.log('Requesting JointDrillRank (TW)...');
+                const feTW = await getJointDrillRank(newTokenTw, cipherTw, sessionKeyTw, SERVER_URL_TW, SERVER_GARBLE_KEY_TW);
+                storeJointDrillRank(feTW, 'tw');
+
+                delete regionMessages.tw;
+            } catch (err) {
+                console.error('TW region failed:', err.message);
+                setRegionMessage('tw', (await getServerStatusMessage('tw')) || getRegionErrorMessage(err));
             }
-
-            if (!accountLoginTokenTw) {
-                console.log('Requesting Yostar to send code (TW)...');
-                await sendAuthCodeRequest(EMAIL_TW, SDK_URL_TW, twHead);
-                const codeTw = await askQuestion('Enter code (TW): ');
-                const webLoginObjTw = await getWebLoginToken(EMAIL_TW, codeTw, SDK_URL_TW, twHead);
-                accountLoginTokenTw = webLoginObjTw.accountLoginToken;
-                accountUidTw = webLoginObjTw.accountUid;
-                saveYostarToken(accountLoginTokenTw, 'TOKEN_TW');
-            }
-
-            console.log('Sending player login request (TW)...');
-            const loginRespTw = await doPlayerLogin(tokenTwIke, cipherTw, sessionKeyTw, accountLoginTokenTw, accountUidTw, SERVER_URL_TW, SERVER_GARBLE_KEY_TW, { version: VERSION, language: 'zh_TW', device: DEVICE });
-            const newTokenTw = loginRespTw.Token;
-
-            console.log('Requesting ScoreBossRank (TW)...');
-            const bbTW = await getScoreBossRank(newTokenTw, cipherTw, sessionKeyTw, SERVER_URL_TW, SERVER_GARBLE_KEY_TW);
-            storeScoreBossRank(bbTW, 'tw');
-
-            console.log('Requesting JointDrillRank (TW)...');
-            const feTW = await getJointDrillRank(newTokenTw, cipherTw, sessionKeyTw, SERVER_URL_TW, SERVER_GARBLE_KEY_TW);
-            storeJointDrillRank(feTW, 'tw');
         }
 
+        let cnFailed = false;
+
         if (CN_BB_URL) {
-            const bbCN = await fetch(CN_BB_URL).then(res => res.json()).catch(() => null);
+            const bbCN = await fetch(CN_BB_URL).then(res => res.json()).catch(async (err) => {
+                cnFailed = true;
+                setRegionMessage('cn', (await getServerStatusMessage('cn')) || getRegionErrorMessage(err));
+                return null;
+            });
             if (bbCN) {
                 storeScoreBossRank(bbCN, 'cn', true);
             }
         }
 
         if (CN_FE_URL) {
-            const feCN = await fetch(CN_FE_URL).then(res => res.json()).catch(() => null);
+            const feCN = await fetch(CN_FE_URL).then(res => res.json()).catch(async (err) => {
+                cnFailed = true;
+                setRegionMessage('cn', (await getServerStatusMessage('cn')) || getRegionErrorMessage(err));
+                return null;
+            });
             if (feCN) {
                 storeJointDrillRank(feCN, 'cn', true);
             }
         }
+
+        if (!cnFailed) {
+            delete regionMessages.cn;
+        }
     } else {
         loadLocalDataToRegionData();
     }
+
+    loadStaleRegionData();
+    saveRegionMessages();
 
     combineLeaderboard(BB_SEASON);
     combineLeaderboard(FE_SEASON);
@@ -2146,19 +2359,21 @@ function loadLocalDataToRegionData() {
         const meta = { floor: {}, removed: { all: [], en: [], jp: [], kr: [], tw: [], cn: [] } };
         const seasonPrefix = getSeasonPrefix(season);
 
-        let enJson = null;
-        const enKey = `${seasonPrefix}en`;
-        if (regionData[enKey]) {
-            enJson = regionData[enKey];
-        } else {
-            const lbFile = path.join(__dirname, `${season}.json`);
-            if (fs.existsSync(lbFile)) {
-                const prevSeason = JSON.parse(fs.readFileSync(lbFile, 'utf8'));
-                enJson = prevSeason && prevSeason.region && prevSeason.region.en ? prevSeason.region.en : null;
+        let floorSourceRegion = null;
+        let seasonJson = null;
+        for (const rk of REGIONS) {
+            const rd = regionData[getSeasonRegionKey(season, rk)];
+            if (rd && Array.isArray(rd.Rank) && rd.Rank.length > 0) {
+                floorSourceRegion = rk;
+                seasonJson = rd;
+                break;
             }
         }
-        if (enJson) {
-            const rankArr = Array.isArray(enJson.Rank) ? enJson.Rank : [];
+        if (seasonJson && floorSourceRegion !== 'en') {
+            console.warn(`EN data unavailable for ${season}; using ${floorSourceRegion.toUpperCase()} floor ids`);
+        }
+        if (seasonJson) {
+            const rankArr = Array.isArray(seasonJson.Rank) ? seasonJson.Rank : [];
             const levelSet = new Set();
             const isBBSeason = /^bb/.test(season);
             if (rankArr.length > 0) {
