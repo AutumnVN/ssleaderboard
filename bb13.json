@@ -1,7 +1,7 @@
 {
     "region": {
         "en": {
-            "LastRefreshTime": "1795468764",
+            "LastRefreshTime": "1795469364",
             "Self": {
                 "Id": "701427440",
                 "NickName": "AutumnVN",
@@ -1628,13 +1628,13 @@
                     "Id": "701437528",
                     "NickName": "Nyx",
                     "HeadIcon": 13901,
-                    "Score": 3940634,
+                    "Score": 3984534,
                     "Rank": 5,
                     "TitlePrefix": 5,
                     "TitleSuffix": 14,
                     "Teams": [
                         {
-                            "BuildScore": 11940,
+                            "BuildScore": 12090,
                             "Chars": [
                                 {
                                     "Id": 139,
@@ -1649,27 +1649,35 @@
                                     "Level": 90
                                 }
                             ],
-                            "LevelScore": 1660461,
+                            "LevelScore": 1704361,
                             "LevelId": 28,
                             "Discs": [
-                                214055,
-                                214061,
                                 214026,
+                                214061,
+                                214055,
+                                214047,
                                 214005,
-                                214031,
                                 214062
                             ],
                             "Potentials": [
-                                {
-                                    "PotentialId": 513901,
-                                    "Level": 1
-                                },
                                 {
                                     "PotentialId": 513902,
                                     "Level": 1
                                 },
                                 {
+                                    "PotentialId": 513901,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513905,
+                                    "Level": 6
+                                },
+                                {
                                     "PotentialId": 513906,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513943,
                                     "Level": 6
                                 },
                                 {
@@ -1677,19 +1685,15 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 513905,
-                                    "Level": 6
-                                },
-                                {
                                     "PotentialId": 513913,
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 513943,
-                                    "Level": 3
+                                    "PotentialId": 513941,
+                                    "Level": 1
                                 },
                                 {
-                                    "PotentialId": 513910,
+                                    "PotentialId": 513021,
                                     "Level": 1
                                 },
                                 {
@@ -1697,7 +1701,7 @@
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 513021,
+                                    "PotentialId": 513025,
                                     "Level": 1
                                 },
                                 {
@@ -1709,7 +1713,7 @@
                                     "Level": 6
                                 },
                                 {
-                                    "PotentialId": 513025,
+                                    "PotentialId": 513041,
                                     "Level": 1
                                 },
                                 {
@@ -1721,58 +1725,58 @@
                                     "Level": 1
                                 },
                                 {
-                                    "PotentialId": 516033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
                                     "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
                                     "Level": 6
                                 },
                                 {
                                     "PotentialId": 516043,
                                     "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
                                 }
                             ],
                             "Notes": [
                                 {
-                                    "Tid": 90018,
-                                    "Qty": 72
+                                    "Tid": 90013,
+                                    "Qty": 16
                                 },
                                 {
-                                    "Tid": 90012,
-                                    "Qty": 60
+                                    "Tid": 90018,
+                                    "Qty": 70
                                 },
                                 {
                                     "Tid": 90011,
                                     "Qty": 70
                                 },
                                 {
-                                    "Tid": 90016,
-                                    "Qty": 15
+                                    "Tid": 90012,
+                                    "Qty": 73
                                 },
                                 {
-                                    "Tid": 90013,
-                                    "Qty": 7
+                                    "Tid": 90016,
+                                    "Qty": 1
                                 }
                             ],
                             "ActiveSecondaryIds": [
-                                4055105,
-                                4055204,
+                                4026105,
+                                4026204,
                                 4061105,
                                 4061204,
-                                4026105,
-                                4026204
+                                4055105,
+                                4055204
                             ],
-                            "RecordRank": "39",
-                            "BuildCode": "AAAAiwAAAIIAAACgzbADEAPDgAAMADAGwGwG"
+                            "RecordRank": "40",
+                            "BuildCode": "AAAAiwAAAIIAAACgzbADAEbDgAAMQDAGwDwG"
                         },
                         {
                             "BuildScore": 11310,
@@ -32502,7 +32506,7 @@
                     ]
                 }
             ],
-            "Total": 30544,
+            "Total": 30546,
             "UsageByFloor": {
                 "28": [
                     {
@@ -39226,7 +39230,7 @@
                                 "id": "701437528",
                                 "name": "Nyx",
                                 "rank": 5,
-                                "teamScore": 1660461
+                                "teamScore": 1704361
                             },
                             {
                                 "id": "700367958",
@@ -41050,7 +41054,7 @@
                                 "id": "701437528",
                                 "name": "Nyx",
                                 "rank": 5,
-                                "teamScore": 1660461
+                                "teamScore": 1704361
                             },
                             {
                                 "id": "700367958",
@@ -42464,7 +42468,7 @@
                                 "id": "701437528",
                                 "name": "Nyx",
                                 "rank": 5,
-                                "teamScore": 1660461
+                                "teamScore": 1704361
                             },
                             {
                                 "id": "700367958",
@@ -42659,11 +42663,11 @@
                                 "p516029": 26,
                                 "p513031": 23,
                                 "p513912": 13,
-                                "p513941": 12,
+                                "p513941": 13,
                                 "p513030": 10,
-                                "p513910": 7,
                                 "p516032": 6,
                                 "p513029": 6,
+                                "p513910": 6,
                                 "p513904": 4,
                                 "p513903": 4,
                                 "p513908": 4,
@@ -42677,6 +42681,7 @@
                                 "p513911": 2,
                                 "p516027": 2,
                                 "p516042": 1,
+                                "p513041": 1,
                                 "p513042": 1,
                                 "p513027": 1
                             },
@@ -42688,9 +42693,9 @@
                                 "p516030": 27,
                                 "p513907": 26,
                                 "p513913": 26,
-                                "p513943": 25,
+                                "p513943": 26,
                                 "p516043": 25,
-                                "p516029": 24,
+                                "p516029": 23,
                                 "p516033": 21,
                                 "p513906": 18,
                                 "p513025": 14,
@@ -42715,7 +42720,7 @@
                                 "p516023": 27,
                                 "p513031": 17,
                                 "p513025": 14,
-                                "p513941": 12,
+                                "p513941": 13,
                                 "p513912": 10,
                                 "p513030": 10,
                                 "p513906": 9,
@@ -42728,15 +42733,16 @@
                                 "p516022": 4,
                                 "p516021": 4,
                                 "p513032": 3,
-                                "p513910": 3,
+                                "p516029": 3,
                                 "p516043": 3,
                                 "p513911": 2,
-                                "p513943": 2,
-                                "p516029": 2,
+                                "p513910": 2,
                                 "p516042": 1,
+                                "p513041": 1,
                                 "p513042": 1,
                                 "p513027": 1,
                                 "p513907": 1,
+                                "p513943": 1,
                                 "p516028": 1,
                                 "p513942": 1
                             }
@@ -42747,10 +42753,10 @@
                                 "d214061": 30,
                                 "d214055": 29,
                                 "d214005": 25,
-                                "d214031": 24,
                                 "d214062": 24,
+                                "d214031": 23,
                                 "d214008": 11,
-                                "d214047": 6,
+                                "d214047": 7,
                                 "d214056": 4,
                                 "d214057": 1,
                                 "d214021": 1
@@ -42764,10 +42770,10 @@
                             },
                             "support": {
                                 "d214005": 25,
-                                "d214031": 24,
+                                "d214031": 23,
                                 "d214062": 23,
                                 "d214008": 9,
-                                "d214047": 6,
+                                "d214047": 7,
                                 "d214056": 4,
                                 "d214057": 1,
                                 "d214021": 1
@@ -46058,7 +46064,7 @@
                                 "id": "701437528",
                                 "name": "Nyx",
                                 "rank": 5,
-                                "teamScore": 1660461
+                                "teamScore": 1704361
                             },
                             {
                                 "id": "700367958",
@@ -46253,11 +46259,11 @@
                                 "p516029": 26,
                                 "p513031": 23,
                                 "p513912": 13,
-                                "p513941": 12,
+                                "p513941": 13,
                                 "p513030": 10,
-                                "p513910": 7,
                                 "p516032": 6,
                                 "p513029": 6,
+                                "p513910": 6,
                                 "p513904": 4,
                                 "p513903": 4,
                                 "p513908": 4,
@@ -46271,6 +46277,7 @@
                                 "p513911": 2,
                                 "p516027": 2,
                                 "p516042": 1,
+                                "p513041": 1,
                                 "p513042": 1,
                                 "p513027": 1
                             },
@@ -46282,9 +46289,9 @@
                                 "p516030": 27,
                                 "p513907": 26,
                                 "p513913": 26,
-                                "p513943": 25,
+                                "p513943": 26,
                                 "p516043": 25,
-                                "p516029": 24,
+                                "p516029": 23,
                                 "p516033": 21,
                                 "p513906": 18,
                                 "p513025": 14,
@@ -46309,7 +46316,7 @@
                                 "p516023": 27,
                                 "p513031": 17,
                                 "p513025": 14,
-                                "p513941": 12,
+                                "p513941": 13,
                                 "p513912": 10,
                                 "p513030": 10,
                                 "p513906": 9,
@@ -46322,15 +46329,16 @@
                                 "p516022": 4,
                                 "p516021": 4,
                                 "p513032": 3,
-                                "p513910": 3,
+                                "p516029": 3,
                                 "p516043": 3,
                                 "p513911": 2,
-                                "p513943": 2,
-                                "p516029": 2,
+                                "p513910": 2,
                                 "p516042": 1,
+                                "p513041": 1,
                                 "p513042": 1,
                                 "p513027": 1,
                                 "p513907": 1,
+                                "p513943": 1,
                                 "p516028": 1,
                                 "p513942": 1
                             }
@@ -46341,10 +46349,10 @@
                                 "d214061": 30,
                                 "d214055": 29,
                                 "d214005": 25,
-                                "d214031": 24,
                                 "d214062": 24,
+                                "d214031": 23,
                                 "d214008": 11,
-                                "d214047": 6,
+                                "d214047": 7,
                                 "d214056": 4,
                                 "d214057": 1,
                                 "d214021": 1
@@ -46358,10 +46366,10 @@
                             },
                             "support": {
                                 "d214005": 25,
-                                "d214031": 24,
+                                "d214031": 23,
                                 "d214062": 23,
                                 "d214008": 9,
-                                "d214047": 6,
+                                "d214047": 7,
                                 "d214056": 4,
                                 "d214057": 1,
                                 "d214021": 1
@@ -96780,7 +96788,7 @@
             }
         },
         "kr": {
-            "LastRefreshTime": "1795468738",
+            "LastRefreshTime": "1795469338",
             "Rank": [
                 {
                     "Id": "507501904",
@@ -249798,11 +249806,311 @@
                     ]
                 },
                 {
+                    "Id": "701437528",
+                    "NickName": "Nyx (EN)",
+                    "HeadIcon": 13901,
+                    "Score": 3984534,
+                    "Rank": 40,
+                    "TitlePrefix": 5,
+                    "TitleSuffix": 14,
+                    "Teams": [
+                        {
+                            "BuildScore": 12090,
+                            "Chars": [
+                                {
+                                    "Id": 139,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 130,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 160,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 1704361,
+                            "LevelId": 28,
+                            "Discs": [
+                                214026,
+                                214061,
+                                214055,
+                                214047,
+                                214005,
+                                214062
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 513902,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513901,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513905,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513906,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513943,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513907,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513913,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513941,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513021,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513022,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513025,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 513033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513026,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 513041,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516023,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516024,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516028,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516043,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516033,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516029,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 516030,
+                                    "Level": 6
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90013,
+                                    "Qty": 16
+                                },
+                                {
+                                    "Tid": 90018,
+                                    "Qty": 70
+                                },
+                                {
+                                    "Tid": 90011,
+                                    "Qty": 70
+                                },
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 73
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 1
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4026105,
+                                4026204,
+                                4061105,
+                                4061204,
+                                4055105,
+                                4055204
+                            ],
+                            "RecordRank": "40",
+                            "BuildCode": "AAAAiwAAAIIAAACgzbADAEbDgAAMQDAGwDwG"
+                        },
+                        {
+                            "BuildScore": 11310,
+                            "Chars": [
+                                {
+                                    "Id": 162,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 115,
+                                    "Level": 90
+                                },
+                                {
+                                    "Id": 107,
+                                    "Level": 90
+                                }
+                            ],
+                            "LevelScore": 2280173,
+                            "LevelId": 29,
+                            "Discs": [
+                                214067,
+                                214038,
+                                214066,
+                                214030,
+                                214010,
+                                214020
+                            ],
+                            "Potentials": [
+                                {
+                                    "PotentialId": 516202,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516201,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 516211,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516207,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516206,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516212,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516205,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516241,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516243,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 516213,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 511522,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511521,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 511526,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 511525,
+                                    "Level": 3
+                                },
+                                {
+                                    "PotentialId": 511533,
+                                    "Level": 6
+                                },
+                                {
+                                    "PotentialId": 510723,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 510722,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 510729,
+                                    "Level": 1
+                                },
+                                {
+                                    "PotentialId": 510725,
+                                    "Level": 6
+                                }
+                            ],
+                            "Notes": [
+                                {
+                                    "Tid": 90012,
+                                    "Qty": 60
+                                },
+                                {
+                                    "Tid": 90022,
+                                    "Qty": 70
+                                },
+                                {
+                                    "Tid": 90016,
+                                    "Qty": 70
+                                },
+                                {
+                                    "Tid": 90014,
+                                    "Qty": 38
+                                }
+                            ],
+                            "ActiveSecondaryIds": [
+                                4067102,
+                                4067202,
+                                4038105,
+                                4038204,
+                                4066105,
+                                4066204
+                            ],
+                            "RecordRank": "38",
+                            "BuildCode": "AAAAogAAAHMAAABrzbADZ4bHgAAMAGwAABAA"
+                        }
+                    ],
+                    "Honors": [
+                        {
+                            "Id": 119011
+                        },
+                        {
+                            "Id": 119012
+                        },
+                        {
+                            "Id": 119013
+                        }
+                    ]
+                },
+                {
                     "Id": "100476366",
                     "NickName": "非了就停氪 (CN)",
                     "HeadIcon": 1310011,
                     "Score": 3948810,
-                    "Rank": 40,
+                    "Rank": 41,
                     "TitlePrefix": 35,
                     "TitleSuffix": 2,
                     "Teams": [
@@ -250133,7 +250441,7 @@
                     "NickName": "나이프 (KR)",
                     "HeadIcon": 12503,
                     "Score": 3940737,
-                    "Rank": 41,
+                    "Rank": 42,
                     "TitlePrefix": 3,
                     "TitleSuffix": 44,
                     "Teams": [
@@ -250442,302 +250750,6 @@
                         },
                         {
                             "Id": 118111
-                        }
-                    ]
-                },
-                {
-                    "Id": "701437528",
-                    "NickName": "Nyx (EN)",
-                    "HeadIcon": 13901,
-                    "Score": 3940634,
-                    "Rank": 42,
-                    "TitlePrefix": 5,
-                    "TitleSuffix": 14,
-                    "Teams": [
-                        {
-                            "BuildScore": 11940,
-                            "Chars": [
-                                {
-                                    "Id": 139,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 130,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 160,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 1660461,
-                            "LevelId": 28,
-                            "Discs": [
-                                214055,
-                                214061,
-                                214026,
-                                214005,
-                                214031,
-                                214062
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 513901,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513902,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513906,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513907,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513905,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513913,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513943,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 513910,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513022,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513021,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 513033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513026,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 513025,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516023,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516024,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516033,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516030,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516028,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516029,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516043,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90018,
-                                    "Qty": 72
-                                },
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 60
-                                },
-                                {
-                                    "Tid": 90011,
-                                    "Qty": 70
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 15
-                                },
-                                {
-                                    "Tid": 90013,
-                                    "Qty": 7
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4055105,
-                                4055204,
-                                4061105,
-                                4061204,
-                                4026105,
-                                4026204
-                            ],
-                            "RecordRank": "39",
-                            "BuildCode": "AAAAiwAAAIIAAACgzbADEAPDgAAMADAGwGwG"
-                        },
-                        {
-                            "BuildScore": 11310,
-                            "Chars": [
-                                {
-                                    "Id": 162,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 115,
-                                    "Level": 90
-                                },
-                                {
-                                    "Id": 107,
-                                    "Level": 90
-                                }
-                            ],
-                            "LevelScore": 2280173,
-                            "LevelId": 29,
-                            "Discs": [
-                                214067,
-                                214038,
-                                214066,
-                                214030,
-                                214010,
-                                214020
-                            ],
-                            "Potentials": [
-                                {
-                                    "PotentialId": 516202,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516201,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 516211,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516207,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516206,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516212,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516205,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516241,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516243,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 516213,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 511522,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511521,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 511526,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 511525,
-                                    "Level": 3
-                                },
-                                {
-                                    "PotentialId": 511533,
-                                    "Level": 6
-                                },
-                                {
-                                    "PotentialId": 510723,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 510722,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 510729,
-                                    "Level": 1
-                                },
-                                {
-                                    "PotentialId": 510725,
-                                    "Level": 6
-                                }
-                            ],
-                            "Notes": [
-                                {
-                                    "Tid": 90012,
-                                    "Qty": 60
-                                },
-                                {
-                                    "Tid": 90022,
-                                    "Qty": 70
-                                },
-                                {
-                                    "Tid": 90016,
-                                    "Qty": 70
-                                },
-                                {
-                                    "Tid": 90014,
-                                    "Qty": 38
-                                }
-                            ],
-                            "ActiveSecondaryIds": [
-                                4067102,
-                                4067202,
-                                4038105,
-                                4038204,
-                                4066105,
-                                4066204
-                            ],
-                            "RecordRank": "38",
-                            "BuildCode": "AAAAogAAAHMAAABrzbADZ4bHgAAMAGwAABAA"
-                        }
-                    ],
-                    "Honors": [
-                        {
-                            "Id": 119011
-                        },
-                        {
-                            "Id": 119012
-                        },
-                        {
-                            "Id": 119013
                         }
                     ]
                 },
@@ -398009,8 +398021,8 @@
                     ]
                 }
             ],
-            "Total": 125916,
-            "LastRefreshTime": "1795469016",
+            "Total": 125918,
+            "LastRefreshTime": "1795469364",
             "UsageByFloor": {
                 "28": [
                     {
@@ -398189,18 +398201,18 @@
                                 "rank": 39
                             },
                             {
+                                "id": "701437528",
+                                "name": "Nyx (EN)",
+                                "rank": 40
+                            },
+                            {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40
+                                "rank": 41
                             },
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41
-                            },
-                            {
-                                "id": "701437528",
-                                "name": "Nyx (EN)",
                                 "rank": 42
                             },
                             {
@@ -399982,18 +399994,18 @@
                                 "rank": 39
                             },
                             {
+                                "id": "701437528",
+                                "name": "Nyx (EN)",
+                                "rank": 40
+                            },
+                            {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40
+                                "rank": 41
                             },
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41
-                            },
-                            {
-                                "id": "701437528",
-                                "name": "Nyx (EN)",
                                 "rank": 42
                             },
                             {
@@ -401540,18 +401552,18 @@
                                 "rank": 39
                             },
                             {
+                                "id": "701437528",
+                                "name": "Nyx (EN)",
+                                "rank": 40
+                            },
+                            {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40
+                                "rank": 41
                             },
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41
-                            },
-                            {
-                                "id": "701437528",
-                                "name": "Nyx (EN)",
                                 "rank": 42
                             },
                             {
@@ -405814,18 +405826,18 @@
                                 "rank": 39
                             },
                             {
+                                "id": "701437528",
+                                "name": "Nyx (EN)",
+                                "rank": 40
+                            },
+                            {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40
+                                "rank": 41
                             },
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41
-                            },
-                            {
-                                "id": "701437528",
-                                "name": "Nyx (EN)",
                                 "rank": 42
                             },
                             {
@@ -407487,18 +407499,18 @@
                                 "rank": 39
                             },
                             {
+                                "id": "701437528",
+                                "name": "Nyx (EN)",
+                                "rank": 40
+                            },
+                            {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40
+                                "rank": 41
                             },
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41
-                            },
-                            {
-                                "id": "701437528",
-                                "name": "Nyx (EN)",
                                 "rank": 42
                             },
                             {
@@ -409155,18 +409167,18 @@
                                 "rank": 39
                             },
                             {
+                                "id": "701437528",
+                                "name": "Nyx (EN)",
+                                "rank": 40
+                            },
+                            {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40
+                                "rank": 41
                             },
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41
-                            },
-                            {
-                                "id": "701437528",
-                                "name": "Nyx (EN)",
                                 "rank": 42
                             },
                             {
@@ -413533,18 +413545,18 @@
                                 "rank": 39
                             },
                             {
+                                "id": "701437528",
+                                "name": "Nyx (EN)",
+                                "rank": 40
+                            },
+                            {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40
+                                "rank": 41
                             },
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41
-                            },
-                            {
-                                "id": "701437528",
-                                "name": "Nyx (EN)",
                                 "rank": 42
                             },
                             {
@@ -415936,18 +415948,18 @@
                                 "rank": 39
                             },
                             {
+                                "id": "701437528",
+                                "name": "Nyx (EN)",
+                                "rank": 40
+                            },
+                            {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40
+                                "rank": 41
                             },
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41
-                            },
-                            {
-                                "id": "701437528",
-                                "name": "Nyx (EN)",
                                 "rank": 42
                             },
                             {
@@ -418299,18 +418311,18 @@
                                 "rank": 39
                             },
                             {
+                                "id": "701437528",
+                                "name": "Nyx (EN)",
+                                "rank": 40
+                            },
+                            {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40
+                                "rank": 41
                             },
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41
-                            },
-                            {
-                                "id": "701437528",
-                                "name": "Nyx (EN)",
                                 "rank": 42
                             },
                             {
@@ -420612,18 +420624,18 @@
                                 "rank": 39
                             },
                             {
+                                "id": "701437528",
+                                "name": "Nyx (EN)",
+                                "rank": 40
+                            },
+                            {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40
+                                "rank": 41
                             },
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41
-                            },
-                            {
-                                "id": "701437528",
-                                "name": "Nyx (EN)",
                                 "rank": 42
                             },
                             {
@@ -422440,18 +422452,18 @@
                                 "rank": 39
                             },
                             {
+                                "id": "701437528",
+                                "name": "Nyx (EN)",
+                                "rank": 40
+                            },
+                            {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40
+                                "rank": 41
                             },
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41
-                            },
-                            {
-                                "id": "701437528",
-                                "name": "Nyx (EN)",
                                 "rank": 42
                             },
                             {
@@ -424003,18 +424015,18 @@
                                 "rank": 39
                             },
                             {
+                                "id": "701437528",
+                                "name": "Nyx (EN)",
+                                "rank": 40
+                            },
+                            {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40
+                                "rank": 41
                             },
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41
-                            },
-                            {
-                                "id": "701437528",
-                                "name": "Nyx (EN)",
                                 "rank": 42
                             },
                             {
@@ -428745,7 +428757,7 @@
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41,
+                                "rank": 42,
                                 "teamScore": 2138301
                             },
                             {
@@ -428841,7 +428853,7 @@
                             {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40,
+                                "rank": 41,
                                 "teamScore": 1854134
                             },
                             {
@@ -428911,6 +428923,12 @@
                                 "teamScore": 1719834
                             },
                             {
+                                "id": "701437528",
+                                "name": "Nyx (EN)",
+                                "rank": 40,
+                                "teamScore": 1704361
+                            },
+                            {
                                 "id": "100816458",
                                 "name": "皮卡皮 (CN)",
                                 "rank": 58,
@@ -428927,12 +428945,6 @@
                                 "name": "예삐다요 (KR)",
                                 "rank": 92,
                                 "teamScore": 1665419
-                            },
-                            {
-                                "id": "701437528",
-                                "name": "Nyx (EN)",
-                                "rank": 42,
-                                "teamScore": 1660461
                             },
                             {
                                 "id": "302632868",
@@ -431901,7 +431913,7 @@
                             {
                                 "id": "701437528",
                                 "name": "Nyx (EN)",
-                                "rank": 42,
+                                "rank": 40,
                                 "teamScore": 2280173
                             },
                             {
@@ -432033,7 +432045,7 @@
                             {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40,
+                                "rank": 41,
                                 "teamScore": 2094676
                             },
                             {
@@ -432303,7 +432315,7 @@
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41,
+                                "rank": 42,
                                 "teamScore": 1802436
                             },
                             {
@@ -435441,7 +435453,7 @@
                             {
                                 "id": "701437528",
                                 "name": "Nyx (EN)",
-                                "rank": 42,
+                                "rank": 40,
                                 "teamScore": 2280173
                             },
                             {
@@ -435633,7 +435645,7 @@
                             {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40,
+                                "rank": 41,
                                 "teamScore": 2094676
                             },
                             {
@@ -436059,7 +436071,7 @@
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41,
+                                "rank": 42,
                                 "teamScore": 1802436
                             },
                             {
@@ -438095,7 +438107,7 @@
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41,
+                                "rank": 42,
                                 "teamScore": 2138301
                             },
                             {
@@ -438191,7 +438203,7 @@
                             {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40,
+                                "rank": 41,
                                 "teamScore": 1854134
                             },
                             {
@@ -438261,6 +438273,12 @@
                                 "teamScore": 1719834
                             },
                             {
+                                "id": "701437528",
+                                "name": "Nyx (EN)",
+                                "rank": 40,
+                                "teamScore": 1704361
+                            },
+                            {
                                 "id": "100816458",
                                 "name": "皮卡皮 (CN)",
                                 "rank": 58,
@@ -438277,12 +438295,6 @@
                                 "name": "예삐다요 (KR)",
                                 "rank": 92,
                                 "teamScore": 1665419
-                            },
-                            {
-                                "id": "701437528",
-                                "name": "Nyx (EN)",
-                                "rank": 42,
-                                "teamScore": 1660461
                             },
                             {
                                 "id": "302632868",
@@ -441893,7 +441905,7 @@
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41,
+                                "rank": 42,
                                 "teamScore": 2138301
                             },
                             {
@@ -441989,7 +442001,7 @@
                             {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40,
+                                "rank": 41,
                                 "teamScore": 1854134
                             },
                             {
@@ -442059,6 +442071,12 @@
                                 "teamScore": 1719834
                             },
                             {
+                                "id": "701437528",
+                                "name": "Nyx (EN)",
+                                "rank": 40,
+                                "teamScore": 1704361
+                            },
+                            {
                                 "id": "100816458",
                                 "name": "皮卡皮 (CN)",
                                 "rank": 58,
@@ -442075,12 +442093,6 @@
                                 "name": "예삐다요 (KR)",
                                 "rank": 92,
                                 "teamScore": 1665419
-                            },
-                            {
-                                "id": "701437528",
-                                "name": "Nyx (EN)",
-                                "rank": 42,
-                                "teamScore": 1660461
                             },
                             {
                                 "id": "302632868",
@@ -443320,9 +443332,9 @@
                                 "p513030": 157,
                                 "p513031": 142,
                                 "p513912": 130,
-                                "p513941": 61,
+                                "p513941": 62,
                                 "p513029": 47,
-                                "p513910": 41,
+                                "p513910": 40,
                                 "p516032": 34,
                                 "p513911": 24,
                                 "p513942": 23,
@@ -443340,9 +443352,9 @@
                                 "p516042": 8,
                                 "p513028": 7,
                                 "p513043": 4,
+                                "p513041": 3,
                                 "p513027": 2,
                                 "p516041": 2,
-                                "p513041": 2,
                                 "p516031": 1,
                                 "p513023": 1
                             },
@@ -443351,13 +443363,13 @@
                                 "p513033": 255,
                                 "p513913": 250,
                                 "p513907": 246,
-                                "p513943": 244,
+                                "p513943": 245,
                                 "p516030": 240,
                                 "p516028": 239,
                                 "p513905": 233,
                                 "p513906": 230,
                                 "p516043": 228,
-                                "p516029": 223,
+                                "p516029": 222,
                                 "p516033": 204,
                                 "p513025": 108,
                                 "p516032": 17,
@@ -443384,10 +443396,10 @@
                                 "p513025": 135,
                                 "p513031": 125,
                                 "p513912": 121,
-                                "p513941": 59,
+                                "p513941": 60,
                                 "p513029": 45,
                                 "p516033": 43,
-                                "p513910": 26,
+                                "p513910": 25,
                                 "p513911": 24,
                                 "p516043": 22,
                                 "p513042": 21,
@@ -443395,7 +443407,7 @@
                                 "p516028": 18,
                                 "p513906": 17,
                                 "p516032": 17,
-                                "p516029": 16,
+                                "p516029": 17,
                                 "p513903": 15,
                                 "p513904": 15,
                                 "p516022": 15,
@@ -443410,12 +443422,12 @@
                                 "p516027": 5,
                                 "p513043": 4,
                                 "p513026": 3,
-                                "p513943": 3,
+                                "p513041": 3,
                                 "p513909": 3,
                                 "p513027": 2,
                                 "p516041": 2,
                                 "p513908": 2,
-                                "p513041": 2,
+                                "p513943": 2,
                                 "p516031": 1,
                                 "p513023": 1,
                                 "p513907": 1,
@@ -443429,9 +443441,9 @@
                                 "d214005": 224,
                                 "d214062": 223,
                                 "d214026": 217,
-                                "d214031": 198,
+                                "d214031": 197,
                                 "d214008": 127,
-                                "d214047": 46,
+                                "d214047": 47,
                                 "d214056": 11,
                                 "d214021": 5,
                                 "d214029": 3,
@@ -443452,9 +443464,9 @@
                             "support": {
                                 "d214062": 222,
                                 "d214005": 220,
-                                "d214031": 198,
+                                "d214031": 197,
                                 "d214008": 64,
-                                "d214047": 46,
+                                "d214047": 47,
                                 "d214026": 14,
                                 "d214056": 11,
                                 "d214029": 3,
@@ -446219,7 +446231,7 @@
                             {
                                 "id": "701437528",
                                 "name": "Nyx (EN)",
-                                "rank": 42,
+                                "rank": 40,
                                 "teamScore": 2280173
                             },
                             {
@@ -446351,7 +446363,7 @@
                             {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40,
+                                "rank": 41,
                                 "teamScore": 2094676
                             },
                             {
@@ -446621,7 +446633,7 @@
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41,
+                                "rank": 42,
                                 "teamScore": 1802436
                             },
                             {
@@ -451543,7 +451555,7 @@
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41,
+                                "rank": 42,
                                 "teamScore": 2138301
                             },
                             {
@@ -451639,7 +451651,7 @@
                             {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40,
+                                "rank": 41,
                                 "teamScore": 1854134
                             },
                             {
@@ -451709,6 +451721,12 @@
                                 "teamScore": 1719834
                             },
                             {
+                                "id": "701437528",
+                                "name": "Nyx (EN)",
+                                "rank": 40,
+                                "teamScore": 1704361
+                            },
+                            {
                                 "id": "100816458",
                                 "name": "皮卡皮 (CN)",
                                 "rank": 58,
@@ -451725,12 +451743,6 @@
                                 "name": "예삐다요 (KR)",
                                 "rank": 92,
                                 "teamScore": 1665419
-                            },
-                            {
-                                "id": "701437528",
-                                "name": "Nyx (EN)",
-                                "rank": 42,
-                                "teamScore": 1660461
                             },
                             {
                                 "id": "302632868",
@@ -452970,9 +452982,9 @@
                                 "p513030": 157,
                                 "p513031": 142,
                                 "p513912": 130,
-                                "p513941": 61,
+                                "p513941": 62,
                                 "p513029": 47,
-                                "p513910": 41,
+                                "p513910": 40,
                                 "p516032": 34,
                                 "p513911": 24,
                                 "p513942": 23,
@@ -452990,9 +453002,9 @@
                                 "p516042": 8,
                                 "p513028": 7,
                                 "p513043": 4,
+                                "p513041": 3,
                                 "p513027": 2,
                                 "p516041": 2,
-                                "p513041": 2,
                                 "p516031": 1,
                                 "p513023": 1
                             },
@@ -453001,13 +453013,13 @@
                                 "p513033": 255,
                                 "p513913": 250,
                                 "p513907": 246,
-                                "p513943": 244,
+                                "p513943": 245,
                                 "p516030": 240,
                                 "p516028": 239,
                                 "p513905": 233,
                                 "p513906": 230,
                                 "p516043": 228,
-                                "p516029": 223,
+                                "p516029": 222,
                                 "p516033": 204,
                                 "p513025": 108,
                                 "p516032": 17,
@@ -453034,10 +453046,10 @@
                                 "p513025": 135,
                                 "p513031": 125,
                                 "p513912": 121,
-                                "p513941": 59,
+                                "p513941": 60,
                                 "p513029": 45,
                                 "p516033": 43,
-                                "p513910": 26,
+                                "p513910": 25,
                                 "p513911": 24,
                                 "p516043": 22,
                                 "p513042": 21,
@@ -453045,7 +453057,7 @@
                                 "p516028": 18,
                                 "p513906": 17,
                                 "p516032": 17,
-                                "p516029": 16,
+                                "p516029": 17,
                                 "p513903": 15,
                                 "p513904": 15,
                                 "p516022": 15,
@@ -453060,12 +453072,12 @@
                                 "p516027": 5,
                                 "p513043": 4,
                                 "p513026": 3,
-                                "p513943": 3,
+                                "p513041": 3,
                                 "p513909": 3,
                                 "p513027": 2,
                                 "p516041": 2,
                                 "p513908": 2,
-                                "p513041": 2,
+                                "p513943": 2,
                                 "p516031": 1,
                                 "p513023": 1,
                                 "p513907": 1,
@@ -453079,9 +453091,9 @@
                                 "d214005": 224,
                                 "d214062": 223,
                                 "d214026": 217,
-                                "d214031": 198,
+                                "d214031": 197,
                                 "d214008": 127,
-                                "d214047": 46,
+                                "d214047": 47,
                                 "d214056": 11,
                                 "d214021": 5,
                                 "d214029": 3,
@@ -453102,9 +453114,9 @@
                             "support": {
                                 "d214062": 222,
                                 "d214005": 220,
-                                "d214031": 198,
+                                "d214031": 197,
                                 "d214008": 64,
-                                "d214047": 46,
+                                "d214047": 47,
                                 "d214026": 14,
                                 "d214056": 11,
                                 "d214029": 3,
@@ -453376,7 +453388,7 @@
                             {
                                 "id": "701437528",
                                 "name": "Nyx (EN)",
-                                "rank": 42,
+                                "rank": 40,
                                 "teamScore": 2280173
                             },
                             {
@@ -453568,7 +453580,7 @@
                             {
                                 "id": "100476366",
                                 "name": "非了就停氪 (CN)",
-                                "rank": 40,
+                                "rank": 41,
                                 "teamScore": 2094676
                             },
                             {
@@ -453994,7 +454006,7 @@
                             {
                                 "id": "500354418",
                                 "name": "나이프 (KR)",
-                                "rank": 41,
+                                "rank": 42,
                                 "teamScore": 1802436
                             },
                             {
