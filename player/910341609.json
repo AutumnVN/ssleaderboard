@@ -1,24 +1,24 @@
 {
     "fe8": {
-        "Id": "500751215",
-        "NickName": "마앟",
+        "Id": "910341609",
+        "NickName": "冰块儿",
         "WorldClass": 1,
-        "HeadIcon": 1310011,
-        "Score": 2878732,
-        "Rank": 99,
-        "TitlePrefix": 35,
-        "TitleSuffix": 44,
+        "HeadIcon": 11101,
+        "Score": 2882087,
+        "Rank": 33,
+        "TitlePrefix": 7,
+        "TitleSuffix": 2,
         "Honors": [
             {
-                "Id": 111011
+                "Id": 112162,
+                "AffinityLV": 31
             },
             {
-                "Id": 112144,
-                "AffinityLV": 53
+                "Id": 112107,
+                "AffinityLV": 14
             },
             {
-                "Id": 112134,
-                "AffinityLV": 42
+                "Id": 114006
             }
         ],
         "Teams": [
@@ -29,37 +29,53 @@
                         "Level": 90
                     },
                     {
-                        "Id": 115,
+                        "Id": 107,
                         "Level": 90
                     },
                     {
-                        "Id": 107,
+                        "Id": 115,
                         "Level": 90
                     }
                 ],
-                "BuildScore": 10275,
+                "BuildScore": 10470,
                 "Damage": 63780000,
-                "Time": 4695,
+                "Time": 3297,
                 "Discs": [
                     214066,
                     214038,
                     214039,
-                    214005,
+                    214067,
                     214007,
-                    214067
+                    214005
                 ],
                 "Potentials": [
-                    {
-                        "PotentialId": 516201,
-                        "Level": 1
-                    },
                     {
                         "PotentialId": 516202,
                         "Level": 1
                     },
                     {
+                        "PotentialId": 516201,
+                        "Level": 1
+                    },
+                    {
+                        "PotentialId": 516213,
+                        "Level": 5
+                    },
+                    {
                         "PotentialId": 516241,
                         "Level": 6
+                    },
+                    {
+                        "PotentialId": 516206,
+                        "Level": 6
+                    },
+                    {
+                        "PotentialId": 516212,
+                        "Level": 6
+                    },
+                    {
+                        "PotentialId": 516207,
+                        "Level": 4
                     },
                     {
                         "PotentialId": 516211,
@@ -70,31 +86,35 @@
                         "Level": 6
                     },
                     {
-                        "PotentialId": 516212,
-                        "Level": 6
-                    },
-                    {
-                        "PotentialId": 516206,
-                        "Level": 6
-                    },
-                    {
                         "PotentialId": 516243,
-                        "Level": 6
-                    },
-                    {
-                        "PotentialId": 516213,
-                        "Level": 2
-                    },
-                    {
-                        "PotentialId": 516207,
                         "Level": 5
                     },
                     {
-                        "PotentialId": 511521,
+                        "PotentialId": 510722,
+                        "Level": 1
+                    },
+                    {
+                        "PotentialId": 510721,
+                        "Level": 1
+                    },
+                    {
+                        "PotentialId": 510726,
+                        "Level": 6
+                    },
+                    {
+                        "PotentialId": 510725,
+                        "Level": 6
+                    },
+                    {
+                        "PotentialId": 510730,
                         "Level": 1
                     },
                     {
                         "PotentialId": 511522,
+                        "Level": 1
+                    },
+                    {
+                        "PotentialId": 511521,
                         "Level": 1
                     },
                     {
@@ -106,86 +126,54 @@
                         "Level": 6
                     },
                     {
+                        "PotentialId": 511541,
+                        "Level": 1
+                    },
+                    {
+                        "PotentialId": 511530,
+                        "Level": 1
+                    },
+                    {
                         "PotentialId": 511525,
-                        "Level": 6
-                    },
-                    {
-                        "PotentialId": 511532,
-                        "Level": 2
-                    },
-                    {
-                        "PotentialId": 511527,
-                        "Level": 2
-                    },
-                    {
-                        "PotentialId": 510723,
-                        "Level": 1
-                    },
-                    {
-                        "PotentialId": 510722,
-                        "Level": 1
-                    },
-                    {
-                        "PotentialId": 510733,
-                        "Level": 3
-                    },
-                    {
-                        "PotentialId": 510729,
-                        "Level": 2
-                    },
-                    {
-                        "PotentialId": 510725,
-                        "Level": 6
-                    },
-                    {
-                        "PotentialId": 510726,
-                        "Level": 1
-                    },
-                    {
-                        "PotentialId": 510727,
                         "Level": 1
                     }
                 ],
                 "Notes": [
                     {
-                        "Tid": 90017,
-                        "Qty": 24
+                        "Tid": 90022,
+                        "Qty": 48
                     },
                     {
                         "Tid": 90016,
-                        "Qty": 56
+                        "Qty": 45
                     },
                     {
-                        "Tid": 90022,
-                        "Qty": 56
+                        "Tid": 90017,
+                        "Qty": 42
+                    },
+                    {
+                        "Tid": 90012,
+                        "Qty": 45
+                    },
+                    {
+                        "Tid": 90014,
+                        "Qty": 15
                     },
                     {
                         "Tid": 90015,
                         "Qty": 15
-                    },
-                    {
-                        "Tid": 90013,
-                        "Qty": 6
-                    },
-                    {
-                        "Tid": 90014,
-                        "Qty": 9
-                    },
-                    {
-                        "Tid": 90012,
-                        "Qty": 15
                     }
                 ],
                 "ActiveSecondaryIds": [
-                    4066104,
-                    4066201,
-                    4038104,
-                    4038201,
-                    4039104,
+                    4066103,
+                    4066203,
+                    4038103,
+                    4038203,
+                    4039103,
                     4039201
                 ],
-                "RecordRank": "34",
-                "BuildCode": "AAAAogAAAHMAAABrzagDZYbNkAEMAGxIACYA"
+                "RecordRank": "35",
+                "BuildCode": "AAAAogAAAGsAAABzzaADa4XNgCAAAMOAIAxA"
             }
         ]
     }
