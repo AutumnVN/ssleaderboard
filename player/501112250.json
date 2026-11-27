@@ -1,13 +1,24 @@
 {
     "fe8": {
-        "Id": "700373696",
-        "NickName": "Shiyuzu",
+        "Id": "501112250",
+        "NickName": "존치비",
         "WorldClass": 1,
-        "HeadIcon": 101,
-        "Score": 13245621,
-        "Rank": 93,
+        "HeadIcon": 1310011,
+        "Score": 13024086,
+        "Rank": 98,
         "TitlePrefix": 1,
         "TitleSuffix": 2,
+        "Honors": [
+            {
+                "Id": 118111
+            },
+            {
+                "Id": 116017
+            },
+            {
+                "Id": 114006
+            }
+        ],
         "Teams": [
             {
                 "Chars": [
@@ -16,24 +27,24 @@
                         "Level": 90
                     },
                     {
-                        "Id": 107,
+                        "Id": 115,
                         "Level": 90
                     },
                     {
-                        "Id": 115,
+                        "Id": 107,
                         "Level": 90
                     }
                 ],
-                "BuildScore": 11190,
+                "BuildScore": 10635,
                 "Damage": 294346008,
-                "Time": 136590,
+                "Time": 163940,
                 "Discs": [
-                    214038,
                     214039,
                     214066,
+                    214038,
                     214067,
-                    214003,
-                    214007
+                    214007,
+                    214051
                 ],
                 "Potentials": [
                     {
@@ -43,14 +54,6 @@
                     {
                         "PotentialId": 516201,
                         "Level": 1
-                    },
-                    {
-                        "PotentialId": 516205,
-                        "Level": 6
-                    },
-                    {
-                        "PotentialId": 516212,
-                        "Level": 6
                     },
                     {
                         "PotentialId": 516206,
@@ -65,43 +68,27 @@
                         "Level": 6
                     },
                     {
-                        "PotentialId": 516207,
+                        "PotentialId": 516212,
                         "Level": 6
                     },
                     {
                         "PotentialId": 516213,
-                        "Level": 1
+                        "Level": 6
                     },
                     {
                         "PotentialId": 516241,
                         "Level": 6
                     },
                     {
-                        "PotentialId": 510722,
-                        "Level": 1
+                        "PotentialId": 516205,
+                        "Level": 6
                     },
                     {
-                        "PotentialId": 510723,
-                        "Level": 1
+                        "PotentialId": 516207,
+                        "Level": 4
                     },
                     {
-                        "PotentialId": 510725,
-                        "Level": 2
-                    },
-                    {
-                        "PotentialId": 510728,
-                        "Level": 1
-                    },
-                    {
-                        "PotentialId": 510726,
-                        "Level": 1
-                    },
-                    {
-                        "PotentialId": 510727,
-                        "Level": 1
-                    },
-                    {
-                        "PotentialId": 510730,
+                        "PotentialId": 511521,
                         "Level": 1
                     },
                     {
@@ -109,28 +96,40 @@
                         "Level": 1
                     },
                     {
-                        "PotentialId": 511521,
-                        "Level": 1
+                        "PotentialId": 511526,
+                        "Level": 6
                     },
                     {
                         "PotentialId": 511525,
-                        "Level": 4
+                        "Level": 3
+                    },
+                    {
+                        "PotentialId": 511533,
+                        "Level": 6
                     },
                     {
                         "PotentialId": 511527,
                         "Level": 1
                     },
                     {
-                        "PotentialId": 511530,
-                        "Level": 3
+                        "PotentialId": 510723,
+                        "Level": 1
                     },
                     {
-                        "PotentialId": 511526,
+                        "PotentialId": 510721,
+                        "Level": 1
+                    },
+                    {
+                        "PotentialId": 510725,
                         "Level": 6
                     },
                     {
-                        "PotentialId": 511533,
-                        "Level": 6
+                        "PotentialId": 510727,
+                        "Level": 1
+                    },
+                    {
+                        "PotentialId": 510733,
+                        "Level": 1
                     }
                 ],
                 "Notes": [
@@ -144,35 +143,35 @@
                     },
                     {
                         "Tid": 90017,
-                        "Qty": 30
-                    },
-                    {
-                        "Tid": 90015,
-                        "Qty": 30
-                    },
-                    {
-                        "Tid": 90013,
-                        "Qty": 1
+                        "Qty": 15
                     },
                     {
                         "Tid": 90012,
-                        "Qty": 45
+                        "Qty": 49
+                    },
+                    {
+                        "Tid": 90015,
+                        "Qty": 25
                     },
                     {
                         "Tid": 90014,
-                        "Qty": 22
+                        "Qty": 2
+                    },
+                    {
+                        "Tid": 90013,
+                        "Qty": 4
                     }
                 ],
                 "ActiveSecondaryIds": [
-                    4038104,
-                    4038203,
                     4039104,
-                    4039202,
+                    4039201,
                     4066104,
-                    4066203
+                    4066203,
+                    4038104,
+                    4038203
                 ],
-                "RecordRank": "37",
-                "BuildCode": "AAAAogAAAGsAAABzzbADY4ZkSSAAAMmIYAwA"
+                "RecordRank": "35",
+                "BuildCode": "AAAAogAAAHMAAABrzaADbYbHiAAMAKwIAAIA"
             }
         ]
     }
