@@ -1,23 +1,25 @@
 {
     "fe8": {
-        "Id": "100358206",
-        "NickName": "橙子想睡觉",
+        "Id": "101992026",
+        "NickName": "二阶堂希罗",
         "WorldClass": 1,
-        "HeadIcon": 15902,
-        "Score": 13306881,
-        "Rank": 98,
-        "TitlePrefix": 3,
-        "TitleSuffix": 2,
+        "HeadIcon": 15602,
+        "Score": 13463592,
+        "Rank": 70,
+        "TitlePrefix": 39,
+        "TitleSuffix": 44,
         "Honors": [
             {
-                "Id": 112159,
-                "AffinityLV": 52
+                "Id": 112162,
+                "AffinityLV": 30
             },
             {
-                "Id": 117001
+                "Id": 112157,
+                "AffinityLV": 29
             },
             {
-                "Id": 117011
+                "Id": 112156,
+                "AffinityLV": 29
             }
         ],
         "Teams": [
@@ -36,16 +38,16 @@
                         "Level": 90
                     }
                 ],
-                "BuildScore": 10395,
+                "BuildScore": 10470,
                 "Damage": 294346008,
-                "Time": 129027,
+                "Time": 109680,
                 "Discs": [
                     214066,
+                    214051,
                     214038,
                     214067,
-                    214010,
-                    214030,
-                    214051
+                    214005,
+                    214030
                 ],
                 "Potentials": [
                     {
@@ -57,19 +59,11 @@
                         "Level": 1
                     },
                     {
-                        "PotentialId": 516241,
+                        "PotentialId": 516206,
                         "Level": 6
                     },
                     {
                         "PotentialId": 516212,
-                        "Level": 6
-                    },
-                    {
-                        "PotentialId": 516211,
-                        "Level": 6
-                    },
-                    {
-                        "PotentialId": 516205,
                         "Level": 6
                     },
                     {
@@ -81,20 +75,32 @@
                         "Level": 6
                     },
                     {
-                        "PotentialId": 516206,
+                        "PotentialId": 516241,
+                        "Level": 6
+                    },
+                    {
+                        "PotentialId": 516211,
                         "Level": 6
                     },
                     {
                         "PotentialId": 516213,
-                        "Level": 5
+                        "Level": 3
+                    },
+                    {
+                        "PotentialId": 516205,
+                        "Level": 6
+                    },
+                    {
+                        "PotentialId": 510723,
+                        "Level": 1
                     },
                     {
                         "PotentialId": 510722,
                         "Level": 1
                     },
                     {
-                        "PotentialId": 510723,
-                        "Level": 1
+                        "PotentialId": 510730,
+                        "Level": 2
                     },
                     {
                         "PotentialId": 510725,
@@ -105,12 +111,20 @@
                         "Level": 1
                     },
                     {
+                        "PotentialId": 511522,
+                        "Level": 1
+                    },
+                    {
                         "PotentialId": 511521,
                         "Level": 1
                     },
                     {
-                        "PotentialId": 511522,
-                        "Level": 1
+                        "PotentialId": 511525,
+                        "Level": 2
+                    },
+                    {
+                        "PotentialId": 511527,
+                        "Level": 3
                     },
                     {
                         "PotentialId": 511526,
@@ -123,36 +137,48 @@
                 ],
                 "Notes": [
                     {
-                        "Tid": 90016,
-                        "Qty": 70
+                        "Tid": 90022,
+                        "Qty": 55
                     },
                     {
-                        "Tid": 90014,
-                        "Qty": 30
+                        "Tid": 90016,
+                        "Qty": 47
+                    },
+                    {
+                        "Tid": 90017,
+                        "Qty": 40
                     },
                     {
                         "Tid": 90012,
-                        "Qty": 30
+                        "Qty": 45
                     },
                     {
-                        "Tid": 90022,
-                        "Qty": 79
+                        "Tid": 90014,
+                        "Qty": 3
                     },
                     {
                         "Tid": 90013,
+                        "Qty": 6
+                    },
+                    {
+                        "Tid": 90015,
                         "Qty": 4
+                    },
+                    {
+                        "Tid": 90011,
+                        "Qty": 6
                     }
                 ],
                 "ActiveSecondaryIds": [
-                    4066105,
-                    4066202,
-                    4038105,
-                    4038202,
-                    4067102,
-                    4067202
+                    4066103,
+                    4066203,
+                    4051103,
+                    4051202,
+                    4038103,
+                    4038203
                 ],
                 "RecordRank": "35",
-                "BuildCode": "AAAAogAAAGsAAABzzbADa4ZsAAACAMGAAAwA"
+                "BuildCode": "AAAAogAAAGsAAABzzbADZ4ZsAEACAMWYAAwA"
             }
         ]
     }
