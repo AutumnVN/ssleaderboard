@@ -1572,7 +1572,7 @@ async function processSeason(season) {
                     if (!teamUsersByFloor[fid]) teamUsersByFloor[fid] = {};
                     teamCountsByFloor[fid][key] = (teamCountsByFloor[fid][key] || 0) + 1;
                     teamUsersByFloor[fid][key] = teamUsersByFloor[fid][key] || [];
-                    teamUsersByFloor[fid][key].push({ id: entry.Id, name: entry.NickName, rank: entry.Rank, chars: ids, teamScore: getTeamScoreForSeason(team, season, entry.Teams) });
+                    teamUsersByFloor[fid][key].push({ id: entry.Id, name: entry.NickName, rank: entry.Rank, chars: ids, teamScore: getTeamScoreForSeason(team, season, entry.Teams), score: getTeamRankScoreForSeason(team, season, entry) });
                 }
 
                 const playerTeams = new Set();
@@ -1585,7 +1585,7 @@ async function processSeason(season) {
                     playerTeams.add(key);
                     teamCountsAll[key] = (teamCountsAll[key] || 0) + 1;
                     teamUsersAll[key] = teamUsersAll[key] || [];
-                    teamUsersAll[key].push({ id: entry.Id, name: entry.NickName, rank: entry.Rank, chars: ids, teamScore: getTeamScoreForSeason(team, season, entry.Teams) });
+                    teamUsersAll[key].push({ id: entry.Id, name: entry.NickName, rank: entry.Rank, chars: ids, teamScore: getTeamScoreForSeason(team, season, entry.Teams), score: getTeamRankScoreForSeason(team, season, entry) });
                 }
             }
         }
@@ -1599,8 +1599,8 @@ async function processSeason(season) {
                 const mainId = parts[0];
                 const support0 = parts[1];
                 const support1 = parts[2];
-                const us = (users[k] || []).map((u) => ({ id: u.id, name: u.name, rank: u.rank, teamScore: u.teamScore }));
-                const topUser = us.length ? us.reduce((best, u) => (!best || (u.teamScore || 0) > (best.teamScore || 0) ? u : best), null) : null;
+                const us = (users[k] || []).map((u) => ({ id: u.id, name: u.name, rank: u.rank, teamScore: u.teamScore, score: u.score }));
+                const topUser = us.length ? us.reduce((best, u) => (!best || (u.score || 0) > (best.score || 0) ? u : best), null) : null;
                 const mainName = characterIdData[mainId];
                 const supportName0 = characterIdData[support0];
                 const supportName1 = characterIdData[support1];
@@ -1623,8 +1623,8 @@ async function processSeason(season) {
             const mainId = parts[0];
             const support0 = parts[1];
             const support1 = parts[2];
-            const users = (teamUsersAll[k] || []).map((u) => ({ id: u.id, name: u.name, rank: u.rank, teamScore: u.teamScore }))
-            const topUser = users.length ? users.reduce((best, u) => (!best || (u.teamScore || 0) > (best.teamScore || 0) ? u : best), null) : null;
+            const users = (teamUsersAll[k] || []).map((u) => ({ id: u.id, name: u.name, rank: u.rank, teamScore: u.teamScore, score: u.score }))
+            const topUser = users.length ? users.reduce((best, u) => (!best || (u.score || 0) > (best.score || 0) ? u : best), null) : null;
             const mainName = characterIdData[mainId];
             const supportName0 = characterIdData[support0];
             const supportName1 = characterIdData[support1];
@@ -1645,15 +1645,15 @@ async function processSeason(season) {
         for (const fk of Object.keys(usageTeamByFloor)) {
             const rawList = usageTeamByFloor[fk] || [];
             const sortedList = [...rawList].sort((a, b) => {
-                const aScore = Math.abs(a.topUser?.teamScore || 0);
-                const bScore = Math.abs(b.topUser?.teamScore || 0);
-                return season === BB_SEASON ? bScore - aScore : aScore - bScore;
+                const aScore = a.topUser?.score || 0;
+                const bScore = b.topUser?.score || 0;
+                return bScore - aScore;
             });
             const rankedList = sortedList.map((item, index, arr) => {
-                const score = Math.abs(item.topUser?.teamScore || 0);
+                const score = item.topUser?.score || 0;
                 let rank = 1;
                 if (index > 0) {
-                    const prevScore = Math.abs(arr[index - 1].topUser?.teamScore || 0);
+                    const prevScore = arr[index - 1].topUser?.score || 0;
                     if (score === prevScore) {
                         rank = arr[index - 1].rank;
                     }
@@ -1663,9 +1663,9 @@ async function processSeason(season) {
                 }
 
                 item.users.sort((a, b) => {
-                    const aScore = Math.abs(a.teamScore || 0);
-                    const bScore = Math.abs(b.teamScore || 0);
-                    return season === BB_SEASON ? bScore - aScore : aScore - bScore;
+                    const aScore = a.score || 0;
+                    const bScore = b.score || 0;
+                    return bScore - aScore;
                 });
 
                 const potentialUsage = { all: {}, high: {}, low: {} };
@@ -1828,6 +1828,15 @@ function getTeamScoreForSeason(team, seasonName, teams) {
 
     if (seasonName === FE_SEASON) {
         return teams.reduce((sum, t) => sum - Number(t.Time || 0), 0);
+    }
+    return Number(team.LevelScore);
+}
+
+function getTeamRankScoreForSeason(team, seasonName, entry) {
+    if (!team) return 0;
+
+    if (seasonName === FE_SEASON) {
+        return Number(entry.Score);
     }
     return Number(team.LevelScore);
 }
